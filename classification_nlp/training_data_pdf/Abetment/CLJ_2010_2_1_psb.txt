@@ -1,0 +1,1843 @@
+[2010] 2 CLJ
+
+A
+
+Tenaga Nasional Bhd v.
+Ong See Teong & Anor
+
+1
+
+TENAGA NASIONAL BHD
+v.
+ONG SEE TEONG & ANOR
+
+C
+
+FEDERAL COURT, PUTRAJAYA
+RICHARD MALANJUM CJ (SABAH & SARAWAK)
+AUGUSTINE PAUL FCJ
+JAMES FOONG FCJ
+[CIVIL APPEAL NO: 02(f)-7-2009(W)]
+20 NOVEMBER 2009
+
+D
+
+ADMINISTRATIVE LAW: Exercise of administrative powers Judicial review - Issuance of notice under s. 13 Electricity Supply Act
+1990 permitting respondent to enter appellant’s land to carry out
+upgrading works - Whether works fell within definition of upgrading
+
+B
+
+E
+
+ADMINISTRATIVE LAW: Exercise of administrative powers - Local
+authority - Issuance of notice under s. 13 Electricity Supply Act 1990
+permitting respondent to enter appellant’s land to carry out upgrading
+works - Whether works fell within definition of upgrading
+PUBLIC UTILITIES: Electricity - Local authority - Issuance of notice
+under s. 13 Electricity Supply Act 1990 permitting respondent to enter
+appellant’s land to carry out upgrading works - Whether works fell within
+definition of upgrading
+
+F
+
+LOCAL GOVERNMENT: Electricity - Local authority - Issuance of
+notice under s. 13 Electricity Supply Act 1990 permitting respondent to
+enter appellant’s land to carry out upgrading works - Whether works fell
+within definition of upgrading
+G
+
+H
+
+STATUTORY INTERPRETATION: Construction of statutes Purposive approach - Words used in Act to be interpreted in context of
+purpose for which Act was enacted - Meaning of “upgrading” in s. 13
+Electricity Supply Act 1990 - Whether principle of noscitur a sociis
+applicable
+WORDS AND PHRASES: “upgrading” - Section 13 Electricity
+Supply Act 1990 - Improvement by replacement of components and raising
+in rank of electricity cables
+
+I
+
+
+
+2
+
+Current Law Journal
+
+[2010] 2 CLJ
+
+The appellant was a licencee under s. 9 of the Electricity Supply
+Act 1990 (‘the Act’). The respondents were proprietors and/or
+occupiers of respective plots of land (“said land”) in a new village
+known as Kampung Sungai Terentang, Rawang, Selangor (‘New
+Village’). In 1974, LLN (appellant’s predecessor) installed steel
+poles on the said land to carry a 33 kV transmission line which
+ran across the New Village. In 1986, the State Government of
+Selangor alienated the said land to respondents. Around 2005, the
+appellant implemented a project which required a high voltage grid
+with a capacity of 270 kV to be installed through the New Village
+along the same path as the existing 33 kV transmission line. The
+owners and residents of the New Village protested against this
+proposal. In June 2007, the appellant issued a notice in pursuant
+to s. 13 of the Act to the respondents. The respondents filed an
+application in the High Court for a judicial review to quash the
+appellant’s decision in issuing the said notice; to declare the notice
+null and void; and for an injunction restraining the appellant from
+carrying out the proposed works under s. 13 of the Act. The
+respondents claimed that the appellant had under the guise of
+“upgrading” the existing transmission line attempted to enter into
+the said land with an ulterior motive to acquire it and no
+compensation for such acquisition was ever adequate. The High
+Court dismissed the respondent’s application. The Court of Appeal
+reversed the decision of the High Court. Hence, this appeal. The
+principal question raised was in relation to the interpretation the
+word “upgrading” in s. 13 of the Act.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+Held (allowing the appeal with costs)
+Per Augustine Paul FCJ delivering the majority judgment of
+the court:
+(1) Section 13 of the Act must be read and understood in the
+context of the purpose for which it was enacted, that is to
+say, to serve the interests of the public in the supply of
+electricity at reasonable prices. The need for electricity supply
+will increase from time to time with the rising population and
+industrial development. Such needs can be met only with
+changes in the electrical installations which can be even of a
+very major nature. The unqualified use of the word
+“upgrading” in s. 13 of the Act supports the view that an
+upgrading exercise can go to any extent. (para 8)
+(2) The three words in s. 13 of the Act (“maintain”, “repair” and
+“upgrade”) carry separate and distinct meanings; each is
+different from the other. It cannot therefore be said that the
+
+G
+
+H
+
+I
+
+
+
+[2010] 2 CLJ
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+Tenaga Nasional Bhd v.
+Ong See Teong & Anor
+
+3
+
+meanings of the three words are analogous or similar.
+Therefore, the principle of noscitur a sociis has no application
+in the determination of the meaning of the word “upgrading”
+in s. 13 of the Act. (para 10)
+(3) The proposed works undertaken by the appellant were clearly
+an improvement by the replacement of components and was a
+raising in rank of the electricity cables and therefore fell within
+the definition of “upgrading” in s. 13 of the Act. (para 18)
+Per James Foong FCJ (dissenting):
+(1) The word “upgrading” in s. 13 of the Act must be read in
+the context of the two other purposes mentioned in the same
+section: “maintaining” and “repairing”. The preceding words
+“for the purpose” found in s. 13 do not imply that the three
+purposes: maintaining, repairing and upgrading stand on their
+own. (para 43)
+(2) In interpreting a particular word in a certain section of a
+legislation, it is imperative to look at the intention of the
+provision as a whole rather than in isolation. The intention of
+s. 13 of the Act is to allow the appellant to enter into the
+said land for the purpose of maintaining, repairing or upgrading
+the licenced installation; it is not for effecting an entire change
+to the licenced installation. (para 45)
+(3) The proposed structure and the extent of the transmission line
+to be laid across the said land was exceedingly extensive as
+compared to the existing. It involved the removal of the entire
+existing structure and be replaced by an enormous
+configuration to uphold weightier transmission cables than the
+present. This did not constitute upgrading. The proposed
+work was an installation of something totally new. It exceeded
+the degree that can be considered as upgrading by the
+common sense of the word read in the context of the other
+two purposes: “maintaining” and “repairing”. (paras 47 & 48)
+Bahasa Malaysia Translation Of Headnotes
+
+I
+
+Perayu pemegang lesen di bawah s. 9 Akta Bekalan Elektrik 1990
+(Akta). Responden-responden adalah pemilik/penghuni tanah-tanah
+(‘tanah tersebut’) di kawasan perkampungan baru yang dipanggil
+Kampung Sungai Terentang, Rawang, Selangor (‘New Village’)
+Pada tahun 1974, LLN (‘perayu pendulu’) telah memasang tiang
+keluli di atas tanah tersebut untuk mengangkat tali penyiaran 33kV
+
+
+
+4
+
+Current Law Journal
+
+[2010] 2 CLJ
+
+yang melalui New Village. Pada tahun 1986, kerajaan negeri
+Selangor telah berimilik tanah tersebut kepada respondenresponden. Pada sekitar tahun 2005, perayu telah menjalankan
+projek yang memerlukan grid voltan tinggi dengan kebolehan
+270kV untuk dipasang melalui New Village mengikut laluan yang
+sama dengan tali penyiaran 33kV yang sudah wujud. Pemilik dan
+penduduk New Village itu telah membuat bantahan terhadap
+cadangan ini. Pada bulan Jun 2007, perayu telah mengeluarkan
+notis di bawah s. 13 Akta kepada responden-responden.
+Responden telah memfailkan permohonan di dalam Mahkamah
+Tinggi untuk kajian semula kehakiman untuk membatalkan
+keputusan perayu dalam mengeluarkan notis; untuk membuat
+deklarasi notis adalah tidak sah dan terbatal; dan untuk satu
+injunksi menahan perayu dari menjalankan kerja-kerja yang telah
+dicadangkan di bawah s. 13 Akta. Responden-responden
+menghujah bahawa perayu telah berlindung di sebalik ‘upgrading’
+penyiaran tali yang sudah wujud dan telah mencuba memasuki
+tanah tersebut dengan motif tidak baik untuk memperolehinya dan
+tiada pampasan untuk pemerolehan adalah memadai. Mahkamah
+Tinggi telah menolak permohonan responden. Mahkamah Rayuan
+telah menterbalikkan keputusan Mahkamah Tinggi. Oleh itu, rayuan
+ini. Soalan undang-undang yang utama yang berbangkit adalah
+mengenai interpretasi perkataan ‘upgrading’ dalam s. 13 Akta.
+Diputuskan (membenarkan rayuan dengan kos)
+Oleh Augustine Paul HMP menyampaikan penghakiman
+majoriti mahkamah:
+(1) Seksyen 13 Akta mesti dibaca dan difahami dalam konteks
+tujuan ia diperbuat, iaitu, untuk memenuhi kepentingan orang
+ramai di dalam membekalkan kuasa elektrik pada harga yang
+munasabah. Keperluan pembekalan kuasa elektrik akan
+meningkat dari masa ke masa dengan penduduk semakin
+bertambah dan pembangunan perusahaan. Keperluan-keperluan
+tersebut hanya boleh dipenuhi dengan perubahan-perubahan
+yang perlu dilakukan di dalam pemasangan kuasa elektrik yang
+kemungkinan perubahan yang amat ketara. Kegunaan
+perkataan “upgrading” dalam s. 13 Akta menyokong pendapat
+bahawa latihan peningkatan boleh pergi ke mana-mana tahap.
+(2) Ketiga-tiga perkataan di dalam s. 13 Akta (“maintain”, “repair”
+dan “upgrade”) membawa makna yang berlainan dan berbeza;
+setiap satu adalah lain dari yang lain. Oleh itu, ia tidak boleh
+diperkatakan bahawa makna ketiga-tiga perkataan adalah
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2010] 2 CLJ
+
+A
+
+B
+
+Tenaga Nasional Bhd v.
+Ong See Teong & Anor
+
+5
+
+analogus atau sama. Seterusnya, prinsip noscitur a sociis tiada
+kegunaannya di dalam penentuan makna perkataan
+‘’upgrading” dalam s. 13 Akta.
+(3) Kerja-kerja yang telah dicadang oleh perayu dengan jelasnya
+adalah untuk mempertingkatkan dengan penggantian komponen
+dan untuk membangkitkan mutu kabel elektrik, oleh itu ia jatuh
+di bawah definisi “upgrading” di dalam s. 13 Akta.
+Oleh James Foong HMP (menentang):
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+(1) Perkataan “upgrading” dalam s. 13 Akta mesti dibaca dalam
+konteks dua tujuan yang lain yang disebut di dalam seksyen
+yang sama : “maintaining” dan “repairing”. Perkataan
+sebelumnya “for the purpose” di dalam s. 13 tidak
+menandakan bahawa tiga tujuan: “maintaining”, ‘’repairing” dan
+“upgrading” boleh berdiri sendiri.
+(2) Dalam membuat interpretasi perkataan tertentu di dalam
+seksyen perundangan tertentu, ia adalah penting untuk melihat
+tujuan peruntukan secara keseluruhannya dan bukan dengan
+cara berasingan. Tujuan s. 13 Akta adalah untuk membenarkan
+perayu memasuki tanah tersebut untuk penyenggaraan,
+memperbetulkan dan mempertingkatkan pemasangan berlesen;
+ia bukanlah untuk membuat perubahan penuh pemasangan
+berlesen.
+(3) Struktur yang telah dicadang dan penentuan kepanjangan
+penyiaran tali dipasang melalui tanah tersebut adalah terlalu
+luas jika dibandingkan dengan yang sedia wujud. Ia
+memerlukan pemindahan struktur yang sedia ada dan
+digantikan dengan konfigurasi yang amat ketara untuk
+menanggung kabel penyiaran yang lebih berat dari yang
+tersedia sekarang. Ini bukan merupakan peningkatan
+(upgrading). Kerja yang dicadang adalah pemasangan sesuatu
+yang baru. Ia melampaui tahap yang boleh dipertimbangkan
+sebagai peningkatan dari rumusan perkataan tersebut dalam
+konteks dua tujuan yang lain: “maintaining” dan “repairing.”
+Case(s) referred to:
+Cross v. Kirklees Metropolitan Borough Council [1998] 1 All ER 564 (refd)
+Detroit Edison Company v. John Zoner (163 North Western Reporter, 2d Series
+496) (refd)
+Edgcomb v. Lower Valley Power and Light Inc (922 Pacific Reporter, 2d Series
+850) (refd)
+Mills v. Meeking [1990] 91 ALR 16 (refd)
+
+
+
+6
+
+Current Law Journal
+
+[2010] 2 CLJ
+
+Pearlman v. Keepers And Governors of Harrow School [1979] 1 QB 56 (refd)
+PP v. Pengurus Hong Trading & Co [1984] 2 CLJ 67; [1984] 2 CLJ Rep
+415 (refd)
+R (on the application of Quintavalk) v. Secretary of State for Health [2003]
+2 All ER 113 (refd)
+R Rama Chandran v. The Industrial Court of Malaysia & Anor [1997]
+1 CLJ 147 (refd)
+Rolland v. International Transmission Co 2008 Mich App Lexis 996 (refd)
+S Kulasingam & Anor v. Commissioner of Lands, Federal Territory & Ors
+[1982] CLJ 65; [1982] CLJ (Rep) 314 (refd)
+State of Punjab v. Okara Grain Buyers Syndicate Ltd AIR [1964] SC 669
+(refd)
+Sykt Perniagaan United Aces Sdn Bhd & Ors v. Majlis Perbandaran Petaling
+Jaya [1996] 4 CLJ 301 (refd)
+Tan Sung Mooi v. Too Miew Kim [1994] 3 CLJ 708 (refd)
+Tenaga Nasional Bhd v. Dolomite Industrial Park Sdn Bhd [2000] 1 CLJ
+695 (refd)
+Transpower New Zealand Limited v. Taupo District Council [2008] NZRMA
+41 (refd)
+United States v. 3.6 Acres of Land, F Supp 2d 982 (refd)
+Legislation referred to:
+Electricity Supply Act 1990, ss. 9, 13, 14(3), 16
+Federal Constitution, art. 13
+Interpretation Acts 1948 and 1967, s. 17A
+Rules of the High Court 1980, O. 53 r. 3
+
+A
+
+B
+
+C
+
+D
+
+E
+
+Interpretation of Legislation Act of Victoria (Australia), s. 35(a)
+Other source(s) referred to:
+Bindra’s Interpretation of Statutes, 9th edn, p 677
+GP Singh, Principles of Statutory Interpretation, 10th edn, pp 133 - 134
+Pearce and Geddes, Australian States Statutory Interpretation in Australia,
+4th edn, p 27
+
+F
+
+G
+
+For the appellant - Dato’ Dr Cyrus Das (Steven Thiru & Shamsul Bahrin
+Manaf with him); M/s Shook Lin & Bok
+For the respondents - Malik Imtiaz Sarwar (William Leong & Neoh Hor Kee
+with him); M/s HC Tan & Zahani
+[Appeal from Court of Appeal; Civil Appeal No: W-02-1069-2007]
+
+H
+
+[Editor’s note: For the Court of Appeal judgment, please see Ong See Teong &
+Anor v. Tenaga Nasional Bhd [2009] 4 CLJ 21.]
+
+Reported by Amutha Suppayah
+
+I
+
+
+
+[2010] 2 CLJ
+
+Tenaga Nasional Bhd v.
+Ong See Teong & Anor
+
+7
+
+JUDGMENT
+
+A
+
+Augustine Paul FCJ:
+
+B
+
+[1] The facts of the case have been sufficiently dealt with in the
+judgment of my learned brother James Foong FCJ and it is
+superfluous for me to repeat them.
+[2] The appellants had been granted leave to appeal to the
+Federal Court on eight questions of law. They are as follows:
+
+C
+
+D
+
+E
+
+(1) Whether s. 13 of the Electricity Supply Act 1990 (“the Act”)
+is subject to the implied limitation that not all manner of
+upgrading works may be carried out by Tenaga Nasional Bhd.
+on existing installations under that provision?
+(2) Whether s. 13 of the Act is subject to a qualitative assessment
+of the type of upgrading works intended to be carried out on
+existing installations so that ‘major’ works are to be excluded?
+(3) Whether the determination of whether the works are ‘major’
+or not is suitable for decision by a court of law as opposed
+to the public body in whose technical judgment Parliament has
+reposed the carrying out of upgrading works?
+(4) Whether s. 13 of the Act is limited in application to only
+upgrading works in the nature of repairs and maintenance?
+
+F
+
+G
+
+H
+
+I
+
+(5) Whether the public purpose factor necessitates that s. 13 of
+the Act be read purposefully in order that the contemplated
+works could be carried out expeditiously in the public interest?
+(6) Whether the compensation payable to affected landowners
+under s. 13 read with s. 16 of the Act on a ‘full
+compensation’ basis is meant to be inferior to compensation
+payable under the Land Acquisition Act 1960?
+(7) Whether art. 13 of the Federal Constitution is breached
+where the injury to property is caused by works authorized
+under a written law providing for ‘full compensation’ to
+affected landowners?
+(8) Whether art. 13 of the Federal Constitution is breached
+where the injury to land is an interference or “deprivation”
+authorized by written law?
+
+
+
+8
+
+Current Law Journal
+
+[2010] 2 CLJ
+
+As submitted by the appellants the questions may be classified as
+follows:
+
+A
+
+1. The proper construction of s. 13 of the Act. This is contained
+in Question Nos 1-5.
+2. The payment of compensation under s. 13 read with s. 16 of
+the Act and art. 13 of the Federal Constitution. This is
+contained in Question Nos 6-8.
+[3]
+
+B
+
+I shall now consider the two classifications.
+C
+
+The First Classification
+[4] This relates essentially to the meaning to be accorded to the
+word “upgrading” in s. 13 of the Act which reads as follows:
+Whenever it is necessary so to do for the purpose of maintaining,
+repairing or upgrading any licensed installation or any part thereof,
+the licensee, or any person authorized by him in that behalf, may
+at all reasonable times enter upon any land on, under or over
+which supply lines have been laid, placed or carried, or upon
+which posts or other equipment have been erected, and may carry
+out all necessary repairs, and may, in the course thereof, fell or
+lop trees, remove vegetation and do all other things necessary to
+the said purpose, causing as little damage as possible and paying
+full compensation in accordance with section 16 to all persons
+interested for any damage that may be caused thereby for which
+compensation has not already been assessed under section 11.
+
+[5] In order to ascertain whether the works carried out by the
+appellants amount to an ‘upgrading” within the scope of s. 13 of
+the Act, it is first necessary to determine the meaning of the
+word. It is defined in the Concise Oxford Dictionary as follows:
+
+D
+
+E
+
+F
+
+G
+
+1. Raise in rank etc. 2. Improve (equipment, machinery, etc.)
+esp.by replacing components.
+
+The word as defined refers to the raising in rank or improvement
+of equipment, machinery etc especially by replacing components,
+obviously for the purpose of better or increased performance.
+However, the meaning does not appear to be subject to any
+limitation or qualification. That may require a wide interpretation
+to be given to the word which may, needless to say, cause
+problems and hardship to some. The critical issue for
+determination is whether the word “upgrading” in s. 13 of the Act
+must be accorded this meaning even though it may result in
+individual hardship.
+
+H
+
+I
+
+
+
+[2010] 2 CLJ
+
+A
+
+Tenaga Nasional Bhd v.
+Ong See Teong & Anor
+
+9
+
+[6] This raises the question of whether the meaning of the word
+“upgrading” in s. 13 of the Act is capable of being restricted in
+order to avoid the hardship. That brings into focus s. 17A of the
+Interpretation Acts 1948 of 1967 (“s. 17A”) which reads as
+follows:
+
+B
+
+In the interpretation of a provision of an Act, a construction that
+would promote the purpose or object underlying the Act (whether
+that purpose or object is expressly stated in the Act or not) shall
+be preferred to a construction that would not promote that
+purpose or object.
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+It is thus abundantly clear that what must prevail is a construction
+that will promote the purpose of an Act. In this regard useful
+reference may be made to Mills v. Meeking [1990] 91 ALR 16
+where Dawson J in explaining s. 35(a) of the Interpretation of
+Legislation Act of Victoria which is similar to s. 17A said at
+pp. 30 - 31:
+The literal rule of construction, whatever the qualifications with
+which it is expressed, must give way to a statutory injunction to
+prefer a construction which would promote the purpose of an Act
+to one which would not, especially where that purpose is set out
+in the Act. Section 35 of the Interpretation of Legislation Act
+must, I think, mean that the purposes stated in Pt 5 of the Road
+Safety Act are to be taken into account in construing the
+provisions of that Part, not only where those provisions on
+their face offer more than one construction, but also in
+determining whether more than one construction is open.
+The requirement that a court look to the purpose or object of the
+Act is thus more than an instruction to adopt the traditional
+mischief or purpose rule in preference to the literal rule of
+construction. The mischief or purpose rule required an ambiguity
+or inconsistency before a court could have regard to purpose:
+Miller v. Commonwealth [1904] 1 CLR 668 at 674; Wacal
+Developments Pty Ltd v. Realty Development Pty Ltd [1978] 20 ALR
+621 at 630. The approach required by s. 35 needs no ambiguity
+or inconsistency; it allows a court to consider the purposes of an
+Act in determining whether there is more than one possible
+construction. Reference to the purposes may reveal that the
+draftsman has inadvertently overlooked something which he would
+have dealt with had his attention been drawn to it and if it is
+possible as a matter of construction to repair the defect, then this
+must be done. However, if the literal meaning of a provision is
+
+
+
+10
+
+Current Law Journal
+
+[2010] 2 CLJ
+
+to be modified by reference to the purposes of the Act, the
+modification must be precisely identifiable as that which is
+necessary to effectuate those purposes and it must be consistent
+with the wording otherwise adopted by the draftsman. Section 35
+requires a court to construe an Act, not to rewrite it, in the light
+of its purposes. (emphasis added.)
+
+A
+
+B
+
+In commenting on provisions similar to s. 17A in the Australian
+States Statutory Interpretation in Australia by Pearce and Geddes 4th
+edn says at p. 27:
+In the author’s opinion, however, s. 15 AA requires the purpose
+or object to be taken into account if the meaning of the words,
+interpreted in the context of the rest of the Act is clear. When
+the purpose or object is brought into account, an alternative
+interpretation of the words may become apparent. And if one
+interpretation does not promote the purpose or object of an Act
+and another interpretation does so, the latter interpretation must
+be adopted.
+
+[7] A matter of immediate concern is therefore the ascertainment
+of the purpose of the Act. There can be no dispute that s. 13 of
+the Act merely authorizes the doing of the acts specified therein
+for the purpose of the Act. The purpose can be gathered from
+the preamble to the Act which reads as follows:
+An Act to provide for the appointment and functions of a Director
+General of Electricity Supply, the supply of electricity at reasonable
+prices, the licensing of electrical installation and the control of
+electrical installation, plant and equipment with respect to matters
+relating to safety of persons and for purposes connected
+therewith.
+
+Thus the purpose of the Act is, inter alia, to ensure the supply of
+electricity at reasonable prices to the public at large. Where a
+purpose serves the general interest of the community it is a public
+purpose (see S Kulasingam & Anor v. Commissioner of Lands, Federal
+Territory & Ors [1982] CLJ 65; [1982] CLJ (Rep) 314). As the
+purpose of the Act is to serve the interests of the public in the
+supply of electricity it is for a public purpose. Where the public
+interest is involved the balance of convenience in favour of the
+public in general must be looked at more widely (see Tenaga
+Nasional Bhd v. Dolomite Industrial Park Sdn Bhd [2000] 1 CLJ
+695). Thus individual hardship that may arise in giving the
+necessary interpretation to a statutory provision cannot be a
+relevant matter for consideration. As Principles of Statutory
+Interpretation by GP Singh 10th Edn says at pp. 133 - 134:
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2010] 2 CLJ
+
+A
+
+B
+
+C
+
+Tenaga Nasional Bhd v.
+Ong See Teong & Anor
+
+11
+
+It is often found that laws enacted for the general advantage do
+result in individual hardship; for example laws of limitation,
+Registration, Attestation although enacted for the public benefit,
+may work injustice in particular cases but that is hardly any
+reason to depart from the normal rule to relieve the supposed
+hardship or injustice in such cases. ‘It is the duty of all courts of
+justice’, said Lord Campbell, ‘to take care for the general good
+of the community, that hard cases do not make bad law’.
+
+It is perhaps necessary to bear in mind the observation made in
+State of Punjab v. Okara Grain Buyers Syndicate Ltd AIR 1964 SC
+669 that a bare mechanical interpretation of the words and
+application of a legislative intent devoid of concept of purpose will
+reduce most of the remedial and beneficent legislation to futility.
+In R (on the application of Quintavalk) v. Secretary of State for Health
+[2003] 2 All ER 113 Lord Bingham said at p. 113:
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Every statute other than a pure consolidating statute is, after all,
+enacted to make some change, or address some problem, or
+remove some blemish or effect some improvement in the national
+life. The court’s task, within the permissible bounds of
+interpretation, is to give effect to Parliament’s purpose. So the
+controversial provisions should be read in the context of the
+statute as a whole and the statute as a whole should be read in
+the historical context of the situation which led to its enactment.
+
+[8] It follows that s. 13 of the Act must be read and
+understood in the context of the purpose for which it was
+enacted, that is to say, to serve the interests of the public in the
+supply of electricity at reasonable prices. There can be no dispute
+that the need for electricity supply will increase from time to time
+with the rising population and industrial development. Advances in
+science and technology may help to maintain prices at a
+reasonable level in the supply of electricity. Such needs can be met
+only with changes in the electrical installations which can be even
+of a very major nature. The unqualified use of the word
+“upgrading” in s. 13 of the Act supports the view that an
+upgrading exercise can go to any extent. If it was the intention of
+Parliament to limit the degree of “upgrading” that can be carried
+out then words to achieve that object would have been used as
+in the case of the New Zealand electrical laws. The Reserve
+Management Act 1991 of New Zealand is subject to district plans
+when electricity cables are sought to be laid for the conveying of
+electricity. In Transpower New Zealand v. Taupo District Council
+[2008] NZRMA 41 the district plan for Taupo which specifically
+provided for only “minor upgrading of existing … support structure
+
+
+
+12
+
+Current Law Journal
+
+[2010] 2 CLJ
+
+for conveying electricity” was in issue. It was held that the
+proposed tower extensions of up to 5.5 meters in height for the
+scheduled upgrading of the existing electricity transmission line was
+not a “ … minor upgrade … .” Thus as Baragwanath J said in
+that case:
+
+A
+
+B
+
+The decision whether an excess over these stipulated heights is
+more than ‘minor’ is a matter of evaluation containing a
+substantial element of factual judgment.
+
+The approach adopted in the restrictive interpretation of the New
+Zealand provision can be discerned with ease. While the New
+Zealand provision is limited to only “minor upgrading” there is no
+such limitation or qualification to “upgrading” in s. 13 of the Act.
+The meaning of “upgrading” in s. 13 of the Act is therefore not a
+matter of factual determination having considered the materials or
+components to be added or changed. It is thus not subject to any
+qualification and may go to any extent even though it may cause
+individual hardship. The result is that any restriction imposed in
+the meaning to be accorded to the word “upgrading” in s. 13 of
+the Act will conflict with the purpose of the Act in the supply of
+electricity to the public and thereby be in violation of s. 17A.
+[9] Be that as it may, a matter that requires to be addressed is
+whether it can be argued that the purpose of enacting section 13
+of the Act is to give it a restricted meaning by the application of
+the principle of noscitur a sociis as the word “upgrading” appears
+with two other words, that is to say, “maintaining” and
+“repairing”. The meanings of these two words in s. 13 of the Act
+must be considered before resorting to the principle of noscitur a
+sociis. This is a necessary pre-condition to be satisfied before the
+principle of noscitur a sociis can be invoked. In this regard
+reference may be made to Bindra’s Interpretation of Statutes 9th Ed
+which says at p. 677:
+The meaning of a word is to be judged by the company it keeps.
+It is a legitimate rule of construction to construe words in an Act
+of Parliament with reference to words found in immediate
+connection with them. But before the principle of noscitur a sociis
+can be pressed into service, it must be shown that the words are
+employed in the same sense or that they are susceptible of
+analogous meaning (Lokmat Newspapers Put Ltd v. Shankar Prasad
+[1999] 6 SCC 275).
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2010] 2 CLJ
+
+A
+
+B
+
+Tenaga Nasional Bhd v.
+Ong See Teong & Anor
+
+13
+
+[10] I will now consider the meanings of the three words in
+question in s. 13 of the Act in order to determine whether they
+are analogous or similar in nature. The Concise Oxford Dictionary
+defines the word “maintain” as:
+4. Preserve or provide for the preservation of (a building,
+machine, road, etc) in good repair.
+
+And the word “repair” as:
+
+C
+
+1. Restore to good condition after damage or wear. 2. Renovate
+or mend by replacing or fixing parts or by compensating for
+loss or exhaustion. 3. set right or make amends for (loss,
+wrong, error, etc.).
+
+And the word “upgrade” as:
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+raise in rank etc. 2. Improve (equipment, machinery, etc.), esp.
+by replacing components.
+
+It must be observed that the meaning of the word “maintain”
+carries with it the element of repair. This has been recognized in
+cases such as Cross v. Kirklees Metropolitan Borough Council [1998]
+1 All ER 564 where it was held that “maintain” includes “repair”.
+As “maintain” and “repair” have been enacted as separate items
+in s. 13 of the Act the meaning of the word “maintain” must be
+deemed to exclude the element of repair. It thus refers to only the
+act of supervising to ensure that a thing is preserved for the
+purpose for which it was designed. It therefore does not involve
+the carrying out of any physical work. The word “repair” refers
+to the restoration of something to a good condition after it has
+been damaged. The amount of restoration work that is needed
+may vary from case to case. The word “upgrade” is quite different
+from “repair” as it refers to the raising in rank or improvement by
+replacing components, obviously, for the purpose of better
+performance. It will thus be observed that all the three words in
+s. 13 of the Act carry separate and distinct meanings; each is
+different from the other. It cannot therefore be said that the
+meanings of the three words are analogous or similar. The result
+is that the principle of noscitur a sociis has no application in the
+determination of the meaning of the word “upgrading” in s. 13 of
+the Act. It must be added that even if it is held that the principle
+of noscitur a sociis is indeed applicable the resultant restricted
+meaning to be given to the word “upgrading” will not have the
+effect of promoting the purpose underlying the Act with the result
+that the wider meaning to be accorded to the word must be
+adopted.
+
+
+
+14
+
+Current Law Journal
+
+[2010] 2 CLJ
+
+[11] I am therefore of the view that the word “upgrading” in
+s. 13 of the Act must be given its natural and ordinary meaning
+as defined in the Concise Oxford Dictionary to which reference has
+been made in an earlier part of this judgment. This meaning
+accords with the purpose of the Act.
+
+A
+
+B
+
+[12] My response to the five questions under this classification
+shall therefore be as follows:
+(a) Question No. 1
+Whether s. 13 of the Act is subject to the implied limitation
+that not all manner of upgrading works may be carried out by
+Tenaga Nasional Bhd on existing installations under that
+provision?
+
+C
+
+[13] Section 13 of the Act is not subject to any implied limitation
+in carrying out any upgrading works on existing installations by
+Tenaga Nasional Bhd. It must, however, relate to the raising in
+rank or improvement of equipment, machinery etc especially by
+replacing components of electrical installations, obviously for the
+purpose of better or increased performance.
+
+D
+
+E
+
+(b) Question No. 2
+Whether s. 13 of the Act is subject to a qualitative assessment
+of the type of upgrading works intended to be carried out on
+existing installations so that “major” works are to be excluded?
+
+F
+
+[14] Section 13 of the Act is not subject to any qualitative
+assessment of the type of upgrading works intended to be carried
+out on existing installations with the result that “major” works are
+not excluded.
+
+G
+
+(c) Question No. 3
+Whether the determination of whether the works are “major”
+or not is suitable for decision by a court of law as opposed
+to the public body in whose technical judgment Parliament has
+reposed the carrying out of upgrading works?
+
+H
+
+[15] In view of the answers to Question Nos. 1 and 2 this
+question is not relevant and need not be answered.
+(d) Question No. 4
+Whether s. 13 of the Act is limited in application to only
+upgrading works in the nature of repairs and maintenance?
+
+I
+
+
+
+[2010] 2 CLJ
+
+A
+
+Tenaga Nasional Bhd v.
+Ong See Teong & Anor
+
+15
+
+[16] In view of the answers to Question Nos. 1 and 2 this
+question is not relevant and need not be answered.
+(e) Question No. 5
+
+B
+
+Whether the public purpose factor necessitates that s. 13 of
+the Act be read purposefully in order that the contemplated
+works could be carried out expeditiously in the public interest?
+[17] The answer is in the affirmative in view of the purpose of
+the Act and the prevailing effect of s. 17A.
+
+C
+
+D
+
+E
+
+F
+
+G
+
+[18] Having answered the questions it is appropriate to consider
+whether the proposed works to be undertaken by the appellants
+fall within the definition of “upgrading” in s. 13 of the Act It is
+the intention of the appellants to replace the 33 kV transmission
+lines with more extensive 275 kV cables with different steel poles
+for the purpose of increasing the supply of electricity. In cases
+such as United States v. 3.6 Acres of Land, F Supp 2d 982 and
+Edgcomb v. Lower Valley Power and Light Inc 922 Pacific Reporter
+2d Series 850 it was held that increasing the capacity of
+transmission lines is to be regarded as an upgrading exercise. In
+Rolland v. International Transmission Co 2008 Mich App Lexis 996
+it was held that upgrading may involve altering the pole structures
+carrying the transmission lines for the purpose of upgrading. The
+proposed works are therefore clearly an improvement by the
+replacement of components and is a raising in rank of the
+electricity cables and therefore fall within the definition of
+“upgrading” in s. 13 of the Act. This conclusion accords with the
+answers to Question Nos 1 and 5.
+The Second Classification
+[19] This relates to the payment of compensation under s. 13
+read with s. 16 of the Act and art. 13 of the Federal
+Constitution.
+
+H
+
+I
+
+[20] The appellants have conceded that full compensation as per
+the terms of the Land Acquisition Act 1960 should be payable to
+the landowners to the extent of the loss or injury suffered by
+them. It was also conceded that the affected landowners would
+be entitled to full compensation for the loss of use of their lands
+to the extent of the loss pursuant to art. 13 of the Federal
+Constitution.
+
+
+
+16
+
+Current Law Journal
+
+[2010] 2 CLJ
+
+[21] My response to the three questions under this classification
+shall therefore be as follows:
+
+A
+
+(f) Question No. 6
+Whether the compensation payable to affected landowners
+under s. 13 read with s. 16 of the Act is on a “full
+compensation” basis is meant to be inferior to compensation
+payable under the Land Acquisition Act 1960?
+[22] In view of the concession made by the appellants this
+question is academic and need not be answered.
+
+B
+
+C
+
+(g) Question No. 7
+Whether art. 13 of the Federal Constitution is breached
+where the injury to property is caused by works authorized
+under written law providing for “full compensation” to affected
+landowners?
+
+D
+
+[23] In view of the concession made by the appellants this
+question is academic and need not be answered.
+E
+
+(h) Question No. 8
+Whether art. 13 of the Federal Constitution is breached
+where the injury to land is an interference or “deprivation”
+authorized by written law?
+
+F
+
+[24] In view of the concession made by the appellants this
+question is academic and need not be answered.
+[25] My learned brother Richard Malanjum CJSS has read this
+judgment in its draft form and has expressed agreement with it. In
+the upshot the appeal is allowed with costs. The deposit is to be
+refunded to the appellants.
+
+G
+
+James Foong FCJ:
+Introduction
+[26] The appellant was granted leave by the Federal Court to
+pose eight questions of law. During the hearing of this appeal, the
+appellant’s counsel submitted that these questions can be
+condensed to two. I agree with him. The first and the principal
+question requires this Court to interpret the word “upgrading” in
+s. 13 of the Electricity Supply Act 1990 (the Act). The second
+
+H
+
+I
+
+
+
+[2010] 2 CLJ
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Tenaga Nasional Bhd v.
+Ong See Teong & Anor
+
+17
+
+relates to the payment of compensation under s. 13 read with
+s. 16 of the Act and art. 13 of the Federal Constitution. But
+before I proceed with this, knowledge of the factual background
+of this case is necessary.
+[27] The appellant is a licencee under s. 9 of the Act and is the
+successor of Lembaga Letrik Negara (LLN) by virtue of the
+Electricity Supply (Successor Company) Act 1990. As this is the
+case, there is no dispute that the appellant is to be treated as an
+“administrative body” whose decision is subject to judicial review
+under O. 53 r. 3 of the Rules of High Court 1980 (RHC).
+[28] The respondents by themselves and by those they represent
+are proprietors and/or occupiers of respective plots of land
+(collectively referred to as the said land) in a new village known
+as Kampung Sungei Terentang, Rawang, Selangor (New Village).
+According to them, they and/or their predecessors had settled in
+this New Village since 1940 under the British Colonial
+administrative directive known as the Briggs Plan. Temporary
+occupation licences were issued to them to occupy the said land.
+Sometime in 1974, LLN installed steel poles on the said land to
+carry a 33 kV transmission line which ran across the New Village.
+No one in the village objected to this at the material time.
+[29] In 1986, the State Government of Selangor alienated the
+said land to respondents but in its document of title there is no
+endorsement of any agreement (technically known as “wayleave
+agreement”) between the respondents and LLN to allow the
+electricity supply line to run across the said land.
+[30] Around 2005, the appellant decided to implement a project
+known as Central Area Reinforcement Project (CAR project) to
+increase electricity supply to Kuala Lumpur and the Klang Valley.
+This was undertaken as a result of a severe electricity disruption
+on 13 January 2005 which affected the central region of
+Peninsular Malaysia. To implement this project, a high voltage grid
+with a capacity of 270 kV covering a distance of 60 kilometers
+from a place called Bukit Tarek to another known as Cudadak
+had to be installed. A section of the route for this grid runs
+through the New Village along the same path as the existing
+33 kV transmission line. Presently, the appellant has completed
+this project at both ends except for a 1.5 kilometer stretch
+through the New Village.
+
+
+
+18
+
+Current Law Journal
+
+[2010] 2 CLJ
+
+[31] The owners and residents of the New Villager protested
+against this proposal and implementation. They attempted to
+persuade the appellant to find an alternative route. Unfortunately,
+after many meetings between the parties, political party
+representatives and the State authority, this request was turned
+down. Eventually, in June 2007, the appellant issued a notice in
+pursuant to s. 13 of the Act to the respondents.
+
+A
+
+B
+
+[32] This notice reads:
+1. Sila ambil perhatian bahawa kami Tenaga Nasional Berhad
+yang beralamat di 129, Jalan Bangsar, Peti Surat 11003,
+50732 Kuala Lumpur adalah pemegang lesen yang bertarikh
+30hb. Ogos 1990 di bawah Akta Bekalan Elektrik 1990
+berhasrat memasuki tanah tersebut yang mana Tenaga
+Nasional Berhad mempunyai pepasangan, hak izin lalu dan
+kepentingan sedia ada bagi maksud:
+
+D
+
+a) Melaksanakan kerja-kerja menaiktaraf talian penghantaran
+daripada 33kV kepada 275 kV serta merentang dan
+mengendalikan talian bekalan elektrik didalam kawasan
+rentis dan membuat serta memelihara sebuah lorong
+selebar 5 kaki bagi pemeriksaan talian tersebut.
+
+E
+
+C
+
+b) Menggunakan jalan-jalan masuk/lorong-lorong yang ada
+bagi menyempurnakan segala kerja yang tersebut di atas.
+c) Melaksanakan kerja-kerja penyelenggaraan, pembaikan dan
+peningkatan pepasangan elektrik daripada semasa ke
+semasa.
+
+F
+
+2. Tenaga Nasional Berhad akan melaksanakan kerja-kerja
+tersebut di atas pada 6 Julai 2007 iaitu selepas 14 hari
+daripada tarikh notis ini.
+G
+
+3. Pentadbir Tanah Daerah Gombak akan menetapkan satu
+tarikh kemudian bagi taksiran pampasan bersama dengan
+pihak tuan.
+4. Tuan akan dibayar pampasan yang sepatutnya bagi apa-apa
+kerosakan yang dilakukan.
+
+H
+
+Translated into English:
+1. Please take notice that we, Tenaga Nasional Berhad, whose
+address is at 129, Jalan Bangsar, Peti Surat 11003, 50732
+Kuala Lumpur being the licencee dated 30th August 1990
+under the Electricity Supply Act 1960, intends to enter upon
+the said land which Tenaga Nasional Berhad has installation,
+a wayleave right and an existing interest for the purpose of:
+
+I
+
+
+
+[2010] 2 CLJ
+
+Tenaga Nasional Bhd v.
+Ong See Teong & Anor
+
+A
+
+a) Carrying out upgrading works on the transmission lines
+from 33kV to 275 kV by stretching and connecting the
+electricity supply line in the rentice area as well as
+constructing and maintaining a lane of 5 feet wide for the
+particular line inspection.
+
+B
+
+b) Using the existing roads/ lanes for completing all the
+above works.
+
+19
+
+c) Carrying out maintenance works, repairing and upgrading
+of the electrical installation from time to time.
+C
+
+D
+
+2. Tenaga Nasional Berhad will be carrying out the above
+works on 6th July 2007 which is 14 days from the date of
+this notice.
+3. The Land Administrator of Gombak will later fix a date with
+you for the purpose of assessing compensation.
+4. You will be compensated accordingly for any damage that
+may be caused.
+
+[33] And s. 13 of the Act provides:
+E
+
+G
+
+Whenever it is necessary so to do for the purpose of maintaining,
+repairing or upgrading any licensed installation of any part thereof,
+the licensee, or any person authorized by him in that behalf, may
+at all reasonable times enter upon any land on, under or over
+which supply lines have been laid, placed or carried, or upon
+which posts or other equipment have been erected, and may carry
+out all necessary repairs, and may, in the course thereof, fell or
+lop trees, remove vegetation and do all other things necessary to
+the said purpose, causing as little damage as possible and paying
+full compensation in accordance with section 16 to all persons
+interested for any damage that may be caused thereby for which
+compensation has not already been assessed under section 11.
+
+H
+
+[34] Responding to this, the respondents filed an application in
+the High Court at Kuala Lumpur for a judicial review under
+O. 53 r. 3 RHC of the appellant’s decision to issue the said
+notice under s. 13 of the Act. In this application they sought:
+
+F
+
+(i) an order of certiorari to quash the decision of the appellant in
+issuing the notice under s. 13 of the Act;
+I
+
+(ii) a declaration that the notice issued under s. 13 of the Act is
+null and void; and
+(iii) an injunction restraining the appellant from carrying out the
+works proposed in the notice issued under s. 13 of the Act.
+
+
+
+20
+
+Current Law Journal
+
+[2010] 2 CLJ
+
+[35] The pertinent ground raised by the respondents in support
+of this application is that the appellant had intentionally under the
+guise of “upgrading” the existing transmission line attempted to
+enter into the said land with an ulterior motive to acquire it and
+no compensation for such acquisition is ever adequate.
+
+A
+
+B
+
+[36] The High Court, subsequent to granting leave to file this
+application for judicial review, rejected it after an inter parte hearing.
+The reason (relevant to the first question posed to this court) is
+this:
+The wording of s. 13 is clear, the exercise of the Respondent
+(the appellant before this Court) is only conditioned for the
+purpose of maintaining, repairing or upgrading any license
+installation or any part thereof. In the absence of any conclusive
+evidence tendered by the Applicants (the respondent before this
+Court) showing otherwise, this Court (is) left with no room but
+to accept that the current posts were installed validly. In this
+premise, the natural conclusion would be that the issuance of
+s. 13 Notice was perfectly within the procedure envisaged for its
+current purpose of upgrading the transmission line from 33kV to
+275 kV.
+
+[37] Dissatisfied with this decision, the respondents lodged an
+appeal to the Court of Appeal. The Court of Appeal reversed the
+decision of the High Court and granted the respondents an order
+for certiorari to quash the decision of the appellant in issuing the
+notice under s. 13 of the Act. The ground proffered by the Court
+of Appeal relevant to the first question posed to this court is this:
+Let us analyse the neutral evidence adduced which comes in the
+form of the tendered pictures (RR 550 to 554). These pictures
+highlight the difference in sizes between an LLN 33kV post (an
+original post) and the gigantic new TNB 275kV transmission
+tower. It would be impossible to put on paper the indescribable
+and perpetual fear the appellants would have to undergo, either
+imagined or real, if they have to live under the giant pylons that
+overhang their houses day in and day out after the construction
+is completed. Needless to say prior to the completion of these
+structures the appellants would already have a taste of the future
+bitter sufferings when they have to put up with the huge
+machineries and other infractions by the workers of the
+respondent. From pages 555-562 are seen the effect of fallen
+pylons and the hazard that go with it. Evidence adduced also
+confirmed the negative medical effect on people, especially children
+who are more susceptible to leukemia and like diseases, when
+bombarded by the flow of electricity passing over their houses ...
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2010] 2 CLJ
+
+A
+
+B
+
+C
+
+D
+
+Tenaga Nasional Bhd v.
+Ong See Teong & Anor
+
+21
+
+With such a mega project in the offing, and the eventual
+repercussion pervading the lives of the appellants being so major,
+this panel was unable to agree with the stance of the respondent
+or the finding of the learned judge. This was not just tightening
+of the loose screws repainting the posts, replacing the aging posts
+with new but similar types of structure, which could be accepted
+as upgrading, but an exercise that would witness a major
+emplacement of the transmission lines together with the structures
+holding them, and affecting the area involved in no uncertain
+terms. How could it be construed that the exercise of the
+respondent was to repair and maintain the existing posts in the
+ordinary sense, when the new superstructures, which would
+radically and fundamentally alter the landscape are now the
+permanent features (A.C.T Construction Ltd v. Customs and Excise
+Commissioners [1981] 1 WLR 1542). The previous posts would see
+no repairs being undertaken but totally dismantled and replaced,
+and a large area of the appellants’ land by necessity, encroached
+when the mega project has been completed. A major upheaval in
+the health and lives of the appellants would undoubtedly be
+witnessed thereafter.
+
+Analysis
+E
+
+F
+
+G
+
+H
+
+I
+
+[38] To begin, I must be reminded that the respondents’
+application before the High Court is for judicial review on a
+decision made by an administrative body. It is common ground
+between the parties that in such proceedings, the court will not
+conduct an examination into the merit of the decision but rather
+to the decision-making process unless the decision is illegal,
+irrational, made with procedural impropriety and disproportionate
+– R Rama Chandran v. The Industrial Court of Malaysia [1997]
+1 CLJ 147. As both the High Court and the Court of Appeal had
+adhered to this principle when considering this case there is no
+issue of the courts below applying the wrong principle of law.
+[39] To justify the appellant’s right to enter into the said land
+under s. 13 of the Act, the appellant had to convince the court
+that the proposed work to be undertaken on the said land was
+for the purpose of “upgrading” the existing facility since it is
+neither for “maintenance” or “repairs” (the other two purposes
+provided by s. 13 of the Act). Towards this, the appellants’
+counsel encouraged this court to adopt a purposive approach in
+our interpretation by giving the word “upgrading” a broad and
+wide meaning. In support of this contention he cited to us a
+number of American cases where the courts have been liberal with
+their interpretation of easement rights of utility companies to build
+
+
+
+22
+
+Current Law Journal
+
+[2010] 2 CLJ
+
+and enhance their electricity lines over individual property rights –
+Detroit Edison Company v. John Zoner (163 North Western
+Reporter, 2d Series 496), United States v. 3.6 Acres of Land
+(F Supp 2d 982), Edgcomb v. Lower Valley Power and Light Inc (922
+Pacific Reporter, 2d Series 850).
+
+A
+
+B
+
+[40] Further, he also submitted that this word “upgrading” should
+stand on its own and should not be associated with the other
+two purposes: “maintaining” and “repair” found in s. 13 of the
+Act. Though upgrading may involve elements of repair and
+maintenance but because the preceding words of “for the
+purpose” it should be read on its own.
+[41] My approach to this question is to first examine the major
+elements in s. 13 of the Act. This section firstly imposes preconditions on a licencee to enter into any land where there is a
+licenced installation and this is: the necessity to do so. And this
+necessity must be for the purpose of maintenance, repairs and
+upgrading of the licenced installation. After that, upon entry, the
+licencee may carry out necessary repairs on the said installation
+and in the course of this fell or lop trees, remove vegetation and
+do any other thing necessary for this purpose. And finally, the
+licencee should cause as little damage as possible in the course of
+their work and if there is any damage caused, to compensate the
+persons affected.
+[42] Since the meaning of the word “upgrading” in s. 13 of the
+Act is now in contention, I must point out at the outset that for
+the purpose of interpretation of however simple a word is, it is “a
+matter of law” (Pearlman v. Keepers And Governors of Harrow School
+[1979] 1 QB 56 @ 67). For this, I turn first to the commonly
+used Concise Oxford Dictionary for the meaning of the word
+“upgrade”. It reads: “1. raise in rank etc. 2. improve (equipment,
+machinery, etc.) esp. by replacing components”. Though this is the
+true meaning of the word can we accept that this applies without
+limitation? Does it mean that as long as there is a rise in the rank
+of a thing or an improvement thereto, no matter to what extent
+or degree, it would be considered as an upgrade or upgrading?
+More relevant to the facts of this case, are we prepared to accept
+that a new transmission line with an increase capacity of seven
+times that of the current line and requiring a gigantic steel
+structure with a wide base to hold it up at regular intervals
+upgrading? If we are to look for an answer to these questions, it
+must, in my opinion, be narrowed down to a matter of degree.
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2010] 2 CLJ
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Tenaga Nasional Bhd v.
+Ong See Teong & Anor
+
+23
+
+[43] In some jurisdictions such as in New Zealand, there are
+some district legislations which provide that upgrading of existing
+electrical power lines be limited to only “minor upgrading” - see
+Transpower New Zealand Limited v. Taupo District Council [2008]
+NZRMA 41. But even over this, I observe, the requirement of
+degree to be determined in order to justify “minor”. This can be
+seen from the judgment of Baragwanath J in Transpower New
+Zealand Limited v. Taupo District Council (supra) when he said:
+The decision whether an excess over those stipulated heights is
+more than “minor” is a matter of evaluation containing a
+substantial element of factual judgment. The two bodies entrusted
+by Parliament with authority to make factual judgments are, at
+first instance, the Council and on appeal the Environment Court.
+The High Court can interfere only if the decision of the
+Environment Court misconstrues the law or reaches a factual
+conclusion that is irrational.
+
+[44] I find this approach appealing. The meaning of upgrading
+must therefore be a matter of factual determination. In the event
+of a dispute between the parties then it is for the court to make
+a factual judgment having taken into account the materials or
+things to be added or changed. But when considering this, one
+must bear in mind that “upgrading” in s. 13 of the Act must be
+read in the context of the two other purposes mentioned in the
+same section: “maintaining” and “repairing”. It is my considered
+view that together these three words share a common
+characteristic: to do something to an existing matter. They should
+therefore not be read in isolation but in the context of each other
+since they are shapes of the same colour. The link between these
+three words in this section suggests that they should be treated
+in the same sense - capulatio verborum indicat acceptationem in eodem
+sensu. Consequently, the established principle in the rules of
+construction noscitur a sociis applies ie, “the meaning of two or
+more words which are receptive to similar meaning can be
+considered by consideration of the company in which the words
+appear and is associated with.” - see Sykt Perniagaan United Aces
+Sdn. Bhd. & Ors v. Majlis Perbandaran Petaling Jaya [1996] 4 CLJ
+301. I disagree with the appellant’s counsel’s contention that the
+preceding words “for the purpose” found in s. 13 of the Act imply
+that the three purposes: maintaining, repairing and upgrading stand
+on their own. My view is that since these preceding words are
+
+
+
+24
+
+Current Law Journal
+
+[2010] 2 CLJ
+
+general words which follow particular and specific words of one
+genus then it is presumed to be restricted to the same genus as
+the particular words. Meaning: the general expression is to be
+read as comprehending things of the same kind as that designated
+by the preceding particular expression unless there is something to
+show that a wider sense was intended - see Public Prosecutor v.
+Pengurus Hong Trading & Co [1984] 2 CLJ 67; [1984] 2 CLJ Rep
+415 @ 417:
+I am further of the view that the words ‘other matter’ found in
+reg. 3(v)(ii) of the regulation should be read ejusdem generis with
+“Prussian blue, lead or compounds of lead” which according to
+the Deputy Public Prosecutor are poisonous or deleterious to the
+human body. According to a well established rule of construction
+of statutes, general terms following particular ones apply only to
+such persons or things as are ejusdem generis with those
+comprehended in the language of the legislature. In other words
+the general expression is to be read as comprehending things of
+the same kind as that designated by the preceding particular
+expressions, unless there is something to show that a wider sense
+was intended.
+
+[45] Further, when one interprets a particular word in a certain
+section of a legislation, it is imperative to look at the intention of
+the provision as a whole rather than in isolation - see Tan Sung
+Mooi (f) v. Too Miew Kim [1994] 3 CLJ 708. In this instance, the
+intention of s. 13 of the Act is to allow the appellant, as licencee,
+to enter into the said land by necessity for the purpose of
+maintaining, repairing or upgrading the licenced installation; it is
+not for effecting an entire change to the licenced installation.
+[46] The High Court did not fully consider the facts of this case
+from this angle. It accepted a face value the appellant’s proposal
+for the CAR Project on the said land as falling within the meaning
+of the word “upgrading” found in s. 13 of the Act. The Court of
+Appeal however discussed this in depth and came to a conclusion
+that the degree of upgrading of the existing line should only be
+limited to “just tightening of loose screws, repainting the posts,
+replacing the aging posts with new but similar type of structure”.
+[47] Judging from the photographs tendered as evidence, the
+proposed structure and the extent of the transmission line to be
+laid across the said land is exceedingly extensive as compared to
+the existing. The current two simple H steel poles holding the 33
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2010] 2 CLJ
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+Tenaga Nasional Bhd v.
+Ong See Teong & Anor
+
+25
+
+kV transmission line have be removed and replaced by a gigantic
+steel structure with a broad base reverted to the ground at
+demarcated intervals across the New Village to support an even
+wider and more extensive 275 kV cables. Judging from the size of
+this steel structure, no wonder certain houses on the said land
+along the route of the transmission line would have to be
+completely demolished to make way. The reason is simple: The
+average area for each plot of the said land is only approximately
+3000 square feet. So in certain areas the entire plot would be
+used to accommodate this colossal structure not forgetting the
+provision of a five foot wide pathway beneath the line for ready
+access for repairs and maintenance of the new line. So obviously
+this is not something to be done to an existing structure. This
+involves the removal of the entire existing structure and be
+replaced by an enormous configuration to uphold weightier
+transmission cables than the present.
+[48] Factually, I agree with the Court of Appeal that this does
+not constitute upgrading. The proposed work is an installation of
+something totally new. It exceeds the degree that can be
+considered as upgrading by the common sense of the word read
+in the context of the other two purposes: maintaining and
+repairing. Though in upgrading one may add something new to it
+but here the extent is far too substantial to qualify falling within
+this category. I do not agree to the Court of Appeal’s observation
+that upgrading in s. 13 of the Act is only limited to tightening
+loose screws, repainting or replacing of existing electrical posts.
+Each case has to be considered on its own facts and it is
+impossible to lay down any universal standard to gauge degree.
+But in the circumstances of this case, the so called upgrading far
+exceeds the degree that I am prepared to accept as upgrading
+within the meaning of s. 13 of the Act.
+Competing Interest
+
+H
+
+I
+
+[49] Both parties had attempted to argue on the issue of
+competing interest: that of the individual rights of the respondents
+against the wider interest of the community for the demand of
+electrical power to propel development and which one is
+paramount over the other. But in my opinion this is not the forum
+to debate and decide on this. The appellant is adequately armed
+with relevant provisions in the Act to carry out their proposed
+
+
+
+26
+
+Current Law Journal
+
+[2010] 2 CLJ
+
+task if they elect to do so such as s. 14(3) of the Act which says
+that the appellant can acquire such land as required for the
+purpose intended and pay compensation accordingly. It is not for
+this court to question such power bestowed on them by the
+legislature. I am here only to determine the meaning and extent
+of the word “upgrading” in s. 13 of the Act according to the
+facts of this case and for this, I have expressed my view.
+
+A
+
+B
+
+Payment Of Compensation
+[50] The second question posed to this court relates to
+payment of compensation under s. 13 read with s. 16 of the
+and art. 13 of the Federal Constitution. According to
+appellant’s counsel this question arose from a passage in
+judgment of the Court of Appeal where it says:
+
+the
+Act
+the
+the
+
+C
+
+This subtle and unconscionable way of driving and depriving the
+appellants of their property, hence (sic) in effect an acquisition of
+their land by the respondent (a power exercisable only by the
+State authority), surely would contravene their constitutional rights
+(Article 13 of the Federal Constitution).
+
+D
+
+[51] The appellant took issue that by this statement the Court
+of Appeal has failed to consider art. 13 of the Federal
+Constitution and the adequate compensation provided to the
+affected party under s. 13 read with s. 16 of the Act.
+
+E
+
+[52] Article 13 of the Federal Constitution provides:
+
+F
+
+(1) No person shall be deprived of property save in accordance
+with law.
+(2) No law shall provide for the compulsory acquisition or use
+of property without adequate compensation”.
+
+G
+
+[53] And the compensation provision in s. 13 of the Act reads;
+... may at all reasonable times enter upon any land on, under or
+over which supply lines have been laid, placed or carried, or upon
+which posts or other equipment have been erected, and may carry
+out all necessary repairs, and may, in the course thereof, fell or
+lop trees, remove vegetation and do all other things necessary to
+the said purpose, causing as little damage as possible and paying
+full compensation in accordance with section 16 to all persons
+interested for any damage that may be caused thereby for which
+compensation has not already been assessed under section 11.
+
+H
+
+I
+
+
+
+[2010] 2 CLJ
+
+A
+
+B
+
+Tenaga Nasional Bhd v.
+Ong See Teong & Anor
+
+27
+
+[54] As I have effectively ruled against the appellant in their
+decision to issue the notice to the respondents under s. 13 of the
+Act, this second question on compensation becomes irrelevant and
+academic. Thus, there is no necessity for me to dwell into it.
+Conclusion
+[55] For reasons aforesaid, I would dismiss this appeal with costs
+to the respondents. Deposit for this appeal to the respondents
+towards account of taxed costs.
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+

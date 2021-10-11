@@ -1,0 +1,1826 @@
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Dato’ Sri Mohd Najib Hj Abdul Razak
+v. PP
+
+23
+
+DATO’ SRI MOHD NAJIB HJ ABDUL RAZAK v. PP
+COURT OF APPEAL, PUTRAJAYA
+ZABARIAH MOHD YUSOF JCA
+RHODZARIAH BUJANG JCA
+LAU BEE LAN JCA
+[CRIMINAL APPEAL NO: W-05-1-01-2019]
+25 MARCH 2019
+CRIMINAL LAW: Charges – Criminal charges – Former Prime Minister of
+Malaysia charged with seven criminal charges relating to offences under Penal Code,
+Malaysian Anti-Corruption Commission Act 2009 and Anti-Money Laundering,
+Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001 – Appeal
+against decision of High Court in dismissing pre-trial production, by prosecution,
+of statements and documents given by potential witnesses to officers of Malaysian
+Anti-Corruption Commission – Whether appeal ought to be allowed
+CRIMINAL PROCEDURE: Disclosure of information – Statements and
+documents – Appeal against decision of High Court – High Court dismissed
+application for pre-trial production of certain documents and statements – Applicant,
+former Prime Minister of Malaysia, charged with seven criminal charges –
+Application for pre-trial production, by prosecution, of statements and documents
+given by potential witnesses to officers of Malaysian Anti-Corruption Commission
+– Whether non obstante clauses in s. 30(9) of Malaysian Anti-Corruption
+Commission Act 2009 and s. 40 of Anti-Money Laundering, Anti-Terrorism
+Financing and Proceeds of Unlawful Activities Act 2001 rendered statements
+recorded and documents collected during investigations automatically admissible as
+evidence – Whether arts. 5 and 8 of Federal Constitution demand that copies of
+documents and statements must be supplied by prosecution to applicant before
+commencement of trial – Whether applicant established case for delivery of
+information and documents applied for – Whether appeal ought to be allowed –
+Criminal Procedure Code, ss. 51 & 51A – Malaysian Anti-Corruption Commission
+Act 2009, s. 62
+CRIMINAL PROCEDURE: Appeal – Appeal against decision of High Court –
+High Court dismissed application for pre-trial production of certain documents and
+statements – Applicant, former Prime Minister of Malaysia, charged with seven
+criminal charges – Application for pre-trial production, by prosecution, of statements
+and documents given by potential witnesses to officers of Malaysian Anti-Corruption
+Commission – Whether court ought to compel prosecution to produce statements
+or documents sought – Considerations – Whether applicant satisfied requirements
+of ‘necessity’ and ‘desirability’ – Stage when application is made – Whether
+discovery limited to matters specified in charge – Whether applicant could seek
+inspection or discovery of documents seized in police investigation – Whether request
+directed at specific document – Whether applicant entitled to discovery if documents
+satisfy test of relevancy and essential for adjudication – Criminal Procedure Code,
+ss. 51 & 51A
+
+
+
+24
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+The appellant, former Prime Minister of Malaysia, was charged with seven
+charges relating to offences committed under the Penal Code, the Malaysian
+Anti-Corruption Commission Act 2009 (‘MACCA’) and the Anti-Money
+Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities
+Act 2001 (‘AMLATFAPUA’). At the High Court, the appellant sought
+pre-trial production, by the respondent (‘the prosecution’), of statements and
+documents given by potential witnesses to the officers of the Malaysian
+Anti-Corruption Commission (‘MACC’) in the course of the investigation. In
+support of his application, the appellant submitted that (i) the non obstante
+clauses, in s. 30(9) of the MACCA and s. 40 of the AMLATFAPUA,
+rendered the statements recorded and documents collected during the course
+of the investigations automatically admissible as evidence, at the behest of
+either party to the proceedings; (ii) given the automatic admissibility,
+arts. 5 and 8 of the Federal Constitution (‘FC’) demand that copies of the said
+documents and statements must be supplied by the prosecution to the
+appellant before the commencement of the trial; and (iii) the crux of the
+appellant’s case was supported by s. 51A of the Criminal Procedure Code
+(‘CPC’) and s. 62 of the MACCA. The High Court Judge (‘HCJ’) found that
+the appellant failed to establish a case for the delivery of the documents and
+information applied for. In dismissing the appellant’s application, the HCJ
+held that (i) the appellant failed to make out a case as to the extent to which
+the legislature had intended to give the relevant non obstante clauses an
+overriding effect over all other rules and legal provisions; (ii) as such claim
+of privilege, public policy and confidentiality would still be applicable to bar
+the production of the investigation statements and the other documents;
+(iii) even if the other documents and investigation statements were
+admissible, in the absence of clear statutory provisions, the appellant had no
+right of disclosure or production of the same; (iv) section 62 of the MACCA
+makes reference to s. 51A of the CPC and therefore, the MACCA envisages
+disclosure of documents/statements under ss. 51 or 51A of the CPC; (v) the
+appellant did not meet the threshold of the test of ‘desirability’ and
+‘necessity’ under s. 51 of the CPC to justify the production of other
+documents and the investigation statements. As the prosecution had duly
+complied with s. 51A of the CPC, the disclosure obligation of documents,
+on the part of the prosecution, for pre-trial, had been met. The appellant was
+not entitled to any further disclosure at this stage; (vi) the case of Husdi v. PP
+barred the disclosure of investigation statements; (vii) the issue of likelihood
+of witness-tampering was another reason that investigations statements was
+being prohibited to accused persons; and (viii) s. 124 of the Evidence Act
+1950 (‘EA’) applied to bar the production of the investigation statements
+which are confidential. Hence, the present appeal.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Dato’ Sri Mohd Najib Hj Abdul Razak
+v. PP
+
+25
+
+Held (dismissing appeal; affirming decision of High Court)
+Per Zabariah Mohd Yusof JCA delivering the judgment of the court:
+(1) The appellant misconstrued the application of the non obstante clauses
+found in s. 30(9) of the MACCA and s. 40 of the AMLATFAPUA, to
+exclude all other legislations or provisions in force in other legislations,
+particularly the EA. This could not be the intention of Parliament. The
+non obstante clauses found in the said sections must be read subject to
+rules of privilege and prohibition on the ground of public policy. The
+appellant failed to show how he had been discriminated against, as
+compared to other persons who are similarly under the investigation by
+the MACC. (paras 27 & 29)
+(2) Article 5(1) of the FC states that ‘No person shall be deprived of his life
+or personal liberties save in accordance with law’, which implies it is
+not absolute. Similarly, art. 8 of the FC, which is on the equality
+principle, is also not absolute. The provisions of the MACCA applies
+across the board on all persons alike and thus, the issue of discrimination
+against the appellant did not arise. (paras 32-34)
+(3) There is no compelling legal analysis that could support the argument
+that automatic admissibility gives the automatic right to disclosure and
+inspection, in the absence of clear legislative prescriptions to that effect.
+Section 51A of the CPC provides for disclosure at pre-trial stage. It
+provides access of disclosure, but a limited one, and does not envisage
+full unlimited disclosure and inspection of the prosecution’s case.
+Section 51A of the CPC lists the documents that are required to be
+furnished to the accused before trial. However, the prosecution need not
+supply any facts favourable to the defence of the accused if its disclosure
+would be contrary to public interest. (paras 39-41)
+(4) In exercising its discretion, under s. 51A of the CPC, for the supply of
+documents before the commencement of trial, the court must have
+regard to ss. 152, 153 and 154 of the CPC. Hence, the discovery at this
+stage, namely at the pre-trial stage, as in the present case, is only limited
+to matters that are specified in the charge, to enable the appellant to
+prepare his defence. The appellant would not be prejudiced, in any
+event, as the appellant had been fully informed of the charge against
+him. Therefore, by virtue of s. 51A of the CPC, as the appellant was at
+the pre-trial stage, he was only entitled to: (i) a copy of the first
+information report made under s. 107 of the CPC; (ii) copies of
+documents which the prosecution intended to tender as part of the
+evidence for the prosecution; and (iii) written statement of facts
+favourable to the defence of the accused. (paras 43-44)
+
+
+
+26
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+(5) The appellant applied for all statements recorded by the MACC, and
+other documents taken by them in the course of investigation, without
+specifying the exact documents. The application was of a general nature
+and not targeted towards any specific document. It is a general rule of
+law that the request must be directed at a specific document and a
+general direction to produce all documents relating to the subject matter
+in dispute will not be enforced. (para 46)
+(6) The appellant sought the statements given by potential witnesses to the
+MACC and other documents obtained by the MACC under the relevant
+provisions compelling production embodied in the MACCA and
+AMLATFAPUA in the course of the investigations pertaining to the
+charges against the appellant. It is trite that an accused person is not
+entitled to copies of police statements recorded from witnesses in the
+course of investigations. Firstly, such statement is a privileged document
+and secondly, as a matter of public policy, it is undesirable for the
+prosecution to supply the defence with the police statements as there is
+a danger of tampering with witnesses. This failed the test of ‘desirability’
+and ‘necessity’ in s. 51A of the CPC. (para 47)
+(7) It was not in the public interest if statements taken from witnesses and
+documents obtained during the course of police investigations be
+furnished to the appellant. Section 124 of the EA provides that a public
+officer could not be compelled to disclose communications made to him
+in official confidence if he considers that public interest would suffer by
+such disclosure. This would also include communications made to the
+MACC officers in their official confidence. Providing the appellant with
+the documents sought in the prayer, which were made in official
+confidence to the MACC, would prejudice further investigations relating
+to other cases involving the appellant. (para 49)
+(8) It is the prerogative of the prosecution as to how to prove their case and
+it is not for the court to anticipate as to how the prosecution is to proceed
+with the conduct of proving the charges against the appellant. The
+application in this case was not for documents which were specified in
+the charge against the appellant. Therefore, to allow the appellant to go
+beyond these particulars would be to provide the accused with the
+knowledge of means by which the prosecution proposed to prove the
+alleged facts. Save for the documents provided under s. 51A of the CPC,
+the defence was not entitled to ask for disclosure or inspection of
+documents/materials in the possession of the prosecution before the
+commencement of the trial. (para 53)
+(9) The appellant was not entitled to be supplied with the documents
+sought. The HCJ did not err in his findings that the appellant failed to
+establish a case for the delivery of the information and documents
+sought. (paras 55 & 56)
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Dato’ Sri Mohd Najib Hj Abdul Razak
+v. PP
+
+27
+
+Bahasa Malaysia Headnotes
+Perayu, bekas Perdana Menteri Malaysia, dituduh dengan tujuh pertuduhan
+pelakuan kesalahan-kesalahan berkaitan Kanun Keseksaan, Akta Suruhanjaya
+Pencegahan Rasuah Malaysia 2009 (‘ASPRM’) dan Akta Pengubahan Wang
+Haram, Pencegahan Pembiayaan Keganasan dan Hasil Daripada Aktiviti
+Haram 2001 (‘AMLATFAPUA’). Di Mahkamah Tinggi, perayu membuat
+permohonan pra-perbicaraan agar responden (‘pihak pendakwaan’)
+mengemukakan kenyataan-kenyataan dan dokumen-dokumen yang diberi
+oleh saksi-saksi berpotensi kepada pegawai-pegawai Suruhanjaya Pencegahan
+Rasuah Malaysia (‘SPRM’) semasa menjalankan siasatan. Menyokong
+permohonannya, perayu menghujahkan (i) klausa-klausa non obstante, dalam
+s. 30(9) ASPRM dan s. 40 AMLATFAPUA, menjadikan kenyataankenyataan yang direkod dan dokumen-dokumen yang diambil semasa
+menjalankan siasatan, secara automatik, boleh diterima sebagai keterangan,
+atas perintah salah satu pihak dalam prosiding; (ii) susulan kebolehterimaan
+automatik ini, per. 5 dan 8 Perlembagaan Persekutuan (‘PP’) menuntut agar
+semua salinan dokumen dan kenyataan ini dibekalkan oleh pihak
+pendakwaan kepada perayu sebelum perbicaraan bermula; dan (iii) teras kes
+perayu disokong oleh s. 51A Kanun Tatacara Jenayah (‘KTJ’) dan s. 62
+ASPRM. Hakim Mahkamah Tinggi (‘HMT’) mendapati perayu gagal
+membuktikan satu kes penyerahan dokumen-dokumen dan maklumat yang
+dipohon. Menolak permohonan perayu, HMT memutuskan (i) perayu gagal
+membuktikan satu kes tentang setakat mana badan perundangan meniatkan
+agar klausa-klausa non obstante mempunyai kesan mengatasi semua peraturan
+dan peruntukan undang-undang; (ii) berkenaan tuntutan keistimewaan, polisi
+awam dan kerahsiaan masih terpakai dalam menghalang pengemukaan
+kenyataan-kenyataan siasatan dan dokumen-dokumen lain; (iii) jika pun
+lain-lain dokumen dan kenyataan-kenyataan siasatan boleh diterima, tanpa
+peruntukan statutori, perayu tiada hak pendedahan atau pengemukaan;
+(iv) seksyen 62 ASPRM merujuk pada s. 51A KTJ dan dengan itu, ASPRM
+membayangkan pendedahan dokumen-dokumen/kenyataan-kenyataan
+bawah ss. 51 dan 51A KTJ; (v) perayu tidak memenuhi ambang ujian
+‘kebaikan’ dan ‘keperluan’ bawah s. 51 KTJ untuk mewajarkan
+pengemukaan lain-lain dokumen dah kenyataan-kenyataan siasatan. Oleh
+kerana pihak pendakwaan telah mematuhi s. 51A KTJ, kewajipan
+pendedahan dokumen-dokumen, pra-perbicaraan oleh pihak pendakwaan,
+sudah dipenuhi. Perayu tidak berhak terhadap pendedahan lanjut di peringkat
+ini; (vi) kes Husdi v PP menghalang pendedahan kenyataan-kenyataan
+siasatan; (vii) isu kemungkinan gangguan pada saksi ialah satu lagi sebab
+kenyataan-kenyataan siasatan dilarang diberi kepada tertuduh-tertuduh; dan
+(viii) s. 124 Akta Keterangan 1950 (‘AK’) terpakai untuk menghalang
+pengemukaan kenyataan-kenyataan siasatan yang rahsia. Maka timbul
+rayuan ini.
+
+
+
+28
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+Diputuskan (menolak rayuan, mengesahkan keputusan Mahkamah
+Tinggi)
+Oleh Zabariah Mohd Yusof HMR menyampaikan penghakiman
+mahkamah:
+(1) Perayu tersalah tafsir pemakaian klausa-klausa non obstante dalam
+s. 30(9) ASPRM dan s. 40 AMLATFAPUA, agar mengecualikan semua
+perundangan atau peruntukan yang berkuat kuasa dalam lain-lain
+perundangan, khususnya AK. Ini tentu bukan niat Parlimen. Klausaklausa non obstante dalam seksyen-seksyen tersebut mesti dibaca
+tertakluk pada peraturan keistimewaan dan larangan atas sebab polisi
+awam. Perayu gagal menunjukkan bagaimana beliau didiskriminasi,
+berbanding lain-lain orang yang turut disiasat oleh SPRM.
+(2) Perkara 5(1) PP menyatakan ‘Tiada seorang pun boleh diambil
+nyawanya atau dilucutkan kebebasan dirinya kecuali mengikut undangundang’, yang menandakan ini bukan mutlak. Perkara 8 PP, yang
+memperuntukkan tentang prinsip kesamarataan, juga bukan mutlak.
+Peruntukan ASPRM terpakai menyeluruh pada semua orang dan oleh
+itu, isu diskriminasi terhadap perayu tidak timbul.
+(3) Tiada analisis undang-undang, yang mendesak, yang boleh menyokong
+hujahan bahawa kebolehterimaan automatik memberi hak automatik
+untuk mendedahkan dan memeriksa, tanpa peruntukan perundangan
+jelas yang menyatakan sedemikian. Seksyen 51A KTJ memperuntukkan
+pendedahan semasa peringkat pra-perbicaraan. Seksyen ini memberi
+akses untuk pendedahan, tetapi terbatas, dan tidak membayangkan
+pendedahan dan pemeriksaan penuh tidak terhad ke atas kes
+pendakwaan. Seksyen 51A KTJ menyenaraikan dokumen-dokumen
+yang perlu dikemukakan kepada tertuduh sebelum perbicaraan. Walau
+bagaimanapun, pihak pendakwaan tidak perlu membekalkan apa-apa
+fakta yang menyokong pembelaan tertuduh jika pendedahan sedemikian
+bertentangan dengan kepentingan awam.
+(4) Dalam menjalankan budi bicara, bawah s. 51A KTJ, untuk pembekalan
+dokumen-dokumen sebelum bermula perbicaraan, mahkamah mesti
+melihat pada ss. 152, 153 dan 154 KTJ. Oleh itu, penzahiran pada
+peringkat ini, iaitu peringkat pra-perbicaraan, seperti dalam kes ini,
+hanya terhad pada hal-hal perkara yang dinyatakan dalam pertuduhan,
+untuk membolehkan perayu membuat persediaan untuk pembelaan
+beliau. Perayu tidak akan terprejudis, dalam apa-apa jua keadaan, kerana
+sedia maklum akan pertuduhan terhadap beliau. Oleh itu, berdasarkan
+s. 51A KTJ, kerana perayu di peringkat pra-perbicaraan, beliau hanya
+berhak mendapat: (i) sesalinan laporan maklumat pertama yang dibuat
+bawah s. 107 KTJ; (ii) salinan semua dokumen yang pihak pendakwaan
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Dato’ Sri Mohd Najib Hj Abdul Razak
+v. PP
+
+29
+
+ingin kemukakan sebagai sebahagian keterangan untuk pendakwaan; dan
+(iii) pernyataan bertulis tentang fakta-fakta yang berpihak pada
+pembelaan tertuduh.
+(5) Perayu meminta semua kenyataan yang direkodkan oleh SPRM, dan
+lain-lain dokumen yang diambil oleh mereka semasa menjalankan
+siasatan, tanpa menyatakan dokumen-dokumen tersebut dengan tepat.
+Permohonan tersebut bersifat umum dan tidak ditujukan pada dokumen
+khusus. Menjadi satu peraturan umum undang-undang bahawa
+permintaan mestilah ditujukan pada dokumen khusus dan satu tujuan
+umum untuk mengemukakan semua dokumen berkenaan hal perkara
+yang menjadi pertikaian tidak akan berkuat kuasa.
+(6) Perayu meminta kenyataan-kenyataan yang diberi oleh saksi-saksi
+berpotensi SPRM dan semua dokumen yang diperoleh oleh SPRM,
+bawah peruntukan-peruntukan relevan ASPRM dan AMLATFAPUA,
+yang mendesak pengemukaan semasa siasatan terhadap pertuduhanpertuduhan terhadap perayu. Undang-undang tetap menetapkan seorang
+tertuduh tidak berhak atas salinan kenyataan-kenyataan polis yang
+direkodkan daripada saksi-saksi semasa menjalankan siasatan. Pertama,
+kenyataan sedemikian adalah dokumen istimewa dan kedua, sebagai
+hal perkara polisi awam, tidak diingini jika pihak pendakwaan
+membekalkan pihak pembelaan dengan kenyataan-kenyataan polis
+kerana terdapat risiko gangguan saksi-saksi. Ini gagal ujian ‘kebaikan’
+dan ‘keperluan’ bawah s. 51A KTJ.
+(7) Bukanlah demi kepentingan awam jika kenyataan-kenyataan
+yang diambil daripada saksi-saksi, dan dokumen-dokumen yang
+diperoleh semasa siasatan polis dijalankan, dikemukakan kepada perayu.
+Seksyen 124 AK memperuntukkan bahawa seorang pegawai awam tidak
+boleh didesak agar mendedahkan komunikasi yang dibuat kepadanya
+dalam keamanahan rasmi jika dia berpendapat kepentingan awam akan
+terjejas dengan pendedahan tersebut. Ini termasuk komunikasi yang
+dibuat kepada pegawai-pegawai SPRM dalam keamanahan rasmi.
+Menyediakan buat perayu dokumen-dokumen yang dipohon dalam
+permohonan, yang dibuat dalam keamanahan rasmi kepada SPRM, akan
+memprejudis siasatan lanjut berkenaan lain-lain kes yang melibatkan
+perayu.
+(8) Menjadi prerogatif pihak pendakwaan bagaimana mereka hendak
+membuktikan kes mereka dan mahkamah tidak boleh menjangka
+bagaimana pihak pendakwaan akan meneruskan dengan pembuktian
+pertuduhan-pertuduhan terhadap perayu. Permohonan dalam kes ini
+bukan untuk dokumen-dokumen yang dinyatakan dalam pertuduhan
+terhadap perayu. Oleh itu, membenarkan perayu melangkaui butir-butir
+ini seolah-olah memberi seorang tertuduh maklumat tentang cara pihak
+
+
+
+30
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+pendakwaan bercadang membuktikan fakta-fakta yang didakwa. Kecuali
+dokumen-dokumen yang diperuntukkan bawah s. 51A KTJ, pihak
+pembelaan tidak berhak memohon pendedahan atau permeriksaan
+dokumen-dokumen/material-material dalam milikan pihak pendakwaan
+sebelum perbicaraan bermula.
+
+A
+
+(9) Perayu tidak berhak dibekalkan dokumen-dokumen yang dipohon.
+Hakim Mahkamah Tinggi tidak terkhilaf dalam dapatan beliau bahawa
+perayu gagal membuktikan satu kes untuk penyerahan maklumat dan
+dokumen-dokumen yang dipohon.
+
+B
+
+Case(s) referred to:
+Dato’ Seri Anwar Ibrahim v. PP [2010] 4 CLJ 265 FC (refd)
+Fitt v. United Kingdom [2000] ECHR 29777/96 (refd)
+Ho Tack Sien & Ors v. Rotta Research Laboratorium S.p.A & Anor; Registrar Of Trade
+Marks (Intervener) & Another Appeal [2015] 4 CLJ 20 FC (refd)
+Husdi v. PP [1979] 1 LNS 33 HC (refd)
+Husdi v. PP [1980] 1 LNS 29 FC (refd)
+Loh Kooi Choon v. Government of Malaysia [1975] 1 LNS 90 FC (refd)
+Methuram Dass v. Jagannath Dath ILR 28 Cal 794 (refd)
+Perbadanan Kemajuan Kraftangan Malaysia v. DW Margaret David Wilson
+[2010] 5 CLJ 899 FC (refd)
+Pihak Berkuasa Negeri Sabah v. Sugumar Balakrishnan & Another Appeal [2002] 4 CLJ
+105 FC (refd)
+PP v. Awalluddin Sham Bokhari [2018] 1 CLJ 305 FC (refd)
+PP v. Dato’ Seri Anwar Ibrahim & Another Appeal [2010] 4 CLJ 331 CA (refd)
+PP v. Datuk Harun Hj Idris & Ors [1976] 1 LNS 180 FC (refd)
+PP v. Khong Teng Khen & Anor [1976] 1 LNS 100 FC (refd)
+PP v. Raymond Chia Kim Chwee & Anor & Another Case [1985] 2 CLJ 457; [1985] CLJ
+(Rep) 260 FC (refd)
+PP v. Teoh Choon Teck [1962] 1 LNS 141 HC (refd)
+Re D (Minors) (Adoption reports: Confidentiality) [1996] AC 593 (refd)
+S Kulasingam & Anor v. Commissioner of Lands, Federal Territory & Ors [1982] 1 MLJ
+204 (refd)
+Shabalala v. AG of the Transvaal and Anor 1995 (12) BCLR 1593 (refd)
+Suruhanjaya Sekuriti v. Datuk Ishak Ismail [2016] 3 CLJ 19 FC (refd)
+Syed Abu Bakar Ahmad v. PP [1981] 1 LNS 127 (refd)
+Varadarajulu & Anor v. The State of Tamil Nadu & Ors AIR 1998 SC 1388 (refd)
+Legislation referred to:
+Anti-Money Laundering, Anti-Terrorism Financing And Proceeds of Unlawful
+Activities Act 2001, ss. 32, 40
+Criminal Procedure Code, ss. 51, 51A(1)(c), (5), 107, 152, 153, 154
+Evidence Act 1950, ss. 123, 124
+Federal Constitution, arts. 5(1), 8
+Immigration Act 1959/63, s. 59
+Malaysian Anti-Corruption Commission Act 2009, ss. 6(2), 30(9), 62
+Securities Commission Malaysia Act 1993, s. 134(4)
+Trade Marks Act 1976, ss. 35(1), 40(1)(f)
+Constitution of the Republic of South Africa [South Africa], s. 35(3)(h)
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+Dato’ Sri Mohd Najib Hj Abdul Razak
+v. PP
+
+31
+
+For the appellant - Muhammad Shafee Abdullah, Harvinder Jit Singh, Sarah Maalini
+Abishegam, Farhan Read, Alfirdaus Shahrul Naing, Wan Aizuddin Wan Mohammed,
+Rahmat Hazlan, Muhammad Farhan Shafee, Wee Yeong Kang, Syahirah Hanapiah
+& Zahria Eleena Redza; M/s Shafee & Co
+For the respondent - Tommy Thomas, V Sithambaram, Sulaiman Abdullah, Manoj
+Kurup, Donald Joseph Franklin & Izzat Fauzan; DPPs
+[Editor’s note: For the High Court judgment, please see Dato' Sri Mohd Najib Hj Abdul
+Razak v. PP [2019] 5 CLJ 93 (affirmed).]
+
+Reported by Najib Tamby
+JUDGMENT
+
+C
+
+Zabariah Mohd Yusof JCA:
+Background
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+[1]
+The appeal before us, is by the appellant against the decision of the
+learned High Court Judge dismissing his application by way of notice of
+motion for an order that the prosecution deliver certain documents,
+statements, information and/or reports, statements of witnesses’ books,
+accounts, computerised data, articles, list of witnesses and copies of witness
+statements that the prosecution intends to adduce at trial.
+[2]
+The appellant is faced with seven charges relating to offences
+committed under the Penal Code, the Malaysian Anti-Corruption
+Commission Act 2009 (MACC Act 2009) and the Anti-Money Laundering,
+Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001
+(AMLATFA 2001). All charges were ordered to be jointly tried and trial is
+to commence from 12 February 2019 to 29 March 2019.
+[3]
+The respondent/prosecution had delivered the necessary documents
+under s. 51A of the Criminal Procedure Code (CPC), mostly covering the
+documents sought by the appellant in the notice of motion, save for
+paras. 1(g), (h), (i), (j), and 2(b)(i) which are reproduced herein below:
+1(g) records of all examinations and/or written statements on oath or
+affirmations obtained pursuant to Section 30(1)(a) and/or Section
+30(8) and/or section 30(1)(c) of the MACC Act 2009 and/or Section
+32(2)(a) and/or Section 32(2)(c) of the Anti-Money Laundering,
+Anti-Terrorism Financing And Proceeds of Unlawful Activities Act
+2001 (AMLAFTA 2001) during the course of investigations which
+have culminated into the subject matter of the SRC Proceedings;
+1(h) all books, documents, records, accounts or computerised data or
+articles obtained pursuant to Section 30(1)(b) of the MACC Act
+2009 or otherwise in the course of examinations under Section 30(a)
+of the MACC Act 2009 or under written statements on oath or
+affirmations made pursuant to section 30(1)(c) of the MACCA 2009
+during the course of investigations which have culminated into the
+subject matter of the SRC Proceedings;
+
+
+
+Current Law Journal
+
+32
+
+1(i)
+
+[2019] 5 CLJ
+
+documents or information obtained pursuant to Section 32(2)(b)
+AMLATFA 2001 during the course of investigations which have
+culminated into the subject matter of the SRC Proceedings;
+
+A
+
+1(j) alternatively in lieu of paragraphs 1(g), (h) and (i) above, a complete
+listing of the following:
+(i) The names of all the examinees and dates of recordings of the
+records of their respective examinations and/or written
+statements on oath or affirmations obtained pursuant to
+Section 30(1)(a) and/or Section 30(8) and/or Section 30(1)(c) of
+the MACCA 2009 and/or Section 32(2)(a) and/or section
+32(2)(c) of the Anti-Money Laundering, Anti-Terrorism
+Financing And Proceeds of Unlawful Activities Act 2001
+(“AMLA2001”) during the course of investigations which have
+culminated into the subject matter of the SRC Proceedings;
+(ii) Particulars of all books, documents, records, accounts or
+computerised data or articles obtained pursuant to Section 30(b)
+of the MACCA 2009 or otherwise in the course of examinations
+under Section 30(1)(a) and/or Section 30(8) of the MACCA
+2009 or under a written statement on oath or affirmation made
+pursuant to Section 30(1)(c) of the MACCA 2009 during the
+course of investigations which have culminated into the subject
+matter of the SRC Proceedings; and
+
+B
+
+C
+
+D
+
+E
+
+(iii) Particulars of any property, documents or information obtained
+pursuant to Section 32(2)(b) AMLA 2001 during the course of
+investigations which have culminated into the subject matter of
+the Proceedings.
+2(b) that the Prosecution do provide to the solicitors for the Applicant
+the following on or before 11.1.2019 or a date to be fixed by this
+Honourable Court:
+
+F
+
+(i) A List of Witnesses the prosecution intend to call during the
+case for the prosecution in the SRC Proceedings together with
+the proposed order of witnesses.
+G
+
+[4]
+The learned trial judge dismissed the appellant’s application for the
+documents as aforesaid and it is against the dismissal of this application that
+the appellant is appealing before this court.
+Basis Of The Application By The Appellant
+[5]
+The application is premised on the non-obstante clauses found in
+s. 30(9) of the MACC Act 2009 and s. 40 of the AMLATFA 2001, whereby
+these statements, documents etc, such as those obtained under s. 30(9) of
+MACC Act 2009 and s. 40 of AMLATFA 2001, are automatically
+admissible at the behest of either party. The clauses should be given a liberal
+interpretation, unlike the narrow scope given by the learned judge.
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+Dato’ Sri Mohd Najib Hj Abdul Razak
+v. PP
+
+33
+
+Section 30(9) of the MACC Act 2009 provides:
+The record of an examination under paragraph (1)(a), or a written
+statement on oath or affirmation made pursuant to paragraph 1(c), or any
+book, document, record, account or computerised data, or article
+produced under paragraph (1)(b) or otherwise in the course of an
+examination under paragraph (1)(a), or under a written statement on oath
+or affirmation made pursuant to paragraph (1)(c), or record of examination
+of sample taken under paragraph (1)(d) shall, notwithstanding any
+written law or rule of law to the contrary, be admissible in evidence in
+any proceedings in any court:
+(a) For an offence under this Act; or
+(b) For the forfeiture of property pursuant to section 40 or 41,
+regardless whether such proceedings are against the persons who
+was examined, or who produced the book, document, record,
+account or computerized data, or article, or who made the written
+statement on oath or affirmation, or against any other person.
+(emphasis added)
+
+Section 40 of the AMLATFA 2001 provides:
+
+E
+
+F
+
+G
+
+40. The record of an examination under paragraph 32(2)(a), any property,
+record, report or document produced under paragraph 32(2)(b) or any
+statement under paragraph 32(2)(c) shall, notwithstanding any written
+law or rule of law to the contrary, be admissible as evidence in any
+proceedings in any court for or in relation to an offence or any other
+matter under this Act or any offence under any written law, regardless
+whether such proceedings are against the persons who was examined, or
+who produced the property, record, report or document, or who made the
+written statements on oath or affirmation, or against any other person.
+(emphasis added)
+
+[6]
+It is the appellant’s contention that the operational parts of the said
+provisions provide that any statements or documents obtained in the course
+of investigations “Notwithstanding any written law or rule of law to the
+contrary, be admissible as evidence” thus taking the form of a non-obstante
+clause.
+[7]
+Further, it was argued that, the scope of the non-obstante clauses are
+unambiguous and exclude all rules of admission and rules of exclusion
+vis-à-vis:
+
+H
+
+I
+
+(i) All statements recorded from witnesses during the entire investigations
+into the subject matter of the offences under the Penal Code, MACC Act
+2009 and AMLATFA 2001 (investigation statements);
+(ii) All other documents received by the authorities in the course of the
+above investigations (other documents).
+
+
+
+Current Law Journal
+
+34
+
+[2019] 5 CLJ
+
+[8]
+Given the automatic admissibility, the operation of arts. 5 and 8 of the
+Federal Constitution would demand that copies of the said documents and
+investigation statements must be supplied by the respondent as the prosecutor
+to the applicant, before the commencement of the trial. It was also asserted
+by the appellant that the application is also supported by the operation of
+s. 62 of the MACC Act 2009 which provides:
+
+A
+
+B
+
+62. Defence Statement
+Once delivery of documents by the prosecution pursuant to section 51A
+of the Criminal Procedure Code has taken place, the accused shall, before
+commencement of the trial, deliver the following documents to the
+prosecution:
+
+C
+
+(a) A defence statement setting out in general terms the nature of the
+defence and the matters on which the accused takes issue with the
+prosecution, with reasons; and
+(b) A copy of any document which would be tendered as part of the
+evidence for the defence.
+
+D
+
+[9]
+The common law privilege outlined in Husdi v. PP [1979] 1 LNS 33;
+[1979] 2 MLJ 304 has no application.
+[10] The public policy on witness tampering has no application in this case
+and neither is it justified. The reasoning by the learned trial judge in
+para. 112 of the grounds was completely baseless as there is nothing in any
+of the respondent’s affidavits which alleged any reluctance or possible
+reluctance by any potential witnesses. Neither is there anything in the
+affidavits of the respondent which alleged any repercussions to other possible
+investigations or even the existence of any other pending investigations
+against the appellant. It is noted that the powers of the investigators under
+the MACC Act 2009 and AMLATFA 2001 clearly compel witnesses to
+provide statements to the MACC Act 2009 on penal consequences of non
+attendance. There is further provisions for witness to seek for witness
+protection as laid down in the Witness Protection Act 2009.
+
+E
+
+F
+
+G
+
+[11] In light of the circumstances of this case, it was submitted by the
+appellant that the production of investigation statements and other
+documents would be necessary or desirable under s. 51 of the CPC.
+Respondent’s Argument
+[12] The respondent’s position is that the application ought to be dismissed
+as the applicant has misconstrued s. 30(9) of MACC Act and s. 40 of
+AMLATFA to exclude all other legislation/provisions, particularly the
+Evidence Act 1950. The non-obstante clauses must be read subject to the rules
+of privilege and prohibition on grounds of public policy (See Husdi v. PP
+[1979] 1 LNS 33; [1979] MLJ 304; PP v. Raymond Chia Kim Chwee & Anor
+& Another Case [1985] 2 CLJ 457; [1985] CLJ (Rep) 260; [1985] 2 MLJ 436;
+PP v. Dato’ Seri Anwar Ibrahim & Another Appeal [2010] 4 CLJ 331).
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+Dato’ Sri Mohd Najib Hj Abdul Razak
+v. PP
+
+35
+
+[13] The respondent disagreed with the prismatic approach taken by the
+applicant in the interpretation of arts. 5 and 8 of the Federal Constitution in
+support of the applicant’s argument that these two articles would mean that
+the automatic admissibility of the documents pursuant to the non-obstante
+clauses necessarily require disclosure of copies of such documents by either
+side.
+The Issue
+
+C
+
+[14] The central issue is whether the non-obstante clause has the effect of
+excluding the rules on evidence in respect of rules on privilege or
+confidentiality.
+[15] The learned trial judge dismissed the appellant’s application as the
+appellant failed to establish a case for the delivery of documents and the
+information applied for.
+The High Court Findings
+
+D
+
+[16] The High Court made the following findings as to the application by
+the appellant:
+
+E
+
+F
+
+G
+
+(i) The appellant failed to make out a case as to the extent to which the
+Legislature had intended to give the relevant non-obstante clauses an
+overriding effect over all other rules and legal provisions, premised on
+the weight of authorities in Suruhanjaya Sekuriti v. Datuk Ishak Ismail
+[2016] 3 CLJ 19; [2016] 1 MLJ 733, which subject the admissibility to
+the rules of evidence and Ho Tack Sien & Ors v. Rotta Research
+Laboratorium S.p.A & Anor; Registrar Of Trade Marks (Intervener) & Another
+Appeal [2015] 4 CLJ 20; [2015] 4 MLJ 166 which required specific
+identification of the rules to be excluded. The learned trial judge was not
+persuaded by the proposition of the counsel for the appellant that the
+non-obstante clauses had the effect of automatic disclosure of all
+statements and documents admissible obtained by MACC as evidence in
+any proceedings;
+(ii) As such claims of privilege, public policy and confidentiality would still
+be applicable to bar the production of the investigation statements and
+the other documents;
+
+H
+
+I
+
+(iii) Even if the other documents and investigation statements are admissible,
+in the absence of clear statutory provisions, the appellant has no right
+of disclosure or production of the same. Section 62 of the MACC Act
+2009 makes reference to s. 51A of the CPC and therefore the MACC Act
+2009 envisages disclosure of documents/statements under ss. 51A or 51
+of the CPC.
+(iv) The appellant clearly does not meet the threshold of the test of
+“desirability or necessity” under s. 51 of the CPC justifying the
+production of the other documents and the investigation statements. As
+
+
+
+Current Law Journal
+
+36
+
+[2019] 5 CLJ
+
+the prosecution has duly complied with s. 51A of the CPC, the
+disclosure obligation of documents on the part of the prosecution for
+pre-trial has been met, and the appellant is not entitled to any further
+disclosure at this stage;
+(v) Husdi v. PP [1979] 1 LNS 33; [1979] MLJ 304 bars the disclosure of
+investigation statements;
+
+A
+
+B
+
+(vi) The issue of the likelihood of witness tampering is another reason that
+investigation statements are prohibited from being disclosed to the
+accused persons;
+(vii) Section 124 of the Evidence Act 1950 applies to bar the production of
+the investigation statements which are confidential.
+
+C
+
+Our Decision
+Whether The Non-obstante Clauses Exclude All Other Provisions Of The Law
+[17] The learned trial judge made reference to Suruhanjaya Sekuriti v. Datuk
+Ishak Ismail which held that where statements taken in the course of
+investigation are to be automatically admissible, they must be subject to
+provisions of the Evidence Act 1950, which were made to codify rules
+pertaining to law of privilege and public policy against disclosure of
+investigation statements. While the appellant argued that the provisions in
+Suruhanjaya Sekuriti v. Datuk Ishak Ismail’s case do not involve a non-obstante
+clause, the learned trial judge further referred to Ho Tack Sien & Ors v. Rotta
+Research Laboratorium S.p.A & Anor; Registrar Of Trade Marks (Intervener) &
+Another Appeal and held that the appellant had not clearly made out a case
+as to the extent to which the Legislature had intended to give the relevant
+non-obstante clauses overriding effect over all other rules and legal
+provisions.
+[18] In PP v. Awalluddin Sham Bokhari [2018] 1 CLJ 305; [2018] 2 MLJ 401
+which concerned a non-obstante clause in AMLATFA, it was ruled by the
+Federal Court that the statements and documents exhibited to the
+investigation officer’s affidavit were admissible, notwithstanding the rule
+against hearsay. This is in relation to s. 134(4) of the Securities Commission
+Malaysia Act 1993 (SCA) which was examined by the Federal Court in
+Suruhanjaya Securities v. Dato Ishak Ismail where the accused had applied for
+discovery of all statements made to and recorded by the investigation officer
+of the Securities Commission in relation to investigation against the accused.
+The Federal Court after reversing the decision of the Court of Appeal
+dismissed the application for the production of such statements. Section
+134(4) of the SCA 1993 provides:
+134. Power to call for examination
+(1) If an Investigating Officer of the Commission carrying out an
+investigation under any securities law suspects or believes on
+reasonable grounds that any person can give information relevant
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+Dato’ Sri Mohd Najib Hj Abdul Razak
+v. PP
+
+37
+
+to a matter that he is investigating, the Investigating Officer of the
+Commission may by notice in writing to such person require such
+person:
+(a) To give to the Investigating Officer of the Commission all
+reasonable assistance in connection with the investigation; and
+
+B
+
+C
+
+D
+
+(b) To appear before a specified Investigating Officer of the
+Commission or specified Investigating Officers of the
+Commission to be examined orally.
+(1A) An Investigating Officer of the Commission exercising his authority
+under paragraph (1)(b) shall reduce into writing any statement made
+by the person examined under subsection (1).
+(2) A person referred to in subsection (1) shall be legally bound to
+answer all questions relating to such case put to him by the
+Investigating Officer of the commission and to state the truth,
+whether or not the statement is made wholly or partly in answer to
+questions, and shall not refuse to answer any question on the
+ground that it tends to incriminate him.
+(3) ...
+(4) Any statement made and recorded under this section shall be
+admissible as evidence in any proceeding in any Court.
+
+E
+
+F
+
+G
+
+H
+
+I
+
+[19] The Federal Court ruled that the provision under s. 134(4) of the SCA
+must be read subject to the rules of privilege and prohibition on grounds of
+public policy. This equally applies to civil and criminal proceedings. In the
+context of Suruhanjaya Securities v. Dato Ishak Ismail, the relevant and
+applicable rules for consideration are found in ss. 123 and 124 of the
+Evidence Act 1950. Sections 123 and 124 of the Evidence Act 1950 codify
+the rules of the law of privilege and public policy against the disclosure of
+investigation statements.
+[20] However, the appellant submitted that his application is in “stark
+contrast” to the application in Suruhanjaya Securities v. Dato Ishak Ismail
+which was made under s. 134 of the Securities Commission Malaysia Act
+1993 (SCA), and does not have the non-obstante clauses as in s. 30(9) of the
+MACC Act 2009 and s. 40 of the AMLATFA 2001. Hence the principle of
+law as enunciated by the Federal Court in Suruhanjaya Securities v. Dato Ishak
+Ismail that “statements made to and recorded by an investigating officer ...
+are not to be disclosed to the defence” and ss. 123 and 124 of the Evidence
+Act 1950 are superseded by the non-obstante clauses contained in the
+provisions.
+[21] The learned trial judge, had considered this point specifically and
+noted that the non-obstante clause was absent in s. 134(4) of the SCA.
+However, there are a plethora of authorities which suggest that where the
+non-obstante clause refers generally without stating the specific provision or
+statute to be overridden, it is not permissible to exclude per se all other
+
+
+
+38
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+legislations or provisions in force in other statutes. In the absence of specific
+words of the exact rules or laws to be excluded, no such automatic
+displacement can be made effective.
+[22] It is noted that the non-obstante clauses contain the word
+“Notwithstanding ...”. The Federal Court in Perbadanan Kemajuan Kraftangan
+Malaysia v. DW Margaret David Wilson [2010] 5 CLJ 899; [2010] 2 MLJ 713
+at p. 912 (CLJ); p. 726 (MLJ) had the occasion to explain the term
+“notwithstanding” which is:
+The term “notwithstanding” means generally “not to stand against it”, or
+“in the way” or overriding.
+The words notwithstanding anything contained in the Code of Criminal
+Procedure Code found at the beginning of s. 5A(1) of the Prevention of
+Corruption Act 1947 (now s. 17 Prevention of Corruption Act 1988)
+merely carve out a limited exemption from the provisions of the Code of
+Criminal Procedure in so far as they limit the class of persons who are
+competent to investigate offences mentioned in the section and to arrest
+without warrant. It does not mean that the whole of the Code of Criminal
+Procedure ... is made inapplicable - Union of India v. IC Lala [1973]
+2 SCC 72 at 77.
+
+A
+
+B
+
+C
+
+D
+
+(emphasis added)
+
+[23] From the grounds of judgment, the learned trial judge said that the
+extent of such exclusion must be worked out from a further examination of
+the true objective or scope or purpose behind the provisions where the
+non-obstante clause is adopted. The learned trial judge agreed that a literal
+reading appears to support the appellant’s stance, which, if true means the
+operation of, inter alia, the Evidence Act 1950 in respect of the rules on
+privilege and confidentiality in admitting as evidence, documents or
+statements obtained under s. 30 of the MACCA and s. 32 of the AMLATFA
+would be excluded.
+[24] The learned trial judge also held that if there arises a conflict between
+the specific statutory objective behind that provision and such other law on
+the same subject, the other law would be held to be excluded from being
+operative. He referred to the Federal Court case of Ho Tack Sien & Ors v. Rotta
+Research Laboratorium S.p.A & Anor; Registrar Of Trade Marks (Intervener) &
+Another Appeal [2015] 4 CLJ 20; [2015] 4 MLJ 166 where it concerns s. 40
+of the Trade Marks Act 1976 which begins with the word “notwithstanding
+...” and Zulkefli CJ (Malaya) (as he then was) held that it is a general
+principle that a non-obstante clause cannot go outside the limits of the Act
+itself. Non-obstante clause is subject to the limitations contained in the section
+and cannot be read excluding the whole Act and standing by itself.
+The Federal Court relied on the principle as stated in Varadarajulu & Anor
+v. The State of Tamil Nadu & Ors AIR 1998 SC 1388 which states:
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+Dato’ Sri Mohd Najib Hj Abdul Razak
+v. PP
+
+39
+
+It is well settled that while dealing with a non-obstante clause under which
+the legislature wants to give overriding effect to a section, the Court must
+try to find out the extent to which the legislature had intended to give
+one provision overriding effect over another provision. Such intention of
+the legislature in this behalf is to be gathered from the enacting part of
+the section. In Aswini Kumar v. Arbinda Bose AIR 1952 SC 369, Patanjali
+Sastri J observed: The enacting part of a statute must, where it is clear,
+be taken to control the non-obstante clause where both cannot be read
+harmoniously. In Madhav Rao Scindia v. Union of India [1971] 1 SCC 85
+(at p 139) AIR 1971 SC 530 Hidayatullah CJ observed that the
+non-obstante clause is no doubt a very potent clause intended to exclude
+every consideration arising from other provisions of the same statute or
+other statute but for that reason alone we must determine the scope of
+that provision strictly. When the section containing the said clause does
+not refer to any particular provisions of the statute generally, it is not
+permissible to hold that it excludes the whole Act and stands all alone
+by itself. A search has, therefore, to be made with a view to determining
+which provisions answer the description and which does not.
+
+Therefore as far as Ho Tack Sien & Ors is concerned, the Federal Court ruled
+that s. 40(1)(f) of the Trade Marks Act 1976 “only applies to a right to use
+a mark that has been duly registered under the Act”. It is therefore tied to
+s. 35(1) of the Act which governs the rights given by registration. It reads:
+E
+
+F
+
+G
+
+H
+
+I
+
+(1) Subject to the provisions of this Act, the registration of a person ... as
+registered proprietor of a trade mark (other than a certification trade mark)
+in respect of any goods or services shall, if valid, give or be deemed to
+have been given to that person the exclusive right to the use of the trade
+mark in relation to those goods or services subject to any conditions,
+amendments, modifications or limitations entered in the Register.
+
+[25] Premised on the weight of authorities of Suruhanjaya Sekuriti v. Datuk
+Ishak Ismail, which subject the admissibility to the rules on evidence and
+Ho Tack Sien & Ors v. Rota Research Laboratorium SPA, which requires specific
+reference to the provision/statute to be excluded, the learned trial judge
+concluded and held that the appellant had not clearly made out a case as to
+the extent to which the Legislature had intended to give the relevant
+non-obstante clauses overriding effect over all other rules and legal
+provisions. It is our view that the learned trial judge did not err in his judicial
+evaluation of the provisions and consideration of the authorities cited.
+[26] In any event, the learned trial judge had gone on to consider that, even
+if the construction ascribed to the non-obstante clauses by the appellant is to
+be taken as correct, that the documents and statements obtained during
+investigations are admissible as of right, the appellant still failed to establish
+whether their production to the appellant as the accused must necessarily
+follow. As rightly pointed out by the learned trial judge that admissibility of
+these documents does not equate to the right to inspect.
+
+
+
+40
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+[27] Therefore, it appears that the appellant had misconstrued the
+application of the non-obstante clauses found in s. 30(9) of the MACCA and
+s. 40 of the AMLATFA 2001 to exclude all other legislation or provisions
+in force in other legislations particularly the Evidence Act 1950. That cannot
+be the intention of Parliament. The non-obstante clauses found in the
+aforesaid sections must be read subject to the rules of privilege and
+prohibition on the grounds of public policy.
+[28] Various authorities were cited by the appellant in support of the
+equality of arms principle by claiming the appellant was being put at a
+disadvantage if not afforded the opportunity to view the documents etc. It
+was submitted that the appellant as an accused person should be accorded
+equal opportunity in deciding whether to admit the said evidence or
+otherwise premised on the observations by Lord Mustill in Re D (Minors)
+(Adoption reports: Confidentiality) [1996] AC 593 where he said:
+(the) first principle of fairness (is) that each party to a judicial process
+should have an opportunity to answer by evidence and by argument any
+adverse material that the tribunal may take into account when forming its
+opinion.
+
+[29] This was also considered by the learned trial judge and we agree with
+his view that the appellant failed to show how has he been discriminated
+against, as compared to other persons who are similarly under investigation
+by the MACC.
+[30] True, other countries have had advancements in adhering to the equal
+arms principle, as demonstrated by the cases cited by the appellant from the
+various jurisdiction in the submissions. The authorities cited by the
+applicant, namely Fitt v. United Kingdom [2000] ECHR 29777/96 which held
+that “it is a fundamental aspect of the right of a fair trial that criminal
+proceedings, including the elements of such proceedings which relate to
+procedure, should be adversarial and that there should be equality of arms
+between the prosecution and defence”. The learned trial judge had
+considered this, at best, to be of persuasive authority. It is also undeniable
+that some of the authorities cited by the appellant expressed concerns against
+unfettered access by accused persons to investigations documents and
+statements as shown in the South Africa Constitutional Court in Shabalala v.
+AG of the Transvaal and Anor 1995 (12) BCLR 1593 which was an authority
+relied upon by the appellant which ruled:
+[5] The state is entitled to resist a claim by the accused for access to any
+particular document in the police docket on the grounds that such access
+is not justified for the purposes of enabling the accused properly to
+exercise his or her right to a fair trial or on the ground that it has reason
+to believe that there is reasonable risk that access to the relevant
+document would lead to the disclosure of the identity of an informer or
+state secrets or on the grounds that there was a reasonable risk that such
+disclosure might lead to the intimidation of witnesses or otherwise
+prejudice the proper end of justice.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+Dato’ Sri Mohd Najib Hj Abdul Razak
+v. PP
+
+41
+
+[31] The appellant submitted that the operation of arts. 5 and 8 of the
+Federal Constitution demand that copies of the said documents and
+statements must be provided to the appellant before the commencement of
+trial. It was further submitted that in line with art. 5 and the application and
+ambit of s. 62 of the MACC Act 2009 justifies disclosure of admissible
+documents and statements to the appellant.
+[32] Article 5(1) of the Federal Constitution states that “No person shall be
+deprived of his life or personal liberties save in accordance with law” which
+implies that it is not absolute. In Pihak Berkuasa Negeri Sabah v. Sugumar
+Balakrishnan [2002] 4 CLJ 105; [2002] 3 MLJ 72, where the constitutionality
+of s. 59 of the Immigration Act 1959/63 was challenged on the basis that the
+exclusion of the right to be heard in that provision, before the cancellation
+of the respondent’s entry permit, was unconstitutional as it was said to have
+infringed his right to livelihood. It was held that the constitutional rights as
+guaranteed by art. 5(1) can be deprived in accordance with law. (See also
+S Kulasingam & Anor v. Commissioner of Lands, Federal Territory & Ors [1982]
+1 MLJ 204).
+
+E
+
+[33] Similarly, art. 8 of the Federal Constitution, which is the equality
+principle is also not absolute. The principles on the interpretation of art. 8
+of the Federal Constitution was laid down in Datuk Haji Harun Idris v. PP
+[1976] 1 LNS 180; [1976] 2 MLJ 116 which essentially held that the equality
+provision is not absolute, it is qualified and that it envisages that there may
+be lawful discrimination based on rational classification (See also PP v. Khong
+Teng Khen [1976] 1 LNS 100; [1976] 2 MLJ 166).
+
+F
+
+[34] The provisions of the MACC Act 2009 applies across the board on all
+persons alike, and thus the issue of discrimination against the appellant does
+not arise.
+
+G
+
+H
+
+I
+
+[35] The reference of the appellant to the provisions on fundamental
+liberties of Constitutions of South Africa is misconceived as the provision in
+their Constitution is different from our art. 8 and s. 35(3)(h) of the
+Constitution of South Africa provides that “Every accused person shall have
+the right to a fair trial, which shall include the right to be presumed innocent
+and to remain silent during plea proceedings or trial and not to testify during
+trial.” In this regard, the judgment of Raja Azan Shah J (as he then was) in
+Loh Kooi Choon v. Government of Malaysia [1975] 1 LNS 90; [1977] 2 MLJ
+187 is relevant where His Lordship said:
+Whatever may be said of other Constitutions, they are ultimately of little
+assistance to us because our Constitution now stands in its own right and
+it is in the end the wording of our Constitution itself that is to be
+interpreted and applied, and this wording ‘can never be overridden by
+extraneous principles of other Constitutions’ ... Each country frames its
+constitution according to its genius and for the good of its own society.
+
+
+
+42
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+We look at other Constitution to learn from their experiences, and from
+a desire to see how their progress and well-being is ensured by their
+fundamental law.
+
+[36] Section 51A of the CPC is a step towards the equality in arms
+principle. As stated by the learned trial judge, any further development must
+await legislative interventions, and not by a mere prismatic construction of
+constitutional provisions.
+
+A
+
+B
+
+[37] In the context of s. 62 of the MACC Act 2009, the appellant argued
+that these investigation statements and other documents are admissible as of
+right, and which admissions, should be the prerogative of both parties.
+C
+
+[38] The learned trial judge found that the reasoning advanced by the
+appellant in regard to s. 62 of the MACC Act 2009 is rather misconceived
+and unsustainable. Such arguments defeat the purpose of Parliament
+legislating the MACC Act 2009 to rely on s. 51A in s. 62 of the MACC Act
+2009. The learned trial judge found that other than s. 51A of CPC and s. 62
+of the MACC Act 2009, there is no other law that exists demanding
+disclosure, and no automatic disclosure can be founded on non-obstante
+clause. Further, if automatic disclosure is correct, without any express
+provisions on production, it would not have been necessary for the MACC
+Act 2009 to enact s. 62 of the MACC Act 2009 at all. We do not see how
+is the judge wrong in such reasoning. It is trite that Parliament does not
+legislate in vain.
+[39] Section 51A of the CPC is a significant amendment with regards to
+disclosure at pre-trial stage. So is s. 62 of the MACC Act 2009. There is no
+compelling legal analysis that could support the argument that automatic
+admissibility gives the automatic right to disclosure and inspection, in the
+absence of clear legislative prescriptions to that effect.
+[40] Section 51A of the CPC provides for disclosure at pre-trial stage. It
+provides access of disclosure, but a limited one and does not envisage full
+unlimited disclosure and inspection of the prosecution’s case. Section 51A
+of the CPC provides:
+
+D
+
+E
+
+F
+
+G
+
+51A(1) The prosecution shall before the commencement of the trial deliver
+to the accused the following documents:
+(a) A copy of the information made under section 107 relating to the
+commission of the offence to which the accused is charged, if any;
+
+H
+
+(b) A copy of any document which would be tendered as part of the
+evidence for the prosecution; and
+(c) A written statement of facts favourable to the defence of the
+accused signed under the hand of the Public Prosecutor or any
+person conducting the prosecution.
+(2) Notwithstanding paragraph (c), the prosecution may not supply any
+fact favourable to the accused if its supply would be contrary to public
+interest.
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+Dato’ Sri Mohd Najib Hj Abdul Razak
+v. PP
+
+43
+
+(3) A document shall not be inadmissible in evidence merely because of
+non-compliance with subsection (1).
+(4) The Court may exclude any document delivered after the
+commencement of the trial if it is shown that such delivery was done
+deliberately and in bad faith.
+
+B
+
+(5) Where a document is delivered to the accused after the
+commencement of the trial, the Court shall allow the accused:
+(a) A reasonable time to examine the document; and
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+(b) To recall or re-summon and examine any witness in relation to the
+document.
+(emphasis added)
+
+[41] Section 51A lists the documents that are required to be furnished to
+the accused before trial. But as for fact that is favourable to the defence ie,
+s. 51A(1)(c), the prosecution need not supply any fact favourable to the
+defence of the accused, if its disclosure would be contrary to public interests.
+Further, s. 51A(5) of the CPC provides that where the document is delivered
+to the accused after the trial had commenced, the court shall give to the
+accused reasonable time to examine the document and to recall and examine
+any witness in relation to the document. However, notwithstanding the
+aforesaid, the court may exclude the document to be delivered after the trial
+had commenced if it is shown that such delivery was done deliberately and
+in bad faith.
+[42] There are leading authorities and case laws which have established this
+clear proposition of law on the scope of s. 51A of the CPC (Refer to: Syed
+Abu Bakar Ahmad v. PP [1981] 1 LNS 127; [1982] 2 MLJ 186; PP v. Raymond
+Chia Kim Chwee & Anor & Another Case [1985] 2 CLJ 457; [1985] CLJ (Rep)
+260; [1985] 2 MLJ 436.) The decision of Raymond Chia Kim Chwee was
+followed in PP v. Dato’ Seri Anwar Ibrahim & Another Appeal [2010] 4 CLJ
+331).
+[43] In PP v. Dato’ Seri Anwar Ibrahim & Another [2010] 4 CLJ 331, the
+accused applied for the production of witness statements of various witnesses
+and all documents not used by the prosecution and a list of prosecution
+witnesses at the pre-trial stage, similar as in our present case (refer to
+pp. 273-274 of the report). At the High Court, the application was allowed.
+However, the Court of Appeal set aside the order of the High Court which
+was affirmed by the Federal Court. PP v. Dato’ Seri Anwar Ibrahim And
+Another referred to Raymond Chia Kim Chwee. It is pertinent to quote what
+was said by Hashim Yeop Sani SCJ in Raymond Chia Kim Chwee at pp. 264
+& 264 (CLJ); p. 439 (MLJ), the legal position in the following terms:
+The entitlement of the accused under section 51 of the CPC to any
+document or copies of document or other material in the possession of
+the prosecution is entirely at the discretion of the Court having regard to
+the justice of the case. The discretion should not however be exercised
+
+
+
+44
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+so as to enable the accused to gain access to materials before the trial as
+in the case of pre-trial discovery and inspection of documents in a civil
+proceeding. The accused in a criminal trial should have sufficient notice
+of what is alleged against him so as to enable him to prepare his defence.
+So long as that requirement is satisfied the law is satisfied ...
+
+A
+
+... If the discretion is to be exercised before the commencement of the trial
+the Court cannot anticipate how the prosecution will proceed. In other
+words the court would not be justified to direct the prosecution to deliver
+to the accused all documents taken from him for that will not be a correct
+exercise of the discretion under section 51 of the Criminal procedure
+Code ...
+
+B
+
+Under section 51A of the CPC the accused is most certainly entitled to
+have copies of documents which are specified in the charge. But the
+accused cannot be expected to be given access to all documents
+whatsoever taken by the police during investigation ... .
+
+In exercising its discretion under s. 51A for the supply of documents before
+the commencement of trial, the court must have regard to ss. 152, 153 and
+154 of the CPC. Hence the discovery at this stage, namely at the pre-trial
+stage, as in our present case (where trial has not commenced) is only limited
+to matters that are specified in the charge, to enable the appellant to prepare
+his defence. The appellant would not be prejudiced in any event as the
+appellant had been fully informed of the charge against him. How can it be
+said that the appellant would be put at a disadvantage in preparing his defence
+as that is not a relevant consideration at this stage. The Federal Court in
+Dato’ Seri Anwar Ibrahim v. PP [2010] 4 CLJ 265 held that:
+[4] Sections 51 and 51A are two separate and distinct provisions. Section
+51A imposes an obligation upon the prosecution to supply the accused
+with certain documents and materials. It has no connection to s. 51 which
+gives the court discretion to allow for discovery in specific instances.
+Section 51 could not be modified with the aid of the supposed philosophy
+underlying the new s. 51A, even if such philosophy existed. It was thus
+wrong for the judge to conclude that s. 51A, had changed the mode of
+prosecution in a criminal trial, and in the process ignore past precedents
+on interpretation. It was also wrong for the judge to say that earlier cases
+decided on s. 51 were no longer applicable.
+[5] In the instant case, the application for discovery by the Appellant was
+made at a pre-trial stage and not made “in the course of the trial”. At the
+pre-trial stage the appellant would only be entitled to those documents
+and materials pertaining to the charge, to enable him to understand the
+charge and prepare his defence. The phrase “in the course of trial” means
+that the trial proper has commenced in that evidence has been led by the
+calling of witnesses. The phrase does not mean the stage where the
+charge is only read to the accused. PP v. Raymond Chia Kim Chwee & Anor
+(foll) ...
+[6] Although s. 51 appears couched in rather wide terms, it should not
+literally be taken to be capable of allowing for a wide ranging application,
+as in the instant case. Its scope is confined to the production of
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+Dato’ Sri Mohd Najib Hj Abdul Razak
+v. PP
+
+45
+
+documents or materials “necessary or desirable” for the purposes of trial.
+These 2 qualifications depend on which particular stage or point of time
+the application is made. If, as in this case, it is made at the pre-trial stage,
+then the discovery must be confined to the matters specified in the charge.
+In the instant case, the charge was specific and was sufficiently
+particularised to accord the appellant a fair trial. The requirement of justice
+had been met, even without the documents and materials sought. PP v.
+Raymond Chia Kim Chwee & Anor (foll) ...
+
+[44] Therefore, by virtue of s. 51A of the CPC, as we are now at the
+pre-trial stage, the appellant is only entitled to the following documents:
+C
+
+(i) A copy of the first information report made under s. 107 of the CPC;
+(ii) Copies of documents which the prosecution intends to tender as part of
+the evidence for the prosecution; and
+(iii) Written statement of facts favourable to the defence of the accused.
+
+D
+
+What the appellant sought in his notice of motion in prayer (1)(g) are for
+examination and written statements on oath or affirmations recorded by
+MACC under MACC Act 2009 or AMLATFA 2001. Essentially, the
+appellant is asking for him to be supplied with all statements recorded from
+witnesses other than the appellant/accused.
+
+E
+
+[45] In prayer 1(h), the appellant is asking for inspection of documents
+seized in the course of investigation which is not within the ambit of s. 51A.
+
+F
+
+G
+
+H
+
+I
+
+[46] The appellant is applying for all statements recorded by the MACC
+and other documents taken by them in the course of investigation without
+specifying the exact documents. The application is of a general nature and
+not targeted towards any specific document. It is a general rule of law that
+the request must be directed at a specific document and a general direction
+to produce all documents relating to the subject matter in dispute will not be
+enforced (Refer to PP v. Teoh Choon Teck [1962] 1 LNS 141; [1963] 1 MLJ
+34.)
+[47] The application is also for statements given by potential witness to the
+MACC and other documents obtained by the MACC under the relevant
+provisions compelling production embodied in the MACC Act 2009 and
+AMLATFA 2001 in the course of investigation pertaining to the charges
+against the appellant. It is trite that an accused person is not entitled to copies
+of police statements recorded from witnesses recorded in the course of
+investigations. Firstly, such statement is a privileged document
+(see Methuram Dass v. Jagannath Dath ILR 28 Cal 794) and secondly, as a
+matter of public policy, it is undesirable for the prosecution to supply the
+defence with the police statements as there is a danger of tampering with
+witnesses (Refer to Husdi v. PP [1980] 1 LNS 29; [1980] 2 MLJ 80). This
+fails the test of desirability and necessity in s. 51A of the CPC.
+
+
+
+46
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+[48] It has been submitted by the appellant that the respondent’s affidavits
+did not aver on any reluctance or possible reluctance by any potential
+witnesses. Neither is there any averments by the respondent in any of the
+affidavits which alleged any repercussions to other possible investigations or
+even the existence of any other pending investigations against the appellant.
+It is also to be noted that the powers of the investigators under the MACC
+Act 2009 and AMLATFA 2001 clearly compel witnesses to provide
+statements to the MACC Act 2009 and the penal consequences of non
+attendance. On this, we refer to what was said by the Federal Court in Husdi
+v. PP [1980] 1 LNS 29; [1980] MLJ 80 at p. 82:
+
+A
+
+We do not think that the prosecution should supply copies of the police
+statement direct to the defence without the intervention of the courtbecause of the peculiar circumstances prevailing in this country. Malaysia
+is a small country, with a small population, and Malaysians are easily
+scared; they are reluctant to be involved. If a crime is committed under
+their nose they look the other way, see, hear and say nothing, do little
+or nothing to help identify - let alone - arrest an offender, and yet
+complain that the police do not catch criminals and that courts are
+bedazzled by technicalities. If the prosecution is obliged to supply copies
+of police statements to the defence without the intervention of the court,
+the defence may be tempted to ask for, and the prosecution will be obliged
+to supply copies of every statement in the police investigation file, and
+Malaysians will be more reluctant to come forward with evidence to
+incriminate their fellows.
+
+C
+
+Thus, regardless of the absence of any averments by the respondent in the
+affidavits as to the possibility of witness tampering, the risk is substantive and
+real.
+[49] Further, it is not in the public interest if statements taken from
+witnesses and documents obtained during the course of police investigations
+be furnished to the appellant. Section 124 of the Evidence Act 1950 provides
+that a public officer cannot be compelled to disclose communications made
+to him in official confidence if he considers that public interest would suffer
+by such disclosure. This will also include communications made to MACC
+officers in their official confidence (See s. 6(2) of the MACCA 2009).
+Providing the appellant with the documents sought for in the prayers which
+were made in official confidence to the MACC would prejudice further
+investigations relating to other cases involving the appellant (See Suruhanjaya
+Sekuriti v. Datuk Ishak Ismail).
+[50] The learned trial judge based his findings on the ratio in the case of
+Federal Court case of Suruhanjaya Sekuriti v. Datuk Ishak Ismail which held
+that the provision of s. 134(4) of the SCA must be read subject to the rules
+of privilege and prohibition on grounds of public policy.
+
+B
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+Dato’ Sri Mohd Najib Hj Abdul Razak
+v. PP
+
+47
+
+[51] The learned trial judge held that the statements of witnesses made to
+MACC officers are privileged documents under s. 124 of the Evidence Act
+1950. Therefore, it is his findings that as investigators are public officers
+under s. 6(2) of the MACCA thus attracting s. 124 of the Evidence Act 1950
+which means communications made to such officers of MACC in official
+confidence cannot be compelled to be disclosed.
+[52] It is the prerogative of the prosecution as to how to prove their case
+and it is not for the court to anticipate as to how the prosecution is to proceed
+with the conduct of proving the charge against the appellant.
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+[53] The application in this case is not for documents which are specified
+in the charge which is against the accused. Therefore, to allow the appellant
+to go beyond these particulars would be to provide the accused with
+knowledge of the means by which the prosecution proposed to prove the
+alleged facts. That is not what s. 51A envisaged. Syed Abu Bakar Ahmad v. PP
+[1981] 1 LNS 127 is a case which illustrates this point. The accused applied
+for an order to inspect and make copies of all documents in the possession
+of the prosecution. The accused contended that he would be gravely impaired
+in preparing his defence without giving him an opportunity to have sight of
+the documents. His application was dismissed by Seah J, who was of the
+view that s. 51 of the CPC should be construed strictly and it does not allow
+an accused to ask for discovery of documents or inspection of documents
+seized by the police in the course of their investigation or in their possession
+before the criminal trial because to do so would mean an inspection of the
+evidence of the prosecution by the defence prior to the trial. Therefore, save
+for the documents as provided under s. 51A of the CPC, the defence is not
+entitled to ask for the disclosure or inspection of documents/materials in the
+possession of the prosecution before the commencement of the trial.
+[54] It is submitted by the respondent in the submission before us that the
+application by the appellant does amount to a fishing expedition, thus the
+generality of the documents applied for. This has been specifically addressed
+by the Federal Court in Dato’ Seri Anwar Ibrahim v. PP where the Federal
+Court said that:
+[47] The appellant cannot say at this stage that his defence is going to
+be so and so and that he needs to have access to such and such
+documents and materials to prepare for his defence. One settled principle
+attached to the application for discovery under s. 51 CPC is that, at this
+pre trial stage, a roving and fishing inquiry for evidence is not permissible.
+A catch all net cannot be cast. The appellant is not entitled to know by
+what means the prosecution proposes to prove the facts underlying the
+charge he faces. This remains the prerogative of the prosecution.
+
+
+
+48
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+Conclusion
+
+A
+
+[55] Therefore, based on the aforesaid, the appellant is not entitled to be
+supplied with the documents stipulated in paras. (1)(g), (h), (i), (j) and 2(i) in
+the notice of motion.
+[56] We find that the learned trial judge did not err in his findings that the
+applicant has failed to establish a case for delivery of the information and
+documents applied for. We unanimously dismissed the appeal by the
+appellant and affirmed the decision of the learned High Court Judge.
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+

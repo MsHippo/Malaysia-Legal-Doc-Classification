@@ -1,0 +1,908 @@
+678
+
+Current Law Journal
+
+[2015] 1 CLJ
+
+PP v. BILLION NOVA SDN BHD & ORS
+
+A
+
+HIGH COURT SABAH & SARAWAK, MIRI
+STEPHEN CHUNG J
+[CRIMINAL APPLICATION NO: MYY-44-4-9-2013]
+29 SEPTEMBER 2014
+B
+
+CRIMINAL LAW: Money laundering – Forfeiture – Application to forfeit
+properties seized – Allegation that first respondent sold cigarettes and liquor to buyers
+outside duty free port to unknown buyers in Malaysia – Deposits made into first
+respondent’s account were stated as ‘cash sale-cigarette’ – First respondent transferred
+several big sums of money into accounts of third, fourth and fifth respondents –
+Whether respondents engaged in money laundering which entitled prosecution to
+seize and to forfeit sums in bank accounts – Anti-Money Laundering and AntiTerrorism Financing Act 2001, ss. 56(1), 61(2) – Customs Act 1967, ss. 135(1)(g),
+155(1)(b)
+In the present application, the Public Prosecutor (‘PP’) applied under
+ss. 56(1) and 61(2) of the Anti-Money Laundering and Anti-Terrorism
+Financing Act 2001 (‘AMLATFA’) to forfeit the properties belonging to the
+respondents in 25 bank accounts amounting to RM1,340,737.10, which have
+been seized under s. 56(1) of the same Act. The sum had been obtained as
+a result of alleged smuggling activities carried out by the respondents. The
+PP did not institute any prosecution against the respondents for any offence
+and none of them had been convicted for any offence under the Customs Act
+1967 (‘the Act’). The PP submitted that based on investigation by the
+investigating officer (‘IO’), the first respondent sold cigarettes and liquor to
+buyers at a place outside Labuan, which was an offence under s. 135(1)(g)
+of the Act. Sixteen deposits made into the first respondent’s account were
+stated as ‘cash sale-cigarette’. The first respondent then transferred several
+big sums of money from its account into the accounts of the third, fourth and
+fifth respondents which totalled up to RM1,044,480. According to the PP,
+the respondents could not explain why the accounts did not tally with the
+buyers’ account and statements. The first respondent had allegedly exported
+or sold duty free cigarettes from Labuan to unknown buyers in Malaysia.
+The proceeds from the sales were paid in Miri and Kota Kinabalu and the
+PP submitted that the acts of the respondents in failing to pay tax for the sales
+formed a case of smuggling and contravened s. 135(1)(g) of the Act. The
+issues that arose for the court’s determination were: (i) whether the
+respondents sold the cigarettes in contravention of the Act or were engaged
+in money laundering which entitled the PP to seize and to forfeit the sums
+in the bank account; and (ii) whether the cigarettes were sold and delivered
+to the purchasers in Labuan.
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2015] 1 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+PP v. Billion Nova Sdn Bhd & Ors
+
+679
+
+Held (dismissing application):
+(1) The freezing or seizures of the accounts were set aside. The PP failed
+to establish, on a balance of probabilities, that the respondents were
+involved in money laundering or in unlawful activities or that the
+proceeds in the bank accounts were or are the proceeds from unlawful
+activities or for the purpose of money laundering. (para 53)
+(2) There was no explanation as to why the second respondent was included
+in this application. The PP did not seize any bank account of the second
+respondent and had not applied to forfeit any money in any bank
+account of the second respondent. There was no evidence led that the
+second respondent was involved in selling duty free cigarettes or
+involved in smuggling them or that he was involved in money
+laundering. The application against the second respondent ought to be
+struck out. (para 35)
+(3) Although the PP contended that based on documents exhibited, the
+cigarettes were sold outside Labuan, no direct evidence was led that the
+first respondent and/or the other respondents had transported or
+exported duty free cigarettes from Labuan which were sold in Miri or
+Kota Kinabalu. There was also no evidence led that the cigarettes were
+sold in Malaysia and that they were intended to evade customs or import
+duty. (para 36)
+(4) There was no evidence that the cigarettes in the 16 transactions
+described as ‘cash sale-cigarette’ which the IO said were paid for in
+Miri, were sold or delivered to the purchasers outside Labuan or in Miri
+or Kota Kinabalu. Furthermore, the PP did not refer to any provision
+or regulations under the Act or any legislation that duty free cigarettes
+sold in Labuan must be paid in Labuan or could not be paid for in Miri
+or elsewhere. Similarly, the PP did not refer to any Bank Negara
+regulations or directives that duty free cigarettes sold in Labuan must be
+paid in Labuan or could not be paid in Miri or Kota Kinabalu.
+(paras 39 & 41)
+(5) There is no provision in the Act against any sale outside Labuan. Section
+155(1)(b) of the Act provides that no export duty shall be payable upon
+any goods exported from Labuan. If the goods were imported or
+transported to Malaysia from Labuan or Langkawi, then s. 155(1)(c)
+provides that import duty shall be payable upon all dutiable goods
+transported to the principal customs area from Labuan or Langkawi to
+all intents as if such transportation to the principal customs area were
+importation into Malaysia (para 42).
+(6) The IO did not affirm that he is or was an accountant or an expert in
+accounts or auditing or accounting or forensic accounting. The IO did
+not connect with each ‘cash sale-cigarette’ or each transaction or sale of
+cigarettes to each smuggling of cigarettes or unlawful sales of cigarettes
+
+
+
+680
+
+Current Law Journal
+
+[2015] 1 CLJ
+
+or which were in contravention of the Act. The PP did not exhibit any
+report by any accountant or expert to trace or connect the entries in the
+ledgers or accounts with any smuggling of cigarettes or unlawful sales of
+cigarettes or that these proceeds or payments were derived from
+unlawful activities or for money laundering (para 50).
+
+A
+
+(7) The IO did not produce any report from the Inland Revenue or Tax
+Department that the respondents had evaded income tax or other taxes
+which contravened any law. There was no report by Bank Negara or any
+other banks that these bank accounts or the proceeds in the bank
+accounts were involved in money laundering. Hence, the PP could not
+show that the transactions or payments into the bank accounts of the
+third, fourth and fifth respondents were proceeds from unlawful
+activities (paras 50 & 51).
+
+B
+
+Case(s) referred to:
+PP v. Dragcom Sdn Bhd & Ors and Other Cases [2013] 10 CLJ 628 HC (refd)
+PP v. V Alexandra a/l Chako Vanglise (and another case) [2010] 8 AMR 159 (refd)
+Legislation referred to:
+Anti-Money Laundering and Anti Terrorism Financing Act 2001, ss. 2(1), (2),
+4(1), 50(1), 56(1), (2), (3), (4), 61(2), (4)
+Customs Act 1967, ss. 119, 135(1)(g), 154, 155(1)(a), (b), (c), 158, 163A, 163B(1)(a),
+(b)
+Sales Tax Act 1972, s. 73(a)
+
+C
+
+D
+
+E
+
+For the applicant - Noor Zalizan Lazarous (Aida Mastura with her); DPPs
+For the respondents - Arthur CA Lee; M/s Arthur CA Lee & Partners, Advocates
+
+Reported by Najib Tamby
+
+F
+
+JUDGMENT
+Stephen Chung J:
+[1]
+On 19 September 2013, by a notice of motion, the applicant applied
+to the High Court at Miri, that the properties belonging to the respondents
+in twenty-five (25) bank accounts in Labuan and Miri, which have been
+seized under s. 50(1) of the Anti-Money Laundering and Anti-Terrorism
+Financing Act 2001 (AMLATFA) (‘Act 613’), be forfeited under s. 56(1) and
+s. 61(2) of the Act.
+[2]
+In the application it was stated that the Public Prosecutor (PP) was
+satisfied that the properties seized by the investigation officer (Penguasa
+Kastam Ahmad bin Talib) (referred to as the IO) from the ‘Polis DiRaja
+Malaysia on 25 June 2012’ were properties that had been obtained as a result
+of or in connection with an offence under s. 4(1) of Act 613. On 4 August
+2014 the applicant applied to amend this statement to read instead as the
+‘Kastam Di Raja Malaysia on 21 September 2012’. The respondents did not
+object to this amendment and the court allowed the amendment.
+
+G
+
+H
+
+I
+
+
+
+[2015] 1 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+PP v. Billion Nova Sdn Bhd & Ors
+
+681
+
+[3]
+Based on the affidavits, the monies in the 25 bank accounts amounting
+to RM1,340,737.10 were seized on 21 September 2012. The PP did not
+institute any prosecution against any of the five respondents for any offence
+and none of them has been convicted for any offence under Act 613 nor
+under the Customs Act 1967. However it was contended that these sums had
+been obtained as a result of or in connection with smuggling activities carried
+out by the respondents. The PP accordingly applied under s. 56(1) of Act 613
+that the monies in the 25 bank accounts be forfeited because such properties
+had been obtained as a result of or in connection with an offence of money
+laundering under s. 4(1) of the Act.
+[4]
+Reading the application, affidavits and submissions, the PP submitted
+that based on an investigation conducted by the IO the first respondent sold
+cigarettes and liquor to buyers where the transactions occurred at a place
+outside Labuan and that the respondents had committed an offence under
+s.135(1)(g) of the Customs Act by knowingly being concerned in fraudulent
+evasion or attempt at fraudulent evasion of customs duty or in evasion or
+attempt at evasion of any prohibition of import or export. The grounds of the
+application were set out in the affidavit in support of the IO affirmed on
+18 September 2013 (‘first affidavit’) and in another affidavit also affirmed on
+the same date and time marked as exh. ‘AT10(4)’ (‘second affidavit’).
+[5]
+It must be stated that the marking of the exhibits by the PP was
+confusing. The exhibits attached to the first affidavit of the IO were marked
+as exhs. ‘AT1’, ‘AT8 2’, ‘AT3(a) to (o)’, ‘AT4(a)-(b)’, ‘AT5’, ‘AT6’, ‘AT7’,
+‘AT8’, ‘AT9’ and ‘AT10 (1) to (4)’. The second affidavit of the IO which
+was affirmed on the same date and time was annexed to the first affidavit and
+marked as exh. ‘AT10 (4)’. However the exhibits attached to the second
+affidavit were similarly marked as exhs. ‘AT1’ until ‘AT8’. When the IO
+referred to exh. ‘AT1’, he did not explain which ‘AT1’ he was referring to.
+Any exhibits to be marked must be in running numbers and not be repeated
+to avoid confusion.
+[6]
+Further, the PP exhibited about 1,000 pages of the ledgers, trial
+balances and balance sheets of the first respondent annexed to the affidavits
+of the IO. However there was no pagination for easy reference. When the IO
+referred to a certain entry or entries in the ledger, he did not refer to the page
+where the entries appeared in the ledger, the significance of the entries and
+whether these involved or were connected with money laundering.
+[7]
+Act 613 is an Act to provide for the offence of money laundering, the
+measures to be taken for the prevention of money laundering and terrorism
+financing offences and to provide for the forfeiture of terrorist property and
+property involved in, or derived from, money laundering and terrorism
+financing offences, and for matters incidental thereto and connected
+therewith. Section 2(1) states that this Act shall apply to any serious offence,
+foreign serious offence or unlawful activity whether committed before or
+after the commencement date of this Act. “Serious offence” means any of the
+
+
+
+682
+
+Current Law Journal
+
+[2015] 1 CLJ
+
+offences specified in the Second Schedule or an attempt to commit any of
+those offences or the abetment of any of those offences. Section 135 of the
+Customs Act has been included in the Second Schedule as one of the serious
+offences. Section 2(2) provides that this Act shall apply to any property,
+whether it is situated in or outside Malaysia.
+
+A
+
+[8]
+Section 4(1) of Act 613 provides for an offence of money laundering
+which states that any person who (a) engages in, or attempts to engage in; or
+(b) abets the commission of, money laundering, commits an offence. In the
+definition section, money laundering is defined as the act of a person who:
+
+B
+
+(a) engages, directly or indirectly, in a transaction that involves
+proceeds of any unlawful activity;
+
+C
+
+(b) acquires, receives, possesses, disguises, transfers, converts,
+exchanges, carries, disposes, uses, removes from or brings into
+Malaysia proceeds of any unlawful activity; or
+(c) conceals, disguises or impedes the establishment of the true nature,
+origin, location, movement, disposition, title of, rights with respect
+to, or ownership of, proceeds of any unlawful activity;
+
+D
+
+where:
+(aa) as may be inferred from objective factual circumstance, the
+person knows or has reason to believe, that the property is
+proceeds from any 1 unlawful activity; or
+(bb) in respect of the conduct of a natural person, the person without
+reasonable excuse fails to take reasonable steps to ascertain
+whether or not the property is proceeds from any unlawful
+activity ...
+
+[9]
+There are two parts in this definition. Firstly, the act of a person who
+inter alia engages in a transaction that involves proceeds of any unlawful
+activity or receives proceeds of any unlawful activity and secondly he knows
+or has reason to believe that the property is proceeds from any unlawful
+activity or fails to take reasonable steps to ascertain whether or not the
+property is proceeds from any unlawful activity. The burden is on the PP to
+prove both these ingredients using the standard of proof required in civil
+proceedings: see s. 56(4) of Act 613; Pendakwa Raya v. V Alexandra a/l Chako
+Vanglise (and another case) [2010] 8 AMR 159.
+[10] Under s. 56(1), in respect of any property frozen or seized under this
+Act where there is no prosecution or conviction for an offence under
+sub-s. 4(1) or a terrorism financing offence, the Public Prosecutor may,
+before the expiration of 12 months from the date of the freeze or seizure,
+apply to a judge of the High Court for an order of forfeiture of that property
+if he is satisfied that such property had been obtained as a result of or in
+connection with an offence under sub-s. 4(1) or a terrorism financing offence,
+as the case may be, or is terrorist property.
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2015] 1 CLJ
+A
+
+B
+
+PP v. Billion Nova Sdn Bhd & Ors
+
+683
+
+[11] Section 56(2) states that the judge to whom an application is made
+under sub-s. (1) shall make an order for the forfeiture of the property if he
+is satisfied:
+(a) that the property is the subject matter of or was used in the commission
+of an offence under sub-s. 4(1) or a terrorism financing offence or is
+terrorist property;
+(b) that there is no purchaser in good faith for valuable consideration in
+respect of the property.
+
+C
+
+D
+
+E
+
+F
+
+Under s. 56(3) any property that has been seized and in respect of which no
+application is made under sub-s. (1) shall, at the expiration of 12 months
+from the date of its seizure, be released to the person from whom it was
+seized. The bank accounts were seized on 21 September 2012 and this
+application for forfeiture was made on 19 September 2013. There was no
+objection or complaint by the respondents that it was outside the 12 months
+as provided in s. 56 of Act 613: see PP v. Dragcom Sdn Bhd & Ors and Other
+Cases [2013] 10 CLJ 628; [2013] 5 MLJ 594.
+[12] Under s. 61(2) of Act 613 the judge to whom an application is made
+under s. 56(1) shall cause to be published a notice in the Gazette calling upon
+any third party who claims to have any interest in the property to attend
+before the court on the date specified in the notice to show cause as to why
+the property shall not be forfeited. After the Gazette was published, no third
+party had come forward to claim any of the monies in these accounts except
+the respondents who held these accounts. Therefore the provisions of s. 61(4)
+are not applicable to this application for the forfeiture of the proceeds in these
+25 accounts.
+[13] In his first affidavit, the IO affirmed that the first respondent was
+incorporated with an address in Labuan and with its business to import and
+export beers, liquors and cigarettes. The other respondents were the
+shareholders and directors of the first respondent (see exh. ‘AT1’).
+
+G
+
+H
+
+I
+
+[14] He affirmed that from his investigation the 1st respondent had bought
+cigarettes from two companies ie, Lihan Trading and Syarikat Jayapuri in
+Miri to be sold in Labuan. He said that under s. 154 and s. 155(1)(a) of the
+Customs Act, Labuan is a duty free port, all cigarettes imported into Labuan
+were accorded with the status ‘Malaysia Duty Not Paid’ and such cigarettes
+could only be sold in Labuan. He said any cigarettes transported or exported
+from Labuan into Malaysia would be subject to duties under s. 155(1)(c) of
+the Customs Act. There are similar provisions in ss. 163A and 163B in
+respect of the duty free status of Langkawi.
+[15] The IO affirmed that from his investigation there were 82 payments
+made into the first respondent’s bank account bearing no. 3-0659180-25 at
+Public Bank in Labuan. Out of these, 81 payments were made via Public
+Bank in Miri and one via Public Bank in Kota Kinabalu. He said these 82
+
+
+
+684
+
+Current Law Journal
+
+[2015] 1 CLJ
+
+deposits or transactions made into this account in Labuan amounted to
+RM2,675,090. Out of these, 16 deposits were via ‘cash sale-cigarette’
+between 1 July 2009 to 30 June 2011.
+[16] He said that he had interviewed one Toh Kah Tiong, who is the son
+of the second respondent, and the elder brother of the Toh Kah Ming who
+is the manager of the first respondent. He said Toh Kah Tiong told him that
+Toh Kah Ming had instructed Toh Kah Tiong to bank in RM68,800 into the
+account of the first respondent being the proceeds from the sales of cigarettes
+which he received from a person from Brunei but he did not know where the
+sales were carried out.
+[17] He said from his investigation the first respondent had transferred
+several big sums of money from this account in Labuan into the accounts of
+the third, fourth and fifth respondents, for example the sum of RM366,630
+into the bank account of the fourth respondent (see para. 18 of his first
+affidavit). He said the 1st respondent had transferred a total of RM1,044,480
+into the bank accounts of the third, fourth and fifth respondents between
+2009 and 2011. He said there was no explanation for these transfers or the
+purposes for these transfers.
+[18] The PP submitted that based on the transactions concerning these bank
+accounts, the respondents did not and could not explain why the accounts did
+not tally with the buyers’ account and statements. It was submitted that if the
+sales were conducted in Labuan, as the respondents had contended, the
+evidence showed that the payments were made outside Labuan via cash
+deposit slips made in Miri.
+[19] The IO believed that from his investigation the first respondent had
+exported or sold ‘Malaysia Duty Not Paid’ cigarettes from Labuan via cash
+sales or fictitious sales to unknown buyers in Malaysia. He said these sales
+were outside Labuan because the proceeds from the sales were paid in Miri
+and Kota Kinabalu. The PP submitted that the acts of the respondents in
+failing to pay tax for the sales conducted outside Labuan had contravened the
+provisions of s. 135(1)(g) Customs Act and therefore an offence under s. 4(1)
+of Act 613. The PP submitted that this is a case of smuggling.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+[20] The PP submitted that it relied on documentary and circumstantial
+evidence and that it had established its case against the respondents. The PP
+submitted that the applicant only need to show that there was a link between
+the properties seized with the predicate and AMLATFA case in order to
+establish this application and that it has done so on a balance of probabilities,
+also referring to s. 56(4) of Act 613.
+
+H
+
+[21] The PP further submitted that by virtue of s. 119 of the Customs Act,
+the burden of proof was on the respondents to show that the respondents did
+not commit the offence as alleged by the applicant.
+
+I
+
+
+
+[2015] 1 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+PP v. Billion Nova Sdn Bhd & Ors
+
+685
+
+[22] The respondents submitted that it was the duty of the prosecution to
+prove on a balance of probabilities that the monies in the various bank
+accounts of the respondents seized were the subject matter of or used in the
+commission of an offence under s. 4(1) of Act 613.
+[23] The respondents submitted that the first respondent is a private
+company with the second to fifth respondents being the shareholders and
+directors; that the first respondent did not have any third party or parties who
+have directly or indirectly invested sums of monies in it; and that the 1st
+respondent’s business was purely selling duty free liquor and cigarettes in
+Labuan.
+[24] The respondents submitted that Toh Kah Ming had affirmed an
+affidavit opposing the application stating that the goods at all times were sold
+in Labuan and Langkawi, both duty free zones. The respondents referred to
+s. 155(1), s. 158, s. 163B(1)(a) and s. 163B(1)(b) of the Customs Act that no
+import duty or export duty into Labuan and Langkawi shall be payable and
+that under s. 73(a) of the Sales Tax Act no sales tax shall be payable upon
+any taxable goods imported into Labuan or transported into Labuan. The
+respondents submitted therefore they did not contravene the Customs Act.
+[25] The respondents submitted that the respondents’ case was supported
+by the investigation of the IO in para. 6 of the IO’s first affidavit where he
+said that from his investigation the first respondent either sold the cigarettes
+in Labuan or using a Customs Form 8 via an associate company Orion Nova
+in Langkawi. The respondents submitted that the investigation of the IO
+confirmed the respondents’ contention that the cigarettes were sold in
+Labuan and Langkawi.
+
+F
+
+G
+
+H
+
+I
+
+[26] The respondents submitted that the prosecution was not able to prove
+that the sales occurred outside Labuan. It was submitted that under Act 613
+no presumption could be inferred from the deposits or payments made into
+the bank accounts of the first respondent in Labuan, which were made from
+outside Labuan, meant that the sales were therefore made outside Labuan
+and subject to duties or taxes. It similarly submitted that no such
+presumption could be inferred from the cash sales that the sales were
+therefore made outside Labuan.
+[27] It was submitted that in the absence of such presumptions, it was
+incumbent on the prosecution to show actual evidence that the goods were
+sold outside Labuan. The respondents submitted that the prosecution has
+failed to do so against the respondents and the application to forfeit the
+properties in the bank accounts of the respondents should be dismissed.
+[28] In prayer 1(i) of the application, the PP applied to forfeit the sum of
+RM195,573.67 in the first respondent’s bank account no. 3-0659180-25 at
+Public Bank, Labuan. This sum was seized by the IO on 21 September 2012
+under s. 50(1) and pursuant to a notice of seizure under s. 51(1)(a) of Act 613
+(see exh. ‘AT1’ annexed to the second affidavit of the IO). This exh. 1
+
+
+
+686
+
+Current Law Journal
+
+[2015] 1 CLJ
+
+referred to the first respondent’s bank account no. 3-2 0659180-25 at Public
+Bank and the fifth respondent’s bank account no. 1-2067980-14 at Public
+Bank. It did not state or refer to the sum of RM195,573.67 or any sum to
+be seized.
+[29] The IO did not exhibit any bank statement or document nor produce
+any evidence to establish that this sum of RM195,573.67 was in fact in the
+first respondent’s bank account no. 3-0659180-25 at Public Bank, Labuan as
+at 21 September 2012 which could be seized or could be forfeited. The IO
+did not explain why he included the fifth respondent’s bank account No. 12067980-14 at Public Bank in this notice of seizure. He also did not explain
+the connection between these two accounts which he had seized under ‘AT1’.
+[30] The IO also did not explain whether there was any connection
+between the first respondent’s bank account no. 3-0659180-25 at Public
+Bank, Labuan and the third respondent’s bank account no. 37560035192 at
+Hong Leong Islamic Bank, because both accounts purportedly contained
+exactly the same sum ie, RM195,573.67 or whether it was a coincidence (see
+para. 5(1) of the IO’s second affidavit). Again the IO did not exhibit any bank
+statement to establish that this sum was in these two bank accounts.
+[31] In respect of prayer 1(ii) of the application, the IO did not exhibit any
+bank statement to establish that the sum of RM12,763.98 was in fact in the
+first respondent’s bank account no. 515120-201858 at Malayan Banking,
+Labuan on 21 September 2012 which could be seized or could be forfeited
+(see ‘AT2’).
+[32] Based on paras. 8, 9 and 10 of the IO’s first affidavit, the IO did not
+refer to and there was no evidence of any transaction or connection between
+the first respondent’s bank account no. 3-0659180-25 at Public Bank, Labuan
+and the first respondent’s bank account no. 515120-201858 at Malayan
+Banking (‘Maybank’), Labuan. He did not explain why he seized or wanted
+to forfeit the money in this Maybank account belonging to the first
+respondent. He also did not explain the connection between this Maybank
+account of the first respondent and the Maybank account belonging to the
+fourth respondent which he seized together as stated in ‘AT2’.
+[33] Similarly, the exhibits marked as ‘AT1’ to ‘AT8’ annexed to the
+second affidavit of the IO merely referred to these bank accounts to be seized
+without setting out the monies or sums which he had referred to in his
+affidavits and whether these sums were in fact in these bank accounts. The
+IO did not exhibit or produce any bank statements or documents to establish
+that these monies or sums were in the 23 bank accounts belonging to the
+third, fourth, and fifth respondents and which could be seized as at 21
+September 2012 or which could be forfeited in this application. Without
+such documents to support his allegations or statements in his affidavits,
+there was no basis for the IO or PP to justify the seizures or forfeitures.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2015] 1 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+PP v. Billion Nova Sdn Bhd & Ors
+
+687
+
+[34] It was not in dispute that these sums or proceeds were from the sales
+of cigarettes and liquors. The question is did the respondents sell these
+cigarettes in contravention of the Customs Act or were engaged in money
+laundering which entitled the PP to seize and to forfeit the sums in these bank
+accounts? The PP had contended that the first respondent had sold cigarettes
+outside Labuan. However there was no allegation that the second, third,
+fourth and or fifth respondents had sold cigarettes outside Labuan.
+[35] It should be noted that the PP did not set out and did not exhibit any
+bank account of the second respondent. The PP did not seize any bank
+account of the second respondent and has not applied to forfeit any money
+in any bank account of the second respondent. He did not lead any evidence
+that the second respondent was involved in selling duty free cigarettes or
+involved in smuggling of duty free cigarettes or that he was involved in
+money laundering. There was no explanation why the second respondent was
+included in this application. There was no basis for the second respondent
+to be included in this application and the PP’s application against the second
+respondent ought to be and is hereby struck out.
+[36] Although the PP contended that based on the documents exhibited that
+the cigarettes were sold outside Labuan, it did not lead any direct evidence
+that the first respondent and or the other respondents had transported or
+exported duty free cigarettes from Labuan which were sold in Miri or Kota
+Kinabalu. It did not lead any evidence that the cigarettes were sold in
+Malaysia, exclusive of Labuan and Langkawi. It did not lead evidence that
+these sales were intended to evade customs or import duty.
+[37] From the affidavits and documents exhibited, the PP could not
+establish that these cigarettes were sold in Miri or Kota Kinabalu or in
+Malaysia, exclusive of Labuan and Langkawi. There was also no evidence
+to substantiate the submissions of the PP that based on the payments made
+in Miri that the cigarettes were sold in Miri or Kota Kinabalu.
+[38] In the modern business world, payments can be made or banked in or
+transferred from any bank account or any part of the world for transactions
+or sales or purchases made in another part of the world, at the convenience
+of the parties to the transactions or at the convenience of the payer and payee.
+The sales and purchases of goods, not in respect of duty free cigarettes
+transported from Labuan, can be transacted or made in Kuching and the
+payments made in Miri. Similarly payments can be made in Miri or Kota
+Kinabalu for the sales and purchases of duty free cigarettes transacted or
+made in Labuan.
+[39] The PP did not refer to any provisions or regulations under the
+Customs Act or any legislation that duty free cigarettes sold in Labuan must
+be paid in Labuan or cannot be paid for in Miri or elsewhere. Similarly the
+PP did not refer to any Bank Negara regulations or directives that duty free
+cigarettes sold in Labuan must be paid in Labuan or cannot be paid for in
+Miri or Kota Kinabalu.
+
+
+
+688
+
+Current Law Journal
+
+[2015] 1 CLJ
+
+[40] The more important aspect of the sales and purchases was whether
+they were carried out in Labuan ie, whether the cigarettes were sold and
+delivered to the purchasers in Labuan. If the cigarettes were delivered by the
+first respondent to the purchasers in Labuan, obviously the sales were made
+in Labuan and the first respondent could not be subject to customs duty on
+the sales.
+[41] The PP did not lead any evidence and there was no evidence that the
+cigarettes in the 16 transactions described as ‘cash sale-cigarette’, which the
+IO said were paid for in Miri, were sold or delivered to the purchasers
+outside Labuan or in Miri or in Kota Kinabalu. It did not lead any evidence
+and there was no evidence that the 82 payments or payments made into the
+bank account no. 3-0659180-25 of the first respondent in Labuan were from
+the sales of duty free cigarettes transported from Labuan and delivered and
+sold in Miri or Kota Kinabalu. It did not lead any evidence and there was
+no evidence that the 82 payments made into the bank account of the first
+respondent in Labuan were from the proceeds of sales of duty free cigarettes
+transported from Labuan and delivered and sold in Miri or Kota Kinabalu.
+[42] Further, in respect of the sum of RM68,800 paid into the first
+respondent’s bank account in Labuan on 1 October 2010 via the first
+respondent’s account at Public Bank, Miri, the PP submitted that it had
+reason to believe that the sales occurred outside Labuan. Again this
+submission was not supported by evidence. There was no provision in the
+Customs Act against any sale outside of Labuan. Section 155(1)(b) provides
+that no export duty shall be payable upon any goods exported from Labuan.
+However if the goods were imported or transported to Malaysia from Labuan
+or Langkawi, then s. 155(1)(c) provides that import duty shall be payable
+upon all dutiable goods transported to the principal customs area from
+Labuan or Langkawi to all intents as if such transportation to the principal
+customs area were importation into Malaysia.
+[43] The IO had affirmed that Toh Kah Tiong had said that Toh Kah Ming
+had asked him to assist to collect this sum from a person from Brunei for the
+sale and purchase of cigarettes but Toh Kah Tiong was not sure where the
+sale took place because he was not involved in the business of the first
+respondent. Toh Kah Tiong had said this person from Brunei paid this sum
+to him in Miri which he then paid into the account of the first respondent
+in Labuan. There was no evidence to the contrary.
+[44] In this particular sale, again the PP did not establish that the duty free
+cigarettes from Labuan were sold in Malaysia. The PP did not establish that
+these cigarettes were exported from Labuan into Malaysia and were therefore
+subject to duties in contravention of the provisions of the Customs Act. The
+PP did not establish that the sale involved the smuggling of these cigarettes
+from Labuan into Malaysia. The PP did not establish that the cigarettes were
+not sold in Brunei. It also could not disprove that the cigarettes were
+exported from Labuan to Brunei and sold in Brunei.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2015] 1 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+PP v. Billion Nova Sdn Bhd & Ors
+
+689
+
+[45] Based on the statements of Toh Kah Tiong recorded by the IO, an
+inference could be drawn that the cigarettes were exported from Labuan to
+Brunei and sold in Brunei because it was paid for by a person from Brunei.
+If that was the case then no export duty was payable upon the cigarettes
+exported from Labuan and sold in Brunei. This would contradict the
+contention of the PP that the cigarettes were sold in Miri. The PP has failed
+to prove that the proceeds of RM68,800 from the sale of cigarettes had been
+obtained as a result of or in connection with an offence under s. 4(1) of Act
+613 or under the Customs Act.
+[46] In prayer 1 (iii) to (xxv), the PP applied to forfeit the sums in the 23
+bank accounts of the third, fourth and fifth respondents who were the
+shareholders and directors of the first respondent. The PP submitted that the
+third, fourth and fifth respondents did not explain why so much monies were
+paid into their accounts by the first respondent and whether these payments
+involved money laundering or were derived from unlawful activities.
+[47] Toh Kah Ming in her affidavits had explained that these were dividend
+payments to the third, fourth and fifth respondents who were the
+shareholders and directors of the first respondent.
+[48] The balance sheet of the first respondent as at 30 June 2010 showed
+that the revenue for the year amounted to RM10,268,112.60 including cash
+sales of cigarettes of RM8,124,963.40, the retained profits amounted to
+RM2,966,884.61 and RM1,100,000 were paid out as dividends to the
+shareholders (see exh. ‘AT4(a)’ of the first affidavit of the IO). The balance
+sheet of the first respondent as at 30 June 2011 showed that the revenue for
+the year amounted to RM6,900,152.35, the retained profits amounted to
+RM3,420,619.42 and RM1,600,000 were paid out as dividends to the
+shareholders (see exh. ‘AT4(b)’ of the 1st affidavit of the IO).
+[49] These documents were exhibited by the PP and would explain the
+several payments into the bank accounts of the third, fourth and fifth
+respondents as dividends. The PP did not adduce any evidence to the
+contrary. These documents produced by PP would contradict the contention
+of the PP that these payments were for the purposes of money laundering or
+were the proceeds of unlawful activities and raised doubts on the contentions
+of the PP and the case of the PP against the respondents.
+[50] The IO did not affirm that he is or was an accountant or an expert in
+accounts or auditing or accounting or forensic accounting. The IO did not
+connect with each ‘cash sale-cigarette’ or each transaction or sale of
+cigarettes, which he referred to in his affidavits, to each smuggling of
+cigarettes or unlawful sales of cigarettes or which were in contravention of
+the Customs Act. The PP did not exhibit any report by any accountant or
+expert to trace or connect the entries in the ledgers or accounts with any
+smuggling of cigarettes or unlawful sales of cigarettes or that these proceeds
+or payments or dividends were derived from unlawful activities or for money
+
+
+
+690
+
+Current Law Journal
+
+[2015] 1 CLJ
+
+laundering. The IO did not produce any report from the Inland Revenue or
+Tax Department that the respondents had evaded income tax or other taxes
+which contravened any law. There was no report by Public Bank, Maybank,
+Hong Leong Bank or Bank Negara or any other banks that these bank
+accounts or that the proceeds in these bank accounts involved money
+laundering.
+
+A
+
+B
+
+[51] As stated above, the PP could not show on a balance of probabilities
+that duty free cigarettes were transported from Labuan or Langkawi and were
+delivered or sold in Miri or Kota Kinabalu or in other regions in Malaysia.
+The PP could not show that there were smuggling of cigarettes from Labuan
+into Miri or Kota Kinabalu in contravention of the provisions of the Customs
+Act. The PP could not show that these payments for the cigarettes sold and
+paid into the account of the first respondent at Labuan were proceeds from
+unlawful activities. The PP could not show that these transactions or
+payments into the bank accounts of the third, fourth and fifth respondents
+were proceeds from unlawful activities and not payments as dividends.
+
+D
+
+[52] It should be noted that the respondents had not been charged for any
+offence nor convicted for any offence under the Customs Act. Therefore
+s. 119 of the Customs Act is not applicable to reverse the burden on the
+respondents to show that they did not commit the offence or were involved
+in money laundering under s. 4(1) of Act 613.
+
+E
+
+[53] On the affidavits and documents, the PP has failed to establish on a
+balance of probabilities that the respondents were involved in money
+laundering or in unlawful activities or that the proceeds in these bank
+accounts were or are the proceeds from unlawful activities or for the
+purposes of money laundering. For the reasons given, the application to
+forfeit these monies or sums in these 25 bank accounts is hereby dismissed.
+The freezing or seizures of these accounts are hereby set aside. Each party
+to bear their own costs in this application.
+
+C
+
+F
+
+G
+
+H
+
+I
+
+
