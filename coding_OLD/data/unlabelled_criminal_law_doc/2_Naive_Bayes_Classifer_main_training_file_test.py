@@ -26,7 +26,7 @@ from sklearn.model_selection import KFold, cross_val_score
 
 files_list = []
 # PDF documents filepath
-for root, dirs, files in os.walk(r"C:\Users\heihe\OneDrive\Documents\final_year_project\fyp\coding\data\unlabelled_criminal_law_doc"):
+for root, dirs, files in os.walk(r"C:\Users\heihe\Desktop\Malaysia-Legal-Doc-Classification\coding_OLD\data\unlabelled_criminal_law_doc"):
     for file in files:
         if file.endswith(".pdf"):
             files_list.append(os.path.join(root, file))

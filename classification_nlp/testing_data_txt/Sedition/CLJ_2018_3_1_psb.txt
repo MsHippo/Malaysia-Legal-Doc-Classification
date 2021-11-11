@@ -1,0 +1,3331 @@
+[2018] 3 CLJ
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+A
+
+KERAJAAN MALAYSIA v. MAT SHUHAIMI SHAFIEI
+
+B
+
+FEDERAL COURT, PUTRAJAYA
+AHMAD MAAROP CJ (MALAYA)
+RAMLY ALI FCJ
+BALIA YUSOF WAHI FCJ
+AZIAH ALI FCJ
+PRASAD SANDOSHAM ABRAHAM FCJ
+[CIVIL APPEAL NO: 01(f)-6-03-2017(W)]
+8 JANUARY 2018
+
+C
+
+D
+
+1
+
+CIVIL PROCEDURE: Abuse of process – What constituted abuse – Approach to
+abuse of process – Issue already litigated in earlier proceedings against same
+applicant – Whether proceedings an abuse of process of court
+CONSTITUTIONAL LAW: Fundamental liberties – Freedom of speech and
+expression – Challenge as to constitutionality of s. 3(3) of Sedition Act 1948 –
+Respondent charged under s. 4(1)(c) – Application for declaration that s. 3(3)
+violated art. 10(1)(a) of Federal Constitution – Whether charge amounted to
+unreasonable restriction to freedom of speech and expression – Whether charge
+rendered unconstitutional – Whether ought to be struck out – Federal Constitution,
+art. 10(1)(a)
+
+E
+
+CRIMINAL LAW: Sedition Act 1948 – Section 4(1)(c) – Elements of offence –
+Whether ‘act of publishing a seditious publication’ established – Whether
+publication has seditious tendency under s. 3(1) – Intention of person charged
+deemed irrelevant under s. 3(3) – Whether offence established
+F
+
+G
+
+H
+
+I
+
+The respondent was charged in the Sessions Court with an offence of
+publishing a seditious publication, an offence under s. 4(1)(c) of the Sedition
+Act 1948 (‘the Act’). The respondent pleaded not guilty and claimed trial to
+the charge. Subsequently, vide an amended notice of motion at the High
+Court, the respondent sought, inter alia, an order that s. 4 of the Act is
+inconsistent with art. 10 of the Federal Constitution (‘FC’) and sought to be
+acquitted and discharged from the charge. However, the High Court held that
+s. 4(1)(c) of the Act was not ultra vires the FC and dismissed the respondent’s
+application. Upon appeal, the Court of Appeal upheld the decision and
+directed the respondent to appear before the Sessions Court to enable the case
+to be heard on its merits. The respondent applied for a stay by submitting
+that as a matter of public interest, the questions of law which were raised
+needed to be argued before the Federal Court. The Court of Appeal granted
+the stay. However, before the appeal filed by the respondent to the Federal
+Court could be heard, the respondent withdrew the appeal in consequence
+to the decision in Siow Chung Peng v. PP where the Federal Court held that
+pursuant to s. 87(1) of the Courts of Judicature Act 1964, the Federal Court’s
+jurisdiction did not extend to decisions of the High Court made in respect of
+a case tried or to be tried by a subordinate court. The respondent
+
+
+
+2
+
+Current Law Journal
+
+[2018] 3 CLJ
+
+subsequently filed an application vide encl. 1 for a declaration that s. 3 of the
+Act read with s. 4 the same Act was inconsistent with art. 10(1)(a) of the FC.
+In dismissing the respondent’s application in encl. 1, the High Court held that
+the respondent’s application was an abuse of the process. The Court of
+Appeal set aside the High Court decision, considered the merits of encl. 1,
+and made a declaration that s. 3(3) of the Act contravened art. 10 of the FC
+and was therefore invalid and of no effect in law. Hence, the Federal Court
+granted leave to appeal to the appellant on the following questions of law:
+(i) whether a challenge to the constitutionality of s. 3 of the Act made in civil
+proceedings when the same had been determined by the Court of Appeal in
+a criminal appeal involving the same applicant amounts to an abuse of the
+process of the court; (ii) whether a challenge to the constitutionality of s. 3
+of the Act made in civil proceedings is res judicata in view of a prior similar
+challenge in criminal proceedings by the same applicant; and (iii) whether
+s. 3(3) of the Act contravenes art. 10 of the FC and was therefore invalid and
+of no effect in law.
+
+A
+
+B
+
+C
+
+D
+
+Held (allowing appeal; setting aside decision of Court of Appeal in respect
+of encl. 1 and reinstating decision of High Court in respect of encl. 1)
+Per Ahmad Maarop CJ (Malaya) delivering the judgment of the court:
+(1) The Court of Appeal, in its judgment, did not consider at all the crucial
+issue as to whether encl. 1 is an abuse of the process. The Court of
+Appeal had considered the issue of res judicata, but not the applicability
+or otherwise of the doctrine of the abuse of the process. Res judicata is
+separate and distinct from the doctrine of abuse of the process although
+both rest on the same underlying public interests - namely, that there
+should be finality in litigation and that a party should not be vexed twice
+in the same matter. Even if res judicata was not applicable to bar
+encl. 1, it still could not stand if it was found to be an abuse of process.
+(paras 41 & 43)
+(2) The approach on the determination of an abuse of the process should be
+‘[a] broad, merits-based judgment which takes account of the public and
+private interests involved and also takes account of all the facts of the
+case, focusing attention on the crucial question whether, in all the
+circumstances, a party is misusing or abusing the process of the court by
+seeking to raise before it the issue which could have been raised before’;
+(Johnson v. Gore Wood & Co). The ‘merits’ in the phrase ‘broad meritsbased judgment’ were not the substantive merits or otherwise of the
+actual claim, but those relevant to the question whether the claimant
+could or should have brought his claim as part of the earlier proceeding.
+It must also be borne in mind that ‘one cannot comprehensively list all
+possible forms of abuse, so one cannot formulate any hard and fast rule
+to determine whether, on given facts, abuse is to be found or not.’
+(paras 44-46)
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+3
+
+(3) In order to establish the charge against the respondent under s. 4(1)(c)
+of the Act, the prosecution has to prove the ‘act of publishing a seditious
+publication’. The answer as to what is a ‘seditious publication’ is found
+under s. 2 of the Act and in order to prove a ‘seditious tendency’, the
+prosecution has to rely on s. 3(1) of the Act. In the context of the charge
+against the respondent, the tendency under s. 3(1)(a) and the tendency
+under 3(1)(d) were relevant. In considering whether any act, speech,
+words, publication or other thing has any seditious tendency under
+s. 3(1), regard must be had to the exception under s. 3(2) of the Act
+which provides that an act, speech, words, publication or other thing
+shall not be deemed to be seditious by reason only that it has a tendency
+provided under ss. 3(2)(a), (b), and (c) of the Act.(paras 62, 64-67)
+(4) Once it was proven that the publication published by the respondent had
+a seditious tendency as provided under s. 3(1), read with s. 2 of the Act,
+the offence under s. 4(1)(c) of the Act against the respondent would be
+established, and by virtue of s. 3(3), the respondent’s intention of
+publishing the publication shall be deemed irrelevant. The deeming of
+the intention of the person charged as being irrelevant in s. 3(3) of
+the Act was the target of the respondent’s challenge on the
+constitutionality of that section. Because of the interplay between
+ss. 4(1)(c), 2, 3(1), 3(2) and 3(3) of the Act, bearing in mind the criminal
+charge preferred in the criminal proceeding, when the respondent
+challenged the constitutionality of s. 4(1) for the purpose of the
+impugning the charge, he could not leave out the constitutionality of
+s. 3(3) which deems intention to be irrelevant once seditious tendency
+is proven. (para 69)
+(5) The respondent should have challenged the constitutionality of s. 3(3) in
+the notice of motion in the criminal proceeding. However, there was
+nothing in the affidavit filed in support of encl. 1 in the notice of motion
+to explain why this issue was not raised in the criminal proceeding.
+There was also nothing akin to fresh evidence which might warrant the
+raising of this issue only in encl. 1. Having considered all the
+circumstances, encl. 1 was held to be an abuse of the process. On this
+ground alone encl. 1 should be dismissed. Thus, the Court of Appeal
+erred in allowing the respondent’s appeal and in considering the merits
+of the application in encl. 1 and this clearly warranted interference.
+(para 69)
+(6) The court did not subscribe to the view that the doctrine of res judicata
+does not apply to a challenge upon the constitutionality of a statute. The
+basis on which the doctrine of res judicata rests is founded on the
+consideration of public policy that it is in the public interest that there
+should be finality in litigation and decisions made by courts of
+
+
+
+Current Law Journal
+
+4
+
+[2018] 3 CLJ
+
+competent jurisdiction, and that no one should be vexed twice for the
+same kind of litigation. Therefore, there was no reason why the doctrine
+of constructive res judicata should not apply to a challenge on the
+constitutionality of a statute. (para 72)
+(7) Enclosure 1 was an abuse of the process and as such, should be
+dismissed without the need to consider the merits of the application.
+Hence, it was unnecessary for the court to answer the first and second
+leave questions as framed. In view of that finding, there was also no
+necessity for the court to consider the third leave question. The decision
+of the Court of Appeal in respect of encl. 1 was set aside and the trial
+of the respondent in respect of the charge under s. 4(1)(c) of the Act was
+ordered to proceed. (paras 79-82)
+
+A
+
+B
+
+C
+
+Bahasa Malaysia Headnotes
+Responden dipertuduh di Mahkamah Sesyen dengan kesalahan menerbitkan
+penerbitan menghasut, satu kesalahan bawah s. 4(1)(c) Akta Hasutan 1948
+(‘Akta’). Responden tidak mengaku bersalah dan memohon dibicarakan
+terhadap pertuduhan itu. Kemudian, melalui satu notis usul dipinda di
+Mahkamah Tinggi, responden memohon satu perintah, antara lain, bahawa
+s. 4 Akta tidak konsisten dengan per. 10 Perlembagaan Persekutuan
+(‘Perlembagaan’) dan memohon pelepasan dan pembebasan daripada
+pertuduhan. Walau bagaimanapun, Mahkamah Tinggi memutuskan bahawa
+s. 4(1)(c) Akta bukan ultra vires Perlembagaan dan menolak permohonan
+responden. Atas rayuan, Mahkamah Rayuan mengekalkan keputusan
+tersebut dan mengarahkan responden hadir di Mahkamah Sesyen untuk
+membolehkan merit kes dibicarakan. Responden memohon untuk
+penangguhan, menghujahkah bahawa sebagai perkara kepentingan umum,
+soalan undang-undang yang dibangkitkan perlu dihujahkan di Mahkamah
+Persekutuan. Mahkamah Rayuan membenarkan penangguhan. Walau
+bagaimanapun, sebelum rayuan yang difailkan oleh responden ke Mahkamah
+Persekutuan didengar, responden menarik balik rayuan berikutan keputusan
+dalam kes Siow Chung Peng v. PP di mana Mahkamah Persekutuan
+memutuskan bahawa menurut s. 87(1) Akta Mahkamah Kehakiman 1964,
+bidang kuasa Mahkamah Persekutuan tidak berlanjut kepada keputusan
+Mahkamah Tinggi yang dibuat berkaitan kes yang dibicarakan atau akan
+dibicarakan di mahkamah rendah. Responden kemudiannya memfailkan
+permohonan dalam lampiran 1 bagi deklarasi bahawa s. 3 Akta dibaca
+bersama-sama dengan s. 4 Akta tidak konsisten dengan per. 10(1)(a)
+Perlembagaan. Menolak permohonan responden dalam lampiran 1,
+Mahkamah Tinggi memutuskan bahawa permohonan responden adalah
+penyalahgunaan proses. Mahkamah Rayuan mengetepikan keputusan
+Mahkamah Tinggi, mempertimbangkan merit lampiran 1 dan memberikan
+deklarasi bahawa s. 3(3) Akta melanggar per. 10 Perlembagaan dan dengan
+itu tidak sah dan tiada kesan dari segi undang-undang. Dengan itu,
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+A
+
+B
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+5
+
+Mahkamah Persekutuan memberikan kebenaran untuk merayu kepada
+perayu atas soalan undang-undang berikut: (i) sama ada tindakan mencabar
+keperlembagaan s. 3 Akta yang dibuat dalam prosiding sivil di mana
+persoalan tersebut telah diputuskan oleh Mahkamah Rayuan dalam rayuan
+jenayah melibatkan pemohon yang sama terjumlah pada penyalahgunaan
+proses mahkamah; (ii) sama ada tindakan mencabar keperlembagaan s. 3
+Akta yang dibuat dalam prosiding sivil adalah res judicata berikutan tindakan
+mencabar yang sama telah dibuat dalam prosiding jenayah oleh pemohon
+yang sama; dan (iii) sama ada s. 3(3) Akta bercanggah dengan per. 10
+Perlembagaan dan oleh itu tidak sah dan tiada kesan undang-undang.
+
+C
+
+Diputuskan (membenarkan rayuan; mengetepikan keputusan Mahkamah
+Rayuan berkaitan lampiran 1 dan mengembalikan keputusan Mahkamah
+Tinggi berkaitan lampiran 1)
+Oleh Ahmad Maarop HB (Malaya) menyampaikan penghakiman
+mahkamah:
+
+D
+
+(1) Mahkamah Rayuan, dalam penghakimannya, tidak mempertimbangkan
+langsung isu penting sama ada lampiran 1 adalah penyalahgunaan proses.
+Mahkamah Rayuan telah mempertimbangkan isu res judicata tetapi
+bukan penggunaan atau sebaliknya doktrin penyalahgunaan proses.
+Res judicata berasingan dan berbeza daripada doktrin penyalahgunaan
+proses walaupun kedua-duanya mempunyai kepentingan umum yang
+sama - iaitu kemuktamadan litigasi dan sesuatu pihak tidak boleh
+disusahkan dua kali dalam perkara yang sama. Walaupun res judicata
+tidak terpakai untuk menghalang lampiran 1, ia masih tidak boleh
+dikekalkan jika didapati terjumlah pada satu penyalahgunaan proses.
+
+E
+
+F
+
+G
+
+H
+
+I
+
+(2) Pendekatan bagi pemutusan penyalahgunaan proses sepatutnya
+‘[a] broad, merits-based judgment which takes account of the public and
+private interests involved and also takes account of all the facts of the
+case, focusing attention on the crucial question whether, in all the
+circumstances, a party is misusing or abusing the process of the court by
+seeking to raise before it the issue which could have been raised before’;
+(Johnson v. Gore Wood & Co). ‘Merits’ dalam frasa ‘broad merits-based
+judgment’ bukan merit substantif atau sebaliknya bagi tuntutan sebenar,
+tetapi sesuatu yang relevan pada soalan sama ada penuntut boleh atau
+sepatutnya membawa tuntutannya sebagai sebahagian prosiding
+sebelumnya. Perlu diingati bahawa ‘seseorang tidak boleh
+menyenaraikan secara komprehensif kesemua bentuk penyalahgunaan,
+oleh itu, seseorang tidak boleh mengemukakan kaedah tertentu untuk
+menentukan sama ada, atas fakta, penemuan berkaitan penyalahgunaan
+boleh dibuat atau tidak.’
+
+
+
+6
+
+Current Law Journal
+
+[2018] 3 CLJ
+
+(3) Bagi membuktikan pertuduhan terhadap responden bawah s. 4(1)(c)
+Akta, pihak pendakwaan perlu membuktikan ‘tindakan menerbitkan
+penerbitan menghasut’. Jawapan kepada apa itu ‘penerbitan menghasut’
+didapati bawah s. 2 Akta dan untuk membuktikan ‘kecenderungan
+menghasut’, pihak pendakwaan perlu menyandar atas s. 3(1) Akta.
+Dalam konteks pertuduhan terhadap responden, kecenderungan bawah
+s. 3(1)(a) dan kecenderungan bawah s. 3(1)(d) relevan. Dalam
+mempertimbangkan sama ada mana-mana tindakan, ucapan, perkataanperkataan, penerbitan atau perkara lain mempunyai kecenderungan
+menghasut bawah s. 3(1), perlu dipertimbangkan pengecualian bawah
+s. 3(2) Akta yang memperuntukkan bahawa tindakan, ucapan,
+perkataan-perkataan, penerbitan atau perkara lain tidak boleh dianggap
+menghasut semata-mata atas alasan bahawa ia mempunyai
+kecenderungan yang diperuntukkan bawah ss. 3(2)(a), (b), dan (c) Akta.
+(4) Sebaik sahaja dibuktikan bahawa penerbitan yang diterbitkan oleh
+responden mempunyai kecenderungan menghasut seperti yang
+diperuntukkan bawah s. 3(1) dibaca bersama-sama dengan s. 2 Akta,
+kesalahan bawah s. 4(1)(c) Akta terhadap responden akan terbukti, dan
+menurut s. 3(3), niat responden dalam menerbitkan penerbitan tersebut
+dianggap tidak relevan. Anggapan terhadap niat seseorang sebagai tidak
+relevan dalam s. 3(3) Akta adalah sasaran cabaran responden terhadap
+keperlembagaan seksyen itu. Disebabkan saling tindakan antara
+ss. 4(1)(c), 2, 3(1), 3(2) dan 3(3) Akta, mempertimbangkan pertuduhan
+jenayah yang dikenakan dalam prosiding jenayah, apabila responden
+mencabar keperlembagaan s. 4(1) bagi tujuan mempersoalkan
+pertuduhan tersebut, dia tidak boleh meninggalkan keperlembagaan
+s. 3(3) yang menganggap niat tidak relevan sebaik sahaja kecenderungan
+menghasut dibuktikan.
+(5) Responden sepatutnya mencabar keperlembagaan s. 3(3) dalam notis
+usul dalam prosiding jenayah. Walau bagaimanapun, tiada apa-apa
+dalam afidavit yang difailkan bagi menyokong lampiran 1 dalam notis
+usul untuk menjelaskan mengapa isu ini tidak dibangkitkan dalam
+prosiding jenayah. Juga tiada apa-apa yang menyerupai keterangan baru
+yang mungkin mewajarkan penimbulan isu ini hanya dalam lampiran 1.
+Setelah mempertimbangkan kesemua keadaan kes, lampiran 1
+diputuskan sebagai penyalahgunaan proses. Atas alasan ini sahaja
+lampiran 1 wajar ditolak. Oleh itu, Mahkamah Rayuan khilaf apabila
+membenarkan rayuan responden dan dalam mempertimbangkan merit
+permohonan lampiran 1 dan ini jelas mewajarkan campur tangan.
+(6) Mahkamah tidak menyetujui pendapat bahawa doktrin res judicata tidak
+terpakai dalam cabaran terhadap keperlembagaan sesuatu statut. Asas
+bagi doktrin res judicata adalah berdasarkan pertimbangan polisi awam
+bahawa kepentingan awam memerlukan kemuktamadan dalam litigasi
+dan keputusan-keputusan mahkamah berbidang kuasa kompeten, dan
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+7
+
+tiada seorang pun yang wajar disusahkan kali kedua bagi litigasi yang
+sama. Oleh itu, tiada sebab mengapa doktrin res judicata konstruktif tidak
+boleh terpakai untuk mencabar keperlembagaan statut.
+(7) Lampiran 1 adalah penyalahgunaan proses dan oleh itu, wajar ditolak
+tanpa merit permohonan dipertimbangkan. Dengan itu, tidak perlu bagi
+mahkamah menjawab soalan-soalan kebenaran pertama dan kedua
+seperti yang dirangka. Berikutan dapatan tersebut, juga tiada keperluan
+untuk mahkamah mempertimbangkan soalan kebenaran ketiga.
+Keputusan Mahkamah Rayuan berkaitan dengan lampiran 1 diketepikan
+dan perbicaraan responden berkaitan pertuduhan bawah s. 4(1)(c) Akta
+diperintahkan untuk diteruskan.
+Case(s) referred to:
+Arnold v. National Westminster Bank Plc [1991] 2 AC 93 (refd)
+Asia Commercial Finance (M) Bhd v. Kawal Teliti Sdn Bhd [1995] 3 CLJ 783 SC (refd)
+Bradford and Bingley Building Society v. Seddon [1999] 1 WLR 1482 (refd)
+Carl-Zeiss-Stiftung v. Rayner and Keeler Ltd & Ors (No. 2) [1966] 2 All ER 532 (refd)
+Chee Pok Choy & Ors v. Scotch Leasing Sdn Bhd [2001] 2 CLJ 321 CA (refd)
+Chua Wee Seng v. Fazal Mohamed [1970] 1 LNS 19 HC (refd)
+Dato’ Sivananthan Shanmugam v. Artisan Fokus Sdn Bhd [2015] 2 CLJ 1062 CA (refd)
+Fan Yew Teng v. PP [1975] 1 LNS 38 FC (refd)
+Government of Malaysia v. Dato’ Chong Kok Lim [1973] 1 LNS 35 HC (refd)
+Greenhalgh v. Mallard [1947] 2 All ER 255 (refd)
+Henderson v. Henderson [1843] 3 Hare 100 (refd)
+House of Spring Garden Ltd v. Waite [1990] 2 All ER 990 (refd)
+Hoystead & Others v. Commissioner of Taxation [1926] AC 155 (refd)
+Hunter v. Chief Constable of the West Midlands [1981] 3 All ER 727 (refd)
+Hunter v. Chief Constable of West Midlands and Another [1981] 3 All ER 727 (refd)
+Johnson v. Gore Wood & Co (a firm) [2002] 2 AC 1 (foll)
+Lau Dak Kee v. PP [1976] 1 LNS 54 HC (refd)
+Madhavan Nair & Anor v. PP [1975] 1 LNS 94 HC (refd)
+Mat Shuhaimi Shafiei v. PP [2014] 5 CLJ 22 CA (refd)
+Nand Kishore v. State of Punjab [1995] 6 SCC 614 (refd)
+PP v. Azmi Sharom [2015] 8 CLJ 921 FC (refd)
+PP v. Ooi Kee Saik & Ors [1971] 1 LNS 113 HC (refd)
+PP v. Param Cumaraswamy [1986] 1 CLJ 101; [1986] CLJ (Rep) 606 HC (refd)
+Reichel v. Magrath [1889] 14 App Cas 665 (refd)
+Siow Chung Peng v. PP [2014] 6 CLJ 423 FC (refd)
+Sivarasa Rasiah v. Badan Peguam Malaysia & Anor [2010] 3 CLJ 507 FC (refd)
+State of Haryana v. State of Punjab and Anor [2004] 12 SCC 673 (refd)
+Stuart v. Goldberg Linde [2008] 1 WLR 823 (refd)
+Superintendent of Pudu Prison & Ors v. Sim Kie Chon [1986] 1 CLJ 548; [1986] CLJ
+(Rep) 256 SC (refd)
+Tong Lee Hwa & Anor v. Lee Yoke San [1978] 1 LNS 218 FC (refd)
+Toronto (City) v. C.U.P.E. Local 79, 2003 SCC 63 (refd)
+Tractors (M) Bhd v. Charles Au Yong [1982] CLJ 152; [1982] CLJ (Rep) 355 FC (refd)
+Yat Tung Investment Co Ltd v. Dao Heng Bank Ltd and Another [1975] AC 581 (refd)
+
+
+
+Current Law Journal
+
+8
+
+[2018] 3 CLJ
+
+Legislation referred to:
+Courts of Judicature Act 1964, s. 87(1)
+Federal Constitution, arts. 4(1), 10(1)(a), (2), 162(6), (7)
+Rules of Court 2012, O. 14A
+Sedition Act 1948, ss. 3(1), (2)(a), (b), (c), (3), 4(1)(a), (b), (c), (d)
+
+A
+
+Code of Civil Procedure [Ind], O. 23 r. 1
+Constitution of India [Ind], art. 262
+Inter-State Water Disputes Act 1956 [Ind], s. 14
+Punjab Reorganisation Act 1966 [Ind], s. 78
+Supreme Court Rules 1966 [Ind], O. 32 r. 2
+
+B
+
+For the appellant - Noorbahri Baharuddin, Awang Armadajaya Awang Mahmud, Nadia
+Hanim Mohd Tajuddin, Norinna Bahadun, Muhammad Azmi Mashud SFCs &
+Shaiful Nizam Shahrin FC; AG’s Chambers
+For the respondents - Gopal Sri Ram, Latheefa Koya, Melissa Sasidaran & David Yii;
+M/s Daim & Gamany
+[Editor’s note: For the Court of Appeal judgment, please see Mat Shuhaimi Shafiei v.
+Kerajaan Malaysia [2017] 1 CLJ 404 (overruled); For the High Court judgment, please
+see [2015] 1 LNS 793 (reinstated).]
+
+C
+
+D
+
+Reported by S Barathi
+JUDGMENT
+
+E
+
+Ahmad Maarop CJ (Malaya):
+[1]
+This case concerns an appeal from the decision of the Court of Appeal
+reversing the decision of the High Court, which had, on 23 December 2015
+dismissed the respondent’s application in Originating Summons No. 24-3609-2014 (encl. 1). In encl. 1, the respondent applied for a declaration that
+s. 3 of the Sedition Act 1948 (Act 15) read with s. 4 the same Act was
+inconsistent with (bercanggah dengan) art. 10(1)(a) of the Federal
+Constitution. In dismissing the respondent’s application in encl. 1, the
+High Court held that the respondent’s application was an abuse of the
+process. The Court of Appeal set aside the High Court decision, considered
+the merits of encl. 1, and made the following declaration:
+
+F
+
+G
+
+Section 3(3) of the Sedition Act 1948, contravenes Article 10 of the
+Federal Constitution and therefore is invalid and of no effect in law.
+
+[2]
+This court granted leave to the appellant to appeal on the following
+questions of law:
+(1) Sama ada tindakan mencabar keperlembagaan seksyen 3 Akta
+Hasutan 1948 [Akta 15] yang dibuat dalam prosiding sivil di mana
+persoalan tersebut telah diputuskan oleh Mahkamah Rayuan dalam
+Rayuan Jenayah yang melibatkan pemohon yang sama terjumlah
+kepada penyalahgunaan proses Mahkamah?
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+A
+
+[Whether a challenge to the constitutionality of section 3 of the
+Sedition Act 1948 [Act 15] made in civil proceedings when the same
+had been determined by the Court of Appeal in a criminal appeal
+involving the same applicant amounts to an abuse of the process of
+the court.]
+
+B
+
+(2) Sama ada tindakan mencabar keperlembagaan seksyen 3 Akta
+Hasutan 1948 [Akta 15] yang dibuat dalam prosiding sivil adalah
+res judicata memandangkan tindakan mencabar yang sama telah
+dibuat dalam prosiding jenayah oleh pemohon yang sama?
+
+C
+
+9
+
+[Whether a challenge to the constitutionality of section 3 of the
+Sedition Act 1948 [Act 15] made in civil proceedings is res judicata
+in view of a prior similar challenge in criminal proceedings by the
+same applicant.]
+(3) Sama ada seksyen 3(3) Akta Hasutan 1948 [Akta 15] bercanggah
+dengan Fasal 10 Perlembagaan Persekutuan dan oleh itu adalah
+tidak sah dan tidak mempunyai kesan undang-undang?
+
+D
+
+E
+
+F
+
+G
+
+[Whether section 3(3) of the Sedition Act 1948 [Act 15] contravenes
+Article 10 of the Federal Constitution and is therefore invalid and
+of no effect in law.]
+
+[3]
+The background facts leading to the present appeal are these. On
+7 February 2011, the respondent was charged in the Sessions Court, Shah
+Alam with an offence of publishing a seditious publication, an offence under
+s. 4(1)(c) of the Act. The charge reads as follows:
+Bahawa kamu pada 30 Disember 2010, di Pusat Khidmat Rakyat, 6/2,
+Jalan Anggerik Vanilla R 31/R, Kota Kemuning, 40460 Shah Alam di
+dalam negeri Selangor Darul Ehsan, telah menerbitkan satu penerbitan
+menghasut di laman web srimuda.blogspot yang mempunyai alamat web
+http://srimuda.blogspot.com satu artikel bertajuk “Pandangan saya
+berasaskan Undang-Undang Tubuh Kerajaan Negeri Selangor 1959”
+seperti Lampiran “A” yang mengandungi ayat-ayat yang menghasut
+seperti yang digariskan; dan oleh yang demikian kamu telah melakukan
+satu kesalahan di bawah seksyen 4(1)(c) Akta Hasutan 1948 (Akta 15)
+yang boleh dihukum di bawah seksyen 4(1) Akta yang sama.
+
+[4]
+The words in lampiran A in the aforesaid charge which were alleged
+to be seditious, and which were underlined, are as follows:
+H
+
+I
+
+Mengapa di peringkat persekutuan SPB Yang di-Pertuan Agong perlu
+bertindak mengikut nasihat YAB Perdana Menteri dalam perkara yang
+secara tersurat tidak pula menyebut baginda perlu mendapat nasihat YAB
+Perdana Menteri tetapi di Negeri Selangor, seolah-olah DYMM Sultan
+Selangor boleh bertindak tanpa mendapat nasihat YAB Dato’ Menteri
+Besar hanya dengan alasan bahawa peruntukan undang-undang tubuh
+tidak menyatakan secara jelas baginda perlu merujuk kepada YAB Dato’
+Menteri Besar? Adakah SPB Yang di-Pertuan Agong sahaja Raja
+Berperlembagaan di dalam Negara ini?. Begitu juga dalam pelantikan
+Setiausaha Kerajaan Negeri yang lain. Mengikut amalan dan konvensyen,
+
+
+
+10
+
+Current Law Journal
+
+[2018] 3 CLJ
+
+ianya akan dirujuk dan dibincangkan antara Ketua Negeri dan Ketua
+Kerajaan. Tetapi, apabila Negeri Selangor yang diperintah Pakatan
+Rakyat, amalan dan konvensyen ini tidak dibuat. Saya yakin dan percaya
+rakyat Selangor mahu YAB Dato’ Menteri Besarnya dihormati oleh
+semua pihak termasuk pihak istana. Rakyat akan menolak sebarang
+tindakan “beraja di mata, bersultan di hati” oleh mana-mana pihak yang
+bertindak sewenang-wenangnya, tidak kira sama ada oleh raja yang
+berjiwa rakyat atau rakyat yang berjiwa raja. Janganlah kerana hendak
+menegakkan benang yang basah, institusi negeri yang dihormati rakyat
+dijadikan perkakas oleh mana-mana pihak berkepentingan. Saya meneliti
+juga kenyataan Setiausaha Sulit tersebut yang menyatakan baginda
+DYMM Sultan Selangor seorang sultan yang tegas dan tidak berganjak
+dari keputusan yang telah dibuat. Bagaimana sekiranya keputusan yang
+dibuat atau cara keputusan itu dibuat adalah salah? Adakah baginda
+masih tidak akan berganjak? Harapan saya supaya ketegasan tidak
+dikelirukan dengan ego.
+Dalam sejarah telah terbukti, apabila rakyat bangkit menentang Raja,
+biarpun beribu tahun kebangkitan itu berlangsung akhirnya kebenaran
+akan menghenyak ketidakadilan. Rakyat akan menang dalam peperangan
+menentang ketidakadilan! Didoakan agar ia tidak berlaku di Selangor.
+
+[5]
+The respondent pleaded not guilty and claimed trial to the charge.
+Before the commencement of the trial, the respondent filed a criminal
+application in the High Court, Shah Alam by way of a notice of motion dated
+1 April 2011. In the amended notice of motion pursuant to the order of the
+High Court dated 21 July 2011, the respondent sought the following prayers:
+(1) Bahawa pendakwaan jenayah terhadap Pemohon di Mahkamah
+Sesyen Shah Alam Kes Tangkap No. 611-2011 dibatalkan (“strike
+out”) dan/atau diketepikan (“set aside”) dan/atau dibatalkan
+(“quash”) dan/atau digantung (“stay”);
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+(2) Satu Perintah bahawa seksyen 4 Akta Hasutan 1948 adalah tidak
+konsisten dengan Perkara 10 Perlembagaan Persekutuan dan justeru
+itu adalah tidak sah;
+(3) Susulan dari itu bahawa Mahkamah yang Mulia ini memerintahkan
+agar Pemohon dibebas dan dilepaskan;
+
+G
+
+(4) Lain-lain perintah atau perintah selanjutnya yang dianggap sesuai
+dan wajar oleh Mahkamah yang mulia.
+
+[6]
+
+The English translation reads as follows:
+
+H
+
+(1) That the criminal prosecution instituted against the appellant before
+the Sessions Court at Shah Alam in arrest case number 61-1-2011
+be struck out and/or set aside and/or quashed and/or stayed.
+(2) An order that section 4 of the Sedition Act is inconsistent with
+Article 10 of the Federal Constitution and is therefore void.
+(3) Pursuant thereto, this Honourable Court is to acquit and discharge
+the appellant from the charge.
+
+I
+
+
+
+[2018] 3 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+11
+
+(4) Any other order which this Honourable Court deems fit and
+suitable.
+
+[7]
+On 19 January 2012, Noor Azian Shaari J held that s. 4(1)(c) of
+Act 15 was not ultra vires the Federal Constitution and dismissed the
+respondent’s application in the notice of motion. The respondent appealed
+to the Court of Appeal. On 26 December 2013, the Court of Appeal
+dismissed the respondent’s appeal and upheld the decision of the High Court.
+The Court of Appeal directed that the respondent appear before the Sessions
+Court on 5 June 2013 for mention to enable the Sessions Court Judge to hear
+the case on its merits.
+[8]
+Learned counsel for the respondent applied for a stay, submitting that
+as a matter of public interest, the questions of law which were raised need
+to be argued before the Federal Court. The Court of Appeal granted stay.
+[9]
+The respondent then filed an appeal to this court. However, before the
+appeal could be heard on 20 October 2014, the respondent withdrew the
+appeal. The withdrawal was in consequence to the decision in the case of
+Siow Chung Peng v. PP [2014] 6 CLJ 423; [2014] 4 MLJ 504, where this court
+held that pursuant to s. 87(1) of the Courts of Judicature Act 1964, the
+Federal Court’s jurisdiction did not extend to decisions of the High Court
+made in respect of a case tried or to be tried by a subordinate court.
+[10] On 25 September 2014, the respondent filed Originating Summons
+No. 24-36-09-2014 (encl. 1) (which is the subject of the present appeal),
+praying for the following relief:
+
+F
+
+(1) A declaration that section 3 of the Sedition Act 1948 read with
+section 4 thereof violates Article 10(1)(a) of the Federal
+Constitution and is accordingly null and void.
+(2) That there be no order as to costs.
+(3) That such further or other relief or orders or directions be granted
+or made as this Honourable Court deems just.
+
+G
+
+H
+
+I
+
+[11] At the outset of the appeal, we directed parties to firstly, submit on
+the first two questions of law referred to at para. 2 of this judgment. We
+indicated to parties that we would proceed to hear submissions on the third
+question if the first two questions were decided against the appellant.
+The Appellant’s Submission
+[12] Relying on his written submission, the thrust of the argument of the
+learned Senior Federal Counsel (SFC) submitting for the appellant is as
+follows. What was in issue before the court in the originating summons
+which is the subject matter of the present appeal is ss. 3 and 4 of Act 15. The
+crux of the matter had been decided by the High Court pursuant to the notice
+of motion filed in Criminal Application No. 44-72-2011, and the decision
+was affirmed by the Court of Appeal in Criminal Appeal No: B-09-212-09-
+
+
+
+12
+
+Current Law Journal
+
+[2018] 3 CLJ
+
+2011 reported as Mat Shuhaimi Shafiei v. PP [2014] 5 CLJ 22 (Shuhaimi I).
+In the notice of motion in Shuhaimi I, the focus was on the constitutionality
+of s. 4(1)(c) of Act 15. However, according to the learned SFC that section
+could not be read in isolation but must be read with s. 3 of Act 15. The latter
+section must be invoked to interpret s. 4 of Act 15. There are four paragraphs
+to s. 4(1) of Act 15 which includes s. 4(1)(c). One cannot challenge s. 4(1)(a),
+4(1)(b), 4(1)(c), and 4(1)(d) of Act 15 separately. In this case the whole of
+s. 4 was held to be constitutional by the Court of Appeal in Shuhaimi I. It
+was argued that when the respondent challenged the constitutionality of s. 4,
+since that section must be read with s. 3, the respondent should not withhold
+the challenge and the argument on the constitutionality of s. 3(3) to be taken
+up later. One cannot present one’s case by instalments. It was contended that
+it was not proper for the respondent to use the motion in the civil proceeding
+to circumvent the decision of the court made in the criminal proceeding
+(Shuhaimi I). Referring to para. 18 in the Court of Appeal’s judgment in
+Shuhaimi I, the learned SFC pointed out that learned counsel for the
+respondent submitted in the Court of Appeal that s. 4(1)(c) of Act 15 read
+with the definition of ‘seditious tendency’ in s. 3 of the same Act amounts
+to an unreasonable restriction of the appellant’s right to ‘freedom of speech
+and expression’ under art. 10(1)(a) of the Federal Constitution and that being
+the case, s. 4(1)(c) of the same Act is rendered unconstitutional and should
+be struck out. According to the learned SFC, the Court of Appeal responded
+to that submission by holding that Act 15 was still good and valid law. It falls
+squarely within the framework of art. 10(2) of the Federal Constitution and
+its validity and constitutionality could not be challenged. The court also held
+that s. 4(1) of Act 15 did not infringe the reasonable and the proportionality
+test by virtue of s. 3(2) of Act 15, and hence it is constitutional. Paragraphs
+[115] to [117] of the Court of Appeal’s judgment were referred to by the
+learned SFC. Therefore, he submitted the respondent should not be allowed
+to litigate the constitutionality of s. 3(3) of Act 15 on the same facts and point
+of law. In support of his submission, the learned SFC relied on Hunter v. Chief
+Constable of the West Midlands [1981] 3 All ER 727, Tractors (M) Bhd v. Charles
+Au Yong [1982] CLJ 152; [1982] CLJ (Rep) 355; [1982] 1 MLJ 320,
+Asia Commercial Finance (M) Bhd v. Kawal Teliti Sdn Bhd [1995] 3 CLJ 783.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+The Respondent’s Submission
+[13] Starting his submission, learned counsel for the respondent contended
+that the validity of Act 15 was not in issue before the Court of Appeal, insofar
+as the criminal case was concerned. Any comment by the Court of Appeal
+as to the constitutionality of Act 15 as a whole was entirely obiter dicta.
+Learned counsel referred to s. 3(3) of the Sedition Act which provides that:
+(3) For the purpose of proving the commission of any offence against this
+Act the intention of the person charged at the time he did or attempted
+to do or made any preparation to do or conspired with any person to do
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+13
+
+A
+
+any act or uttered any seditious words or printed, published, sold, offered
+for sale, distributed, reproduced or imported any publication or did any
+other thing shall be deemed to be irrelevant if in fact the act had, or
+would, if done, have had, or the words, publication or thing had a
+seditious tendency.
+
+B
+
+Learned counsel then submitted that the provision was never the subject of
+any argument in Shuhaimi I, or under consideration by the court.
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+[14] Learned counsel next submitted that the doctrine of constructive
+res judicata had no application to a challenge upon the constitutionality of a
+statute. In support of his argument he referred to the judgment of the Indian
+Supreme Court in Nand Kishore v. State of Punjab [1995] 6 SCC 614.
+[15] On the requirement for res judicata, learned counsel submitted that to
+constitute a res judicata, the earlier judgment must “necessarily and with
+precision” determine the point in issue. In support, he referred to the
+following passage in the judgment of Chang Min Tat FJ in Tong Lee Hwa &
+Anor. v. Lee Yoke San [1978] 1 LNS 218; [1979] 1 MLJ 24:
+At the hearing of the appeal, it was put to counsel for the appellants that
+to constitute a res judicata, the earlier judgment must, in terms of the Privy
+Council decision in Kok Hoong v. Leong Cheong Kweng Mines Ltd Kok Hoong
+v. Leong Cheong Kweng Mines Ltd [1964] AC 993; [1964] MLJ 49, “necessarily
+and with precision” determine the point in issue, and he was asked to
+indicate to the court how the earlier judgment did necessarily and with
+precision determine the liability of the appellants to pay the respondent
+for work done for them at their request. He did not do so. We do not,
+with respect, see how he could succeed.
+
+[16] Referring to para. 3 in the Court of Appeal’s judgment in Shuhaimi I,
+learned counsel submitted that what was directly challenged was s. 4 of the
+Sedition Act. The constitutionality of s. 3(3) of the Sedition Act was not
+challenged. He contended that the Court of Appeal in Shuhaimi I did not
+“necessarily and with precision” determine the issue on the constitutionality
+of s. 3(3) of the Sedition Act. He pointed out that in Shuhaimi I, the Court
+of Appeal declared s. 4(1)(c) of the Sedition Act to be constitutional.
+Referring to paras. 18 to 21 in the judgment of the Court of Appeal, learned
+counsel submitted that whilst ss. 4(1), 3(1), and 3(2) of the Sedition Act were
+referred to, s. 3(3) of the same Act was never referred to by the court.
+Nowhere in the judgment of the Court of Appeal was the issue of intention
+being irrelevant as provided under s. 3(3) was mentioned. He submitted that
+it is a constitutional requirement that mens rea (intention) shall be an element
+of every offence created by law. Contrary to this requirement, s. 3(3) of the
+Sedition Act deems intention to be irrelevant. According to learned counsel
+it is on this basis that the respondent contends that s. 3(3) of the Sedition Act
+is unconstitutional.
+
+
+
+Current Law Journal
+
+14
+
+[2018] 3 CLJ
+
+[17] Hence, learned counsel submitted that the originating summons is not
+vexatious or an abuse of the court process, nor is it governed by res judicata.
+On the elements of res judicata, learned counsel relied on Chua Wee Seng
+v. Fazal Mohamed [1970] 1 LNS 19; [1971] 1 MLJ 106, where Sharma J held:
+To constitute a matter res judicata the following conditions must be
+fulfilled:
+
+A
+
+B
+
+1. The matter directly and substantially in issue in the subsequent suit
+or issue must be the same matter which was directly and
+substantially in issue either actually or constructively in the former
+suit.
+2. The former suit must have been a suit between the same parties or
+between parties under whom they or any of them claim.
+
+C
+
+3. The parties as aforesaid must have litigated under the same title in
+the former suit.
+4. The court which decided the former suit must have been a court
+competent to try the subsequent suit or the suit in which such issue
+is subsequently raised.
+5. The matter directly and substantially in issue in the subsequent suit
+must have been heard and finally decided by the court in the first
+suit.
+
+D
+
+E
+
+[18] In this regard, learned counsel argued that except for the fourth
+condition, the other conditions for res judicata were not fulfilled.
+Our Decision
+[19] The Latin term “res judicata” literally translated means ‘a matter
+adjudged’. The full maxim is res judicata pro veritate accipitur which means ‘a
+matter adjudged is taken as truth’. In explaining what is res judicata, in
+Asia Commercial Finance (M) Bhd v. Kawal Teliti Sdn Bhd [1995] 3 CLJ 783;
+[1995] 3 MLJ 189, the Supreme Court said:
+What is res judicata? It simply means a matter adjudged, and its
+significance lies in its effect of creating an estoppel per rem judicatum. When
+a matter between two parties has been adjudicated by a court of
+competent jurisdiction, the parties and their privies are not permitted to
+litigate once more the res judicata, because the judgment becomes the truth
+between such parties, or in other words, the parties should accept it as the
+truth; res judicata pro veritate accipitur. The public policy of the law is that,
+it is in the public interest that there should be finality in litigation - interest
+rei publicae ut sit finis litium. It is only just that no one ought to be vexed
+twice for the same cause of action - nemo debet bis vexari pro eadem causa.
+Both maxims are the rationales for the doctrine of res judicata, but the
+earlier maxim has the further elevated status of a question of public policy.
+Since a res judicata creates an estoppel per rem judicatum, the doctrine of
+res judicata is really the doctrine of estoppel per rem judicatum, the latter
+being described sometimes in a rather archaic way as estoppel by record.
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+15
+
+Since the two doctrines are the same, it is no longer of any practical
+importance to say the res judicata is a rule of procedure and that an
+estoppel per rem judicatum is that of evidence. Such dichotomy is apt to
+give rise to confusion.
+The starting point ought to be the celebrated passage by Wigram VC in
+the case of Henderson v. Henderson (1843) 3 Hare 100 at page 115 which is:
+The plea of res judicata applies, except in special cases, not only to
+points upon which the court was actually required by the parties
+to form an opinion and pronounce a judgment, but to every point
+which properly belonged to the subject of litigation and which the
+parties, exercising reasonable diligence might have brought forward
+at the time.
+
+[20] There are in fact two kinds of estoppel per rem judicatum. The first is
+cause of action estoppel and the second is issue estoppel, which is a
+development from the first. Explaining on the two types of estoppel, the
+court said:
+The cause of action estoppel arises when rights or liabilities involving a
+particular right to take a particular action in court for a particular remedy
+are determined in a final judgment and such right of action, ie the cause
+of action, merges into the said final judgment; in layman’s language, the
+cause of action has turned into the said final judgment. The said cause
+of action may not be relitigated between the same parties because it is
+res judicata.
+In order to prevent multiplicity of action and also in order to protect the
+underlying rationales of estoppel per rem judicatum and not to act against
+them, such estoppel of cause of action has been extended to all other
+causes of action (based on the same facts or issues) which should have
+been litigated or asserted in the original earlier action resulting in the final
+judgment, and which were not, either deliberately or due to inadvertence.
+... On the other hand, the issue estoppel literally means simply an issue
+which a party is estopped from raising in a subsequent proceeding.
+However, the issue estoppel, in a nutshell, from a consideration of case
+law, means in law a lot more, ie that neither of the same parties or their
+privies in a subsequent proceeding is entitled to challenge the correctness
+of the decision of a previous final judgment in which they, or their privies,
+were parties. This sounds like explaining a truism, but it is the corollary
+from that statement that is all important and that could have given birth
+to the controversies alluded to above; the corollary being that neither of
+such parties will be allowed to adduce evidence or advance any argument
+to contradict such decision. In this respect, we respectfully agree with
+Peter Gibson J in Lawlor v. Gray [1984] 3 All ER 345 at p 350, who said:
+‘Issue estoppel ... prevents contradiction of a previous determination,
+whereas cause of action estoppel prevents reassertion of the cause of
+action.’
+It is important to bear in mind the manner in which the issue estoppel
+operates in preventing such contradiction of the previous judgment ...
+There is one school of thought that issue estoppel applies only to issues
+
+
+
+16
+
+Current Law Journal
+
+[2018] 3 CLJ
+
+actually decided by the court in the previous proceedings and not to issues
+which might have been and which were not brought forward, either
+deliberately or due to negligence or inadvertence, while another school of
+thought holds the contrary view that such issues which might have been
+and which were not brought forward as described, though not actually
+decided by the court, are still covered by the doctrine of res judicata, ie
+doctrine of estoppel per rem judicatum.
+We are of the opinion that the aforesaid contrary view is to be preferred;
+it represents for one thing, a correct even though broader approach to the
+scope of issue estoppel. It is warranted by the weight of authorities to be
+illustrated later. It is completely in accord or resonant with the rationales
+behind the doctrine of res judicata, in other words, with the doctrine of
+estoppel per rem judicatum. It is particularly important to bear in mind the
+question of the public policy that there should be finality in litigation in
+conjunction with the exploding population; the increasing sophistication
+of the populace with the law and with the expanding resources of the
+courts being found always one step behind the resulting increase in
+litigation.
+
+A
+
+B
+
+C
+
+D
+
+[21] On the question whether, an estoppel per rem judicatum has to be
+pleaded, in holding that it need not, the Supreme Court said:
+Another source of small confusion is the rule that generally an estoppel,
+of which an estoppel per rem judicatum is a kind, as the name implies, has
+to be pleaded. But in Superintendent of Pudu Prison v. Sim Kie Chong [1986]
+1 MLJ 494 at p. 498, Abdoolcader SCJ held to the effect that the court
+has the inherent jurisdiction to dismiss an action by applying the doctrine
+of res judicata against a party even if it has not been pleaded. We venture
+to think the reason for the ratio is that an estoppel or exclusion of
+evidence based on a question of public policy, ie in this case, the question
+of public policy that there should be finality in litigation, is more vigorous
+in excluding evidence and need not be pleaded, unlike an ordinary
+estoppel which should be pleaded.
+
+[22] The application of the principle of issue estoppel as explained in
+Asia Commercial Finance (M) Bhd (supra) can be seen in many cases, including
+the Court of Appeal decision in Dato’ Sivananthan Shanmugam v. Artisan
+Fokus Sdn Bhd [2015] 2 CLJ 1062; [2016] 3 MLJ 122. The headnote of the
+case reveals the following facts. Lembaga Pembangunan Perumahan dan
+Bandar Sabah (‘LPPB’) owned a piece of land (‘the said land’). The appellant
+and one Dato’ Paduka Khairuddin Abu Hassan (‘KAH’) negotiated with
+LPPB with a view to securing a joint venture agreement (‘the JV agreement’)
+between LPPB and the respondent to develop the said land into a housing
+project (‘the project’). It resulted in a shareholders’ agreement
+(‘the agreement’) entered into by the appellant, KAH, the respondent,
+Datuk Hoe Tze Fook (‘HTF’) and Lee Fuei Siong (‘LFS’) both of whom were
+the shareholders and directors of the respondent. The agreement was,
+expressed to be conditional upon execution of the JV agreement between
+LPPB and the respondent. The agreement also contained a stipulation that
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+17
+
+if the JV agreement was not executed in the stipulated manner, both the
+appellant and KAH were required to refund to the respondent the refundable
+deposit forthwith. Following the execution of the agreement, HTF paid
+Cosmotine Sdn Bhd (‘Cosmotine’) a sum of RM2.3m being the refundable
+deposit. In return, Cosmotine deposited its CIMB Bank Bhd cheque in the
+same amount (‘the said cheque’) with HTF. However, the appellant and
+KAH failed to secure the JV agreement between LPPB and the respondent
+and HTF thereupon presented the said cheque to the bank for payment but
+was dishonoured. The respondent demanded the refund of the sum of
+RM2.3m from the appellant and KAH. The appellant and KAH failed to
+refund the amount. HTF thus commenced an action against Cosmotine (‘the
+HTF suit’) for the recovery of the sum of RM2.3m and entered summary
+judgment against Cosmotine. The respondent meanwhile, commenced the
+present action against the appellant and KAH for the recovery of the sum of
+RM2.3m and obtained summary judgment against KAH. With regard to the
+action against the appellant, the respondent applied for a question of law to
+be determined pursuant to O. 14A of the Rules of Court 2012. The questions
+proposed were in the following manner: whether in view of the HTF suit,
+the respondent’s cause of action against the appellant was prohibited by the
+principle of estoppel, res judicata and doctrine of merger of cause of action.
+The learned judge answered the questions posed in the negative and
+proceeded to enter judgment against the appellant. In allowing the appellant’s
+appeal, the Court of Appeal said:
+[25] In the present appeal, since the present action would undoubtedly
+involve going over precisely the same facts as in the previous HTF suit,
+and accepting the broader approach and the wider sense of res judicata as
+the preferred and correct legal position, the fact that the parties to this suit
+are different from the HTF suit does not disentitle the appellant to invoke
+the doctrine of issue estoppel to bar the respondent from relitigating a
+specific issue that had been decided in the prior separate action. The
+doctrine also applies to a non-party. It is therefore not necessary for
+parties to be the same in both actions. What the doctrine seeks to prevent
+is an abuse of the process of the court by attempting to make a double
+claim as well as allowing the plaintiff to relitigate its cause for the same
+relief and based on the same subject matter for which judgment had
+successfully been obtained in the HTF suit and to produce the same set
+of facts, the same witnesses and the same documents (see Seruan Gemilang
+Makmur Sdn Bhd v. Badan Perhubungan UMNO Pahang Darul Makmur).
+[26] We would emphasise at this juncture that the present action could
+have been included in the HTF suit by reason of the fact that the relief,
+evidence relied on and the witnesses are the same. In truth, the claims
+and relief sought in both suits share one common object which is the
+refund of RM2.3m from Cosmotine, the appellant and KAH which
+amount became liable to be refunded as a result of the alleged breach of
+the agreement. The only difference lies in the cause of action. ...
+
+
+
+18
+
+Current Law Journal
+
+[2018] 3 CLJ
+
+[28] ... what the respondent had done in effect was to divide its case into
+two separate claims and in the process proceed in two stages in order to
+suit its convenience while in actuality it was claiming for the same relief
+based on the same facts for which judgment had already been obtained
+earlier in the HTF suit. It cannot be denied that both claims arose from
+the same one and only transaction and were undoubtedly interrelated.
+Therefore it would be unjust to permit the respondent to make double
+claim by filing two separate actions for the same relief. In our judgment
+the instant action is an abuse of the process of the court (see also North
+West Water Ltd v. Binnie & Partners (a firm)).
+[29] We would further add at this point that, even if there has been no
+actual decision as to the issues involved in the instant action, but if the
+respondent did not raise these issues in the earlier proceedings which it
+could and should have done so, in our view the plea of this doctrine of
+res judicata in its amplified and wider sense is available to the appellant to
+prevent an abuse of the process of the court. We would refer to the
+Supreme Court decision in Superintendent of Pudu Prison & Ors v. Sim Kie
+Chon [1986] 1 MLJ 494; [1986] CLJ (Rep) 256:
+
+A
+
+B
+
+C
+
+D
+
+It would suffice in this regard to refer to the judgment of the Privy
+Council in Brisbane City Council and Myer Shopping Centres Pty Ltd v.
+Attorney-General for Queensland [1979] AC 411 (at p 425).
+The second defence is one of ‘res judicata’. There has, of course,
+been no actual decision in litigation between these parties as to
+the issue involved in the present case, but the appellants invoke
+this defence in its wider sense, according to which a party may
+be shut out from raising in a subsequent action an issue which
+he could, and should, have raised in earlier proceedings. The
+classic statement of this doctrine is contained in the judgment
+of Wigram V-C in Henderson v. Henderson [1843] 3 Hare 100 and
+its existence has been reaffirmed by this Board in Hoystead v.
+Commissioner of Taxation [1926] AC 155. A recent application of
+it is to be found in the decision of the Board in Yat Tung
+Investment Co Ltd v. Dao Heng Bank Ltd [1975] AC 581. It was, in
+the judgment of the Board, there described in these words:
+... there is a wider sense in which the doctrine may be
+appealed to, so that it becomes an abuse of process to raise
+in subsequent proceedings matters which could and therefore
+should have been litigated in earlier proceedings. The
+attempt by way of the instant proceedings to relitigate and
+re-open the earlier action clearly reflects the appositeness of
+the caption suggested for this matter in the prelude to this
+judgment and would appear to us to be as clear an instance
+of an abuse of the process of the court ...
+[30] The present suit as we have said earlier could have been included in
+the HTF suit and the issue in the present case could have been ventilated
+there for it to be specifically determined. The respondent chose not to do
+so and it is now estopped from coming to the court to seek to raise the
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+A
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+19
+
+issue which might have been put but was not raised in the HTF suit at
+their option (see OCBC Bank (M) Bhd v. Kredin Sdn Bhd [1997] 2 MLJ 544;
+[1997] 2 CLJ 534 and Arnold v. National Westminster Bank Plc [1991] 2 AC
+93). The plea of res judicata in this appeal is, without question, well taken
+and is supported by authority. In the end, we have no hesitation in
+accepting it.
+
+B
+
+C
+
+D
+
+E
+
+F
+
+[23] It has been said that the principle underlying the doctrine of abuse of
+process was applied in Reichel v. Magrath [1889] 14 App Cas 665,
+(see Hunter v. Chief Constable of West Midlands and Another [1981] 3 All ER
+727). In Reichel v. Magrath, the headnotes of the case reveal the following
+facts. The appellant brought an action against his Bishop and the patrons of
+a benefice claiming a declaration that he was vicar of the benefice, and that
+an instrument of resignation which he had executed was void, and an
+injunction to restrain the Bishop from instituting and the patrons from
+presenting any other person to the benefice. Judgment was given against the
+appellant. Later the respondent, having been duly appointed to the benefice
+as the appellant’s successor, brought an action against the appellant claiming
+a declaration that the respondent was vicar and a perpetual injunction to
+restrain the appellant from depriving the respondent of the use and
+occupation of the house and lands. In his statement of defence the appellant
+set up the same case as that on which he lost in the action in which he was
+plaintiff. The statement of defence was struck out. The House of Lords held,
+affirming the decision of the Court of Appeal, that there was an inherent
+jurisdiction in the court to strike out the statement of defence as frivolous and
+vexatious and an abuse of the procedure, and to enter judgment for the
+plaintiff with a declaration and injunction as claimed. In his judgment, Lord
+Halsbury LC said as per p. 668:
+My Lords, I think it would be a scandal to the administration of justice
+if, the same question having been disposed of by one case, the litigant
+were to be permitted by changing the form of the proceedings to set up
+the same case again. ...
+
+G
+
+H
+
+I
+
+... I believe there must be an inherent jurisdiction in every Court of Justice
+to prevent such an abuse of its procedure and I therefore think that this
+appeal must likewise be dismissed.
+
+[24] The doctrine of the abuse of the process was attributed to the following
+passage in the speech by Sir James Wigram VC in Henderson v. Henderson,
+(1843) 3 Hare 100, at pp. 114-115:
+I believe I state the rule of the court correctly, when I say, that where a
+given matter becomes the subject of litigation in, and of adjudication by,
+a court of competent jurisdiction, the court requires the parties to that
+litigation to bring forward their whole case, and will not (except under
+special circumstances) permit the same parties to open the same subject
+of litigation in respect of matter which might have been brought forward
+as part of the subject in contest, but which was not brought forward only
+because they have, from negligence, inadvertence, or even accident,
+
+
+
+20
+
+Current Law Journal
+
+[2018] 3 CLJ
+
+omitted part of their case. The plea of res judicata applies, except in specialcase, not only to points upon which the court was actually required by the
+parties to form an opinion and pronounce a judgment, but to every point
+which properly belonged to the subject of litigation and which the parties,
+exercising reasonable diligence, might have brought forward at the time.
+
+A
+
+[25] The passage was approved by the House of Lords in Hoystead & Others
+v. Commissioner of Taxation [1926] AC 155, where Lord Shaw delivering the
+judgment of the House held:
+
+B
+
+if in any Court of competent jurisdiction a decision is reached, a party is
+estopped from questioning it in a new legal proceeding. But the principle
+also extends to any point, whether of assumption or admission, which was
+in substance the ratio of and fundamental to the decision. The rule on
+this subject was set forth in the leading case of Henderson v. Henderson (1)
+by Wigram V.C.
+
+[26] Then came Greenhalgh v. Mallard [1947] 2 All ER 255. In that case, the
+plaintiff failed in an action for conspiracy to injure (conspiracy for an
+unlawful purpose). Later he brought an action on the same facts for
+conspiracy to injure by unlawful means. Somervell LJ held that the facts in
+the case gave rise to only one cause of action for conspiracy:
+The present statement of claim admittedly deals with the same
+transactions. ...
+... Counsel for the plaintiff says that this is a different cause of action. It
+is, of course, true that in the authorities dealing with conspiracy it is
+pointed out that there are cases in which the conspiracy is unlawful in that
+its purpose is unlawful, viz, to injure the plaintiff, in a way which cannot
+be justified by any legitimate purpose of the defendants in what they do,
+and that in other cases the conspiracy may give rise to a cause of action
+because the means used are unlawful. In other words, a conspiracy may
+give rise to a claim for damages if either the end or the means, or both,
+are wrongful, but, in my opinion, a plaintiff who believes he has a cause
+of action in conspiracy must make up his mind whether he is going to rely
+on one or other or both of these allegations - whether he is going to say
+that the purpose was unlawful, but he does not suggest that the means
+are unlawful, or that the means were unlawful, but he does not suggest
+that the purpose was unlawful; or that both are unlawful. But if he has
+chosen to rely on, and put his case in, one of those ways, he cannot, in
+my view, thereafter bring the same transactions before the court and say
+that he is relying on a new cause of action.
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+[27] More importantly, in the context of the doctrine of the abuse of the
+process, His Lordship further held that res judicata applied to the later action.
+His Lordship also invoked the principle in Henderson:
+That, I think, would be enough to dispose of this case, but counsel for
+the defendants put his case in two ways, and I will deal with them. He
+relied, first, on res judicata, and then said that, if there was any doubt
+about that, he was entitled to succeed on the ground that it would be
+
+I
+
+
+
+[2018] 3 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+21
+
+vexatious and an abuse of the process of the court to allow this
+transaction to be brought before the court again on the basis of the
+present statement of claim. I think that on the authorities to which I will
+refer it would be accurate to say that res judicata for this purpose is not
+confined to the issues which the court is actually asked to decide, but that
+it covers issues or facts which are so clearly part of the subject-matter of
+the litigation and so clearly could have been raised that it would be an
+abuse of the process of the court to allow a new proceeding to be started
+in respect of them.
+
+[28] In holding so, His Lordship had expanded and indeed amplified the
+phrase “every point which properly belonged to the subject of litigation” in
+Wigram VC’s famous statement in Henderson (see Yat Tung Investment Co Ltd
+v. Dao Heng Bank Ltd and Another [1975] AC 581, per Lord Kilbrandon at
+p. 590, Asia Commercial Finance, at p. 793).
+[29] At this juncture, it is opportune to add that in the Government of
+Malaysia v. Dato’ Chong Kok Lim [1973] 1 LNS 35; [1973] 2 MLJ 74, the
+wider rule of res judicata as expanded in Henderson which sometimes is
+referred to constructive res judicata, was succinctly explained by Sharma J at
+p. 76 in the following manner:
+The rule is that a matter which might and ought to have been made a
+ground of attack or defence becomes a matter which was constructively
+in issue. A matter which might and ought to have been made a ground
+of attack or defence in the former application but which was not alleged
+as such a ground of attack or defence is for the purposes of the plea of
+res judicata deemed to have been a matter directly and substantially in
+issue in the former application, that is to say, though it may not have been
+actually directly and substantially in issue it is still regarded as, having
+been constructively, directly and substantially in issue. There can be no
+distinction between a claim that was actually made and a claim which
+might and ought to have been made. The plea of res judicata applies, except
+in special cases, not only to points on which the court was actually
+required by the parties to form an opinion and to pronounce its judgment
+thereupon but to every point which properly belonged to the subject of
+litigation and which the parties exercising reasonable diligence might have
+brought forward at the time. It is only where the plea which is sought to
+be raised in the subsequent proceedings was not available to the party at
+the time of the previous proceedings that the decision cannot be
+constructively res judicata. The rule of constructive res judicata is really a rule
+of estoppel.
+
+[30] The application of the doctrine of the abuse of the process and its
+apparent relationship with res judicata can be seen in Hunter v. Chief Constable
+of West Midlands and Another (supra). The appellant was one of the six persons
+accused of bombing of two public houses in Birmingham. In the criminal
+trial, the appellant and the other accused alleged that they had been beaten
+up by the police to make them confess and that therefore their confessions
+which were heavily relied upon by the Crown was inadmissible. The trial
+
+
+
+22
+
+Current Law Journal
+
+[2018] 3 CLJ
+
+judge and the jury found the confessions to be voluntary, and the appellant
+and the other accused were convicted. Later, the appellant brought civil
+action against the police for damages for assaults causing physical injuries on
+him which had been inflicted while he was in police custody. The House of
+Lords held that it was an abuse of the process of the court to attempt to
+relitigate the same issue, and the civil action was struck out. Lord Diplock
+stated at pp. 729, 733-734:
+... this is a case about abuse of the process of the High Court. It concerns
+the inherent power which any court of justice must possess to prevent
+misuse of its procedure in a way which, although not inconsistent with
+the literal application of its procedural rules, would nevertheless be
+manifestly unfair to a party to litigation before it, or would otherwise bring
+the administration of justice into disrepute among right-thinking people.
+The circumstances in which abuse of process can arise are very varied;
+those which give rise to the instant appeal must surely be unique. It
+would, in my view, be most unwise if this House were to use this occasion
+to say anything that might be taken as limiting to fixed categories the
+kinds of circumstances in which the court has a duty (I disavow the word
+discretion) to exercise this salutary power. ...
+... The abuse of process which the instant case exemplifies is the initiation
+of proceedings in a court of justice for the purpose of mounting a
+collateral attack on a final decision against the intending plaintiff which
+has been made by another court of competent jurisdiction in previous
+proceedings in which the intending plaintiff had a full opportunity of
+contesting the decision in the court by which it was made. ...
+... collateral attack on a final decision of a court of competent jurisdiction
+may take a variety of forms.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+[31] In this regard, Lord Diplock also referred to the following statement
+in the speech of Lord Halsbury LC in Reichel v. Magrath (supra):
+... I think it would be a scandal to the administration of justice if, the same
+question having been disposed of by one case, the litigant were to be
+permitted by changing the form of the proceedings to set up the same case
+again.
+
+[32] In deciding the case on the basis of the abuse of the process, the House
+of Lords declined to endorse Lord Denning’s attempt in the Court of Appeal
+to extend issue estoppel to cover the particular instance of the abuse of the
+process presented by the case before the court. This is what Lord Diplock
+said at p. 732:
+Lord Denning MR and Sir George Baker were also in favour of extending
+the description ‘issue estoppel’ to cover the particular example of abuse
+of process of the court presented by the instant case, a question to which
+much of the judgment of Lord Denning MR is addressed. Goff LJ, on
+the other hand, expressed his own view, which had been shared by
+Cantley J, that such extension would involve a misuse of that expression.
+
+G
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+23
+
+But if what Hunter is seeking to do in initiating this civil action is an abuse
+of the process of the court, as I understand all your Lordships are satisfied
+that it is, the question whether it also qualifies to bear the label ‘issue
+estoppel’ is a matter not of substance but of semantics. Counsel for
+Hunter was therefore invited to address this House first on the broader
+question of abuse of process and to deal in particular with the reasoning
+contained in the judgment of Goff LJ who dealt with the matter more
+closely than the other members of the court and based his decision solely
+on that ground. In the result, counsel for Hunter, who argued the case
+with their accustomed ability and diligence, were quite unable to persuade
+any of us that there was any error in the reasoning of Goff LJ in what
+proved to be the last judgment that he prepared before his much lamented
+and untimely death. In the result it became unnecessary to call on counsel
+for the police. So the debate on semantics did not take place. It could not
+possibly affect the outcome of the appeal or justify the public expense that
+would have been involved in prolonging the hearing any further.
+
+[33] Further Lord Diplock said at p. 733, that in order to avoid confusion,
+it would be best “if the use of the description ‘issue estoppel’ in English law
+.... were restricted to that species of estoppel per rem judicatam that may arise
+in civil actions between the same parties or their privies.”
+[34] The doctrine of the abuse of the process was restated by the House of
+Lords in Johnson v. Gore Wood & Co (a firm) [2002] 2 AC 1. In his leading
+judgment Lord Bingham of Cornhill said:
+The rule of law depends upon the existence and availability of courts and
+tribunals to which citizens may resort for the determination of differences
+between them which they cannot otherwise resolve. Litigants are not
+without scrupulous examination of all the circumstances to be denied the
+right to bring a genuine subject of litigation before the court: Yat Tung
+Investment Co Ltd v. Dao Heng Bank Ltd [1975] AC 581, 590 per Lord
+Kilbrandon, giving the advice of the Judicial Committee; Brisbane City Council
+v. Attorney General for Queensland [1979] AC 411, 425 per Lord Wilberforce,
+giving the advice of the Judicial Committee). This does not however
+mean that the court must hear in full and rule on the merits of any claim
+or defence which a party to litigation may choose to put forward. For
+there is, as Lord Diplock said at the outset of his speech in Hunter v Chief
+Constable of the West Midlands Police [1982] AC 529, 536, an inherent power
+which any court of justice must possess to prevent misuse of its procedure
+in a way which, although not inconsistent with the literal application of
+its procedural rules, would nevertheless be manifestly unfair to a party to
+litigation before it, or would otherwise bring the administration of justice
+into disrepute among right-thinking people. The circumstances in which
+abuse of process can arise are very varied; those which give rise to the
+instant appeal must surely be unique. It would, in my view, be most
+unwise if this House were to use this occasion to say anything that might
+be taken as limiting to fixed categories the kinds of circumstances in which
+the court has a duty (I disavow the word discretion) to exercise this
+salutary power. ...
+
+
+
+24
+
+Current Law Journal
+
+[2018] 3 CLJ
+
+[35] Lord Bingham referred to Hunter, and several authorities which
+explored the forms of the abuse of the process doctrine which had its root
+in Henderson v. Henderson to demonstrate the development of the doctrine in
+recent years, at the end of which His Lordship made the following crucial
+speech on the issue at p. 31 which contained instructive approach in
+considering whether there is an abuse of the process:
+But Henderson v. Henderson abuse of process, as now understood, although
+separate and distinct from cause of action estoppel and issue estoppel, has
+much in common with them. The underlying public interest is the same:
+that there should be finality in litigation and that a party should not be
+twice vexed in the same matter. This public interest is reinforced by the
+current emphasis on efficiency and economy in the conduct of litigation,
+in the interests of the parties and the public as a whole. The bringing of
+a claim or the raising of a defence in later proceedings may, without more,
+amount to abuse if the court is satisfied (the onus being on the party
+alleging abuse) that the claim or defence should have been raised in the
+earlier proceedings if it was to be raised at all. I would not accept that it
+is necessary, before abuse may be found, to identify any additional
+element such as a collateral attack on a previous decision or some
+dishonesty, but where those elements are present the later proceedings
+will be much more obviously abusive, and there will rarely be a finding
+of abuse unless the later proceeding involves what the court regards as
+unjust harassment of a party. It is, however, wrong to hold that because
+a matter could have been raised in earlier proceedings it should have been,
+so as to render the raising of it in later proceedings necessarily abusive.
+That is to adopt too dogmatic an approach to what should in my opinion
+be a broad, merits-based judgment which takes account of the public and
+private interests involved and also takes account of all the facts of the
+case, focusing attention on the crucial question whether, in all the
+circumstances, a party is misusing or abusing the process of the court by
+seeking to raise before it the issue which could have been raised before.
+As one cannot comprehensively list all possible forms of abuse, so one
+cannot formulate any hard and fast rule to determine whether, on given
+facts, abuse is to be found or not. Thus while I would accept that lack
+of funds would not ordinarily excuse a failure to raise in earlier
+proceedings an issue which could and should have been raised then, I
+would not regard it as necessarily irrelevant, particularly if it appears that
+the lack of funds has been caused by the party against whom it is sought
+to claim. While the result may often be the same, it is in my view
+preferable to ask whether in all the circumstances a party’s conduct is an
+abuse than to ask whether the conduct is an abuse and then, if it is, to
+ask whether the abuse is excused or justified by special circumstances.
+Properly applied, and whatever the legitimacy of its descent, the rule has
+in my view a valuable part to play in protecting the interests of justice ...
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+25
+
+A
+
+[36] Reverting to the present appeal, upon hearing the argument of the
+learned Senior Federal Counsel (SFC) who challenged encl. 1 as an abuse of
+the process and on the ground of res judicata, and upon reply by the
+respondent’s counsel, the High Court dismissed encl. 1 with costs, having
+found it to be an abuse of the process of the court.
+
+B
+
+[37] In its judgment reversing the aforesaid decision of the High Court, the
+Court of Appeal approached the appeal under the following issues:
+
+C
+
+(a) whether the appellant (the respondent before us) was precluded by the
+doctrine of res judicata from the declaration sought in the originating
+summons;
+(b) what was the position in law in respect of the test of ‘proportionality’
+with reference to the legislative restrictions which might be imposed to
+meet the objectives of art. 10(2) of the Federal Constitution; and
+
+D
+
+E
+
+(c) what was the legal effect of s. 3(3) of Act 15 as presently worded and
+found in the statute book.
+The Court of Appeal next set out the provisions under arts. 8 and 10 of the
+Federal Constitution. Then under the heading ‘res judicata issue’, the court
+stated that the doctrine of res judicata is not an inflexible rule; that the court
+could still decline to apply it where to do so would lead to unjust result, and
+that the doctrine is ... “merely equity in action in procedural arena”
+(Chee Pok Choy & Ors v. Scotch Leasing Sdn Bhd [2001] 2 CLJ 321, quoting
+Gopal Sri Ram JCA (as His Lordship then was), Carl-Zeiss-Stiftung v. Rayner
+and Keeler Ltd & Ors (No. 2) [1966] 2 All ER 532, Arnold v. National
+Westminster Bank Plc [1991] 2 AC 93). The court then said:
+
+F
+
+G
+
+H
+
+I
+
+From a perusal of the various authorities referred to us it was clear that
+section 3(3) of Act 15 had not hitherto before specifically been the subject
+of a constitutional challenge in any of those previous proceedings, that
+is, on similar lines as mounted in the saman pemula here by the appellant.
+This was conceded in as much by learned SFC. The criminal application
+questioned the validity of section 4(1)(c) of Act 15 on the grounds that
+it unfairly restricted a person’s right to freedom of speech and expression.
+There was in the judgment of the Court of Appeal in the criminal
+application (Mat Shuhaimi bin Shafiei v Public Prosecutor [2014] 2 MLJ 145;
+[2014] 5 CLJ 22), a comment with regard to the relevance of the
+‘proportionality test’ but this was merely in general terms and with
+reference to the purpose of Act 15 and the permissible laws for the
+maintenance of public order as allowed under art. 10(2) of the Federal
+Constitution.
+
+[38] Reference was then made to the Federal Court’s decision in PP v. Azmi
+Sharom [2015] 8 CLJ 921, which according to the Court of Appeal, only
+confined its consideration on whether s. 4(1) of Act 15 fell within the scope
+of art. 10(2)(a) of the Federal Constitution. Section 3(3) of Act 15 did not
+feature at all in the Federal Court’s finding. With regard to PP v. Ooi Kee Said
+& Ors [1971] 1 LNS 113; [1971] 2 MLJ 108 and PP v. Param Cumaraswamy
+
+
+
+26
+
+Current Law Journal
+
+[2018] 3 CLJ
+
+[1986] 1 CLJ 101; [1986] CLJ (Rep) 606; [1986] 1 MLJ 512 referred to by
+the learned SFC in support of the submission that s. 3(3) of Act 15 had been
+previously considered by our courts and any issue as to its validity had been
+put to rest, the Court of Appeal held that apart from being decisions of the
+High Court, the two cases were given in the context of criminal charges
+unlike in the case before it, where a declaration was being sought in the
+originating summons. Further, according to the Court of Appeal, there was
+no discussion or assessment by the High Court in those two cases as to the
+constitutionality of s. 3(3) of Act on the basis of reasonableness or the
+‘proportionality principle’ in the context of art. 10(2) of the Federal
+Constitution.
+
+A
+
+B
+
+C
+
+[39] The Court of Appeal also held that the High Court was in error in
+stating that an “identical question” had been considered and decided by the
+courts. This is what the Court of Appeal said:
+[23] The learned judge was, in our respectful view, also clearly in error
+when stating that an ‘identical question’ had been considered and decided
+upon by the courts. That was not so. What was before the court by way
+of the saman pemula was a substantive challenge separately brought on
+the constitutional validity of s. 3(3) of Act 15 which ought to have been
+considered on its merit; the court’s failure to do so had no doubt, resulted
+in a miscarriage of justice which warranted our intervention.
+[24] It was our view that the appellant ought not to be summarily shut
+out of this novel constitutional challenge now mounted which principally
+focussed on the validity in law of s 3(3) of Act 15 as tested against the
+principle of ‘proportionality’ of any restriction availed of under art. 10(2)(a)
+of the FC; the specifics of which had never been adjudicated upon
+previously. In any event, it was in the interest of justice, not merely to
+the appellant, but also to the public at large, that this issue now been
+canvassed be heard and determined by the courts.
+
+[40] The Court of Appeal then proceeded to consider the merits of the
+substantive motion and eventually allowed the appeal by the appellant
+(the respondent before us), set aside the decision of the High Court, allowed
+prayer 1 in the originating summons and made the declaration that s. 3(3) of
+the Sedition Act 1948 (Act 15), contravenes art. 10 of the Federal
+Constitution and therefore is invalid and of no effect.
+[41] For reasons which we will set out shortly, we find that the Court of
+Appeal erred in not holding that encl. 1 is an abuse of the process. Indeed,
+it is clear that the crucial issue as to whether encl. 1 is an abuse of the process
+was not considered at all by the Court of Appeal in its judgment. This must
+be done by the Court of Appeal, before embarking on the consideration of
+the merits of the motion. If, upon due consideration, encl. 1 is found to be
+an abuse of the process, then encl. 1 could not stand, and the appeal must
+be dismissed without the need of going to the merits of the substantive
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+27
+
+motion. The Court of Appeal had considered the issue of res judicata, but not
+the applicability or otherwise of the doctrine of the abuse of the process. On
+the law that we have set out at some length, res judicata (in the form of cause
+of action estoppel or issue estoppel), is separate and distinct from the doctrine
+of abuse of the process although both rest on the same underlying public
+interests – namely, that there should be finality in litigation and that a party
+should not be vexed twice in the same matter (see Johnson (supra) per
+Lord Bingham of Cornhill at p. 31, Toronto (City) v. C.U.P.E. Local 79, 2003
+SCC 63). The abuse of the process doctrine ... “is untrammelled by the
+technicalities of estoppel” (see House of Spring Garden Ltd v. Waite [1990]
+2 All ER 990, at 1000). In Bradford and Bingley Building Society v. Seddon
+[1999] 1 WLR 1482, at pp. 1490-1491, Auld LJ said:
+In my judgment, it is important to distinguish clearly between res judicata
+and abuse of process not qualifying as res judicata, a distinction delayed
+by the blurring of the two in the courts’ subsequent application of the
+above dictum [of Sir James Wigram V-C in Henderson v. Henderson 3 Hare
+100]. The former, in its cause of action estoppel form, is an absolute bar
+to relitigation, and in its issue estoppel form also, save in ‘special cases’
+or ‘special circumstances’: see Thoday v. Thoday [1964] P 181, 197-198, per
+Diplock LJ, and Arnold v. National Westminster Bank Plc [1991] 2 AC 93. The
+latter, which may arise where there is no cause of action or issue estoppel,
+is not subject to the same test, the task of the court being to draw the
+balance between the competing claims of one party to put his case before
+the court and of the other not to be unjustly hounded given the earlier
+history of the matter ... Thus, abuse of process may arise where there has
+been no earlier decision capable of amounting to res judicata (either or both
+because the parties or the issues are different) for example, where liability
+between new parties and/or determination of new issues should have
+been resolved in the earlier proceedings. It may also arise where there is
+such an inconsistency between the two that it would be unjust to permit
+the later one to continue.
+
+[42] The speech by Abdoolcader SCJ in Superintendent of Pudu Prison & Ors
+v. Sim Kie Chon [1986] 1 CLJ 548; [1986] CLJ (Rep) 256; [1986] 1 MLJ 494,
+at pp. 261-262 (CLJ); pp. 498-499 (MLJ) is also instructive on the
+application of the doctrine of the abuse of process:
+There is moreover the inherent jurisdiction of the court in cases where
+res judicata is not strictly established, and where estoppel per rem judicatam
+has not been sufficiently pleaded, or made out, but nevertheless the
+circumstances are such as to render any reagitation of the questions
+formally adjudicated upon a scandal and an abuse, the court will not
+hesitate to dismiss the action, or stay proceedings therein, or strike out
+the defence thereto, as the case may require. It would suffice in this regard
+to refer to the judgment of the Privy Council delivered by
+Lord Wilberforce in Brisbane City Council and Myer Shopping Centres Pty Ltd
+v. Attorney-General for Queensland [1979] AC 411, 425.
+The second defence is one of ‘res judicata.’ There has, of course,
+been no actual decision in litigation between these parties as to the
+issue involved in the present case, but the appellants invoke this
+
+
+
+Current Law Journal
+
+28
+
+[2018] 3 CLJ
+
+defence in its wider sense, according to which a party may be shut
+out from raising in a subsequent action an issue which he could,
+and should, have raised in earlier proceedings. The classic
+statement of this doctrine is contained in the judgment of Wilgram
+V-C. in Henderson v. Henderson (1843) 3 Hare 100 and its existence
+has been reaffirmed by this Board in Hoystead v. Commissioner of
+Taxation [1926] AC 155. A recent application of it is to be found
+in the decision of the Board in Yat Tung Investment Co Ltd v. Dao
+Heng Bank Ltd [1975] AC 581. It was, in the judgment of the Board,
+there described in these words:
+... there is a wider sense in which the doctrine may be appealed
+to, so that it becomes an abuse of process to raise in
+subsequent proceedings matters which could and therefore
+should have been litigated in earlier proceedings. (p. 590).
+The attempt by way of the instant proceedings to relitigate and reopen
+the earlier action clearly reflects the appositeness of the caption suggested
+for this matter in the prelude to this judgment and would appear to us
+to be as clear an instance of an abuse of the process of the court as one
+can find within the connotation thereof enunciated in the speech of Lord
+Diplock in Hunter v. Chief Constable of the West Midlands Police & Ors [1982]
+AC 529, 542.
+
+[43] So, even if res judicata is not applicable to bar encl. 1, it still cannot
+stand if it is found to be an abuse of the process. The question is it an abuse
+of the process?.
+[44] This brings into focus again the approach on the determination of an
+abuse of the process distilled from the speech by Lord Bingham in Johnson
+(supra), which we apply. The approach should be:
+[a] broad, merits-based judgment which takes account of the public and
+private interests involved and also takes account of all the facts of the
+case, focusing attention on the crucial question whether, in all the
+circumstances, a party is misusing or abusing the process of the court by
+seeking to raise before it the issue which could have been raised before"
+
+[45] The ‘merits’ in the phrase ‘broad merits-based judgment’ were not the
+substantive merits or otherwise of the actual claim, but those relevant to the
+question whether the claimant could or should have brought his claim as part
+of the earlier proceeding (see Stuart v. Goldberg Linde [2008] 1 WLR 823, at
+840, per Lloyd LJ).
+[46]
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+We should also bear in mind that:
+
+one cannot comprehensively list all possible forms of abuse, so one cannot
+formulate any hard and fast rule to determine whether, on given facts,
+abuse is to be found or not.
+I
+
+
+
+[2018] 3 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+29
+
+[47] Applying the approach explained in Johnson (supra), we begin
+determining whether encl. 1 in the originating summons is an abuse of the
+process by examining the notice of motion filed in the criminal proceeding.
+In the notice of motion, what the respondent wanted was to have the criminal
+prosecution on the charge for an offence under s. 4(1)(c) of Act 15, instituted
+against him be struck out and/or set aside and/or quashed (prayer (1)). He
+also wanted the court to acquit and discharge him of the said charge
+(prayer 2). Those were the purposes. To achieve those purposes, he prayed
+for an order that s. 4 of Act 15 be held to be inconsistent with art. 10 of the
+Federal Constitution and therefore void. The grounds supporting the
+respondent’s application in the notice of motion are as follows:
+(i) The charge against the appellant under the Sedition Act is contrary
+or not consistent with art. 10 of the Federal Constitution read
+together with art. 5 and art. 9 of the Federal Constitution and it is
+therefore void and invalid by virtue of art. 4 and/or art. 162 of the
+Federal Constitution.
+(ii) The Sedition Act does not comply with art. 10 cl. (2)(a) of the
+Federal Constitution (which permits law that restricts the freedom
+of expression for several objectives) and it cannot objectively be said
+to be a reasonable restriction nor does it fulfill the objective in
+art. 10 cl. (2)(a) of the Federal Constitution and it is wholly
+disproportionate to the valid reason permitted by law to restrict the
+fundamental right of the appellant under the Federal Constitution.
+
+[48] The Shah Alam High Court dismissed the motion. The court held that
+s. 4(1)(c) of Act 15 is not ultra vires the Federal Constitution. In the Court
+of Appeal, learned counsel for the respondent (the appellant before the Court
+of Appeal) submitted that:
+That s. 4(1)(c) of the Sedition Act 1948 (Act 15) read with the definition
+of ‘seditious tendency’ in s. 3 of the same Act amounts to an
+unreasonable restriction of the appellant’s right to ‘freedom of speech and
+expression’ under art. 10(1)(a) of the Federal Constitution and that being
+the case, s. 4(1)(c) of the same Act is rendered unconstitutional and
+should be struck out.
+
+[49] The Court of Appeal held that being a pre Merdeka law, Act 15 is
+governed by art. 162 of the Federal Constitution. Section 4(1) of Act was not
+caught within the purview of art. 4(1) of the Federal Constitution. Since
+Act 15 was enacted in 1948, any application to declare the impugned law
+null and void for being inconsistent with art. 4 of the Federal Constitution
+must be dismissed and it was grounded on the wrong premise.
+[50] The court then considered the provisions under ss. 4(1)(c), 3(1) and
+3(2) of Act 15 and art. 10(1)(a) and art. 10(2)(a) and (4) of art. 10. The court
+held that the right to freedom of speech and expression under art. 10(1)(a)
+of the Federal Constitution is only accorded to the citizens and it is not
+
+
+
+30
+
+Current Law Journal
+
+[2018] 3 CLJ
+
+absolute. No one can deny that there must be some restrictions to this right.
+Reference was made to several authorities including Madhavan Nair & Anor
+v. PP [1975] 1 LNS 94; [1975] 2 MLJ 264, Lau Dak Kee v. PP [1976] 1 LNS
+54; [1976] 2 MLJ 229, PP v. Ooi Kee Saik & Ors [1971] 1 LNS 113; [1971]
+2 MLJ 108 and Fan Yew Teng v. PP [1975] 1 LNS 38; [1975] 2 MLJ 235.
+The court stated that art. 10(2)(a) of the Federal Constitution allows
+Parliament to impose “such restrictions as it deems necessary or expedient”.
+These constitutional restrictions impugned on the freedom of speech and
+expression.
+[51] The court then said, it is an offence to act, speak, or publish statements
+with “seditious tendency” (as provided in s. 2 of Act 15). The prosecution
+need not prove that the words were true or otherwise. Then referring to
+s. 3(3) of Act, the court said that:
+Act throws the net wider in favour of the prosecution. In the present form
+under section 3(3) of the Sedition Act, the intention of the maker of the
+statements in making those statement is irrelevant. It is also not an
+essential ingredient of the offence under section 4(1)(c) of the Sedition
+Act for the prosecution to prove that the statements made will incite
+[or had incited] violence or public disorder ...
+... Based on the authority of PP v. Ooi Kee Saik (supra), the truth of the
+statement is also irrelevant.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+[52] It is opportune at this stage to reproduce the submission of learned
+counsel for the respondent in the Court of Appeal:
+[49] Learned counsel for the appellant complained that a person who
+makes a statement which:
+F
+
+(a) is not seditious; and
+(b) made in good faith with a bona fide intention; or
+(c) contains the truth of the matter;
+would still be liable to be convicted for sedition under the Sedition Act.
+
+G
+
+[50] Learned counsel for the appellant lamented that the position is
+absurd, untenable and unreasonable.
+[51] ... the Sedition Act does not distinguish between two categories of
+individuals, namely:
+(a) those who are genuine in their speech and who speak the truth; and
+
+H
+
+(b) those who are not genuine and who wish to incite hatred and
+violence.
+[52] ... the sting of the Sedition Act contravened arts. 8 and 10 of the
+Federal Constitution following the guidelines of the Federal Court cases
+in Sivarasa Rasiah v. Badan Peguam Malaysia & Anor [2010] 2 MLJ 333;
+[2010] 3 CLJ 507 (FC); and Lee Kwan Woh v. Public Prosecutor [2009] 5 MLJ
+301; [2009] 5 CLJ 631 (FC).
+
+I
+
+
+
+[2018] 3 CLJ
+A
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+31
+
+[53] ... the crux of the legal challenge centred on s. 4(1)(c) of the Sedition
+Act which is said to be inconsistent with art. 10(1)(a) of the Federal
+Constitution read with the right to equal protection of the law as
+encapsulated in art. 8(1) of the Federal Constitution thereby rendering the
+said s. 4(1)(c) to be unreasonable and/or disproportionate to the mischief
+it seeks to curtail.
+
+B
+
+C
+
+[53] It was argued on behalf of the appellant that whether the Sedition Act
+1948 is considered to be a pre-Merdeka law or a post-Merdeka law, the tests
+to be applied in a constitutional challenge of the kind as advanced by the
+appellant would be the same. It was submitted that the appropriate tests to
+be applied would be by way of considering the following questions:
+(a) Whether s. 4(1)(c) of the Sedition Act 1948 restricts a person’s right to
+freedom of speech and expression?
+
+D
+
+E
+
+F
+
+(b) If the question is answered in the affirmative, then the next question to
+pose would be whether the restriction is unreasonable and/or
+disproportionate to its objective?
+(c) Should the answers to both questions be in the affirmative, then the
+court is empowered under art. 162(6) and (7) of the Federal Constitution
+to repeal the pre-Merdeka legislation which is inconsistent with the
+Federal Constitution. The court too, it is said, is empowered under
+art. 4(1) of the Federal Constitution to strike down the Sedition Act
+1948 if it is considered to be a post-Merdeka law.
+[54] The Court of Appeal held that “the Sedition Act is a pre-Merdeka law
+...” All pre-Merdeka laws or described as “existing laws” shall continue in
+force or after Merdeka day. The court continued:
+While Article 162(1) of the Federal Constitution stipulates as follows:
+Existing laws
+
+G
+
+162 (1) Subject to the following provisions of this Article and Article 163,
+the existing laws shall, until repealed by the authority having power to do
+so under this Constitution, continue in force on and after Merdeka Day,
+with such modifications as may be made therein under this Article and
+subject to any amendments made by federal or State law.
+[71] This is followed by art. 162(6) of the Federal Constitution which
+states as follows:
+
+H
+
+I
+
+162 (6) Any court or tribunal applying the provision of any existing
+law which has not been modified on or after Merdeka Day under
+this Article or otherwise may apply it with such modifications as
+may be necessary to bring it into accord with the provisions of this
+Constitution.
+
+
+
+Current Law Journal
+
+32
+
+[2018] 3 CLJ
+
+[72] Where there is a conflict between the existing law and the Federal
+Constitution, the latter must prevail. This simple proposition of the law
+was set by Lord Denning in B Surinder Singh Kanda v. Government of the
+Federation of Malaya [1962] 1 MLJ 169 (PC) at p. 172 (MLJ); p. 334 in these
+trenchant terms:
+
+A
+
+It appears to Their Lordships that, in view of the conflict between
+the existing law (as to the powers of the Commissioner of Police)
+and the provisions of the Constitution (as to the duties of the
+Police Service Commission) the Yang di-Pertuan Agong could
+himself (under art. 162(4)), have made modifications in the existing
+law within the first two years after Merdeka Day. (The attention
+of Their Lordships was drawn to modifications he had made in the
+existing law relating to the railway service and the prison service.)
+But the Yang di-Pertuan Agong did not make any modifications
+in the powers of the Commissioner of Police, and it is too late for
+him now to do so. In these circumstances, Their Lordships think
+it is necessary for the court to do so under article 162(6). It appears
+to Their Lordships that there cannot, at one and the same time,
+be two authorities, each of whom has a concurrent power to
+appoint members of the police service. One or other must be
+entrusted with the power to appoint. In a conflict of this kind
+between the existing law and the Constitution, the Constitution
+must prevail. The court must apply the existing law with such
+modifications as may be necessary to bring it into accord with the
+Constitution. The necessary modification is that since Merdeka
+Day it is the Police Service Commission (and not the
+Commissioner of Police) which has the power to appoint members
+of the police service. And that is just what has happened. The
+Police Service Commission has in fact made the appointments.
+And Their Lordships are of opinion that they were lawfully made.
+
+B
+
+C
+
+D
+
+E
+
+F
+
+[73] And according to art. 162(7) of the Federal Constitution, the word
+‘modification’ includes amendment, adaptation and repeal.
+
+[55] The Court of Appeal then said that in Surinder Singh Kanda (supra), the
+Privy Council held that inconsistent existing law must give way to the
+Federal Constitution even when an article of the Federal Constitution is
+expressed to be “subject to existing laws”. The court observed that there are
+a string of authorities that applied art. 162(6) of the Federal Constitution
+generously. There are also cases which did not apply art. 162(6) of the
+Federal Constitution because the existing laws were found to be consistent
+with the Federal Constitution. In this regard, learned counsel for the
+respondent submitted that s. 4(1)(c) of the Sedition Act must conform to the
+‘reasonable restriction test’ in art. 10(1)(a) of the Federal Constitution. It was
+submitted that if found to be unreasonable, then this court must make the
+necessary modifications under art. 162(6) or 162(7) of the Federal
+Constitution and that modifications may include:
+(i) a repeal; or
+(ii) a declaration of unenforceability; or
+
+G
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+A
+
+B
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+33
+
+(iii) an adaptation by adding into the offence the additional elements of
+‘intention to threaten or incite violence or public disorder’ (this means
+that mere tendency would not suffice to support the offence).
+[56] According to the Court of Appeal, the court was urged to hold that
+Act 15 is unconstitutional for two main reasons:
+(a) that the violation of art. 10(1)(a) and 10(2)(a) of the Federal Constitution
+offends the “reasonableness test”
+(b) that the violation of the equality provision in art. 8(1) of the Federal
+Constitution offends the “proportionality test”.
+
+C
+
+D
+
+E
+
+[57]
+
+On the reasonableness test, the Court of Appeal held:
+
+[90] In considering the ‘reasonableness test’, we took into account the
+scheme of the Sedition Act which is all encompassing. It criminalises
+speech and expression in different forms. Under the said Act, intention
+is irrelevant. As long as the speech or publication had a seditious
+tendency, an offence is committed. It is akin to an offence of strict
+liability. We reiterate the principles established by Public Prosecutor v. Ooi Kee
+Saik & Ors to the effect that the truth or falsity of the words uttered is
+immaterial and it is not a defence to a charge for sedition. And whether
+the words complained of could have the effect of producing or did in fact
+produce any of the consequences listed in s. 3(1)(a) - (f) of the Sedition
+Act is immaterial. ...
+...
+
+F
+
+G
+
+H
+
+I
+
+[98] Article 4(2)(b) of the Federal Constitution states that the validity of
+any law shall not be questioned on the ground that it imposes such
+restrictions as are mentioned in art. 10(2) but those restrictions were not
+deemed necessary or expedient by Parliament for the purposes mentioned
+in that Article. Thus, it clearly ruled out the prerogative of even the courts
+to question the validity of those laws that fall within the scope of
+art. 10(2)(a) of the Federal Constitution. In this context, it is germane to
+refer to the Supreme Court case of Public Prosecutor v. Pung Chen Choon
+[1994] 1 MLJ 566, at p. 575, where Edgar Joseph Jr SCJ delivering the
+judgment of the Supreme Court aptly said:
+So, for example, if the impugned law, in pith and substance, is a
+law relating to the subjects enumerated under the permitted
+restrictions found in cl. 10(2)(a), the question whether it is
+reasonable does not arise; the law would be valid.
+[99] In Public Prosecutor v. Param Cumaraswamy (No 2) [1986] 1 MLJ 518,
+NH Chan J (later JCA) correctly held the view that the Sedition Act is
+constitutional within the purview of art. 10(2) of the Federal Constitution.
+At p. 519 of the report, His Lordship had this to say and it is still good
+law until today:
+In this country, just as in every country, there cannot be absolute
+freedom when we speak of fundamental rights (or human rights).
+In all common law countries, whether we have the Dicey Rule of
+
+
+
+34
+
+Current Law Journal
+
+[2018] 3 CLJ
+
+Law or a Bill of Rights (as in the United States) or a written
+constitution, freedom is not an absolute right. Lord Denning calls
+it: freedom under the law. This telling phrase was coined by him
+in 1949; he was ‘the first and true inventor’ of it: see The Family
+Story pp. 177-8.
+
+A
+
+[100] In our judgment, the Sedition Act is constitutional and it does not
+violate arts. 10(1)(a) and 10(2)(a) of the Federal Constitution. It does not
+offend the reasonableness test. It is reasonable to maintain the Sedition
+Act because, ‘The Government has a right to preserve public peace and
+order, and therefore, has a good right to prohibit the propagation of
+opinions which have a seditious tendency’ (to borrow the words of
+His Majesty in Public Prosecutor v. Ooi Kee Saik & Ors).
+
+B
+
+C
+
+[58] In respect of the proportionality test, the Court of Appeal held that
+s. 4(1)(c) is constitutional and it passed the proportionality test with flying
+colours. The court said:
+[101] It is the duty of the court to ascertain whether s. 4(1)(c) of the
+Sedition Act is proportionate to the objective it seeks to achieve. This test
+of proportionality was enunciated by the Federal Court in Sivarasa Rasiah
+(supra).
+[102] Statements having ‘seditious tendency’ without regard to the
+intention of the maker making those statements and whether the words
+expressed are true or otherwise and whether the statements made will
+incite violence or public order are all caught within the purview of the
+Sedition Act. The proportionality test must be viewed in the context of
+the purpose of the Sedition Act, namely the prevention of public disorder
+and the maintenance of public order.
+[103] The Sedition Act is proportionate to the necessity to safeguard the
+security of the federation and to maintain law and order as well as to
+avoid incitement. In particular, the impugned provision does not
+overreach art. 10(2)(a) of the Federal Constitution and it is substantively
+fair and proportionate and thus it does not violate the equality provision
+in art. 8(1) of the Federal Constitution. In Shri Ram Krishna Dalmia and
+3 Others v. Shri Justice SR Tendoikar and 3 Others AIR 1958 SC 538, the
+Indian Supreme Court speaking through Chief Justice SR Das at pp. 547548 held as follows:
+(b) that there is always a presumption in favour of the constitutionality
+of an enactment and the burden is upon him who attacks it to show
+that there has been a clear transgression of the constitutional
+principles;
+(c) that it must be presumed that the Legislature understands and
+correctly appreciates the need of its own people, that its laws are
+directed to problems made manifest by experience and that its
+discriminations are based on adequate grounds;
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+A
+
+(e) that in order to sustain the presumption of constitutionality the
+Court may take into consideration matters of common knowledge,
+matters of common report, the history of the times and may assume
+every state of facts which can be conceived existing at the time of
+legislation; and
+
+B
+
+(f) that while good faith and knowledge of the existing conditions on
+the part of a Legislature are to be presumed, if there is nothing on
+the face of the law or the surrounding circumstances brought to the
+notice of the Court on which the classification may reasonably be
+regarded as based, the presumption of constitutionality cannot be
+carried to the extent of always holding that there must be some
+undisclosed and unknown reasons for subjecting certain individuals
+or corporations to hostile or discriminating legislation.
+
+C
+
+[59]
+
+35
+
+In conclusion, the Court of Appeal said that:
+
+We were invited to hold that the Sedition Act be declared null and void.
+We declined the invitation ...
+D
+
+...
+
+E
+
+[115] In our judgment, the Sedition Act being a pre-Merdeka law is good
+law and it is still valid up to this very day. The validity of the
+Sedition Act comes under the saving provisions of art. 162 of the
+Federal Constitution.
+[116] The Sedition Act falls squarely within the framework of art. 10(2)
+of the Federal Constitution and its validity and constitutionality
+cannot be challenged.
+
+F
+
+G
+
+H
+
+I
+
+[117] In open court, after anxiously listening to the oral submissions of
+the parties, we announced our unanimous decision as follows:
+We have deliberated at length and we are of the considered
+view that s. 4(1)(c) of the Sedition Act does not infringe the
+reasonable test and the proportionality test by virtue of s. 3(2)
+of the same Act. Hence, we conclude that s. 4(1)(c) of the same
+Act is constitutionally enacted by Parliament and remain a valid
+and enforceable law until today. We accordingly dismiss the
+appeal and we direct that the appellant is to appear before the
+Sessions Court on 5.6.2013 for mention to enable the Sessions
+Court Judge to hear the case on its merits.
+
+[60] In encl. 1, the respondent prayed for a declaration that s. 3 of Act 15
+read with s. 4 thereof violates art. 10(1)(a) of the Federal Constitution, and
+is accordingly null and void. The ground given in the originating summons
+in support of the application is that s. 3 of Act 15 when read as a whole and
+together with s. 4 of the same is upon its true construction inconsistent with
+art. 10(1)(a) of the Federal Constitution. The brief affidavit filed by the
+respondent in support of the application which was stated in the originating
+summons to contain the grounds supporting the application, also does not
+contain anything material apart from stating that on 7 February 2011, the
+respondent was charged in the Sessions Court Shah Alam under s. 4(1)(c) of
+
+
+
+36
+
+Current Law Journal
+
+[2018] 3 CLJ
+
+Act 15, and “that ss. 3 and 4 of the Act 15 when read as a whole violate the
+fundamental liberty of freedom of speech guaranteed by art. 10(1)(a) of the
+Federal Constitution.” No reasons or particulars relating to the alleged
+constitutional violation were given. It is only in the written submission by
+the respondent’s counsel filed for High Court hearing that the reasons for the
+constitutional violation was given, namely, that s. 3 of Act 15 read with
+s. 4 of the same is unconstitutional for the following reasons:
+(a) Section 3(3) of the Act which makes the offence of sedition one of strict
+liability in respect of a fundamental right guaranteed by the Constitution
+in art. 10(1)(a) is incapable of being modified under art. 162 of the
+Federal Constitution; and
+
+A
+
+B
+
+C
+
+(b) Section 3 when read as a whole and together with s. 4 of the Act, on its
+true construction, renders the freedom of speech guaranteed under
+art. 10(1)(a) illusory.
+[61] Elaborating on the first reason, it was contended that s. 3(3) of Act 15
+renders the offence of sedition a strict liability offence (para. 26, p. 169
+appeal record vol. 2(2)). A person exercising a fundamental right guaranteed
+by art. 10(1)(a) of the Federal Constitution can be guilty of sedition despite
+not having the intention to commit such an offence. It is a settled principle
+that mens rea is a requirement of all offence - be it under common law or
+statute. Section 3(3) of Act 15 cannot be read in accord with the Constitution
+because it imposes an absolute bar on the basis of strict liability. Therefore,
+the alternative is that s. 3(3) of Act 15 be struck down altogether leaving the
+offence of sedition as one requiring intention. In respect of the second reason,
+it was contended that Act 15 is not a reasonable restriction on the test
+enumerated in Sivarasa Rasiah v. Badan Peguam Malaysia & Anor [2010] 3 CLJ
+507, because s. 3 of Act 15 read with s. 4 of the same Act failed the test.
+The respondent’s challenge pursuant to his application in encl. 1 became
+more specific to the constitutionality of s. 3(3) of Act 15 as was revealed in
+the written submission filed on his behalf in the Court of Appeal. According
+to his learned counsel, the question to be decided is whether s. 3(3) of
+Act 15, which renders the “intention” irrelevant is in breach of art. 10(2)(a)
+and art. 8 of the Federal Constitution. He submitted that, put in another way,
+the question is whether s. 3(3) of Act 15 is disproportionate legislative
+response, repugnant to the principle of proportionality housed in art. 8, thus
+rendering the right to freedom of speech in art. 10(1)(a) illusory (see p. 216,
+appeal record, vol. 2(2)). If the restriction is not proportionate it ought to be
+struck down as unconstitutional. Then, from the respondent’s skeletal
+submission filed for the hearing before us, the gist of the argument on the
+challenge to the constitutionality of s. 3(3) is as follows:
+... Section 3(3) is unconstitutional because it is absolute in terms and is
+therefore a disproportionate legislative response. It would not have been
+disproportionate had s. 3(3) included a mental element. This is because
+there is a right vested by the common law of England in every accused
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+[62] So, actually of the constitutional challenge in encl. 1 is the
+constitutionality of s. 3(3) of Act 15, under which intention is deemed to be
+irrelevant for the purpose of proving the commission of any offence against
+Act 15. However, for that purpose, s. 3(3) cannot stand and be taken alone.
+This is because of the interplay between s. 4 (in particular s. 4(1)(c), in the
+context of the charge against the respondent), s. 2 and ss. 3(1), 3(2) and 3(3)
+of Act 15. On the scheme of Act 15 as it stands, in considering whether the
+offence under s. 4(1)(c) of Act 15 is made out, that section must be considered
+with ss. 2 and 3 of Act 15. In order to establish the charge against the
+respondent under s. 4(1)(c) of Act 15, the prosecution has to prove the act
+of publishing a seditious publication.
+Section 4(1) of Act 15 provides:
+
+Offences
+4. (1) Any person who:
+(a) does or attempts to do, or makes any preparation to do, or
+conspires with any person to do, any act which has or which
+would, if done, have a seditious tendency;
+
+G
+
+(b) utters any seditious words;
+(c) prints, publishes, sells, offers for sale, distributes or reproduces
+any seditious publication; or
+
+H
+
+I
+
+37
+
+that that mens rea shall be an element of every offence created by law. ...
+This right is to be found within art. 5(1) through the interpretive process
+of reading art. 160(2) with section 66 of Part II of the Consolidated
+Interpretations Acts 1948 and 1967, whereby a right at common law
+becomes a right protected by Article 5(1). ... Section 3(3) cannot be saved
+under Article 162 because it cannot be brought to accord with the
+Constitution. It cuts across or renders the right under Article 10(1)(a)
+illusory being a disproportionate law. ... Under Article 162(6) the Court
+may modify and perform a legislative function. That would mean
+re-writing the subsection by deleting the words “deemed to be irrelevant”
+and inserting the word “relevant” after the words “shall be”. The other
+way to modify it is for Court to delete the whole subsection acting under
+Article 162(6) read with (7). The result will be the same because intention
+will become relevant. And that is all that the Constitution requires.
+
+[63]
+F
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+(d) imports any seditious publication, shall be guilty of an offence
+and shall, on conviction, be liable for a first offence to a fine not
+exceeding five thousand ringgit or to imprisonment for a term
+not exceeding three years or to both, and, for a subsequent
+offence, to imprisonment for a term not exceeding five years;
+and any seditious publication found in the possession of the
+person or used in evidence at his trial shall be forfeited and may
+be destroyed or otherwise disposed of as the court directs.
+
+
+
+Current Law Journal
+
+38
+
+[2018] 3 CLJ
+
+[64] The answer to the question as to what is a seditious publication is
+found under s. 2 of Act 15. Section 2 provides as follows:
+
+A
+
+“seditious” when applied to or used in respect of any act, speech, words,
+publication or other thing qualifies the act, speech, words, publication or
+other thing as one having a seditious tendency;
+
+[65] In order to prove a “seditious tendency”, the prosecution has to rely
+on s. 3(1) of Act 15 which provides:
+
+B
+
+Seditious tendency
+3. (1) A “seditious tendency” is a tendency:
+(a) to bring into hatred or contempt or to excite disaffection against
+any Ruler or against any Government;
+(b) to excite the subjects of
+territory governed by any
+the territory of the Ruler
+alteration, otherwise than
+law established;
+
+any Ruler or the inhabitants of any
+Government to attempt to procure in
+or governed by the Government, the
+by lawful means, of any matter as by
+
+C
+
+D
+
+(c) to bring into hatred or contempt or to excite disaffection against
+the administration of justice in Malaysia or in any State;
+(d) to raise discontent or disaffection amongst the subjects of the
+Yang di-Pertuan Agong or of the Ruler of any State or amongst
+the inhabitants of Malaysia or of any State;
+
+E
+
+(e) to promote feelings of ill will and hostility between different
+races or classes of the population of Malaysia; or
+(f) to question any matter, right, status, position, privilege,
+sovereignty or prerogative established or protected by the
+provisions of Part III of the Federal Constitution or Article 152,
+153 or 181 of the Federal Constitution.
+
+[66] In the context of the charge against the respondent, the tendency under
+s. 3(1)(a) and the tendency under s. 3(1)(d) are relevant.
+[67] In considering whether any act, speech, words, publication or other
+thing has any seditious tendency under s. 3(1), regard must be had to the
+exception under s. 3(2) of Act 15 which provides that an act, speech, words,
+publication or other thing shall not be deemed to be seditious by reason only
+that it has a tendency provided under ss. 3(2)(a), 3(2)(b), and 3(2)(c) of the
+same Act.
+[68] For the purpose of proving the commission of an offence under
+s. 4(1)(c) of Act 15, (or indeed any offence under the Act), s. 3(3) of the Act
+must come into play because once the elements under s. 3(1) read with s. 2
+of Act are established, namely, that the publication published by the
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+A
+
+B
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+39
+
+respondent in fact had a seditious tendency, then the intention of the
+respondent shall be deemed to be irrelevant. This is clear from s. 3(3) of
+Act 15 which provides:
+(3) For the purpose of proving the commission of any offence against this
+Act the intention of the person charged at the time he did or attempted
+to do or made any preparation to do or conspired with any person to do
+any act or uttered any seditious words or printed, published, sold, offered
+for sale, distributed, reproduced or imported any publication or did any
+other thing shall be deemed to be irrelevant if in fact the act had, or
+would, if done, have had, or the words, publication or thing had a
+seditious tendency.
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+[69] In other words, once it is proven that the publication published by the
+respondent had a seditious tendency as provided under s. 3(1) by Act 15, read
+with s. 2 of Act 15, the offence under s. 4(1)(c) of Act 15 against the
+respondent will be established, and by virtue of s. 3(3), the respondent’s
+intention of publishing the publication shall be deemed irrelevant. The
+deeming of the intention of the person charged as being irrelevant in s. 3(3)
+of Act 15 is the target of the respondent’s challenge on the constitutionality
+of that section. Because of the interplay between ss. 4(1)(c), 2, 3(1), 3(2) and
+3(3) of Act, bearing in mind the criminal charge preferred, in the criminal
+proceeding, when the respondent challenged the constitutionality of s. 4(1)
+of Act 15 for the purpose of the impugning the charge, he could not leave
+out the constitutionality of s. 3(3) of Act 15 which deems intention to be
+irrelevant once seditious tendency is proven as explained in s. 2 read with
+s. 3. In fact s. 3 of Act 15 was referred to by learned counsel for the
+respondent in Shuhaimi I. As would be recalled, in Shuhaimi I, in raising the
+main point raised in the Court of Appeal, he submitted that “s. 4(1)(c) of Act
+15 read with the definition of “seditious tendency” in s. 3 of the same Act
+amounts to an unreasonable restriction” to the respondent’s right of freedom
+of speech and expression under art. 10(1)(a) of the Federal Constitution, and
+hence s. 4(1)(c) of Act 15 is rendered unconstitutional and should be struck
+out. He must have in mind s. 3(2) of Act 15 which explains “seditious
+tendency”. However, he fell short of s. 3(3). He should have raised the
+constitutionality of s. 3(3) of Act 15. In our view, considered in the context
+we have explained, the constitutionality of s. 3(3) of Act 15 is clearly part
+of the subject of the litigation in the notice of motion in the criminal
+proceeding and so clearly could have been raised therein. The respondent
+should have challenged the constitutionality of s. 3(3) in the notice of motion
+in the criminal proceeding. There is nothing in the affidavit filed in support
+of encl. 1 in the notice of motion to explain why this issue was not raised
+in the criminal proceeding. There is also nothing akin to fresh evidence
+which might warrant the raising of this issue only in encl. 1. Having
+considered all the circumstances, we hold that encl. 1 is an abuse of the
+
+
+
+40
+
+Current Law Journal
+
+[2018] 3 CLJ
+
+process. On this ground alone encl. 1 should be dismissed. Thus, the Court
+of Appeal erred in allowing the respondent’s appeal and in considering the
+merits of the application in encl. 1. In our view, this clearly warrants our
+interference.
+[70] We come now to the contention of learned counsel for the respondent
+that the doctrine of res judicata had no application to a challenge upon the
+constitutionality of a statute. In support of his argument he referred to the
+following passage in the judgment of the Indian Supreme Court in
+Nand Kishore v. State of Punjab [1995] 6 SCC 614:
+18. Bearing the above principles in mind what at best was said by the State
+of Punjab was that failure to raise the constitutionality of Rule 5.32 in the
+writ petition preferred by the appellant would imply, on the principle of
+“might and ought”, that the opportunity of controverting the matter had
+been lost and that it should on the principles of constructive res judicata
+be taken that the matter had been actually raised and adversely decided.
+But in Forward Construction Co. and Others. v. Prabhat Mandal and Others
+[1986(1) SCC 100], this Court has taken the view that where a matter has
+been constructive in issue it cannot be said to have been actually heard
+and decided. It could only be deemed to have been heard and decided.
+19. It would then have to be seen the twin play of the notion of deemed
+constitutionality and bar of constructive res judicata. Raising the
+constitutionality of a provision of law, as it appears to us, stands on a
+different footing than raising a matter on a bare question of law, or mixed
+question of law and fact, or on fact. There is a presumption always in
+favour of constitutionality of the law. The onus is heavy on the person
+challenging it. It is by the discharge of onus that the presumption of
+constitutionality can be crossed over. When a person enters a Court for
+relief and does not challenge the constitutionality of the law governing
+the matters directly and substantially in issue, it only means and implies
+that he goes by the presumption of constitutionality. He cannot on this
+stance be deemed to have raised the question of constitutionality and the
+question of constitutionality to have been decided against him and such
+matter to have been directly and substantially in issue. The
+constitutionality of the Rule relating to compulsory retirement cannot be
+deemed to have been questioned and decided against the appellant on the
+principles of “might and ought” or it being “directly and substantially in
+issue”. It cannot be taken as a rule that one of the pleas, either by the
+plaintiff or the defendant, in every suit or proceeding, must of necessity
+relate to the constitutionality of the law on which the cause is founded
+or defended in order to obviate the plea of constructive res judicata being
+raised in an eventuality. It cannot also be taken as a rule that
+constitutionality of the law involved is a matter directly and substantially
+in issue, and if not raised renders a mute decision in favour of its
+constitutionality barring the plea being raised in a subsequent suit. If there
+be read such a rule in all civil litigation, it would, to our mind, be against
+public policy vexing and burdening the courts to go into the
+constitutionality of provisions of law in every case. When under the
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+41
+
+impugned rule, the Government assumed to itself the power to
+compulsorily retire a permanent government servant after ten years of
+qualifying service, the court’s act of striking that Rule as unconstitutional
+is the law which appeared on the scene, not only to break the presumption
+of constitutionality but to declare it void. In a sense the offending
+provision was never there and in the other it was henceforth not there.
+In either event, it would be within the ambit of the emphasised words in
+Mathura Prasad’s case.
+
+[71] According to learned counsel, only the point which was raised and
+challenged was deemed raised. The other presumptions which were not
+raised were deemed constitutional. For that reason he argued, constructive
+res judicata did not apply. We are unable to agree.
+[72] We do not subscribe to the view that the doctrine of res judicata does
+not apply to a challenge upon the constitutionality of a statute. The basis on
+which the doctrine of res judicata rests is founded on the consideration of
+public policy that it is in the public interest that there should be finality in
+litigation and decisions made by courts of competent jurisdiction, and that
+no one should be vexed twice for the same kind of litigation. Therefore, we
+see no reason why the doctrine of constructive res judicata should not apply
+to a challenge on the constitutionality of a statute. To support this, we refer
+to the decision of the Supreme Court of India in State of Haryana v. State of
+Punjab and Anor [2004] 12 SCC 673. In this case the State of Punjab was
+barred by res judicata in a later action from challenging the constitutionality
+of a statute which it could have challenged in an earlier action but did not
+do so. To demonstrate the point we will set out the essential facts derived
+from the judgment of the Supreme Court. The case concerns the SutlejYamuna Link Canal Project covering about 214 km. Following the creation
+of the State of Haryana from the erstwhile State of Punjab, question arose as
+to apportionment of the river waters made available to the erstwhile State of
+Punjab between Haryana and Punjab. On 24 March 1976, a notification was
+issued by the Union of India under s. 78 of the Punjab Reorganisation Act
+1966, inter alia dividing the river waters between the two states. Out of the
+214 km, 122 km were to run through the territory of Punjab and 92 km
+through Haryana. The cost of the project was to be borne by the Central
+Government. Haryana’s portion was completed by June 1980. The State of
+Punjab had not completed its share of the canal although it had been paid the
+amount necessary for the purpose. In 1979, the State of Haryana filed Suit
+No. 1 of 1976 seeking completion of the project. The State of Punjab filed
+Suit No. 2 of 1979 challenging among other things, s. 78 of the Punjab
+Reorganisation Act and the notification dated 24 March 1976. During the
+pendency of the suits, on 31 December 1981, an agreement was made
+between the States of Haryana, Punjab and Rajasthan. The agreement
+provided that the project would be implemented within specified time frame.
+The canal works in the Punjab territory was to be completed within a period
+
+
+
+Current Law Journal
+
+42
+
+[2018] 3 CLJ
+
+of two years from the date of the agreement. Following the agreement, on
+12 February 1981, the Supreme Court allowed the suits to be withdrawn. On
+the expiry of the period for the completion of the project by Punjab, its
+portion of the agreement remained not completed. On 24 July 1985, a
+settlement (the Punjab Settlement) was reached between Haryana and Punjab.
+Clause 9 of the settlement provides:
+
+A
+
+B
+
+9. Sharing of river waters
+9.1. The farmers of Punjab, Haryana and Rajasthan will continue
+to get water not less than what they are using from the Ravi-Beas
+system as on 1.7.1985; waters used for consumptive purposes will
+also remain unaffected. Quantum of usage claimed shall be
+verified by the Tribunal referred to in para 9.2. below.
+9.2. The claims of Punjab and Haryana regarding the shares in their
+remaining waters will be referred for adjudication to a tribunal to
+be presided over by a Supreme Court Judge. The decision of this
+Tribunal will be rendered within six months and would be binding
+on both parties. All legal and constitutional steps required in this
+respect be taken expeditiously.
+
+C
+
+D
+
+9.3. The construction of SYL Canal shall continue. The canal shall
+be completed by 15.8.1986.
+
+[73] Pursuant to cls. 9.1 and 9.2 of the settlement, s. 14 was added to the
+Inter-State Water Disputes Act 1956. Issues regarding usage, share and
+allocation of the Ravi-Beas waters were referred to the adjudication by the
+Union of India under notification dated 2 April 1986. On 30 January 1987,
+the Tribunal submitted its report, inter alia allocating the Ravi-Beas waters
+between Punjab and Haryana. Pursuant to cl. 9.3 of the settlement which
+continued to operate, Punjab completed about 90% of the construction of the
+canal. However, 10% of the construction remained not completed. Haryana
+filed Suit No. 6 of 1996 praying for:
+(a) a decree declaring that the order dated 24.3.1976, the agreement of
+31.12.1981 and the settlement of 24.7.1985 are final and binding
+inter alia on the State of Punjab casting an obligation on Defendant
+No. 1 to immediately restart and complete the portion of the SutjejYamuna Link Canal Project as also make it usable in all respects,
+not only under the aforesaid order of 1976, agreement of 1981 and
+settlement of 1985 but also pursuant to a contract established by
+conduct from 1976 till date.
+(b) a decree of mandatory injunction compelling Defendant 1 (failing
+which Defendant 2 by or through any agency) to discharge its/their
+obligations under the said notification of 1976, the agreement of
+1981 and the settlement of 1985 and in any case under contract
+established by conduct, by immediately restarting and completing
+that portion of the Sutlej-Yamuna Link Canal Project in the State
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+A
+
+B
+
+C
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+43
+
+of Punjab and otherwise making it suitable for use within a time
+bound manner as may be stipulated by this Hon’ble Court to enable
+the State of Haryana to receive its share of Ravi and Beas waters.
+
+[74] The State of Punjab filed a written statement questioning the
+jurisdiction of the court under art. 262 of the Constitution and that the suit
+was barred under O. 23 r. 1 of the Code of Civil Procedure and under
+O. 32 r. 2 of the Supreme Court Rules 1966. On 15 January 2002, the
+Supreme Court decreed the suit in favour of Haryana and issued a mandatory
+injunction directing the State of Punjab to complete the construction of the
+canal and make it functional within one year. The State of Punjab did not
+comply with the court’s decree. On 18 December 2002, Haryana filed an
+application (IA No. 1 of 2002 in Suit No. 6 of 1996), to implement the
+judgment and decree dated 15 January 2002.
+[75] On 13 January 2003, the State of Punjab filed Suit No. 1 of 2003
+praying for several reliefs which include:
+
+D
+
+(c) To declare that Section 14 of the Act, 1956 is ultra-vires the
+Constitution of India;
+(d) To declare that Section 14 of the Act 1956 is no longer enforceable
+for the reasons set out in the plaint.
+
+E
+
+(e) To declare that the Punjab Settlement (Rajiv-Longowal Accord) is
+not enforceable under the changed circumstances as set out in the
+plaint.
+
+F
+
+[76] In response, Haryana filed an application (IA in OS No. 1 of 2003)
+for rejection of the plaint; alternatively for summary dismissal of the suit
+under O. 23 r. 6 read with O. 47 r. 6 of the Supreme Court Rules 1966.
+
+G
+
+[77] The court proceeded to consider Haryana’s application in IA in OS
+No. 1 of 2003 first because its outcome would decide the fate of Punjab’s
+application challenging the decree dated 15 January 2002 (OS No. 1 of 2003)
+and Haryana’s application for enforcement of the decree dated 15 January
+2002.
+
+H
+
+[78] In challenging suit no. 1 of 2003, filed by Punjab, Haryana, inter alia,
+submitted that prayers (c) to (f) in that suit were barred by res judicata. Prayer
+(c) is the prayer to declare that s. 14 of the Act 1956 is ultra vires the
+Constitution of India. In its judgment, the Supreme Court said at pp. 701,
+703 and 704:
+67. Can the State of Punjab raise these issues again? Or is it barred by
+the principles of res judicata assuming that the principles of res judicata are
+‘law’ within the meaning of Order 26 Rule 6(b)?
+
+I
+
+68. The doctrine of res judicata and Order 32 Rule 2 are not technical rules
+of procedure and are fundamental to the administration of justice in all
+courts that there must be an end of litigation. Thus, when this Court was
+called upon in Daryao v. State of U.P., to hold that res judicata could not
+
+
+
+Current Law Journal
+
+44
+
+[2018] 3 CLJ
+
+apply in connection with proceedings before this Court under Article 32
+because of the extraordinary nature of the jurisdiction, it was said:
+(AIR pp. 1461-62, para 9)
+9. But, is the rule of res judicata merely a technical rule or is it based
+on high public policy? If the rule of res judicata itself embodies a
+principle of public policy which in turn is an essential part of the
+rule of law then the objection that the rule cannot be invoked
+where fundamental rights are in question may lose much of its
+validity. Now, the rule of res judicata as indicated in Section 11 of
+the Code of Civil Procedure has no doubt some technical aspects,
+for instance the rule of constructive res judicata may be said to be
+technical; but the basis on which the said rule rests is founded on
+considerations of public policy. It is in the interest of the public at
+large that a finality should attach to the binding decisions
+pronounced by courts of competent jurisdiction, and it is also in
+the public interest that individuals should not be vexed twice over
+with the same kind of litigation. If these two principles form the
+foundation of the general rule of res judicata they cannot be treated
+as irrelevant or inadmissible even in dealing with fundamental
+rights in petitions filed under Article 32.
+The binding character of judgments pronounced by courts of
+competent jurisdiction is itself an essential part of the rule of law,
+and the rule of law obviously is the basis of the administration of
+justice on which the Constitution lays so much emphasis ...
+
+A
+
+B
+
+C
+
+D
+
+E
+
+...
+71. Since the doctrine of res judicata is an “essential part of the rule of law”,
+it follows that if the issues raised in the suit are barred by res judicata ex
+facie then this Court is required to reject the plaint in terms of Order 32
+Rule 6(b). ...
+
+F
+
+78. Similarly the challenge to Section 14 of the 1956 Act must be ejected
+at the threshold. The section reads:
+14. Constitution of Ravi and Beas Waters Tribunal.
+G
+
+(1) Notwithstanding anything contained in the foregoing
+provisions of this Act, the Central Government may, by
+notification in the Official Gazette, constitute a Tribunal
+under this Act, to be known as the Ravi and Beas Waters
+Tribunal for the verification and adjudication of the matters
+referred to in paragraphs 9.1 and 9.2 respectively of the
+Punjab Settlement.
+(2) When a Tribunal has been constituted under sub-section (1),
+the provisions of sub-sections (2) and (3) of Section 4,
+sub-section (2), (3) and (4) of Section 5 and Section 5-A to
+13 (both inclusive) of this Act relating to the constitution,
+jurisdiction, powers, authority and bar of jurisdiction shall, so
+
+H
+
+I
+
+
+
+[2018] 3 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+Kerajaan Malaysia v. Mat Shuhaimi Shafiei
+
+far as may be, but subject to sub-section (3) hereof, apply to
+the constitution, jurisdiction, powers, authority and bar of
+jurisdiction in relation to the Tribunal constituted under
+sub-section (1).
+(3) When a Tribunal has been constituted under sub-section (1),
+the Central Government alone may suo motu or at the request
+of the State Government concerned refer the matters
+specified in paragraphs 9.1, and 9.2 of the Punjab Settlement
+to such Tribunal.
+Explanation - For the purpose of this section ‘Punjab
+Settlement’ means the Memorandum of Settlement signed at
+New Delhi on the 24th day of July, 1985.
+79. In paragraph 51 of Punjab’s written statement in OS No. 6 of 1996,
+it was admitted that the issues referred to in paragraphs 9.1 and 9.2 of
+the Punjab Settlement were referred to the Ravi-Beas Tribunal by
+Government notification dated 2.4.1986 and the affirmation of the
+continued availability of water from the Ravi-Beas system as on 1.7.1985
+referred to in the notification was relied upon. The notification dated
+2.4.1986 was issued under Section 14 of the Inter-States Water Disputes
+Act. As far as the report of the Tribunal is concerned, paragraph 8 of the
+written statement says that it could not be relied upon because it had not
+become final and that Punjab did not accept the correctness of “most of
+its findings”. There was no dispute raised as to the constitutionality of
+Section 14 at any stage. Even in the course of arguments, when Section
+14 was specifically referred to in elaborate written notes on the scope,
+purport and effect of Section 14, it was submitted that the effect of
+Section 14 is fourfold:
+(A) To overcome procedural hurdles that no dispute had been
+raised and to bypass the mandatory requirement of
+negotiations.
+(B) To deem matters referred under Section 14 to be a “water
+dispute” and place this beyond challenge.
+
+G
+
+(C) To constitute this special Section 14 Tribunal under this Act and
+not any other provision or statute and make the other
+provisions applicable.
+(D) To oust the jurisdiction of all courts including the Supreme
+Court by making Section 11 applicable to this dispute.
+
+H
+
+I
+
+(E) To leave all other disputes relating to the Punjab Settlement to
+be decided under the amended Act of 1956.
+80. This Court in the judgment dated 15.1.2002 considered the arguments
+of the parties relating to Section 14 and negatived Punjab’s submission as
+to the construction of Section 14. Punjab could have challenged the
+constitutional validity of Section 14 in its written statement. It did not
+then. It cannot do so now being barred by the doctrine of res judicata.
+
+45
+
+
+
+Current Law Journal
+
+46
+
+[2018] 3 CLJ
+
+Conclusion
+[79] What we have decided thus far is sufficient to dispose of the appeal.
+We conclude that encl. 1 is an abuse of the process. As such encl. 1 should
+be dismissed without the need to consider the merits of the application. In
+the circumstances we find it unnecessary to answer the first and the second
+leave questions as framed.
+
+A
+
+B
+
+[80] In view of our finding that encl. 1 is an abuse of the process as
+aforesaid, there is also no necessity for this court to consider the third leave
+question.
+[81] In the upshot, the appeal is allowed. The decision of the Court of
+Appeal in respect of encl. 1 is set aside. The decision of the High Court in
+respect of encl. 1 is reinstated.
+[82] We order that the trial of the respondent in respect of the charge under
+s. 4(1)(c) of Act 15 in Shah Alam Sessions Court to proceed. The respondent
+is to appear before the Shah Alam Sessions Court for mention on 10 January
+2018 to fix the trial date.
+[83]
+
+C
+
+D
+
+We make no order as to costs.
+E
+
+F
+
+G
+
+H
+
+I
+
+

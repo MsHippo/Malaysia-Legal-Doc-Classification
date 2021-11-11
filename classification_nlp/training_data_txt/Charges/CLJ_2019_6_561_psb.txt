@@ -1,0 +1,1875 @@
+[2019] 6 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+PP v. Dato’ Sri Mohd Najib Hj Abd Razak
+
+561
+
+PP v. DATO’ SRI MOHD NAJIB HJ ABD RAZAK
+FEDERAL COURT, PUTRAJAYA
+RICHARD MALANJUM CJ
+ZAHARAH IBRAHIM CJ (MALAYA)
+DAVID WONG DAK WAH CJ (SABAH & SARAWAK)
+RAMLY ALI FCJ
+ROHANA YUSUF FCJ
+MOHD ZAWAWI SALLEH FCJ
+TENGKU MAIMUN TUAN MAT FCJ
+[CRIMINAL APPEAL NO: 05(L)-(72-74)-03-2019(W)]
+10 APRIL 2019
+CRIMINAL LAW: Charges – Criminal charges – Proceedings – Applicant, former
+Prime Minister of Malaysia, charged with seven criminal charges relating to offences
+under Penal Code, Malaysian Anti-Corruption Commission Act 2009 and
+Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful
+Activities Act 2001 – Court of Appeal granted order of stay of criminal proceedings
+– Whether decision of Court of Appeal correct
+CRIMINAL PROCEDURE: Stay of execution pending appeals – Appeal against
+decision of Court of Appeal – Applicant, former Prime Minister of Malaysia, charged
+with seven criminal charges – Court of Appeal granted order of stay of criminal
+proceedings – Commencement of trial against applicant at High Court stopped
+pending disposal of appeals to Federal Court – Whether there were ‘proceeding
+pending’ before Federal Court – Whether stay of criminal proceedings same as stay
+of civil proceedings – Whether there were exceptional circumstances justifying stay
+of proceedings – Whether Court of Appeal correct in allowing applicant’s application
+for stay of criminal proceedings – Courts of Judicature Act 1964, ss. 44, 79 & 80
+The respondent, former Prime Minister of Malaysia, was charged with seven
+charges relating to offences committed under the Penal Code, the Malaysian
+Anti-Corruption Commission Act 2009 and the Anti-Money Laundering,
+Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001.
+The present appeals emanated from the decision of the Court of Appeal
+granting an order of stay of proceedings, pursuant to ss. 44, 79 and 80 of the
+Courts of Judicature Act 1964 (‘CJA’), and consequently, stopping the
+commencement of a trial against the respondent at the High Court pending
+the disposal of his appeals to the Federal Court. The three appeals pending
+before the Federal Court, filed by the respondent, were his failure to
+(i) secure a ‘gag order’ restraining publication by members of the public on
+matters pertaining to his prosecution and trial; (ii) secure documents other
+than those provided under s. 51A of the Criminal Procedure Code (‘CPC’);
+and (iii) challenge the withdrawal by the Public Prosecutor (‘the appellant’)
+of transfer certificate to transfer the case against the respondent to the
+High Court. In essence, the appellant relied on the following grounds of
+appeal: (i) staying a criminal trial should be differently treated from staying
+
+
+
+562
+
+Current Law Journal
+
+[2019] 6 CLJ
+
+a civil trial; (ii) precedents in civil cases relied by the respondent before the
+Court of Appeal, in particular Kosma Palm Oil Mill Sdn Bhd & Ors v. Koperasi
+Serbausaha Makmur Bhd (‘the Kosma case’), must be treated with caution in
+criminal proceedings; (iii) if trials are statutorily required to commence
+within three months, granting a stay would defeat this objective. Stay of a
+criminal trial should only be granted on exceptional grounds; that is
+sparingly so as not to defeat the purposive object of s. 172B(4) of the CPC
+for trials to start in three months; and (iv) if this court is of the view that
+special circumstances are the principal consideration in determining an
+application for stay of proceedings for criminal trials, the facts in this case
+militated against the granting of a stay because no special circumstances
+favoured the respondent. On the contrary, these factors indicated that a stay
+should be refused: (a) the offences for which the respondent was charged with
+were serious in nature; (b) this case was one of public and national
+importance as it generated much public interest, locally and internationally;
+(c) trial dates were fixed eight months ago, as opposed to the three months
+specified under s. 172B(4) of the CPC; and (d) no prejudice would be caused
+to the respondent because he would have an early opportunity to vindicate
+himself. The respondent argued that the appeal by the appellant was
+incompetent since there was no appeal record and no petition filed, as
+required by the CJA. The primary issue that arose for adjudication was
+whether the Court of Appeal was correct in allowing the respondent’s
+application for a stay of the criminal proceedings.
+Held (allowing appeal; setting aside stay order by Court of Appeal; and
+remitting matter to High Court to proceed with criminal trial)
+Per Richard Malanjum CJ delivering the judgment of the court:
+(1) Sections 44(1) and 80(1) of the CJA speak of ‘pending proceedings’ as
+a pre-requisite before an interim order could be made by the relevant
+court. When the stay application was made by the respondent, the Court
+of Appeal had already dismissed the three appeals by the respondent. In
+the circumstances, there was no longer any ‘pending proceeding’ before
+the Court of Appeal enabling it to exercise its jurisdiction to grant a stay
+of proceedings under s. 44(1) of the CJA. Similarly, for the respondent
+to avail himself of s. 80(1) of the CJA, there must also be a ‘proceeding
+pending’ before the Federal Court. When the respondent’s appeals were
+dismissed by the Court of Appeal, there was no pending proceeding
+before the Federal Court at that stage. There was only an undertaking
+by the respondent that he would be filing an appeal. As such, s. 79 of
+the CJA was not relevant. (paras 16 & 17)
+(2) Sections 44(1) and 80(1) of the CJA did not empower the Court of
+Appeal to grant a stay of proceedings. Since the respondent’s reliance on
+ss. 44(1) and 80(1) of the CJA failed, it followed that s. 79 of the CJA
+was similarly of no assistance to him. The Court of Appeal had no
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 6 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+PP v. Dato’ Sri Mohd Najib Hj Abd Razak
+
+563
+
+jurisdiction to entertain the respondent’s application for a stay of
+proceedings upon the dismissal of the three appeals. The grant of the stay
+was therefore made without jurisdiction and was thus a nullity. (para 17)
+(3) The Kosma case represented the legal position governing stays of
+execution for civil appeals. In the Kosma case, it was held that the test
+applicable to the grant of a ‘stay of execution’ was whether there were
+special circumstances, the most common of which is whether the appeal
+would be rendered nugatory if a stay of execution is not granted. The
+relevant question was whether it applied with equal force to a stay of
+criminal proceedings at the trial court when there were pending appeals
+in respect of interlocutory applications before the court. (paras 18 & 19)
+(4) In considering an application for stay of criminal proceedings, when
+commencement of the trial is imminent or continuing in the court of first
+instance, the determinative principles are (i) there is a strong public
+interest in the prosecution of crime and in ensuring that those charged
+with serious criminal offences are tried; (ii) it is undesirable that the
+criminal process be interrupted or fragmented by interlocutory
+proceedings. The considerations of public interest are of great weight
+leaning in favour of expeditious resolution of accusations of crime;
+(iii) the undesirability of fragmenting the criminal process is not
+confined to any particular part of the criminal process, but rather to the
+process as a whole; (iv) a stay of proceedings application would require,
+especially, compelling justification in a case qualifying for urgent
+judicial decision. For instance, it is important that anyone charged with
+serious criminal offences be brought to trial expeditiously. Public
+interest would not be served by allowing the defence to request for a
+delay. An accused of serious criminal offences, who is not guilty, should
+have the opportunity of clearing his name without excessive delay;
+(v) a stay of proceedings would not normally be granted pending an
+interlocutory appeal in a criminal trial. It is only in very exceptional or
+unusual circumstances that a stay order is granted. This is so even if the
+issuing of the interlocutory appeal is not opposed by the prosecution or
+in fact supported by both the prosecution and the defence; (vi) the
+accused’s rights over preliminary or interlocutory rulings made by the
+trial judge are best vindicated by appeal after conviction, if any. It is
+generally more desirable to consider preliminary or interlocutory
+rulings made by the trial judge in appeal after conviction upon full trial
+with the benefit of a concrete factual setting than considering them in the
+abstract during interlocutory appeal; (vii) the fact that an accused will
+be put to the expense of a trial is irrelevant and would not qualify as
+‘exceptional circumstances’ to justify a stay of a criminal trial pending
+resolution of an appeal; and (viii) the courts should exercise great
+caution in allowing other forms of collateral challenge, in parallel
+proceedings such as an application for a declaration or other forms of
+judicial review with similar relief in the nature of certiorari, be it
+
+
+
+Current Law Journal
+
+564
+
+[2019] 6 CLJ
+
+commenced in the same court or another civil or criminal court, which
+have the net effect of staying the criminal proceedings or would interfere
+with or impinge directly upon the normal course of proceedings in a
+criminal trial. (para 32)
+(5) The respondent was a public figure who stood charged with offences,
+which could not be described as trivial, allegedly committed while he
+was holding office as the Prime Minister. Public interest, and indeed his
+personal interest, dictated that the trials against him should be
+commenced expeditiously without any unreasonable delay as it is at the
+denouncement of the trial that the court is best-equipped to determine
+his guilt or otherwise based on factual evidence instead of speculative
+arguments. Furthermore, the respondent had not satisfactorily
+established that his application was so unusual or exceptional that it fell
+within that class of cases which would justify the grant of a stay. A stay
+of criminal proceedings would only be granted in the rarest of cases and,
+the fact that the proceedings may be rendered a nullity, is not a special
+circumstance. In the context of an application for a stay of proceedings,
+it is also immaterial that the respondent is put to the expense of a trial
+even if he is subsequently vindicated on appeal. (para 33)
+(6) The respondent’s assertion that the appeal by the appellant was
+incompetent, since there was no appeal record and no petition filed, as
+required by the CJA, was a non-issue because, for criminal proceedings,
+the record of appeal, including the grounds of judgment of the lower
+court is prepared by the court below, as provided under r. 91 of the
+Rules of the Federal Court 1995 (‘ROFC’). Without the grounds of
+judgment, the appellant could not proceed to file the petition of appeal,
+by virtue of r. 95 of the ROFC. The appellant was not at fault and, in
+any case, the incomplete appeal papers were no impediment to this court
+hearing the appeal proper as this court was exercising its revisionary
+powers. (para 34)
+Bahasa Malaysia Headnotes
+Responden, bekas Perdana Menteri Malaysia, dituduh dengan tujuh
+pertuduhan berkaitan pelakuan kesalahan-kesalahan bawah Kanun
+Keseksaan, Akta Suruhanjaya Pencegahan Rasuah Malaysia 2009 dan Akta
+Pengubahan Wang Haram, Pencegahan Pembiayaan Keganasan dan Hasil
+Daripada Aktiviti Haram 2001. Rayuan-rayuan ini timbul susulan keputusan
+Mahkamah Rayuan membenarkan perintah penggantungan prosiding, bawah
+ss. 44, 79 dan 80 Akta Mahkamah Kehakiman 1964 (‘AMK’) dan
+bersangkutan itu, menghentikan pemulaan perbicaraan terhadap responden
+di Mahkamah Tinggi sementara menanti pelupusan rayuan-rayuan beliau di
+Mahkamah Persekutuan. Ketiga-tiga rayuan yang masih belum selesai di
+Mahkamah Persekutuan, difailkan oleh responden, berkaitan kegagalan
+beliau (i) memperoleh perintah larangan bersuara menghalang orang awam
+menerbitkan hal-hal perkara berkaitan pendakwaan dan perbicaraan beliau;
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 6 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+PP v. Dato’ Sri Mohd Najib Hj Abd Razak
+
+565
+
+(ii) memperoleh dokumen selain yang diperuntukkan bawah s. 51A Kanun
+Tatacara Jenayah (‘KTJ’); dan (iii) mencabar penarikan balik akuan
+pindahan oleh Pendakwa Raya (‘perayu’) untuk memindah kes terhadap
+responden di Mahkamah Tinggi. Asasnya, perayu bergantung pada alasanalasan rayuan berikut: (i) penggantungan perbicaraan jenayah mesti
+dikendalikan secara berbeza berbanding perbicaraan sivil; (ii) duluan-duluan
+dalam kes-kes sivil yang menjadi sandaran responden di Mahkamah Rayuan,
+khususnya Kosma Palm Oil Mill Sdn Bhd & Ors v. Koperasi Serbausaha Makmur
+Bhd (‘kes Kosma’), mesti dikendalikan dengan berhati-hati dalam prosiding
+jenayah; (iii) jika perbicaraan perlu, secara statutori, bermula dalam tiga
+bulan, membenarkan penggantungan melumpuhkan objektif ini.
+Penggantungan perbicaraan jenayah mesti diberi atas alasan-alasan luar biasa
+sahaja; itu pun secara berkira-kira agar tidak melumpuhkan objektif
+s. 172B(4) KTJ agar perbicaraan bermula dalam masa tiga bulan; dan (iv) jika
+mahkamah ini berpendapat hal-hal keadaan istimewa adalah pertimbangan
+utama dalam memutuskan permohonan penggantungan prosiding perbicaraan
+jenayah, fakta kes ini menghalang kebenaran penggantungan kerana tiada halhal keadaan istimewa yang memihak pada responden. Sebaliknya faktorfaktor berikut menunjukkan penggantungan harus ditolak: (a) kesalahankesalahan yang didakwa terhadap responden bersifat serius; (b) kes ini
+mempunyai kepentingan awam dan antarabangsa kerana menarik minat
+awam dan antarabangsa; (c) tarikh perbicaraan ditetapkan lapan bulan lalu,
+berbanding tiga bulan yang diperuntukkan bawah s. 172B(4) KTJ; dan
+(iv) responden tidak akan terprejudis kerana beliau akan mempunyai peluang
+awal menyangkal pertuduhan. Responden menghujahkan rayuan perayu tidak
+kompeten kerana rekod rayuan dan petisyen tidak difailkan, seperti yang
+dikehendaki bawah AMK. Isu utama yang berbangkit untuk diputuskan
+adalah sama ada Mahkamah Rayuan bertindak betul dalam membenarkan
+permohonan responden untuk penggantungan prosiding jenayah.
+Diputuskan (membenarkan rayuan; mengetepikan perintah
+penggantungan oleh Mahkamah Rayuan; dan mengembalikan hal perkara
+pada Mahkamah Tinggi untuk meneruskan dengan perbicaraan jenayah)
+Oleh Richard Malanjum KHN menyampaikan penghakiman mahkamah:
+(1) Seksyen 44(1) dan 80(1) AMK menyebut tentang ‘prosiding yang belum
+selesai’ sebagai pra-syarat sebelum perintah interim boleh dibuat oleh
+mahkamah yang relevan. Semasa permohonan penggantungan dibuat
+oleh responden, Mahkamah Rayuan telah menolak ketiga-tiga rayuan
+oleh responden. Oleh itu, tiada lagi apa-apa ‘prosiding yang belum
+selesai’ di Mahkamah Rayuan yang membolehkannya menjalankan budi
+bicaranya membenarkan penggantungan prosiding bawah s. 44(1) AMK.
+Begitu juga, agar responden boleh memanfaatkan s. 80(1) AMK, mesti
+juga terdapat ‘prosiding yang belum selesai’ di Mahkamah Persekutuan.
+Semasa rayuan-rayuan responden ditolak oleh Mahkamah Rayuan, tiada
+prosiding yang belum selesai di Mahkamah Persekutuan pada peringkat
+itu. Hanya terdapat janji oleh responden bahawa beliau akan memfailkan
+rayuan. Oleh itu, s. 79 AMK tidak relevan.
+
+
+
+566
+
+Current Law Journal
+
+[2019] 6 CLJ
+
+(2) Seksyen 44(1) dan 80(1) AMK tidak memberi kuasa kepada Mahkamah
+Rayuan untuk membenarkan penggantungan prosiding. Oleh kerana
+sandaran responden pada ss. 44(1) dan 80(1) AMK gagal, diikuti bahawa
+s. 79 AMK juga tidak membantu beliau. Mahkamah Rayuan tiada
+bidang kuasa mendengar permohonan responden untuk penggantungan
+prosiding selepas penolakan ketiga-tiga rayuan. Oleh itu, kebenaran
+penggantungan dibuat tanpa bidang kuasa dan terbatal.
+(3) Kes Kosma mewakili kedudukan undang-undang yang menyelia
+penggantungan pelaksanaan rayuan-rayuan sivil. Dalam kes Kosma,
+diputuskan bahawa ujian yang terpakai dalam kebenaran penggantungan
+pelaksanaan ialah sama ada terdapat hal-hal keadaan istimewa dan yang
+paling lazim ialah sama ada rayuan menjadi tidak berguna jika
+penggantungan pelaksanaan tidak dibenarkan. Soalan yang relevan ialah
+sama ada keterpakaian ini mempunyai kuasa yang sama dalam
+penggantungan prosiding jenayah di mahkamah perbicaraan apabila
+terdapat rayuan-rayuan yang belum selesai berkaitan permohonan
+interlokutori di mahkamah.
+(4) Dalam mempertimbangkan permohonan penggantungan prosiding
+jenayah, apabila pemulaan perbicaraan belum selesai dan berterusan di
+mahkamah pertama, prinsip-prinsip penentu adalah: (i) terdapat
+kepentingan awam yang kuat dalam pendakwaan jenayah dan dalam
+memastikan mereka yang didakwa dengan kesalahan-kesalahan jenayah
+serius dibicarakan; (ii) proses jenayah yang diganggu atau diceraiceraikan oleh prosiding interlokutori tidak diingini. Pertimbangan
+kepentingan awam berat memihak pada penyelesaian segera pertuduhanpertuduhan jenayah; (iii) ketidakinginan mencerai-ceraikan proses
+jenayah tidak terbatas pada mana-mana bahagian proses jenayah tetapi
+keseluruhan prosesnya; (iv) permohonan penggantungan prosiding
+mengkehendaki, khususnya, alasan memaksa dalam kes yang
+melayakkan keputusan segera kehakiman. Contohnya, penting agar
+siapa-siapa yang dituduh dengan kesalahan jenayah serius dibicarakan
+dengan segera. Kepentingan awam tidak tercapai dengan membenarkan
+pihak pembelaan memohon penangguhan. Seorang tertuduh yang
+melakukan kesalahan jenayah serius, yang tidak bersalah, mesti
+berpeluang membersihkan namanya tanpa apa-apa penangguhan
+terlampau; (v) lazimnya, penggantungan prosiding tidak akan
+dibenarkan sementara menanti rayuan interlokutori dalam perbicaraan
+jenayah. Hanya dalam hal-hal keadaan luar biasa atau berkelainan
+barulah perintah penggantungan dibenarkan. Ini keadaannya jika pun
+kebenaran rayuan interlokutori tidak dibantah oleh pihak pendakwaan
+atau disokong oleh kedua-dua pihak pendakwaan dan pembelaan;
+(vi) hak-hak tertuduh atas keputusan awalan atau interlokutori yang
+dibuat oleh hakim bicara sebaiknya diselesaikan melalui rayuan
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 6 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+PP v. Dato’ Sri Mohd Najib Hj Abd Razak
+
+567
+
+selepas sabitan, jika ada. Amnya, adalah lebih diingini untuk
+mempertimbangkan keputusan awalan atau interlokutori yang
+dibuat oleh hakim bicara dalam rayuan selepas sabitan selepas
+perbicaraan penuh dengan manfaat ketetapan fakta berbanding
+mempertimbangkannya secara abstrak dalam rayuan interlokutori;
+(vii) fakta bahawa perbicaraan tertuduh memakan kos tinggi tidak
+relevan dan tidak akan melayakkan ‘hal-hal keadaan luar biasa’ untuk
+mewajarkan penggantungan perbicaraan jenayah sementara menanti
+penyelesaian rayuan; dan (viii) mahkamah harus amat berhati-hati dalam
+membenarkan lain-lain bentuk cabaran kolateral, dalam prosiding selari
+seperti permohonan pengisytiharan atau lain-lain bentuk semakan
+kehakiman dengan relief serupa bersifat certiorari, sama ada dimulakan
+di mahkamah sama atau mahkamah sivil atau jenayah lain, yang
+mempunyai kesan menggantung prosiding jenayah atau mengganggu atau
+memberi kesan langsung dalam perjalanan biasa prosiding dalam
+perbicaraan jenayah.
+(5) Responden adalah tokoh terkenal yang dituduh dengan kesalahankesalahan yang tidak boleh dianggap kecil, yang didakwa dilakukan
+semasa beliau menyandang jawatan Perdana Menteri. Kepentingan
+awam, malah kepentingan peribadi beliau sendiri, menetapkan bahawa
+perbicaraan-perbicaraan terhadap beliau harus bermula segera tanpa
+apa-apa kelengahan tidak munasabah kerana semasa perbicaraan
+pertuduhan mahkamah mempunyai material yang cukup untuk
+menentukan kebersalahan beliau, atau sebaliknya, berdasarkan
+keterangan fakta berbanding hujahan-hujahan secara spekulasi.
+Tambahan lagi, responden tidak membuktikan, dengan memuaskan,
+permohonan beliau begitu luar biasa atau lain daripada yang lain
+hinggakan permohonan tersebut terangkum dalam kelas kes-kes yang
+mewajarkan kebenaran penggantungan. Penggantungan prosiding
+jenayah hanya akan diberi dalam kes-kes yang sangat luar biasa dan,
+fakta prosiding boleh menjadi terbatal, bukan hal keadaan istimewa.
+Dalam konteks permohonan penggantungan prosiding, tidak material
+bahawa responden terpaksa menanggung kos tinggi jika pun dia
+seterusnya bebas selepas rayuan.
+(6) Hujahan responden bahawa rayuan perayu tidak kompeten, kerana
+rekod rayuan dan petisyen tidak difailkan, seperti yang dikehendaki
+bawah AMK, bukan satu isu kerana, dalam prosiding jenayah, rekod
+rayuan, termasuk alasan penghakiman mahkamah bawahan disediakan
+oleh mahkamah bawahan, seperti yang diperuntukkan oleh k. 91
+Kaedah-kaedah Mahkamah Persekutuan (‘KKMP’). Tanpa alasan
+penghakiman, perayu tidak boleh meneruskan untuk memfailkan
+petisyen rayuan, seperti yang diperuntukkan oleh k. 95 KKMP. Perayu
+tidak boleh disalahkan dan, dalam apa-apa jua keadaan, kertas rayuan
+yang tidak lengkap bukan halangan buat mahkamah ini mendengar
+rayuan kerana mahkamah ini menjalankan kuasa semakannya.
+
+
+
+568
+
+Current Law Journal
+
+[2019] 6 CLJ
+
+Case(s) referred to:
+AB (Sudan) v. Secretary of State for the Home Department [2013] EWCA Civ 921 (refd)
+Anderson v. Attorney-General of New South Wales (1987) 10 NSWLR 198 (refd)
+Atlas v. D.P.P. [2001] VSC 209 (refd)
+Attorney General’s Reference No. 2 of 2001 [2003] UKHL 68 (refd)
+Attorney-General v. Smith (1985) 39 SASR 311 (refd)
+Beljajev v. DPP (1991) 173 CLR 28 (refd)
+Choong Wooi Leong & Ors v. Lebbey Sdn Bhd [1998] 2 CLJ 509 CA (refd)
+Clyne v. The Director of Public Prosecutions for the Commonwealth of Australia (1984) 154
+CLR 640 (refd)
+Dato’ Seri Anwar Ibrahim v. PP [2011] 7 CLJ 253 CA (refd)
+De Simone v. The Queen [2012] HCATrans 86 (refd)
+Edelsten v. Ward (No. 2) (1988) 63 ALJR 346 (refd)
+Fuller & Cummings v. Director of Public Prosecutions (Cth) (1994) 68 ALJR 611 (refd)
+Gedeon v. Commissioner of New South Wales Crime Commission (2008) 236 CLR
+120 (refd)
+Hinch v. County Court of Victoria [2009] VSC 548 (refd)
+Ho Tack Sien & Ors v. Rotta Research Laboratorium S.p.A & Anor; Registrar Of Trade
+Marks (Intervener) & Another Appeal [2015] 4 CLJ 20 FC (refd)
+Indira Gandhi Mutho v. Pengarah Jabatan Agama Islam Perak & Ors And Other Appeals
+[2018] 3 CLJ 145 FC (refd)
+Jarrett v. Seymour (1993) 119 ALR 46 (refd)
+Jennings Constructions Ltd v. Burgundy Royale Investments Pty Ltd (1986) 161 CLR 681
+(refd)
+Joosse v. Australian Securities and Investment Commission (1999) 73 ALJR 232 (refd)
+Khalil v. His Honour, Magistrate Johnson and Anor [2008] NSWSC 1092 (refd)
+Kosma Palm Oil Mill Sdn Bhd & Ors v. Koperasi Serbausaha Makmur Bhd
+[2003] 4 CLJ 1 FC (refd)
+McNamara v. R (1978) 20 ALR 98 (refd)
+PP v. Dato’ Seri Anwar Ibrahim [2014] 5 CLJ 805 FC (refd)
+PP v. Dato’ Seri Anwar Ibrahim & Another Appeal [2010] 4 CLJ 331 CA (refd)
+PP v. Dato’ Yap Peng [1987] 1 LNS 28 SC (refd)
+PP v. Ishak Hj Shaari & Other Appeals [2003] 3 CLJ 843 CA (refd)
+R v. Chardon [2016] QCA 50 (refd)
+R v. Christian [2007] 2 AC 400 PC (refd)
+R v. Crawley and Others [2014] EWCA Crim 1028 (refd)
+R v. Garrett (1988) 49 SASR 435 (refd)
+R v. Iorlano (1983) 151 CLR 678 (refd)
+Re Wickham [1887] 35 Ch D 272 (refd)
+R v. WR [2009] ACTSC 93 (refd)
+R (on the application of AO & AM) v. Secretary of State for the Home Department
+(stay of Proceedings - principles) [2017] UKUT 168 (IAC) (refd)
+Re Rozenes; Ex parte Burd (1994) 120 ALR 193 (refd)
+Rowstead Systems Sdn Bhd v. Bumicrystal Technology (M) Sdn Bhd [2005] 2 CLJ 465
+CA (refd)
+Sankey v. Whitlam (1978) 142 CLR 1 (refd)
+Semenyih Jaya Sdn Bhd v. Pentadbir Tanah Daerah Hulu Langat & Another Case [2017]
+5 CLJ 526 FC (refd)
+Seymour v. AG (Cth) (1984) 4 FCR 498 (refd)
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 6 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+PP v. Dato’ Sri Mohd Najib Hj Abd Razak
+
+569
+
+Silver Concept Sdn Bhd v. Brisdale Rasa Development Sdn Bhd [2002] 4 CLJ 27 CA (refd)
+Subashini Rajasingam v. Saravanan Thangathotray & Other Appeals [2008] 2 CLJ 1 FC
+(refd)
+Suruhanjaya Sekuriti v. Datuk Ishak Ismail [2016] 3 CLJ 19 FC (refd)
+Syarikat Bekalan Air Selangor Sdn Bhd v. Fadha Nur Ahmad Kamar & Anor
+[2012] 6 CLJ 93 HC (refd)
+Takako Sakao v. Ng Pek Yuen & Anor (No. 3) [2010] 1 CLJ 429 FC (refd)
+The Queen v. AI, AD and JR [2013] ACTCA 16 (refd)
+The Queen v. Iorlano (1993) 151 CLR 678 (refd)
+Yates v. Wilson (1989) 18 CLR 338 (refd)
+Legislation referred to:
+Anti-Money Laundering, Anti-Terrorism Financing And Proceeds of Unlawful
+Activities Act 2001, ss. 4, 32(2)(a), (b), (c), 40
+Courts of Judicature Act 1964, ss. 20, 44(1), 79, 80(1), 86, 87
+Criminal Procedure Code, ss. 51A, 172B(4), 311, 417(1)(cc), (2), 418A
+Federal Constitution, arts. 126
+Malaysian Anti-Corruption Commission Act 2009, ss. 23, 30(1)(a), (b), (c), (8), (9),
+60, 62
+Penal Code, s. 409
+Rules of the Federal Court 1995, rr. 91, 95
+Other source(s) referred to:
+Tan, Kee Heng, Civil and Criminal Appeals in Malaysia, 3rd edn, Sweet & Maxwell,
+2016, Chapter 7.3
+For the appellant - Tommy Thomas, Sithambaram Vairavan, Manoj Kurup, Donald
+Joseph Franklin & Izzat Fauzan; DPPs
+For the respondent - Harvinderjit Singh, Farhan Read, Wan Aizuddin Wan Mohamed,
+Rahmat Hazlan, Farhan Shafee & Shahirah Hanapiah; M/s Shafee & Co
+
+F
+
+[Editor’s note: For the Court of Appeal judgment, please see Dato’ Sri Mohd Najib Hj Abdul
+Razak v. PP [2019] 5 CLJ 293, [2019] 5 CLJ 23 & [2019] 4 CLJ 723 (overruled).]
+
+Reported by Najib Tamby
+JUDGMENT
+
+G
+
+Richard Malanjum CJ:
+Introduction
+H
+
+I
+
+[1]
+The respondent is the immediate former Prime Minister of Malaysia
+who is currently facing seven charges before the High Court, ie, (i) one
+charge under s. 23 of the MACC Act; (ii) three charges under s. 409 of the
+Penal Code and (iii) three charges for offences under s. 4 of the Anti-Money
+Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities
+Act 2001 (“the AMLATFA proceedings”).
+
+
+
+570
+
+Current Law Journal
+
+[2019] 6 CLJ
+
+[2]
+The present appeals emanate from the decision of the Court of Appeal
+granting an order of stay of proceedings and consequently stopping the
+commencement of a trial against the respondent at the High Court pending
+the disposal of his appeals to this court. Dissatisfied with the decision of the
+Court of Appeal granting stay, the appellant filed the present appeals.
+
+A
+
+[3]
+The three appeals pending before this court filed by the respondent
+relate to:
+
+B
+
+(i) his failure to secure a “gag order” restraining publication by members
+of the public on matters pertaining to his prosecution and trial;
+(ii) his failure to secure documents other than those provided under s. 51A
+of the Criminal Procedure Code (“CPC”) prior to the commencement
+of trial although 32 bundles (7,000 pages) of documents had already
+been served to him by the prosecution in compliance with its statutory
+duty under s. 51A of the CPC; and
+
+C
+
+(iii) his failure to challenge the withdrawal by the Public Prosecutor of a
+transfer certificate to transfer the case against the respondent to the High
+Court, which is the agreed forum of both parties for this trial.
+
+D
+
+[4]
+
+In essence, the appellant relies on the following grounds of appeal:
+
+(i) the test for granting a stay should be different for civil and criminal
+trials. Staying a criminal trial should in law be differently treated from
+staying a civil trial. The omission of power of the appellate courts in
+their criminal jurisdiction to grant stay of proceedings was deliberate
+and the parliamentary draftsperson had good reason to treat the power
+in civil and criminal stays separately and distinctly.
+(ii) precedents in civil cases relied by the respondent before the Court of
+Appeal like Kosma Palm Oil Mill Sdn Bhd & Ors v. Koperasi Serbausaha
+Makmur Bhd [2003] 4 CLJ 1; [2004] 1 MLJ 257 and Rowstead Systems
+Sdn Bhd v. Bumicrystal Technology (M) Sdn Bhd [2005] 2 CLJ 465; [2005]
+3 MLJ 132 must be treated with caution in criminal proceedings.
+(iii) with the coming into force of s. 172B(4) to the CPC in 2012, the
+previous practice of delaying criminal trials for many years is a thing of
+the past. If trials are statutorily required to commence within three
+months, granting a stay will defeat this objective. Stay of a criminal trial
+should only be granted on exceptional grounds: that is sparingly so as
+not to defeat the purposive object of s. 172B(4) of the CPC for trials to
+start in three months.
+(iv) if this court is of the view that special circumstances are the principal
+consideration in determining an application for stay of proceedings for
+criminal trials, the facts in this case militate against the granting of a stay
+because no special circumstances favoring the respondent exist. On the
+contrary, these factors indicate that a stay should be refused:
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 6 CLJ
+A
+
+PP v. Dato’ Sri Mohd Najib Hj Abd Razak
+
+571
+
+(a) the offences for which the respondent have been charged are serious
+in nature;
+(b) this case is one of public and national importance; it has generated
+much public interest locally as well as internationally;
+(c) trial dates were fixed eight months ago as opposed to the three
+months specified under s. 172B(4);
+
+B
+
+(d) that no prejudice would be caused to the respondent because he will
+have an early opportunity to vindicate himself.
+C
+
+Before The High Court
+[5]
+
+Three matters were brought before the High Court for determination:
+
+(Case No: WA-44-115-07-2018)
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+(i) The respondent had filed a notice of motion to prevent the media and
+the public from discussing the merits of the criminal charges against
+the respondent until the conclusion of proceedings.
+(ii) An interim gag order had been put into effect at the conclusion of an
+oral application after the initial four charges were read on 4 July 2018.
+A subsequent formal application was filed and fixed for hearing on
+19 April 2018.
+(iii) While the respondent had no issue with accurate reporting and articles
+that were fair, factually accurate, and published contemporaneously in
+good faith, the motion is for an order to prevent the publication of
+opinions on guilt or innocence and character of the respondent, as well
+as those of the witnesses, and to prevent discussion of the merits
+predicting or even influencing the outcome of the trial.
+(iv) The respondent sought the order to ensure that he would receive a fair
+trial, and the order would be proportionate and would not unfairly
+impinge upon the interest of free speech.
+(v) The appellant took the position that the court did not have jurisdiction
+to grant such an order and that this was not a proper case for the court
+to invoke its inherent powers. There was no substantial risk of
+prejudice to the administration of justice, and that there were many
+remedies available to the respondent to protect his interests.
+(vi) The appellant contended that a gag order would infringe art. 10 of the
+Federal Constitution, and that the order would be in vain as it would
+potentially not bind the international media. The appellant argued that
+sub judice would be inapplicable due to the absence of jury trials in this
+country.
+
+
+
+572
+
+Current Law Journal
+
+[2019] 6 CLJ
+
+(vii) The learned trial judge found that the scope of the application was
+plainly wide, and the respondent’s intention was to stop future
+discussion or publication that would prejudice his right to a fair trial,
+the ramifications of which would result in a contempt of court. The
+learned trial judge found that according to art. 126 of the Federal
+Constitution the courts did have the power to make orders in the
+nature of prior restraint against prejudicial discussions or publications
+affecting a fair trial. But the test to be applied before such orders are
+made is to consider whether the risk of prejudice to a fair trial is
+serious or real or substantial. The learned trial judge referred to
+Syarikat Bekalan Air Selangor Sdn Bhd v. Fadha Nur Ahmad Kamar &
+Anor [2012] 6 CLJ 93; [2012] 7 MLJ 657.
+(viii) The learned trial judge found that the immediacy of the risk or threat
+of the prejudice is especially pertinent when one seeks a prohibition
+which involves a pre-emptive and prior restraint order, as those who
+are in breach would immediately be in contempt as opposed to
+situations where in the absence of a gag order an action for contempt
+is only taken after the actual commissions of the contemptuous act.
+There is a heavier burden of showing the immediacy of the threat. The
+gag order must be shown to be necessary to prevent an immediate
+threat of a real and substantial risk of serious prejudice to the
+administration of justice in the relevant proceedings, in the absence of
+alternative measures, and is proportionate in reference to the
+competing interests of free speech and risk of prejudice to a fair trial.
+(ix) The learned trial judge found that since there are no jury trials in
+Malaysia and that cases are tried before a single judge who is
+constitutionally duty-bound to consider only the evidence in court and
+disregard all extraneous matters, the possibility of prejudice from
+unwarranted publications is unmistakably remote. This is not to say
+judges are infallible, but it bears emphasis that judges in discharging
+their judicial responsibilities must only consider the facts and the law
+applicable to the particular case and cannot succumb to public
+opinion.
+(x) The learned trial judge found that the absence of jury trials meant that
+the scope for the application of the sub judice rule is decidedly more
+circumscribed in the Malaysian justice system. As for the unwarranted
+publicity influencing witnesses, they would be subject to examination
+in chief, cross-examination, and re-examination to determine their
+reliability, credibility or lack thereof. The decisions of the judges
+would also be subject to appeals.
+(xi) Some accusatory articles cited by the respondent had been in the
+public sphere since 2014, negating the element of immediacy. The
+respondent had also given interviews attempting to answer the
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 6 CLJ
+A
+
+B
+
+C
+
+PP v. Dato’ Sri Mohd Najib Hj Abd Razak
+
+573
+
+allegations, and probably attracted far greater public and media
+interest than the less-than-current allegations that have surfaced for a
+number of years. This also suggests a balanced reporting of the rival
+views.
+(xii) Legal remedies are available to the respondent, making the gag order
+unnecessary as contempt laws and defamation laws can be resorted to.
+The gag order is also difficult to sustain as it is targeted to the world
+at large, and the application proposes a scope significantly wider than
+what has been affirmed in the accompanying affidavit in support.
+Thus, the learned High Court Judge dismissed the application.
+(Case No: WA-44-160-10-2018)
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+(i) The appellant filed a notice of motion for pre-trial production of
+statements and documents given by potential witnesses to the
+Malaysian Anti-Corruption Commission (MACC) in the course of
+investigations.
+(ii) The appellant had delivered all documents under s. 51A of the CPC,
+mostly covering the documents sought by the respondent in this notice
+of motion, save for paras. 1(g), (h), (i), (j), and 2(b)(i). These mainly
+pertain to names, statements, information and documents obtained
+under s. 30(1)(a), (b), (c) and 30(8) of the MACC Act and s. 32(2)(a),
+(b) and (c) of AMLATFA. The respondent also sought for a list of
+witnesses the appellant intends to call and their proposed order.
+(iii) The thrust of the application is on the non-obstante clauses (Latin:
+notwithstanding) whereby, these statements, documents etc, such as
+those obtained under s. 30(9) of the MACC Act and s. 40 of
+AMLATFA, are automatically admissible at the behest of either
+party. It is the respondent’s contention that due to this very nature,
+they ought to be supplied to the respondent before commencement of
+trial, and that this is also supported by s. 62 of the MACC Act, as well
+as the role of the court.
+(iv) The appellant’s position is that the application ought to be dismissed
+as the respondent has misconstrued s. 30(9) of the MACC Act and
+s. 40 of AMLATFA to exclude all other legislation/provisions,
+particularly the Evidence Act 1950. The non-obstante clauses must be
+read subject to the rules of privilege and prohibition on the grounds
+of public policy.
+(v) The learned trial judge made reference to Suruhanjaya Sekuriti v. Datuk
+Ishak Ismail [2016] 3 CLJ 19; [2016] 1 MLJ 733 that held that where
+statements taken in the course of investigations are to be automatically
+admissible, they must be subject to provisions of the Evidence Act,
+which were made to codify rules pertaining to law of privilege and
+
+
+
+574
+
+Current Law Journal
+
+[2019] 6 CLJ
+
+public policy against disclosure of investigation statements. While the
+respondent argued that the provisions of Datuk Ishak’s case did not
+involve a non-obstante clause, the learned trial judge further referred
+to Ho Tack Sien & Ors v. Rotta Research Laboratorium S.p.A & Anor;
+Registrar Of Trade Marks (Intervener) & Another Appeal [2015] 4 CLJ 20;
+[2015] 4 MLJ 166 and held that the respondent had not clearly made
+out a case as to the extent to which the Legislature had intended to give
+the relevant non-obstante clauses overriding effect over all other rules
+and legal provisions.
+(vi) The learned trial judge held that the admissibility of these documents
+did not equate to the right to inspect. The respondent cited various
+authorities from Commonwealth jurisdictions, and even beyond, and
+propagated the equality of arms principle by claiming the respondent
+was being put at a disadvantage if not afforded the opportunity to view
+the documents etc. However, the learned trial judge was of the view
+that the respondent did not demonstrate how he was being
+discriminated against, as compared to the other persons who are
+similarly under investigation by the MACC. While other countries
+have had advancements in adhering to the equal arms principle,
+Malaysia too has seen fundamental progress with the introduction of
+s. 51A of the CPC. Any further development must await legislative
+intervention, and cannot be achieved by mere and purported prismatic
+construction of constitutional prescriptions.
+(vii) The learned trial judge found that other than s. 51A of CPC and s. 62
+of the MACC Act, no other law or clear legislative prescriptions exist
+demanding disclosure, and no automatic disclosure can be founded on
+non-obstante clauses. There has been no compelling legal analysis that
+could support the quantum leap from automatic admissibility to right
+to inspection. The learned trial judge made reference to PP v. Dato’ Seri
+Anwar Ibrahim & Another Appeal [2010] 4 CLJ 331.
+Hence the respondent’s application was dismissed as he had failed to
+establish a case for delivery of the information and documents applied for.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+(Case No. W-05-72-02-2019)
+(i) The High Court had fixed the trial of the seven charges on 12 February
+2019 and to continue on 29 March 2019.
+
+H
+
+(ii) On both dates of 4 July 2018 and 8 August 2018, the charges were
+initially filed at the Sessions Court but they were immediately
+transferred on the same dates to High Court pursuant to the certificate
+issued by Public Prosecutor under s. 418A of CPC and s. 60 of the
+MACC Act.
+
+I
+
+
+
+[2019] 6 CLJ
+A
+
+B
+
+PP v. Dato’ Sri Mohd Najib Hj Abd Razak
+
+575
+
+(iii) On 28 January 2019, another three additional charges under
+AMLATFA were read out to the accused. The prosecution asked for
+these three new charges to be jointly tried with existing seven charges.
+Counsel for the respondent asked the High Court to allow the defence
+a few days to consider. The court allowed the request and fixed
+hearing for submission of the parties on the proposed joint trial on
+7 February 2019.
+
+C
+
+(iv) On 7 February 2019, the appellant informed the court that a ruling on
+the issue of joinder would not be necessary as he was proposing not
+to proceed on the three new charges and asked for the respondent be
+granted a DNAA (discharge not amounting to acquittal), since the
+prosecution would file these charges before the Sessions Court instead.
+The High Court then ordered the DNAA of the respondent on the
+three new charges.
+
+D
+
+(v) The appellant also wished to withdraw the transfer certificates that had
+been previously issued under s. 418A of the CPC and s. 60 of the
+MACC Act to transfer the seven charges to the High Court.
+
+E
+
+(vi) The withdrawal was stated by the appellant to be done out of
+abundance of caution in order to avoid any possible constitutional
+argument that the transfer effected by the appellant under s. 418A of
+the CPC and s. 60 of the MACC was a nullity in view of the decisions
+of this court in Semenyih Jaya Sdn Bhd v. Pentadbir Tanah Daerah Hulu
+Langat & Another Case [2017] 5 CLJ 526; [2017] 3 MLJ 561 and Indira
+Gandhi Mutho v. Pengarah Jabatan Agama Islam Perak & Ors And Other
+Appeals [2018] 3 CLJ 145; [2018] 1 MLJ 545.
+
+F
+
+(vii) The appellant informed the High Court that upon withdrawal, the
+cases on the seven charges would be reverted to the Sessions Court
+where they originated. The prosecution then immediately applied
+under s. 417 to have the cases transferred back to the High Court.
+G
+
+(viii) Alternatively, the appellant suggested the High Court to act suo moto
+(on its own motion) under s. 417(2) of the CPC to order the transfer
+of the cases from the Sessions Court back to High Court. The appellant
+highlighted that these procedural steps would be necessary to prevent
+any unwarranted postponement of the trial.
+
+H
+
+(ix) The learned trial judge then ordered the transfer of the seven charges
+from the Sessions Court back to the High Court in accordance with
+s. 417(1)(cc) of the CPC.
+
+I
+
+[6]
+It is to be noted that following the dismissal of these three criminal
+applications, the respondent made an oral application for a stay of
+proceedings that were to commence on 12 February 2019 to 29 March 2019,
+pending the appeals against the dismissal of the same. The learned High
+
+
+
+576
+
+Current Law Journal
+
+[2019] 6 CLJ
+
+Court Judge dismissed the application for a stay of proceedings on the ground
+that the mere prospect of the trial being a nullity could not be construed as
+special circumstances to warrant a stay of proceedings.
+
+A
+
+Before The Court Of Appeal
+[7]
+Aggrieved by the decision of the High Court, the respondent appealed
+to the Court of Appeal where all the appeals were heard together. Prior to
+the hearing to the appeals, the respondent applied for a stay of proceedings
+under s. 44 of the Courts of Judicature Act 1964 (“CJA”). A stay of
+proceedings was duly allowed by the Court of Appeal pending the disposal
+of the appeals proper. On 21 March 2019, the Court of Appeal dismissed the
+respondent’s appeals and on oral application by the respondent granted an
+order to stay the proceedings pending the disposal of the respondent’s appeals
+to this court.
+[8]
+The Court of Appeal opined that there is no distinction between civil
+and criminal proceedings and that what is relevant is whether there are
+special circumstances. From the facts, the Court of Appeal held that the
+prospect of the charges being declared a nullity was there. Moreover the
+present appeals involved novel issues namely the withdrawal of the s. 418A
+certificate, the pre-emptive gag order and discovery of documents based on
+non-obstante clauses. The Court of Appeal also found that there were no
+delaying tactics by the respondent.
+
+B
+
+C
+
+D
+
+E
+
+Issues Before This Court
+[9]
+The question before us is whether the Court of Appeal was correct in
+allowing the respondent’s application for a stay of the criminal proceedings.
+The Appellant’s Submission
+
+F
+
+[10] It is the appellant’s position that in respect of the present appeals,
+which are all of an interlocutory nature:
+(i) concurrent findings by both the courts below have been made against the
+accused and that the appeals are frivolous and doomed to fail;
+(ii) a distinction should be made between a stay of execution that is
+governed by s. 311 of the CPC and a stay of proceedings, on which the
+CPC is silent. This difference must be taken to have been a deliberate
+act by the parliamentary draftsperson to highlight the distinction
+between the both particularly when read together with s. 172B(4) of the
+CPC which provides that criminal trials should start no later than three
+months after an accused has been charged. If trials are statutorily
+required to commence within three months after an accused has been
+charged, then granting a stay would defeat this objective.
+
+G
+
+H
+
+I
+
+
+
+[2019] 6 CLJ
+A
+
+B
+
+PP v. Dato’ Sri Mohd Najib Hj Abd Razak
+
+577
+
+(iii) Furthermore, under the Courts of Judicature Act 1964 (Act 91), both
+appellate courts have jurisdiction to grant stay of proceedings and stay
+of execution in civil matters but in criminal matters the appellate courts
+only have power to grant a stay post-conviction, that is, at the
+conclusion of trial. Again this omission by the parliamentary
+draftsperson must be taken to have been intentional.
+(iv) Notwithstanding an absence of statutory power to order the stay of a
+criminal trial, the court may still exercise power to order a stay of
+criminal proceedings by way of its inherent jurisdiction. However, this
+absence of statutory power to stay criminal trials must mean that:
+
+C
+
+(a) the test for granting a stay should be different for civil and criminal
+trials;
+(b) precedents laid down in civil cases must be treated with caution in
+criminal matters; and
+
+D
+
+E
+
+F
+
+(c) a stay of a criminal trial should only be granted in exceptional
+circumstances (as per the Court of Appeal decision in Dato’ Seri
+Anwar Ibrahim v. PP [2011] 7 CLJ 253; [2011] 5 MLJ 535).
+(v) If the civil law test of “special circumstances” is applicable in a criminal
+law context, it is the possibility of the appeal being rendered nugatory
+that needs protection, and not the proceedings in the court below. On
+the facts, the appeals would not be rendered nugatory if a stay of the trial
+is refused because the accused would still be able to proceed with the
+hearing of the appeals currently pending before this court.
+(vi) In Dato’ Seri Anwar Ibrahim (supra) a stay was refused for a charge of
+sodomy. For the present appeals, no “special circumstances” favouring
+the accused exist as:
+(a) the offences are serious in nature;
+(b) the case is one of public and national importance;
+
+G
+
+(c) it has generated much public interest locally as well as
+internationally;
+(d) trial dates were fixed eight months ago (as opposed to the three
+months specified under s. 172B(4); and
+H
+
+(e) no prejudice will be caused to the accused because he will have an
+early opportunity to vindicate himself.
+The Respondent’s Submissions
+[11]
+
+The respondent on the other hand contends that:
+
+I
+
+(i) The Court of Appeal in issuing the “interim order” was fully
+empowered under ss. 44, 79 and 80 of the CJA to stay of proceedings;
+
+
+
+578
+
+Current Law Journal
+
+[2019] 6 CLJ
+
+(ii) Sections 44 and 80 of the CJA fall within the “general” provisions
+applicable to both the civil and criminal jurisdiction of the Court of
+Appeal and Federal Court;
+(iii) Cases such as Silver Concept Sdn Bhd v. Brisdale Rasa Development Sdn Bhd
+[2002] 4 CLJ 27; [2002] 4 MLJ 113, Choong Wooi Leong & Ors v. Lebbey
+Sdn Bhd (No 2) [1998] 2 CLJ 509; [1998] 2 MLJ 661, Takako Sakao v.
+Ng Pek Yuen & Anor (No. 3) [2010] 1 CLJ 429; [2010] 2 MLJ 141, and
+Rowstead Systems Sdn Bhd v. Bumicrystal Technology (M) Sdn Bhd [2005]
+2 CLJ 465; [2005] 3 MLJ 132 affirm the jurisdiction of the Court of
+Appeal to make interim orders under ss. 44 or 80 of the CJA in the
+nature of stay of proceedings in order to “prevent prejudice to the claims
+of parties” pending the hearing of an appeal and to “preserve the
+integrity of pending appeals”;
+(iv) The court retains inherent jurisdiction to make any orders to prevent
+prejudice to an accused person. The CPC is limited to the procedure to
+try offences and is not an exhaustive directory of the court’s powers. As
+part of the inherent powers of the court it may do all things reasonably
+necessary to ensure fair administration of justice and to safeguard an
+accused person from oppression or prejudice;
+(v) The case of Dato’ Seri Anwar Ibrahim (supra) adopted the special
+circumstances approach and the nugatory approach;
+
+A
+
+B
+
+C
+
+D
+
+E
+
+(vi) The court should not consider the merits of the case in an application
+for stay;
+(vii) The prospect that the trial is rendered a nullity amounts to special
+circumstances. For the present appeals, the potential nullity of
+proceedings arises from the following:
+(a) If the Federal Court agrees with the respondent on the issue
+of natural justice, the entire proceedings would be nullified (see:
+PP v. Ishak Hj Shaari & Other Appeals [2003] 3 CLJ 843). If the
+proceedings are subsequently nullified, it would waste the time and
+effort of all persons involved. Besides, a retrial in the event of
+nullity would be prejudicial to the respondent as the witnesses who
+are re-examined may change their evidence and the prosecution may
+get a second bite of the cherry in the conduct of the trial;
+(b) If the Public Prosecutor has no power to withdraw the s. 418A
+certificate and had acted unconstitutionally when he did so, the
+proceedings would be vitiated;
+(c) If the matter was never “pending” before the Sessions Court as no
+plea was taken therein, the High Court could not have exercised the
+powers under s. 417(2) of the CPC (see: PP v. Dato’ Yap Peng [1987]
+1 LNS 28; [1987] 2 MLJ 311 SC and s. 417(2) CPC);
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 6 CLJ
+A
+
+PP v. Dato’ Sri Mohd Najib Hj Abd Razak
+
+579
+
+(d) The High Court Judge had allegedly exercised his powers suo moto
+to transfer the matter back to himself, thereby bypassing the registry
+and the powers of the Chief Judge of Malaya under s. 20 of the CJA
+to distribute business;
+(e) The appellant’s reliance on R v. Christian [2007] 2 AC 400 PC is
+distinguishable in fact and law because in that case, the application
+for a stay was a final remedy sought by the accused in the substantive
+appeal on the grounds of an alleged abuse of process while the
+present appeals are in respect of an interlocutory application for a
+stay of proceedings pending appeal;
+
+B
+
+C
+
+(f) The Dato’ Seri Anwar Ibrahim case (supra) which held that “delaying
+tactics engineered by the appellant should be a factor in refusing to
+grant the stay” is distinguishable in fact as the Court of Appeal had
+on two occasions held that there was no evidence of any delay tactics
+by the respondent; and
+
+D
+
+(g) The Court of Appeal’s ruling in granting stay of proceedings is
+consistent with the decision of this court in Subashini Rajasingam
+v. Saravanan Thangathotray [2008] 2 CLJ 1; [2008] 2 MLJ 147 as its
+purpose is to maintain the status quo of an earlier interim order
+pending an appeal on a matter that has been dismissed.
+
+E
+
+Decision Of This Court
+
+F
+
+[12] As alluded to above, the only issue in the present appeals is confined
+to the decision of the Court of Appeal granting an order to stay the
+commencement of a criminal trial pending disposal of three appeals brought
+by the defence to this court.
+[13] During the course of oral submissions before us, the respondent
+confirmed that the Court of Appeal had allowed a stay of proceedings based
+on ss. 44, 79 and 80 of the CJA alone.
+
+G
+
+H
+
+Section 44(1) of the CJA reads:
+In any proceeding pending before the Court of Appeal any direction
+incidental thereto not involving the decision of the proceeding, any
+interim order to prevent prejudice to the claims of parties pending the
+hearing of the proceeding, any order for security for costs, and for the
+dismissal of a proceeding for default in furnishing security so ordered may
+at any time be made by a Judge of the Court of Appeal. (emphasis added).
+
+[14]
+
+I
+
+Next, s. 79 of the CJA states that:
+
+Whenever application may be made either to the Court of Appeal or to
+the Federal Court, it shall be made in the first instance to the Court of
+Appeal. (emphasis added).
+
+
+
+Current Law Journal
+
+580
+
+[15]
+
+[2019] 6 CLJ
+
+While s. 80(1) of the CJA provides that:
+
+In any proceeding pending before the Federal Court any direction
+incidental thereto not involving the decision of the proceeding, any
+interim order to prevent prejudice to the claims of parties pending the
+hearing of the proceeding, any order for security for costs, and for the
+dismissal of a proceeding for default in furnishing security so ordered may
+at any time be made by a Judge of the Federal Court.
+
+A
+
+B
+
+(emphasis added).
+
+[16] We have scrutinised ss. 44(1) and 80(1) of the CJA. It is noteworthy
+that both speak of “pending proceedings” as a pre-requisite before an interim
+order can be made by the relevant court. It is to be noted that when the stay
+application was made by the respondent, the Court of Appeal had already
+dismissed the three appeals filed by the respondent. In the circumstances,
+there was no longer any “pending” proceeding before the Court of Appeal
+enabling it to exercise its jurisdiction to grant a stay of proceedings under
+s. 44(1) of the CJA.
+[17] Similarly, for the respondent to avail himself of s. 80(1) of the CJA,
+there must also be a “proceeding pending” before the Federal Court. When
+the respondent’s appeals were dismissed by the Court of Appeal, there was
+no pending proceeding before the Federal Court at that stage. There was only
+an undertaking by the respondent that they would be filing an appeal. As such
+s. 79 was not relevant. For those reasons ss. 44(1) and 80(1) of the CJA do
+not empower the Court of Appeal to grant a stay of proceedings in light of
+the factual matrix of the present appeals. Since the respondent’s reliance on
+ss. 44(1) and 80(1) fails as alluded to above, it follows that s. 79 of the CJA
+is similarly of no assistance to him. Going from the above, the Court of
+Appeal had no jurisdiction to entertain the respondent’s application for a stay
+of proceedings upon the dismissal of the three appeals. The grant of the stay
+was therefore made without jurisdiction and thus a nullity. It is therefore
+incumbent on this court to revise such order for being a nullity. The enabling
+provisions are s. 86 of the CJA read together with s. 87 of the same which
+confer upon this court a general supervisory and revisionary power identical
+to the High Court’s to correct mistakes committed by courts subordinate to
+it in respect of any criminal matter (see: PP v. Dato’ Seri Anwar Ibrahim [2014]
+5 CLJ 805 FC (at para. [17]). On this ground alone, this court is seised with
+the necessary jurisdiction to exercise its revisionary power to rectify the
+grave error committed by the Court of Appeal.
+[18] More crucially and independently of the above, we shall now address
+the applicable test in the grant of stay in criminal proceedings. In his
+application before the Court of Appeal, the respondent relied on the decision
+of this court in Kosma Palm Oil Mill Sdn Bhd & Ors v. Koperasi Serbaguna
+Makmur Bhd [2003] 4 CLJ 1; [2004] 1 MLJ 257. In Kosma Palm Oil, this
+court held that the test applicable to the grant of a “stay of execution” is
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 6 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+PP v. Dato’ Sri Mohd Najib Hj Abd Razak
+
+581
+
+whether there are special circumstances, the most common of which is
+whether the appeal would be rendered nugatory if a stay of execution is not
+granted (see paras. [7] - [10]).
+[19] Kosma Palm Oil represents the legal position governing stays of
+execution for civil appeals (see: Tan, Kee Heng, Civil and Criminal Appeals in
+Malaysia, 3rd edn, (Sweet & Maxwell, 2016) at Chapter 7.3). The relevant
+question before us now is whether it applies with equal force to a stay of
+criminal proceedings at the trial court when there are pending appeals in
+respect of interlocutory applications before this court.
+[20] On this point, we note that there is only one reported decision from
+the Court of Appeal affirming the proposition that Kosma is applicable. In
+Dato’ Seri Anwar Ibrahim v. PP [2011] 7 CLJ 253; [2011] 5 MLJ 535, Abdul
+Malik Ishak JCA expressly endorsed the dual tests of “special
+circumstances” and “nugatoriness” propounded in Kosma (at para. [81]) as
+being equally relevant in an application to stay a criminal proceeding. His
+Lordship further held that the background scenario, seriousness of the
+offence which the accused is currently facing, and the conduct of the defence
+in the trial (ie, the delaying tactics employed by the defence) are all relevant
+factors to be considered by the court in deciding whether a stay of
+proceedings in a criminal trial should be granted (at paras. [88] - [90]).
+[21] The position in Australia is that generally jurisdiction of the courts to
+stay civil or criminal proceedings pending appeal is an exercise of the
+inherent jurisdiction of the courts (Jennings Constructions Ltd v. Burgundy
+Royale Investments Pty Ltd (1986) 161 CLR 681 at 684; Fuller & Cummings
+v. Director of Public Prosecutions (Cth) (1994) 68 ALJR 611). Being an
+extraordinary jurisdiction, exceptional circumstances must be shown before
+its exercise is warranted. Keeping matters in status quo until the litigation is
+finally resolved is not the purpose for which the inherent jurisdiction is
+invoked. Something quite exceptional must be shown before that jurisdiction
+is exercised (Edelsten v. Ward (No. 2) (1988) 63 ALJR 346).
+[22] The courts apply a more stringent test in considering stay of criminal
+proceedings. It will not normally be granted pending an interlocutory appeal
+in any criminal trial. It is only in very exceptional or unusual circumstances
+that a stay order is granted (McNamara v. R (1978) 20 ALR 98; R v. Iorlano
+(1983) 151 CLR 678 at 680; De Simone v. The Queen [2012] HCATrans 86).
+In Beljajev v. Director of Public Prosecutions (1991) 65 ALJR 400, the accused
+was committed to prison to await his trial on various counts involving
+narcotic drugs. He applied for a stay of that order pending appeal. Brennan J held
+at para. [10] that preservation of a status quo alone does not warrant the
+exercise of the extraordinary jurisdiction to grant a stay. The jurisdiction can
+be exercised only in extraordinary circumstances, particularly in the case of
+interlocutory applications in a criminal trial.
+
+
+
+582
+
+Current Law Journal
+
+[2019] 6 CLJ
+
+[23] The reluctance of the court granting a stay of criminal proceeding is
+primarily based on policy consideration. It is undesirable that the criminal
+process be interrupted or fragmented by interlocutory proceedings (Sankey
+v. Whitlam (1978) 142 CLR 1 at 25-26, 82-83; The Queen v. Iorlano (1993)
+151 CLR 678 at 680; Clyne v. The Director of Public Prosecutions for the
+Commonwealth of Australia (1984) 154 CLR 640 at 643; Re Rozenes; Ex parte
+Burd (1994) 120 ALR 193 at 194; Joosse v. Australian Securities and Investment
+Commission (1999) 73 ALJR 232 at 234; Gedeon v. Commissioner of New South
+Wales Crime Commission (2008) 236 CLR 120 at [23]; R v. WR [2009] ACTSC
+93 at [21]; The Queen v. AI, AD and JR [2013] ACTCA 16 at [19]).
+
+A
+
+[24] In Seymour v. AG (Cth) (1984) 4 FCR 498, Jenkinson J explained the
+underlying policy consideration having regard to the prominence of public
+interest in the expeditious resolution of accusations of crime. He said this:
+‘the longer such an accusation remains unresolved the greater the risk of
+serious harm to the community. Those risks are multifarious: the fading of
+witness’s recollections, the diminution of public confidence in the
+administration of the criminal law, the prolonging of fears and hatred which
+the resolution of criminal charges tends to allay, and uncertainty as to the
+course which the life of the accused is to take, and not infrequently
+uncertainty as to the courses of other lives, are perhaps the more obvious and
+the most common. Those considerations of public interest are of great weight
+...’ ((1984) 4 FCR 498 at 501).
+
+C
+
+[25] It has also been reasoned that “Crown appeals could easily lead to
+oppression and the defendant’s rights are best vindicated by appeal after
+conviction”. (See: R v. Garrett (1988) 49 SASR 435 at 451; see further
+Brennan J in Beljajev v. DPP (1991) 173 CLR 28 at 32). The caution about
+the undesirability of fragmentation of criminal process would be more
+pronounced where a hearing of proceedings has actually commenced
+(Khalil v. His Honour, Magistrate Johnson and Anor [2008] NSWSC 1092 at
+[117]). Nevertheless, the general position remains that the undesirability of
+fragmenting the criminal process is not confined to any particular part of the
+criminal process, but rather to the process as a whole: “it is not the point that
+in this case the trial had not commenced or had only just commenced at the
+time the application for an adjournment to pursue a remedy in this court was
+made. The principle would make little sense if it applied only to the
+particular phase of the criminal process which was immediately threatened
+by being interrupted. Any interference with any part of the process for other
+than reasons as grave as those acknowledged in the cases referred
+to is antithetical to the proper and just disposition of criminal cases.”
+(Atlas v. D.P.P. [2001] VSC 209 at para. [26]).
+[26] Besides, the Australian courts have taken the view that even if the
+matters being complained of in the interlocutory appeal do take place and the
+accused is convicted, “should the accused reach the stage (after conviction
+upon full trial) where he wishes to contest on appeal the matters which
+
+B
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 6 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+PP v. Dato’ Sri Mohd Najib Hj Abd Razak
+
+583
+
+he now raises, it would then be possible to consider them in a factual
+setting - a more desirable course than considering them in the abstract”
+(see: Re Rozenes; Ex parte Burd (1994) 120 ALR 193 at 195). This is so even
+if the issuing of the interlocutory appeal is not opposed by the prosecution
+or in fact supported by both the prosecution and the defence, for instance to
+seek a definitive ruling of the appellate or superior court on certain novel
+issues: “many questions arise before and in the course of a trial in respect
+of which a trial judge would be much assisted by a definitive ruling of this
+court or the Court of Appeal. However, the proper application of the
+principles of criminal procedure means that trial judges are required to make
+rulings on evidence or determine points of procedure as and when they arise
+either prior to or in the course of criminal trials no matter how novel or
+difficult the points raised might be. The appeal system exists to ensure that
+an error made by a trial judge which leads to the possibility of a miscarriage
+of justice in the result can be corrected in the Court of Appeal.” (Atlas v.
+D.P.P. [2001] VSC 209 at [23]).
+[27] Perhaps most importantly, the Australian courts have taken the stance
+that the fact that an accused will be put to the expense of a trial is irrelevant
+in considering whether proceedings should be stayed (Re Rozenes; Ex parte
+Burd (1994) 120 ALR 193 at 195): “it is undeniable that, if the applicants
+were ultimately to succeed upon appeal on the grounds which they now raise,
+they would nevertheless have suffered the expense and strain of a criminal
+trial. That, however, is a circumstance which is always present when it is
+sought to contest the ruling of a trial judge and is not of itself, in my view,
+an exceptional circumstance” (followed in R v. Chardon [2016] QCA 50 at
+paras. [27]-[28]).
+[28] Likewise, the courts in Australia generally show disinclination to
+allow other forms of collateral challenge in parallel proceedings such as an
+application for a declaration or other form of judicial review with similar
+relief in the nature of certiorari, be it commenced in the same court or another
+civil or criminal court, which has the net effect of staying the criminal
+proceedings or would interfere with or impinge directly upon the normal
+course of proceedings in a criminal trial (Sankey v. Whitlam (1978) 142 CLR
+1 at [14]; R v. Iorlano (1983) 151 CLR 678 at 680; Yates v. Wilson (1989) 18
+CLR 338 at 339; Attorney-General v. Smith (1985) 39 SASR 311 at 313; Jarrett
+v. Seymour (1993) 119 ALR 46). In those cases, an important consideration
+is the need to observe and not fragment the ordinary, and orderly, process
+of a trial. That consideration would apply with particular force “where
+proceedings are in charge of a judge who at this very moment is beginning
+the trial”: Anderson v. Attorney-General of New South Wales (1987) 10 NSWLR
+198 at p. 200 (followed in Hinch v. County Court of Victoria [2009] VSC 548
+at para. [46]).
+
+
+
+584
+
+Current Law Journal
+
+[2019] 6 CLJ
+
+[29] In the UK, the power of the court to stay a criminal proceeding is
+inherent in nature. (See: Re Wickham [1887] 35 Ch D 272 at p. 280).
+Historically, a stay of proceedings “had the draconian effect of bringing
+proceedings to a conclusion, unless it was of the conditional variety. This
+has, however, been superseded by contemporary practice”. (See: R (on the
+application of AO & AM) v. Secretary of State for the Home Department (stay of
+Proceedings - principles) [2017] UKUT 168 (IAC) at para. [20]). A stay of
+proceedings is different from a stay of execution (AB (Sudan) v. Secretary of
+State for the Home Department [2013] EWCA Civ 921 at para. [25]). In the
+case of a stay of proceeding, the governing principles formulated by the Court
+of Appeal in AB (Sudan) (at para. [26]), albeit discussed in the immigration
+and asylum context, are that:
+A stay on proceedings may be associated with the grant of interim relief,
+but it is essentially different. In determining whether proceedings should
+be stayed, the concerns of the court itself have to be taken into the
+balance. Decisions as to listing, and decisions as to which cases are to be
+heard at any particular time are matters for the court itself and no party
+to a claim can demand that it be heard before or after any other claim.
+The court will want to deal with claims before it as expeditiously as is
+consistent with justice. But, on the other hand, it is unlikely to want to
+waste time and other valuable resources on an exercise that may well be
+pointless if conducted too soon. If, therefore, the court is shown that
+there will be, or there is likely to be, some event in the foreseeable future
+that may have an impact on the way a claim is decided, it may decide to
+stay proceedings in the claim until after that event. It may be more
+inclined to grant a stay if there is agreement between the parties. It may
+not need to grant a stay if the pattern of work shows that the matter will
+not come on for trial before the event in question. The starting point
+must, however, be that a claimant seeks expeditious determination of his
+claim and that delay will be ordered only if good reason is shown.
+In cases where a request for a stay on proceedings is coupled, expressly
+or by necessary implication, with a request for interim relief, the court will
+need to take into account the factors relevant to both types of decision,
+and may need to take into account a third: that by securing interim relief
+and a stay, the applicant may be asking the court to use its powers to give
+him, for as long as he can secure it, a benefit that he may not obtain at
+the trial.
+
+[30] In short, the principles distilled from the English Court of Appeal
+decision in AB (Sudan) are these:
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+(i) every claimant is entitled to expect expeditious judicial adjudication.
+The strength of this expectation will be calibrated according to the
+individual litigation equation;
+(ii) the judicially imposed delay flowing from a stay order requires good
+reason;
+
+I
+
+
+
+[2019] 6 CLJ
+A
+
+B
+
+C
+
+PP v. Dato’ Sri Mohd Najib Hj Abd Razak
+
+585
+
+(iii) judicial choreography whereby one case is frozen awaiting the outcome
+of another is justified for example where the assessment is that the latter
+will have a critical impact upon the former;
+(iv) great caution is to be exercised where a stay application is founded on
+the contention that the outcome of another case will significantly
+influence the outcome of the instant case. (See: R (on the application of
+AO & AM) at para. [23]); and
+(v) a stay application will require especially compelling justification in a
+case qualifying for urgent judicial decision. (See: R (on the application of
+AO & AM) at para. [24]).
+[31] While it is true that the above criteria were discussed in the context
+of immigration and asylum cases, we do not find any reason to decline
+adopting and applying the same to criminal proceedings.
+Determinative Principles
+
+D
+
+[32] In summary, in considering an application for stay of criminal
+proceedings when commencement of the trial is imminent or continuing in
+the court of first instance, the determinative principles to be derived from the
+above cases are as follows:
+E
+
+(i) There is a strong public interest in the prosecution of crime and in
+ensuring that those charged with serious criminal offences are tried
+(R v. Crawley and Others [2014] EWCA Crim 1028 at para. [18]).
+
+F
+
+(ii) It is undesirable that the criminal process be interrupted or fragmented
+by interlocutory proceedings. The considerations of public interest are
+of great weight leaning in favour of expeditious resolution of
+accusations of crime.
+
+G
+
+(iii) The undesirability of fragmenting the criminal process is not confined
+to any particular part of the criminal process, but rather to the process
+as a whole. Any interference with any part of the process is antithetical
+to the proper and just disposition of criminal cases. The caution about
+the undesirability of fragmentation of criminal process would be more
+pronounced where a hearing of proceedings has actually commenced.
+
+H
+
+I
+
+(iv) A stay of proceedings application will require especially compelling
+justification in a case qualifying for urgent judicial decision. For
+instance, it is important that anyone charged with serious criminal
+offences be brought to trial expeditiously. Public interest would not be
+served by allowing the defence to request for a delay. An accused of
+serious criminal offences who is not guilty should have the
+opportunity of clearing his name without excessive delay (Attorney
+General’s Reference No. 2 of 2001 [2003] UKHL 68 at [16]).
+
+
+
+586
+
+Current Law Journal
+
+[2019] 6 CLJ
+
+(v) A stay of proceedings will not normally be granted pending an
+interlocutory appeal in a criminal trial. It is only in very exceptional
+or unusual circumstances that a stay order is granted. This is so even
+if the issuing of the interlocutory appeal is not opposed by the
+prosecution or in fact supported by both the prosecution and the
+defence.
+(vi) The accused’s rights over preliminary or interlocutory rulings made
+by the trial judge are best vindicated by appeal after conviction, if any.
+It is generally more desirable to consider preliminary or interlocutory
+rulings made by the trial judge in appeal after conviction upon full trial
+with the benefit of a concrete factual setting than considering them in
+the abstract during interlocutory appeal.
+
+A
+
+B
+
+C
+
+(vii) The fact that an accused will be put to the expense of a trial is
+irrelevant and would not qualify as “exceptional circumstances” to
+justify a stay of a criminal trial pending resolution of an appeal.
+D
+
+(viii) The courts should exercise great caution in allowing other forms of
+collateral challenge, in parallel proceedings such as an application for
+a declaration or other form of judicial review with similar relief in the
+nature of certiorari, be it commenced in the same court or another civil
+or criminal court, which have the net effect of staying the criminal
+proceedings or would interfere with or impinge directly upon the
+normal course of proceedings in a criminal trial.
+[33] Now, the accused is a public figure who stands charged with offences
+which cannot by any means be described as trivial, allegedly committed
+while he was holding office as Prime Minister. Public interest, and indeed
+his personal interest, dictate that the trials against him should be commenced
+expeditiously without any unreasonable delay as it is at the denouement of
+the trial that the court is best-equipped to determine his guilt or otherwise
+based on factual evidence instead of speculative arguments. Furthermore, he
+has not established to our satisfaction that his application is so unusual or
+exceptional that it falls within that class of cases which would justify the grant
+of a stay. As stated above, a stay of criminal proceedings will only be granted
+in the rarest of cases and the fact that the proceedings may be rendered a
+nullity is not a special circumstance. In the context of an application for a
+stay of proceedings, it is also immaterial that the accused is put to the expense
+of a trial even if he is subsequently vindicated on appeal.
+[34] We have not overlooked the respondent’s assertion that the appeal by
+the appellant was incompetent since there was no appeal record and no
+petition filed as required by the CJA. This is a non-issue because for criminal
+proceedings, the record of appeal including the grounds of judgment of the
+lower court is prepared by the court below (see: r. 91 of the Rules of the
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 6 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+PP v. Dato’ Sri Mohd Najib Hj Abd Razak
+
+587
+
+Federal Court 1995). And without the grounds of judgment, the appellant
+cannot proceed to file the petition of appeal (see: r. 95 of the Rules of the
+Federal Court 1995). Accordingly, we do not think that the appellant is at
+fault and in any case the incomplete appeal papers are no impediment to us
+hearing the appeal proper as we are exercising our revisionary powers. At
+any rate, the stay order granted by the Court of Appeal cannot be sustained
+in the face of our elucidation on the correct test to be applied for a stay of
+criminal proceedings.
+[35] For the foregoing reasons we set aside the stay order of the criminal
+trial granted by the Court of Appeal. Similarly the respondent’s oral
+application for a stay of proceedings before us is dismissed in the absence of
+any “exceptional or unusual circumstances”. The matter was therefore
+remitted forthwith to the High Court to proceed with the criminal trial.
+
+

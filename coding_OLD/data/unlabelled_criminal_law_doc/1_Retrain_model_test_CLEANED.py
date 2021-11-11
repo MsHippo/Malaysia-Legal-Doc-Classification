@@ -28,7 +28,7 @@ try:
         for file in files:
             if file.endswith(".pdf"):
                 testfiles.append(os.path.join(root, file))
- # print(testfiles)            
+    print(testfiles)            
     testfile_content = []
     for file in testfiles:
         content_data= ""

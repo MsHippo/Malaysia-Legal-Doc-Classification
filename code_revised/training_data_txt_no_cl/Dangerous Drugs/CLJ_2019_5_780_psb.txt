@@ -1,0 +1,3823 @@
+780
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+ALMA NUDO ATENZA v. PP & ANOTHER APPEAL
+FEDERAL COURT, PUTRAJAYA
+RICHARD MALANJUM CJ
+DAVID WONG DAK WAH CJ (SABAH & SARAWAK)
+RAMLY ALI FCJ
+BALIA YUSOF WAHI FCJ
+ALIZATUL KHAIR OSMAN FCJ
+ROHANA YUSUF FCJ
+TENGKU MAIMUN TUAN MAT FCJ
+ABANG ISKANDAR FCJ
+NALLINI PATHMANATHAN FCJ
+[CRIMINAL APPEALS NO: 05-94-05-2017(B)
+& 05-193-08-2017(W)]
+5 APRIL 2019
+CRIMINAL LAW: Dangerous drugs – Trafficking – Presumption of –
+Constitutional validity of s. 37A of Dangerous Drugs Act 1952 (‘DDA’) with
+reference to arts. 5, 8 and 121 of Federal Constitution (‘FC’) – Allowing usage of
+double presumptions to find possession as well as trafficking for charge under s. 39B
+of DDA – Principle of separation of powers – Whether Parliament empowered only
+to make laws – Whether judicial power vested exclusively in courts – Whether using
+presumption of possession to invoke presumption of trafficking under s. 37 of DDA
+harsh, oppressive and impermissible – Whether s. 37A of DDA offended requirement
+of fairness under arts. 5 and 8 of FC – Whether right to fair trial and presumption
+of innocence under art. 5 may be qualified by reference to principle of proportionality
+– Whether statutory words ‘deemed possession’ under s. 37(d) of DDA could be
+equated to ‘found possession’ to invoke presumption of trafficking under s. 37(da) of
+DDA – Whether plain reading of s. 37(d) and (da) permit concurrent application
+of both presumptions in prosecution of drug trafficking offence – Whether s. 37A
+of DDA prima facie violated presumption of innocence since it permitted accused to
+be convicted while reasonable doubt exists – Whether s. 37A of DDA
+unconstitutional for violating arts. 5(1) read with art. 8(1) of FC – Whether
+convictions and sentences of accused persons quashed under s. 39B and substituted
+with convictions under s. 12(1) of DDA
+CONSTITUTIONAL LAW: Presumptions – Dangerous drugs – Offences –
+Constitutional validity of s. 37A of Dangerous Drugs Act 1952 (‘DDA’) with
+reference to arts. 5, 8 and 121 of Federal Constitution (‘FC’) – Allowing usage of
+double presumptions to find possession as well as trafficking for charge under s. 39B
+of Dangerous Drugs Act 1952 – Principle of separation of powers – Whether
+Parliament empowered only to make laws – Whether judicial power vested
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+781
+
+exclusively in courts – Whether using presumption of possession to invoke
+presumption of trafficking under s. 37 of DDA harsh, oppressive and impermissible
+– Whether s. 37A of DDA offended requirement of fairness under arts. 5 and 8 of
+FC – Whether right to fair trial and presumption of innocence under art. 5 may
+be qualified by reference to principle of proportionality – Whether statutory words
+‘deemed possession’ under s. 37(d) could be equated to ‘found possession’ to invoke
+presumption of trafficking under s. 37(da) – Whether plain reading of s. 37(d) and
+(da) permit concurrent application of both presumptions in prosecution of drug
+trafficking offence – Whether s. 37A prima facie violated presumption of innocence
+since it permitted accused to be convicted while reasonable doubt exists – Whether
+s. 37A of DDA unconstitutional for violating arts. 5(1) read with art. 8(1)
+CONSTITUTIONAL LAW: Fundamental liberties – Presumption of innocence –
+Right to fair trial and presumption of innocence under art. 5 of Federal Constitution
+(‘FC’) – Offence of trafficking in dangerous drugs – Allowing usage of double
+presumptions to find possession as well as trafficking for charge under s. 39B of
+Dangerous Drugs Act 1952 (‘DDA’) – Constitutional validity of s. 37A of DDA with
+reference to arts. 5, 8 and 121 of FC – Whether using presumption of possession to
+invoke presumption of trafficking under s. 37 of DDA harsh, oppressive and
+impermissible – Whether s. 37A offended requirement of fairness under arts. 5 and
+8 of FC – Whether right to fair trial and presumption of innocence under art. 5 may
+be qualified by reference to principle of proportionality – Whether plain reading of
+s. 37(d) and (da) of DDA permit concurrent application of both presumptions in
+prosecution of drug trafficking offence – Whether s. 37A prima facie violated
+presumption of innocence since it permitted accused to be convicted while reasonable
+doubt exists – Whether s. 37A of DDA unconstitutional for violating arts. 5(1) read
+with art. 8(1) of FC
+
+F
+
+G
+
+H
+
+I
+
+The common and central issue in the present appeals was on the
+constitutional validity of s. 37A of the Dangerous Drugs Act 1952 (‘DDA’)
+with reference to arts. 5, 8 and 121 of the Federal Constitution (‘FC’). Each
+of the appellants in these two appeals was charged before and convicted by
+two different trial judges for drug trafficking. However, since both appeals
+were premised on one common and crucial issue, this court proceeded to
+hear them together. The first appellant in the first appeal, a national of the
+Philipphines, was caught red-handed carrying a bag containing 2556.4g of
+methamphetamine at the Kuala Lumpur International Airport (‘KLIA’) and
+was charged with an offence of trafficking in dangerous drugs under
+s. 39B(1)(a) of the DDA. The High Court Judge ruled that (i) for the element
+of possession, the presumption under s. 37(d) of the DDA could be invoked
+against the first appellant; and (ii) the bag was under the custody and control
+of the first appellant and that there was evidence to indicate the knowledge
+
+
+
+782
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+of the first appellant. On the issue of trafficking, the trial judge ruled that in
+view of s. 37A of the DDA, the prosecution was allowed to invoke another
+presumption under s. 37(da)(xvi) as the weight of the methamphetamine
+exceeded 50g. Hence, the first appellant was convicted and charged and
+sentenced to death. The second appellant in the second appeal, a Thai
+national, was found to have brought a bag with her from Bahrain containing
+693.4g of cocaine and was thus charged with trafficking in dangerous drugs
+under s. 39B(1)(a) of the DDA. The High Court observed that s. 37A of the
+DDA would allow the use of double presumptions, namely, the
+presumptions under s. 37(d) and (da) could be used together to prove
+‘possession and knowledge’ and thereafter to prove ‘trafficking.’ The High
+Court Judge found that the elements of custody and control against the
+second appellant were proven, thus s. 37(d) applied and the second appellant
+was presumed to have possession and knowledge of the drugs. Further, since
+the weight of the cocaine exceeded the statutory stipulated weight, it was also
+ruled that s. 37(da)(ix) also applied. The High Court held that the second
+appellant failed to adduce evidence to rebut the presumptions under s. 37(d)
+and (da) of the DDA and accordingly, the second appellant was found guilty
+as charged and sentenced to death. Aggrieved, both the appellants appealed
+respectively against the said decisions. The Court of Appeal dismissed both
+the appellants’ appeals. Before this court, both the appellants focused their
+submissions solely on the constitutionality of s. 37A of the DDA, which
+appeared to allow the use of double presumptions to find possession as well
+as trafficking for a charge under s. 39B of the DDA. The appellants’ main
+ground for challenging the validity of s. 37A was based on the principle of
+separation of powers. The appellants submitted (i) under art. 74(1) of the FC,
+Parliament is empowered only to make laws; (ii) under art. 121(1), judicial
+power is vested exclusively in the courts; (iii) in the case of Muhammed
+Hassan v. PP (‘Muhammed Hassan’), the Federal Court declared that using the
+presumption of possession to invoke the presumption of trafficking under
+s. 37 of the DDA was harsh, oppressive and thus impermissible; (iv) once
+the Federal Court had exercised judicial power on the matter, the Parliament
+could not interfere with the exercise by amending the DDA to legalise what
+had been declared illegal; and (v) by enacting s. 37A to overrule the decision
+of Muhammed Hassan, Parliament had exercised the judicial power of
+declaring law. The second ground of challenge raised by the appellants was
+based on arts. 5 and 8 of the FC. The appellants submitted that (i) art. 5(1)
+includes the right to a fair trial, which encompasses both procedural and
+substantive fairness; (ii) for all intents and purposes, s. 37A of the DDA has
+the effect of reversing the burden onto an accused to prove his or her
+innocence; (iii) where double presumptions are applied, it has been held in
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+783
+
+Muhammed Hassan that the burden on the appellants to rebut both
+presumptions on the balance of probabilities was oppressive, unduly harsh
+and unfair; (iv) s. 37A offended the requirement of fairness housed under
+arts. 5 and 8 of the FC; (v) the right in art. 5(1) is absolute and could not
+be derogated; and (vi) the Federal Court in Public Prosecutor v. Gan Boon Aun
+had erred in holding that the right to a fair trial and the presumption of
+innocence under art. 5 may be qualified by reference to the principle of
+proportionality.
+Held (quashing convictions and sentences of appellants under s. 39B of
+DDA; substituting their respective convictions to one of possession under
+s. 12(1) of DDA)
+Per Richard Malanjum CJ delivering the judgment of the court:
+(1)
+
+At the commencement of the hearing of these appeals, the respondent
+raised the issue that the appellants had not obtained leave from the
+Federal Court to challenge the constitutional validity of s. 37A of the
+DDA. It was submitted that pursuant to art. 4(4) of the FC, the
+appellants ought to have sought leave from the Federal Court to mount
+the present challenge. Article 4(4) only applies where the validity of
+a law is challenged on the ground that it makes provision with respect
+to a matter on which Parliament or the State Legislature has no power
+to make laws. The central question was related to the subject matter
+of the impugned law. Leave from the Federal Court is only required
+in proceedings for a declaration that a law is invalid on that specific
+ground. In such proceedings, the Federal Court has exclusive original
+jurisdiction to determine the matter. In the present appeals, the
+legislative competence of Parliament in respect of the subject matter
+of s. 37A of the DDA was not an issue. The basis of the appellants’
+challenge was that by enacting s. 37A which reversed the decision of
+the Federal Court in Muhammed Hassan, Parliament had usurped the
+judicial power of the Federation and fell foul of art. 121(1) of the FC.
+The appellants’ reference to art. 74(1) was merely to draw attention
+to the words ‘Parliament may make law’ in support of that basis. Since
+the validity of s. 37A was not challenged on the ground that it related
+to a matter on which Parliament had no power to make laws, the
+challenge did not fall within the scope of art. 4(1) and leave was not
+required from this court. Therefore, the preliminary objection by the
+respondent had no merit and was dismissed accordingly. (paras 51, 55,
+56, 61 & 62)
+
+(2)
+
+The separation of powers between the Legislature, the Executive and
+the Judiciary is a hallmark of a modern democratic State. Thus, the
+separation of powers is not just a matter of administrative efficiency.
+At its core is the need for a check and balance mechanism to avoid the
+risk of abuse when power is concentrated in the same hands. Between
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+
+
+784
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+the three branches of Government, ‘all the parts of it form a mutual
+check upon each other. The three parts, each part regulates and is
+regulated by the rest.’ The separation of powers provides a brake to
+the exercise of Government power, the institutions are designed ‘not
+only to cooperate but to conflict, as part of the pulley of checks and
+balances.’ This court had, on several occasions, recognised that the
+principle of separation of powers and the power of the ordinary courts
+to review the legality of a State action, are sacrosanct and form part
+of the basic structure of the FC. Whether an enacted law is
+constitutionally valid is always for the courts to adjudicate and not for
+Parliament to decide. (paras 69-72 & 74)
+(3)
+
+(4)
+
+Section 37A does not purport to overrule the decision of the Federal
+Court in Muhammed Hassan. The finality of the decision in that case
+in respect of the rights and liabilities of the parties was unaffected. The
+effect of inserting s. 37A was to alter generally the law upon which
+that decision was based. Such an amendment was a permissible
+exercise of legislative power and did not encroach into the realm of
+judicial power. In inserting s. 37A, Parliament was only complying
+with the opinion of the Federal Court therein which stated that
+presumption upon presumption could only be permitted if ‘upon the
+wordings of the two subsections, such an intention of the Parliament
+is clear.’ As the bulwark of the FC and the rule of law, it is the duty
+of the courts to protect the FC from being undermined by the whittling
+away of the principles upon which it is based. The courts should
+jealously ensure that the powers of the Legislature and Executive are
+kept within their intended limits. Indeed, the role of the courts is
+generally to apply and interpret the law as laid down by Parliament.
+It is not for the courts to refuse to apply a new law solely on the
+ground that a court had previously expressed a particular view to the
+unamended version of the law. Thus, the first ground of challenge
+raised by the appellants was dismissed. (paras 88, 89 & 91-93)
+Article 5(1) is the foundational fundamental right upon which other
+fundamental rights enshrined in the FC draw their support. Depriving
+a person of his right under art. 5(1), the consequence is obvious in that
+his other rights under the FC would be illusory or unnecessarily
+restrained. But, at the same time, art. 5(1) is not all encompassing and
+each right protected in Part II has its own perimeters. Hence, the
+provisions of the FC should be read harmoniously. ‘Law’ as defined
+in art. 160(2) of the FC read with s. 66 of the Interpretation Acts 1948
+and 1967 includes the common law of England. The concept of rule
+of law forms part of the common law of England. The ‘law’ in
+art. 5(1) and in other fundamental liberties provisions in the FC must
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+
+(5)
+
+Section 37A of the DDA begins with the phrase ‘notwithstanding any
+written law or rule of law.’ The words ‘rule of law’ in s. 37A refer
+to implied ancillary rules, such as the rules of procedure or evidence.
+It does not purport to exclude the rule of law as a legal concept. If it
+were to be interpreted otherwise, then that would be a rule by law and
+could not be within the ambit of the term ‘law’ in art. 5(1) of the FC
+and hence unconstitutional. The principle of the rule of law, being a
+constitutional fundamental, could not be abrogated by mere statutory
+words. Accordingly, art. 5(1) which guarantees that a person shall not
+be deprived of his life or personal liberty save in accordance with law
+envisages a State action that was fair both in point of procedure and
+substance. The fundamental principle of presumption of innocence,
+long recognised at common law, was included in the phrase ‘in
+accordance with law’. However, the presumption of innocence is
+subject to implied limitations. A degree of flexibility was therefore
+required to strike a balance between the public interest and the right
+of an accused person. (paras 108-110 & 112)
+
+(6)
+
+When any State action is challenged as violating a fundamental right,
+such as the right to life or personal liberty under art. 5(1), art. 8(1)
+would at once be engaged such that the action must meet the test of
+proportionality. Proportionality is an essential requirement of any
+legitimate limitation of an entrenched right. Proportionality calls for
+the balancing of different interests. In the balancing process, the
+relevant considerations include the nature of the right, the purpose for
+which the right was limited, the extent and efficacy of the limitation,
+and whether the desired end could reasonably be achieved through
+other means less damaging to the right in question. The presumption
+of innocence is by no means absolute. Derogations or limits to the
+prosecution’s duty to prove an accused’s guilt beyond a reasonable
+doubt are carefully circumscribed by reference to some form of
+proportionality test. The application of the proportionality test in this
+context strikes the appropriate balance between the competing
+interests of an accused and the State. The doctrine of proportionality
+and the all pervading nature of art. 8 form part of the common law of
+Malaysia, developed by our courts based on a prismatic interpretation
+of the FC without recourse to case law relating to the European
+Convention of Human Rights. As such, the appellants’ assertion that
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+785
+
+therefore be in tandem with the concept of rule of law and not rule by
+law. A central tenet of the rule of law is the equal subjection of all
+persons to the ordinary law. People should be ruled by the law and
+be able to be guided by it. Thus, the law must be capable of being
+obeyed. (paras 98, 101 & 103)
+
+A
+
+B
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+
+
+786
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+art. 5 conferred an absolute right upon an accused to be presumed
+innocent until proven guilty and not subject to the doctrine of
+proportionality while disregarding art. 8, was unsupported by
+authority and without basis. (paras 119, 120, 125 & 126)
+(7)
+
+(8)
+
+(9)
+
+Section 37A was legislated to permit the invocation of the two
+presumptions yet there was no amendment to the wording in
+sub-s. 37(da). The Federal Court held in Muhammed Hassan that based
+on the clear and unequivocal meaning of the statutory wording
+‘deemed possession’ under s. 37(d) could not be equated to ‘found
+possession’ so as to invoke the presumption of trafficking under
+s. 37(da). To do so would be contrary to the ordinary meaning of the
+statutory language. As such, despite the insertion of s. 37A, a plain
+reading of the wording in subsections (d) and (da) does not permit the
+concurrent application of both the said presumptions in the
+prosecution of a drug trafficking offence. (para 128)
+To determine the effect of s. 37A, it is helpful first to consider
+generally the nature of presumptions. A true presumption takes effect
+when, upon the proof of one fact (the basic fact), the existence of
+another fact (presumed fact) is assumed in the absence of further
+evidence. Presumptions can be categorised into presumptions of law
+or presumptions of fact. The former involves actual legal rules,
+whereas the latter are no more than frequently recurring examples of
+circumstantial evidence. For the presumption under s. 37(d), a
+person’s custody or control of a thing containing a dangerous drug,
+proved as a fact (the basic fact) was relevant to, but not decisive of,
+his possession and knowledge of the dangerous drug which need not
+be proved but merely deemed (the presumed fact). As for the
+presumption under s. 37(da), a person ‘found’ (which denotes the need
+first for an affirmative finding based on the evidence adduced) to be
+in possession of drugs exceeding a stipulated weight has a logical
+bearing on the inference of trafficking. The presumptions are largely
+a matter of logical inference. (paras 132-136)
+The presumptions in s. 37 are rebuttable. The phrase ‘until the
+contrary is proved’ imposes a legal burden on an accused to prove on
+a balance of probabilities that he was not in possession and had no
+knowledge of the drug (s. 37(d)), or that he was not in possession up
+to the statutory limit in weight of the drug for the purpose of
+trafficking (s. 37(da)). The weight of evidence required to rebut the
+presumption would depend on the circumstances of each case. The
+word ‘shall’ in both subsections indicates that each of the
+presumptions is mandatory in nature. However, the word ‘may’ in
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+
+787
+
+s. 37A suggests that the cumulative use of double or multiple
+presumptions is discretionary. But just because it is discretionary it
+does not ipso facto escape a constitutionality scrutiny. (paras 137 & 138)
+
+A
+
+(10)
+
+The effect of s. 37A on the operation of the two presumptions is
+(i) once the prosecution proves that an accused has the custody and
+control of a thing containing a dangerous drug, the accused is
+presumed to have possession and knowledge of the drug under s. 37(d).
+The ‘deemed possession’ presumed by virtue of s. 37(d) is then used
+to invoke a further presumption of trafficking under s. 37(da), if the
+quantity of the drug involved exceeds the statutory weight limit; (ii)
+s. 37A thus permits a ‘presumption upon a presumption’; and (iii) as
+such for a charge of drug trafficking all that is required of the
+prosecution to establish a prima facie case is to prove custody and
+control on the part of the accused and the weight of the drug. The legal
+burden then shifts to the accused to disprove the presumptions of
+possession and knowledge (s. 37(d) and trafficking (s. 37(da) on a
+balance of probabilities). Hence, s. 37A prima facie violated the
+presumption of innocence since it permitted an accused to be
+convicted while a reasonable doubt may exist. (paras 139 & 141)
+
+(11)
+
+The presumptions under s. 37(d) and (da) relate to the three central
+and essential elements of the offence of drug trafficking, namely
+possession of a drug, knowledge of the drug and trafficking. Once the
+essential ingredients of the offence are presumed, the accused is placed
+under a legal burden to rebut the presumptions on a balance of
+probabilities. It is a grave erosion to the presumption of innocence
+housed in art. 5(1) of the FC. But the most severe effect, tantamount
+to being harsh and oppressive, arising from the application of a
+‘presumption upon presumption’ is that the presumed element of
+possession under s. 37(d) is used to invoke the presumption of
+trafficking under s. 37(da) without any consideration that the element
+of possession in s. 37(da) requires a ‘found’ possession and not a
+‘deemed’ possession. The phrase ‘any person who is found in
+possession of’ entails an affirmative finding of possession based on
+adduced evidence. To invoke a presumption of trafficking founded not
+on proof of possession but on presumed possession based on proof of
+mere custody and control, constituted a grave departure from the
+general rule that the prosecution was required to prove the guilt of an
+accused beyond a reasonable doubt. (paras 146-148)
+
+(12)
+
+Based on the factors above – the essential ingredients of the offence,
+the imposition of a legal burden, the standard of proof required in
+rebuttal, and the cumulative effect of the two presumptions – this
+court considered that s. 37A constituted a most substantial departure
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+
+
+788
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+from the general rule, which could not be justified and was
+disproportionate to the legislative objective it served. It was far from
+clear that the objective could not be achieved through other means less
+damaging to the accused’s fundamental right under art. 5. In light of
+the seriousness of the offence and the punishment it entailed, the
+unacceptably severe incursion into the right of the accused under
+art. 5(1) was disproportionate to the aim of curbing crime, hence failed
+to satisfy the requirement of proportionality housed under art. 8(1).
+Accordingly, s. 37A was unconstitutional for violating art. 5(1) read
+with art. 8(1) of the FC. The impugned section was hereby struck
+down. Since there was no challenge to the use of a single presumption
+in these appeals, the invocation of s. 37(d) by the trial judges did not
+cause any miscarriage of justice to the detriment of the appellants.
+Hence, this court hereby quashed the convictions and sentences of
+both the appellants under s. 39B of the DDA and hereby substituted
+their respective convictions to one of possession under s. 12(1) and
+punishable under s. 39A(2) of the DDA. (paras 150-153)
+
+A
+
+B
+
+C
+
+D
+
+Bahasa Malaysia Headnotes
+Isu utama dalam rayuan-rayuan ini adalah kesahihan perlembagaan
+s. 37A Akta Dadah Berbahaya 1952 (‘ADB’) merujuk pada per. 5, 8 dan 121
+Perlembagaan Persekutuan (‘PP’). Setiap perayu dalam kedua-dua rayuan
+dituduh dan disabitkan oleh dua hakim bicara berbeza atas pengedaran
+dadah. Walau bagaimanapun, oleh kerana kedua-dua rayuan berdasarkan
+satu isu yang sama dan penting, mahkamah ini mendengarnya bersekali.
+Perayu pertama dalam rayuan pertama, seorang warganegara Filipina, telah
+ditangkap membawa sebuah beg mengandungi 2556.4g methamphetamine di
+Lapangan Terbang Kuala Lumpur (‘KLIA’) dan dituduh dengan kesalahan
+mengedar dadah berbahaya bawah s. 39B(1)(a) ADB. Hakim Mahkamah
+Tinggi memutuskan bahawa (i) untuk elemen milikan, anggapan bawah
+s. 37(d) ADB boleh digunakan terhadap perayu pertama; dan (ii) beg itu
+bawah milikan dan kawalan perayu pertama dan terdapat keterangan
+menunjukkan pengetahuan oleh perayu pertama. Berkenaan isu pengedaran,
+hakim bicara memutuskan mengikuti s. 37A ADB, pihak pendakwaan
+dibenarkan menggunakan anggapan lain bawah s. 37(da)(xvi) kerana berat
+methamphetamine melebihi 50g. Oleh itu, perayu pertama disabitkan dan
+dijatuhkan hukuman mati. Perayu kedua dalam rayuan kedua, seorang
+warganegara Thailand, didapati membawa beg dari Bahrain mengandungi
+693.4g kokain dan dengan itu dituduh mengedar dadah berbahaya bawah
+s. 39B(1)(a) ADB. Mahkamah Tinggi, s. 37A ADB membenarkan
+penggunaan anggapan berganda, iaitu anggapan bawah s. 37(d) dan (da) boleh
+digunakan bersama-sama untuk membuktikan ‘milikan dan pengetahuan’ dan
+seterusnya membuktikan ‘pengedaran’. Mahkamah Tinggi mendapati
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+789
+
+elemen-elemen jagaan dan kawalan terhadap perayu kedua dibuktikan, oleh
+itu s. 37(d) diguna pakai dan perayu kedua dianggap mempunyai milikan dan
+pengetahuan dadah-dadah itu. Seterusnya, oleh kerana berat kokain melebihi
+berat statutori yang ditetapkan, diputuskan bahawa s. 37(da)(ix) juga
+terpakai. Mahkamah Tinggi memutuskan perayu kedua gagal mengemukakan
+keterangan untuk menyangkal anggapan-anggapan bawah s. 37(d) dan (da)
+ADB dan dengan itu, perayu kedua didapati bersalah dan dihukum mati.
+Terkilan, kedua-dua perayu masing-masing merayu terhadap keputusankeputusan tersebut. Mahkamah Rayuan menolak kedua-dua rayuan perayuperayu. Di hadapan mahkamah ini, kedua-dua perayu menumpukan hujahan
+mereka pada keperlembagaan s. 37A ADB, yang membenarkan penggunaan
+anggapan berganda untuk membuat dapatan milikan dan juga pengedaran
+bawah pertuduhan s. 39B ADB. Hujahan utama perayu-perayu dalam
+membantah kesahihan s. 37A adalah berdasarkan prinsip pemisahan kuasa.
+Perayu-perayu menghujahkan (i) bawah per. 74(1) PP, Parlimen diberi kuasa
+membuat undang-undang; (ii) bawah per. 121(1), kuasa kehakiman diberi
+secara eksklusif dalam mahkamah; (iii) dalam kes Muhammad Hassan v. PP
+(‘Muhammad Hassan’), Mahkamah Persekutuan mengisytiharkan pemakaian
+anggapan milikan untuk menggunakan anggapan pengedaran bawah s. 37
+ADB adalah agak keras, bersifat menindas dan dengan itu tidak dibenarkan;
+(iv) sebaik sahaja Mahkamah Persekutuan melaksanakan kuasa kehakiman
+atas perkara itu, Parlimen tidak boleh campur tangan dengan pelaksanaannya
+dengan meminda ADB untuk mengesahkan apa yang telah diisytiharkan
+haram; dan (v) dengan menggubal s. 37A untuk menolak keputusan
+Muhammad Hassan, Parlimen telah melaksanakan kuasa kehakiman
+mengisytiharkan undang-undang. Alasan kedua bantahan yang dibangkitkan
+perayu-perayu adalah berdasarkan per. 5 dan 8 PP. Perayu-perayu
+menghujahkan (i) per. 5(1) termasuk hak mendapatkan perbicaraan adil, yang
+merangkumi keadilan prosedural dan substantif; (ii) bagi maksud niat dan
+tujuan, s. 37A ADB mempunyai kesan menterbalikkan beban pembuktikan
+kepada tertuduh untuk membuktikan ketakbersalahannya; (iii) di mana
+anggapan berganda diguna pakai, kes Muhammad Hassan memutuskan
+bahawa beban atas perayu-perayu untuk menyangkal kedua-dua anggapan
+atas imbangan kebarangkalian adalah menindas, agak keras dan tidak adil;
+(iv) s. 37A melanggar keperluan keadilan yang telah ditetapkan bawah per.
+5 dan 8 PP; (v) hak per. 5(1) adalah mutlak dan tidak boleh terjejas; dan
+(vi) Mahkamah Persekutuan dalam Public Prosecutor v. Gan Boon Aun terkhilaf
+dalam memutuskan bahawa hak mendapatkan perbicaraan adil dan anggapan
+ketakbersalahan bawah per. 5 boleh dibenarkan melalui rujukan pada prinsip
+kekadaran.
+
+
+
+790
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+Diputuskan (membatalkan sabitan dan hukuman bawah s. 39B ADB;
+menggantikan sabitan masing-masing dengan sabitan milikan bawah
+s. 12(1) DDA):
+Oleh Richard Malanjum KHN menyampaikan penghakiman mahkamah:
+(1)
+
+(2)
+
+Di permulaan perbicaraan rayuan-rayuan ini, responden
+membangkitkan isu bahawa perayu-perayu tidak memperoleh
+kebenaran Mahkamah Persekutuan untuk membantah kesahihan
+perlembagaan s. 37A ADB. Dihujahkan bahawa menurut per. 4(4) PP,
+perayu sepatutnya memohon kebenaran Mahkamah Persekutuan
+untuk membawa bantahan ini. Perkara 4(4) hanya diguna pakai
+apabila kesahihan undang-undang dibantah atas alasan ia membuat
+peruntukan berkenaan perkara-perkara yang Parlimen atau Badan
+Perundangan Negeri tidak mempunyai kuasa menggubal undangundang. Soalan utama berhubung perkara undang-undang yang
+dipertikaikan. Kebenaran Mahkamah Persekutuan hanya diperlukan
+dalam prosiding-prosiding untuk pengisytiharan bahawa undangundang tidak sah atas alasan spesifik. Dalam prosiding-prosiding
+sebegitu, Mahkamah Persekutuan mempunyai bidang kuasa asal
+eksklusif untuk menentukan perkara-perkara itu. Dalam rayuanrayuan ini, kekompetenan legislatif Parlimen berhubung perkara
+s. 37A ADB bukan satu isu. Dasar bantahan perayu adalah dengan
+menggubal s. 37A yang mengakas keputusan Mahkamah Persekutuan
+dalam kes Muhammad Hassan, Parlimen telah merampas kuasa
+kehakiman Persekutuan dan mencemari semangat per. 121(1) PP.
+Rujukan perayu-perayu pada per. 74(1) hanyalah untuk menarik
+perhatian pada perkataan-perkataan ‘Parlimen boleh membuat
+undang-undang’ untuk menyokong dasar itu. Oleh kerana kesahihan
+s. 37A tidak dibantah atas alasan ini berhubungan perkara di mana
+Parlimen tidak mempunyai kuasa untuk membuat undang-undang,
+bantahan tidak terangkum dalam skop per. 4(1) dan kebenaran tidak
+diperlukan daripada mahkamah ini. Oleh itu, bantahan awalan
+responden tidak bermerit dan ditolak.
+Pemisahan kuasa antara badan Perundangan, Eksekutif dan badan
+Kehakiman adalah ciri-ciri sebuah negara demokratik moden. Oleh
+itu, pemisahan kuasa bukan hanya perkara kecekapan pentadbiran.
+Terasnya adalah keperluan untuk satu mekanisme sekatan dan
+imbangan untuk mengelak risiko penyalahgunaan apabila kuasa
+ditumpukan pada satu pihak. Antara ketiga-tiga cawangan Kerajaan,
+‘semua bahagian itu membentuk satu pemeriksaan saling atas satu
+sama lain. Ketiga-tiga bahagian, setiap bahagian mengawal selia dan
+dikawal selia oleh bahagian-bahagian lain.’ Pemisahan kuasa bertindak
+sebagai sekatan terhadap pelaksanaan kuasa Kerajaan, institusi-
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+
+B
+
+(3)
+
+Seksyen 37A tidak bertujuan untuk menolak keputusan Mahkamah
+Persekutuan dalam Muhammad Hassan. Kemuktamadan kes itu
+berhubung hak-hak dan liabiliti-liabiliti pihak-pihak tidak terjejas.
+Kesan memasukkan s. 37A adalah untuk mengubah secara umumnya
+undang-undang di mana keputusan itu didasarkan. Pindaan sebegitu
+adalah satu latihan kuasa legislatif yang dibenarkan dan tidak
+mencerobohi bidang kuasa kehakiman. Dalam memasukkan s. 37A,
+Parlimen hanya mematuhi pendapat Mahkamah Persekutuan yang
+menyatakan anggapan atas anggapan hanya boleh dibenarkan jika ‘atas
+pengungkapan dua subseksyen itu, niat Parlimen adalah jelas.’ Sebagai
+birai PP dan kedaulatan undang-undang, mahkamah-mahkamah
+bertanggungjawab melindungi PP daripada dilemahkan oleh prinsipprinsip yang semakin kikis yang terhadapnya PP didasarkan.
+Mahkamah-mahkamah harus memastikan kuasa-kuasa badan
+Perundangan dan Eksekutif disimpan dalam had-had yang diniatkan.
+Sesungguhnya, peranan mahkamah adalah untuk secara am mengguna
+pakai dan mentafsirkan undang-undang seperti yang dibentangkan oleh
+Parlimen. Bukan untuk mahkamah menolak untuk mengguna pakai
+undang-undang baharu hanya atas alasan mahkamah telah sebelum ini
+menyatakan satu pandangan tertentu untuk versi undang-undang tidak
+dipinda. Oleh itu, alasan pertama bantahan yang dibangkitkan oleh
+perayu-perayu ditolak.
+
+(4)
+
+Perkara 5(1) adalah hak asasi di mana hak asasi lain yang disemadikan
+dalam PP mendapat sokongan. Menafikan seseorang hak bawah
+per. 5(1), akibatnya jelas iaitu hak-hak lain bawah PP tidak menjadi
+kenyataan atau dihalang. Tetapi, pada masa yang sama, per. 5(1) tidak
+sama sekali merangkumi segalanya dan setiap hak yang dilindungi
+dalam Bahagian II mempunyai parameter tersendiri. Oleh itu,
+peruntukan-peruntukan PP harus dibaca secara harmoni. ‘Undangundang’ seperti ditakrifkan dalam per. 160(2) PP dibaca dengan s. 66
+Akta Tafsiran 1948 dan 1967 termasuk common law di England.
+‘Undang-undang’ dalam per. 5(1) dan dalam peruntukan-peruntukan
+kebebasan asasi dalam PP dengan itu harus selari dengan konsep
+
+C
+
+D
+
+E
+
+F
+
+H
+
+I
+
+791
+
+institusi dibentuk ‘bukan hanya untuk bekerjasama tetapi untuk
+bercanggah, sebagai sebahagian daripada takal sekatan dan imbangan’.
+Mahkamah ini telah, beberapa kali, mengiktiraf bahawa prinsip
+pemisahan kuasa dan kuasa mahkamah biasa untuk menyemak semula
+kesahan satu tindakan Negeri, adalah amat penting dan membentuk
+sebahagian bentuk struktur asas PP. Sama ada satu undang-undang
+yang digubal berdasarkan perlembagaan sahih adalah untuk
+mahkamah menghakimi dan bukan untuk Parlimen memutuskan.
+
+A
+
+G
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+
+
+792
+
+(5)
+
+(6)
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+kedaulatan undang-undang dan bukan pemerintahan undang-undang.
+Satu rukun pusat kedaulatan undang-undang adalah ketertaklukan
+sama bagi semua orang di sisi undang-undang. Rakyat seharusnya
+diperintah oleh undang-undang dan mampu untuk diberi panduan
+olehnya. Oleh itu, undang-undang harus berupaya untuk dipatuhi.
+
+A
+
+Seksyen 37A ADB dimulakan dengan frasa ‘walaupun undang-undang
+bertulis atau kedaulatan undang-undang.’ Perkataan-perkataan
+‘kedaulatan undang-undang’ dalam s. 37A merujuk pada peraturanperaturan sampingan tersirat, seperti peraturan-peraturan prosedur
+atau keterangan. Ini tidak bertujuan untuk mengecualikan kedaulatan
+undang-undang sebagai konsep undang-undang. Jika ditafsirkan
+sebaliknya, ini akan menjadi pemerintahan undang-undang dan tidak
+boleh terangkum dalam skop terma ‘undang-undang’ dalam per. 5(1)
+PP dan oleh itu tidak mengikut perlembagaan. Prinsip kedaulatan
+undang-undang, sebagai satu asas berperlembagaan, tidak boleh
+dibatalkan hanya oleh perkataan-perkataan statutori. Sewajarnya,
+per. 5(1) menjamin bahawa seseorang tidak akan dinafikan hak hidup
+atau kebebasan peribadi kecuali mengikut undang-undang
+menjangkakan satu tindakan Negeri yang adil dari segi prosedur dan
+inti pati. Prinsip asas anggapan ketakbersalahan, yang telah lama
+diiktiraf dalam common law, termasuk dalam frasa ‘sejajar dengan
+undang-undang.’ Walau bagaimanapun, anggapan ketakbersalahan
+tertakluk pada had-had tersirat. Satu darjah kebolehubahan, oleh itu,
+diperlukan untuk mencari keseimbangan antara kepentingan awam
+dan hak tertuduh.
+
+B
+
+Apabila mana-mana tindakan Negeri dicabar kerana melanggar hak
+asasi, seperti hak untuk hidup atau kebebasan peribadi bawah
+per. 5(1), per. 8(1) akan serta-merta digunakan dan tindakan itu harus
+memenuhi ujian kekadaran. Kekadaran adalah keperluan penting
+mana-mana had sah hak yang berakar umbi. Kekadaran meminta
+keseimbangan kepentingan berbeza. Dalam proses keseimbangan,
+pertimbangan-pertimbangan relevan termasuk sifat hak, tujuan hak
+dihadkan, takat dan kemujaraban had, dan sama ada keputusan akhir
+yang diingini boleh dicapai melalui cara-cara lain yang kurang
+menjejaskan hak yang dipersoalkan. Anggapan ketakbersalahan tidak
+mutlak. Pengurangan atau had atas tanggungjawab pihak pendakwaan
+untuk membuktikan kesalahan tertuduh melampaui keraguan
+munasabah dibatasi dengan berhati-hati melalui rujukan pada
+sesetengah bentuk ujian kekadaran. Pemakaian ujian kekadaran dalam
+konteks ini cuba untuk mencapai keseimbangan yang sesuai antara
+kepentingan-kepentingan tertuduh dan Negeri. Doktrin kekadaran dan
+sifat per. 8 membentuk sebahagian common law Malaysia, yang
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+
+793
+
+dibangunkan oleh mahkamah kita berdasarkan tafsiran prismatik PP
+tanpa rekursa pada kes undang-undang berhubung European
+Convention of Human Rights. Oleh itu, penegasan perayu bahawa
+per. 5 memberi hak mutlak kepada tertuduh untuk dianggap tidak
+bersalah sehingga dibuktikan kesalahannya dan tidak tertakluk pada
+doktrin kekadaran sementara tidak mengendahkan per. 8, tidak
+disokong autoriti dan tidak berasas.
+
+A
+
+B
+
+(7)
+
+Seksyen 37A digubal untuk membenarkan penggunaan dua anggapan
+tetapi tiada pindaan dibuat pada kata-kata dalam sub-s. 37(da).
+Mahkamah Persekutuan memutuskan dalam kes Muhammad Hassan
+bahawa berdasarkan maksud yang jelas dan terang perkataan statutori
+‘deemed possession’ bawah s. 37(d) tidak boleh disamakan dengan
+‘found possession’ untuk menggunakan anggapan pengedaran bawah
+s. 37(da). Untuk berbuat demikian akan bertentangan dengan maksud
+biasa bahasa statutori. Oleh itu, walaupun s. 37A dimasukkan, bacaan
+perkataan-perkataan dalam sub-s. (d) dan (da) tidak membenarkan
+pemakaian serentak kedua-dua anggapan tersebut dalam pendakwaan
+kesalahan pengedaran dadah.
+
+(8)
+
+Untuk menentukan kesan s. 37A, harus dipertimbangkan secara am
+sifat anggapan-anggapan. Anggapan sebenar mulai berkuat kuasa
+apabila, atas bukti satu fakta (fakta asas), kewujudan fakta yang lain
+(fakta yang dianggap) dianggap tanpa keterangan lanjut. Keteranganketerangan boleh dikategorikan pada anggapan undang-undang atau
+anggapan fakta. Anggapan undang-undang melibatkan peraturanperaturan undang-undang, dan anggapan-anggapan fakta tidak lebih
+daripada contoh-contoh keterangan ikut keadaan. Untuk anggapan
+bawah s. 37(d), jagaan dan kawalan seseorang terhadap sesuatu yang
+mengandungi dadah berbahaya, yang dibuktikan secara fakta (fakta
+asas) adalah relevan pada, tapi tidak muktamad, milikan dan
+pengetahuannya berkenaan dadah berbahaya yang tidak perlu
+dibuktikan tetapi hanya dianggap (fakta yang dianggap). Untuk
+anggapan bawah s. 37(da), seseorang yang ‘ditemui’ (yang menandakan
+keperluan pertama untuk dapatan afirmatif berdasarkan keterangan
+yang dikemukakan) mempunyai milikan atas dadah-dadah melebihi
+berat yang ditentukan mempunyai satu kedudukan logik atas inferens
+pengedaran. Anggapan-anggapan adalah sebahagian besarnya hal
+inferens yang logikal.
+
+(9)
+
+Anggapan-anggapan bawah s. 37 boleh disangkal. Frasa ‘sehingga
+boleh dibuktikan sebaliknya’ mengenakan beban perundangan ke atas
+tertuduh untuk membuktikan atas imbangan kebarangkalian bahawa
+dia tidak mempunyai milikan atau pengetahuan berkenaan dadah
+(s. 37(d)), atau dia tidak mempunyai milikan setakat had statutori dari
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+
+
+794
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+segi berat dadah untuk tujuan pengedaran (s. 37(da)). Berat keterangan
+yang diperlukan untuk menyangkal anggapan bergantung pada keadaan
+setiap kes. Perkataan ‘shall’ dalam kedua-dua subseksyen menunjukkan
+setiap anggapan adalah bersifat mandatori. Walau bagaimanapun,
+perkataan ‘may’ dalam s. 37A mencadangkan bahawa penggunaan
+kumulatif anggapan berganda atau berbilang adalah mengikut budi
+bicara. Tetapi hanya kerana ini mengikut budi bicara tidak ipso facto
+terlepas daripada satu pemeriksaan rapi berperlembagaan.
+(10)
+
+(11)
+
+Kesan s. 37A atas operasi kedua-dua anggapan adalah (i) sebaik sahaja
+pihak pendakwaan membuktikan tertuduh mempunyai jagaan dan
+kawalan atas sesuatu yang mengandungi dadah berbahaya, tertuduh
+dianggap mempunyai milikan dan pengetahuan berkenaan dadah
+bawah s. 37(d). ‘Deemed possession’ yang dianggap bawah s. 37(d)
+kemudiannya dipakai untuk menggunakan anggapan pengedaran
+bawah s. 37(da), jika kuantiti dadah yang terlibat melebihi had berat
+statutori; (ii) s. 37A oleh itu membenarkan ‘anggapan atas anggapan’;
+dan (iii) oleh itu untuk pertuduhan pengedaran dadah, yang diperlukan
+adalah untuk pihak pendakwaan membuktikan satu kes prima facie
+untuk membuktikan jagaan dan kawalan oleh pihak tertuduh dan berat
+dadah yang terlibat. Beban perundangan kemudiannya beralih pada
+tertuduh untuk menyangkal anggapan-anggapan milikan dan
+pengetahuan (s. 37(d) dan pengedaran (s. 37(da) atas imbangan
+kebarangkalian). Oleh itu, s. 37A prima facie melanggar
+ketakbersalahan kerana membenarkan tertuduh disabitkan walaupun
+keraguan munasabah masih wujud.
+Anggapan-anggapan bawah s. 37(d) dan (da) berkaitan tiga elemen
+penting kesalahan pengedaran dadah, iaitu milikan dadah,
+pengetahuan mengenai dadah dan pengedaran. Sebaik sahaja inti patiinti pati penting kesalahan dianggap, tertuduh mempunyai beban
+perundangan untuk menyangkal anggapan-anggapan atas imbangan
+kebarangkalian. Ini satu hakisan serius terhadap anggapan
+ketakbersalahan bawah per. 5(1) PP. Tetapi kesan paling parah, iaitu
+agak keras dan bersifat menindas, yang berbangkit daripada pemakaian
+‘anggapan atas anggapan’ adakah anggapan elemen milikan bawah
+s. 37(d) yang dipakai untuk menggunakan anggapan pengedaran bawah
+s. 37(da) tanpa mempertimbangkan elemen milikan bawah s. 37(da)
+memerlukan milikan ‘found’ dan bukan milikan ‘deemed’. Frasa
+‘sesiapa yang didapati mempunyai milikan’ melibatkan satu dapatan
+afirmatif berdasarkan keterangan yang dikemukakan. Untuk
+menggunakan anggapan pengedaran yang didapati bukan atas bukti
+milikan tetapi anggapan milikan berdasarkan bukti jagaan dan
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+
+(12)
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+795
+
+kawalan, menyimpang daripada peraturan am bahawa pihak
+pendakwaan perlu membuktikan kesalahan tertuduh melampaui
+keraguan munasabah.
+
+A
+
+B
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+Berdasarkan faktor-faktor di atas – inti pati-inti pati penting kesalahan,
+pengenaan beban perundangan, standard pembuktian yang diperlukan
+untuk menyangkal, dan kesan kumulatif kedua-dua anggapan –
+mahkamah ini mengambil kira bahawa s. 37A menyimpang daripada
+peraturan am, yang tidak boleh dijustifikasikan dan tidak setimpal
+dengan objektif legislatif. Ini jauh daripada jelas bahawa objektif tidak
+boleh dicapai melalui cara lain yang kurang menjejaskan hak asasi
+tertuduh bawah per. 5. Berdasarkan keseriusan kesalahan dan
+hukuman yang dikenakan, serangan yang tidak dapat diterima ke atas
+hak tertuduh bawah per. 5(1) tidak setimpal dengan tujuan mengawal
+jenayah, oleh itu gagal memenuhi keperluan kekadaran bawah
+per. 8(1). Maka, s. 37A tidak mengikut perlembagaan kerana
+melanggar per. 5(1) dibaca dengan per. 8(1) PP. Seksyen yang
+dipertikaikan dengan itu dibatalkan. Oleh kerana tiada bantahan
+terhadap penggunaan satu anggapan dalam rayuan-rayuan ini,
+penggunaan s. 37(d) oleh hakim-hakim bicara tidak menyebabkan
+mana-mana salah laksana keadilan yang memudaratkan perayuperayu. Oleh itu, mahkamah ini membatalkan tuduhan dan hukuman
+kedua-dua perayu bawah s. 39B ADB dan menggantikannya dengan
+sabitan milikan bawah s. 12(1) dan dihukum bawah s. 39A(2) ADB.
+
+Case(s) referred to:
+Ah Thian v. Government of Malaysia [1976] 1 LNS 3 FC (refd)
+Attorney-General of Hong Kong v. Lee Kwong-Kut [1993] AC 951 (refd)
+Attorney General’s Reference (No 4 of 2002) [2005] 1 All ER 237 (refd)
+Badan Peguam Malaysia v. Kerajaan Malaysia [2008] 1 CLJ 521 FC (refd)
+Bugdaycay v. Secretary of State for the Home Department [1987] AC 514 (refd)
+Cheviti Venkanna Yadav v. State of Telangana [2017] 1 SCC 283 (refd)
+Dato’ Menteri Othman Baginda & Anor v. Dato’ Ombi Syed Alwi Syed Idrus [1984] 1
+CLJ 28; [1984] 1 CLJ (Rep) 98 (refd)
+DPP v. Mollison (No 2) [2003] UKPC 6 (refd)
+Dr Mohd Nasir Hashim v. Menteri Dalam Negeri Malaysia [2007] 1 CLJ 19 CA (refd)
+East Union (Malaya) Sdn Bhd v. Government of State of Johore & Government of Malaysia
+[1980] 1 LNS 18 FC (refd)
+Gerald Fernandez v. Attorney-General, Malaysia [1970] 1 LNS 27 FC (refd)
+Gin Poh Holdings Sdn Bhd v. The Government of the State of Penang & Ors [2018] 4
+CLJ 1 FC (refd)
+Hinds v. The Queen [1977] AC 195 (refd)
+In Re Mohamad Ezam Mohd Nor [2002] 5 CLJ 156 HC (refd)
+In the matter of Cauvery Water Disputes Tribunal [1993] Supp 1 SCC 96 (II) (refd)
+Indira Gandhi Mutho v. Pengarah Jabatan Agama Islam Perak & Ors And Other Appeals
+[2018] 3 CLJ 145 FC (dist)
+
+
+
+796
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+Indira Nehru Gandhi v. Shri Raj Narain [1975] 2 SCC 159 (dist)
+J Raz, The Rule of Law and its Virtue (1977) 93 LQR 195 (refd)
+Janapada Sabha Chhindwara v. The Central Provinces Syndicate Ltd [1970] 1 SCC 509
+(refd)
+Lee Kwan Woh v. PP [2009] 5 CLJ 631 FC (refd)
+Liyanage v. The Queen [1967] 1 AC 259 (refd)
+Maneka Gandhi v. Union of India AIR 1978 SC 59 (refd)
+Matadeen v. Pointu [1998] UKPC 9 (refd)
+Medical Council of India v. State of Kerala (Writ Petition (C) No 178 & 231 of 2018)
+(refd)
+Muhammed Hassan v. PP [1998] 2 CLJ 170 FC (refd)
+Ong Ah Chuan v. PP [1980] 1 LNS 181 PC (refd)
+Ooi Kean Thong & Anor v. PP [2006] 2 CLJ 701 FC (refd)
+Pengarah Tanah dan Galian, Wilayah Persekutuan v. Sri Lempah Enterprise Sdn Bhd
+[1978] 1 LNS 143 FC (refd)
+PP v. Datuk Harun Hj Idris & Ors [1976] 1 LNS 180 HC (refd)
+PP v. Gan Boon Aun [2017] 4 CLJ 41 FC (refd)
+PP v. Pung Chen Choon [1994] 1 LNS 208 SC (refd)
+PP v. Su Liang Yu [1976] 1 LNS 113 HC (refd)
+R v. Johnstone [2003] UKHL 28 (refd)
+R v. Kirby; ex p Boilermakers’ Society of Australia [1956] ALR 163 (refd)
+R v. Lambert [2001] UKHL 37 (refd)
+R v. Oakes [1986] 1 SCR 103 (refd)
+R v. Whyte [1988] 51 DLR (4th) 481 (refd)
+R (Anderson) v. Secretary of State for the Home Department [2002] UKHL 46 (refd)
+Rethana M Rajasigamoney v. The Government of Malaysia [1984] 1 CLJ 352; [1984]
+1 CLJ (Rep) 323 FC (refd)
+Semenyih Jaya Sdn Bhd v. Pentadbir Tanah Daerah Hulu Langat & Another Case [2017]
+5 CLJ 526 FC (refd)
+Shaw v. DPP [1962] AC 220 (refd)
+Sheldrake v. Director of Public Prosecutions; Attorney General’s Reference (No 4 of 2002)
+[2005] 1 All ER 237 (refd)
+Sivarasa Rasiah v. Badan Peguam Malaysia & Anor [2010] 3 CLJ 507 FC (refd)
+S R Bhagwat v. State of Mysore [1995 6 SCC 16 (refd)
+ST Sadiq v. State Of Kerala [2015] 4 SCC 400 (dist)
+State v. Coetzee [1997] 2 LRC 593 (refd)
+State v. Makwanyane [1995] 1 LRC 269 (refd)
+State Government of Negeri Sembilan & Ors v. Muhammad Juzaili Mohd Khamis & Ors
+[2015] 8 CLJ 975 FC (not foll)
+State of Haryana v. Karnal Coop Farmers’ Society Ltd [1993] 2 SCC 363 (refd)
+Syarikat Banita Sdn Bhd v. Government of State of Sabah [1977] 1 LNS 125 FC (refd)
+Tan Tek Seng v. Suruhanjaya Perkhidmatan Pendidikan & Anor [1996] 2 CLJ 771 CA
+(refd)
+The State v. Khoyratty [2006] UKPC 13 (refd)
+Titular Roman Catholic Archbishop of Kuala Lumpur v. Menteri Dalam Negeri & Ors
+[2014] 6 CLJ 541 FC (not foll)
+Victorian Stevedoring & General Contracting Co Pty Ltd v. Dignan [1932] ALR 22 (refd)
+Woolmington v. Director of Public Prosecutions [1935] AC 462 (refd)
+Yeoh Tat Thong v. Government of Malaysia & Anor [1973] 1 LNS 180 FC (refd)
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+797
+
+Legislation referred to:
+Courts of Judicature Act 1964, s. 78(1)
+Dangerous Drugs Act 1952, ss. 2, 12(1), 37A, 37(d), (da)(ix), (xvi), 39B
+Federal Constitution, arts. 4(1), (3), (4), 5(1), 8(1), 9, 10, 11, 74(1), 75, 121(1),
+128(1)(a), 160(2)
+Interpretation Acts 1948 and 1967, s. 66
+Other source(s) referred to:
+AV Dicey, An Introduction to the Study of the Law of the Constitution, 10th edn,
+London: Macmillan 1959, p 202
+Bingham, The Rule of Law, London: Penguin Books, 2011, pp 66-68
+Blackstone, Commentaries, vol 1, 1765/1979, p 154
+C Tapper, Cross & Tapper on Evidence, 12th edn., Oxford: OUP, 2013, p 135
+C Tapper, Cross & Wilkins Outline of the Law of Evidence, 6th edn, (London:
+Butterworths, 1986), p 39
+FAR Bennion, Statutory Interpretation: A Code, 3rd edn, London: Butterworths,
+1997, p 805
+H Barnett, Constitutional and Administrative Law, 2nd edn, London: Cavendish
+Publishing, 1998, p 90
+L Thio, A Treatise on Singapore Constitutional Law (Singapore: Academy Publishing,
+2012), p 160
+(Criminal Appeal No: 05-94-05-2017(B))
+For the appellant - Gopal Sri Ram, Srimurugan Alagan, Surjan Singh, R Kengadharan,
+Jamil Mohamed Shafie, Emily Wong, Magita Hari Mogan, Yasmeen Soh, How Li
+Nee, Nursyazwani Ilyana Iskandar Dzulkarnain, Hussein Akhtar, Sathiswaranji
+Samy; M/s Srimurugan & Co
+For the respondent - Nik Suhaimi Nik Sulaiman, Mohd Dusuki Mokhtar, Ku Hayati Ku
+Haron & Hamdan Hamzah; DPPs
+(Criminal Appeal No: 05-193-08-2017(W))
+For the appellant - Gopal Sri Ram, A Jeyaseelen, Rajpal Singh, Emily Wong, Magita Hari
+Mogan, Yasmeen Soh, How Li Nee; M/s Jeyaseelen & Co
+For the respondent - Nik Suhaimi Nik Sulaiman, Mohd Dusuki Mokhtar, Ku Hayati Ku
+Haron & Hamdan Hamzah; DPPs
+[Editor’s note: For the Court of Appeal judgment, please see Alma Nudo Atenza v. PP
+[2017] 1 LNS 979 (Varied).
+For the High Court judgment, please see [2016] 1 LNS 465 (Varied).]
+
+Reported by Suhainah Wahiduddin
+JUDGMENT
+
+H
+
+Richard Malanjum CJ:
+Introduction
+
+I
+
+[1]
+The common and central issue in the present appeals is on the
+constitutional validity of s. 37A of the Dangerous Drugs Act 1952 (“DDA”),
+with reference to arts. 5, 8, and 121 of the Federal Constitution (“FC”).
+
+
+
+798
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+[2]
+Each of the appellants in these two appeals was charged before and
+convicted by two different trial judges for drug trafficking under s. 39B of the
+DDA. However, since both appeals were premised on one common and
+crucial issue, we proceeded to hear them together while conscious of the fact
+that, on merits, these two appeals might differ. We therefore heard
+submissions on the common issue of these two appeals.
+
+A
+
+B
+
+[3]
+This is a unanimous judgment of the remaining judges of the court
+delivered pursuant to s. 78(1) of the Courts of Judicature Act 1964.
+Mr Justice Balia Yusof bin Haji Wahi has since retired on 25 March 2019.
+The Salient Facts
+
+C
+
+Criminal Appeal No. 05-94-05-2017(B) (“First Appeal”)
+[4]
+The charge against the appellant in the first appeal (hereinafter “first
+appellant” for ease of reference) read as follows:
+Bahawa kamu pada 19 Ogos 2014 lebih kurang jam 2.00 pagi di Cawangan
+Pemeriksaan Penumpang 2 (CPP2) Balai Ketibaan Antarabangsa,
+Lapangan Terbang Antarabangsa Kuala Lumpur (KLIA), di dalam negeri
+Selangor Darul Ehsan telah didapati mengedar dadah berbahaya iaitu
+Methamphetamine seberat 2556.4 gram dan dengan itu kamu telah
+melakukan suatu kesalahan di bawah seksyen 39B(1)(a) Akta Dadah
+Berbahaya 1952 yang boleh dihukum di bawah seksyen 39B(2) Akta yang
+sama.
+
+[5]
+The first appellant, a national of the Republic of the Philippines,
+travelled from Hong Kong to Malaysia by flight on 19 August 2014. Upon
+her arrival at KLIA at about 2am, a customs enforcement officer (‘PW3’)
+saw the first appellant in the queue and had her bag (‘P7’) scanned. Upon
+scanning, PW3 saw a suspicious image inside the bag. He requested a
+customs officer (‘PW6’) to examine the bag further.
+[6]
+On physical examination of the contents of the bag, PW6 discovered
+that it contained several new handbags. He then removed one of the handbags
+for scanning. PW3 saw a suspicious image inside the handbag. He requested
+PW6 to place the handbag back into the bag. The first appellant and the bag
+were then brought to an examination room where they were handed over to
+an investigating officer (‘PW7’).
+[7]
+Instructed by PW7, PW6 conducted a search of the bag in the presence
+of the first appellant. The bag was found to contain clothings, shoes and nine
+packages of handbags wrapped in clear plastic. Each handbag was found to
+contain four packages, wrapped with yellow coloured tape and concealed
+inside the inner back cover of each of the handbags. A total of 36 packages
+were recovered from the nine handbags. Each package contained crystalline
+substance.
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+799
+
+[8]
+Using a test kit, PW6 found that the substance in each package tested
+positive for methamphetamine. The substances were sent to the Chemistry
+Department for analysis and were confirmed to contain in total 2556.4g of
+methamphetamine.
+Criminal Appeal No. 05-193-08-2017 (W) (“Second Appeal”)
+
+B
+
+[9]
+The charge against the appellant in the second appeal (hereinafter
+“second appellant” for ease of reference) was as follows:
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Bahawa kamu pada 1 Julai 2014 jam lebih kurang 8.30 malam di bilik
+nombor 919, Arena Star Luxury Hotel, Jalan Hang Lekiu, di dalam
+Wilayah Persekutuan Kuala Lumpur telah didapati mengedar dadah
+merbahaya iaitu Cocaine seberat 693.4g dan dengan itu telah melakukan
+kesalahan dibawah Seksyen 39B(1)(a) Akta Dadah Berbahaya 1952 yang
+boleh dihukum di bawah Seksyen 39B(2) Akta yang sama.
+
+[10] The second appellant, a Thai national, travelled by flight from
+Bangkok to Bahrain on 26 June 2014, and thereafter from Bahrain to Kuala
+Lumpur via Abu Dhabi on 29 June 2014 on Etihad Airways. At the Bahrain
+airport, the second appellant checked in a bag (exh. P34) for her flight to
+Kuala Lumpur. On 30 June 2014, upon her arrival at Kuala Lumpur
+International Airport (KLIA), the second appellant lodged a complaint
+regarding the loss of the bag to the airport authorities. The second appellant
+gave her personal information and the address where she would be staying,
+which was Room 919 in Hotel Arena Star Luxury, Kuala Lumpur.
+[11] On 1 July 2014, the bag arrived at KLIA and was handed over to the
+Lost and Found Section of Malaysia Airlines System (‘MAS’). Etihad
+Airways had requested MAS to arrange the delivery of the bag to the second
+appellant. The bag had been labelled with a ‘rush’ tag (‘P28’), indicating the
+second appellant’s name and the tag number.
+[12] At about 4pm on the same day, an employee of bags handling
+company (‘SP8’) brought the bag from the lost and found section to the
+arrival hall for scanning. During the scanning process, a customs officer
+(‘SP4’) noticed a suspicious green image on the inside walls of the bag. He
+contacted the KLIA customs enforcement team. SP10 led the enforcement
+team to the scanning machine and received the bag from SP4.
+[13] Having examined the bag, SP10 noticed the second appellant’s name
+on the tag and noted that the bag was in good condition but unlocked. SP10
+requested SP8 to deliver the bag to the second appellant as planned. SP10
+and some other customs officers followed SP8 to Hotel Arena Star Luxury
+in a different vehicle.
+
+
+
+800
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+[14] At the hotel, SP10 brought the bag to the hotel counter and met a hotel
+staff SP6, who telephoned the second appellant in Room 919 to collect her
+bag. The second appellant came down to the hotel lobby, signed the receipt,
+and took the bag from SP8. The second appellant then pulled the bag into
+the elevator, while being followed by SP10 and three other officers. In the
+elevator, SP10 saw the second appellant tore off the tag from the bag.
+
+A
+
+B
+
+[15] When the elevator reached the ninth floor, the second appellant exited
+and went to Room 919. As she was about to open the room door, SP10
+introduced himself. SP10 had also obtained the bag tag which was earlier on
+torn off by the second appellant. The second appellant’s reaction was one of
+shock.
+
+C
+
+[16] In Room 919, SP10 instructed the second appellant to open the bag
+for examination. After the second appellant unzipped the bag and removed
+the items therein, SP10 found a black layer on the inside wall of the bag.
+SP10 requested the second appellant to cut the layer with a knife, and found
+white powder inside the black layer.
+
+D
+
+[17] The second appellant and the bag were taken to the KLIA customs
+enforcement office where SP10 made further inspections of the bag and
+discovered a black frame. Around the black frame were found two packages
+containing white powder. The white powder was sent to the Chemistry
+Department for analysis. After analysis, the white powder was confirmed to
+contain 693.4g of cocaine.
+
+E
+
+Decisions Of The High Court
+The First Appeal
+[18] The learned trial judge in respect of this first appeal ruled that for the
+element of possession, the presumption under sub-s. 37(d) of the DDA could
+be invoked against the first appellant. The learned trial judge found that the
+bag was under the custody and control of the first appellant. Such finding was
+premised on the evidence that the tag was attached to the bag and the first
+appellant was caught red-handed carrying the bag.
+[19] The learned trial judge also found that there was evidence to indicate
+the knowledge of first appellant. Such finding was based on how the drugs
+were carefully and cunningly concealed in the inner layers of the handbags,
+packed as if they were new and placed together with other items similarly
+packed. The learned trial judge therefore inferred an intention to avoid
+detection and thereby knowledge. Indeed the learned trial judge concluded
+that the only logical finding would be that the first appellant had knowledge
+of the drugs she was carrying in the bag.
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+801
+
+[20] On the issue of trafficking, the learned trial judge ruled that in view
+of s. 37A the prosecution was allowed to invoke another presumption under
+sub-s. 37(da)(xvi) as the weight of the methamphetamine exceeded 50g. The
+trial judge found that the prosecution had proven the following overt acts:
+(i) that the first appellant was conscious in the carrying or transporting of
+the drugs from Hong Kong to Malaysia by flight; and
+(ii) that the concealment of the drugs was solely for the purpose of evading
+detection.
+
+C
+
+D
+
+E
+
+F
+
+G
+
+[21] The learned trial judge therefore found a prima facie case made against
+the first appellant.
+[22] In her defence, the first appellant said that while on holiday in
+Thailand with her friend Jackelyn, she was offered an assignment from
+Jackelyn’s boyfriend, Kevin, to carry diamonds from Hong Kong to
+Malaysia. It was the first appellant’s account that the next day she flew to
+Hong Kong alone. On arrival in Hong Kong, she was picked up by one Mike
+who on the following day brought her to the Hong Kong airport and checked
+in the bag for her.
+[23] The learned trial judge did not accept the defence of innocent carrier
+advanced by the first appellant. The learned trial judge reasoned that no one
+would carry diamonds of colossal value in an unlocked checked-in bag. They
+could have been stolen while in transit. It was also inferred that from the
+conduct of the first appellant, the transaction was planned and well-executed
+based on the frantic and fast-paced action taken. Meanwhile, the account
+given by the first appellant in court was also ruled to be an afterthought in
+order to dissociate herself from the knowledge of the drugs.
+[24] The learned trial judge also held that there were circumstances which
+could have aroused the suspicion of the first appellant on what she was
+carrying in the bag. Yet, she just ignored those facts indifferent to what she
+was carrying and simply shut her eyes on the obvious. Applying therefore
+the principle of wilful blindness, the first appellant was taken to know that
+she was carrying drugs. Hence, the first appellant was convicted as charged
+and sentenced to death.
+The Second Appeal
+
+H
+
+I
+
+[25] The High Court observed that s. 37A of the DDA would allow the use
+of double presumptions, namely, the presumptions under sub-ss. 37(d) and
+(da) could be used together to prove “possession and knowledge” and
+thereafter to prove “trafficking”.
+
+
+
+802
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+[26] In respect of the presumption under sub-s. 37(d), the learned trial
+judge noted that the prosecution needed only to prove that the second
+appellant had the custody and control over the bag in order for the second
+appellant to be presumed to have possession and knowledge of the dangerous
+drug unless proven otherwise. The learned trial judge found custody and
+control on the following facts:
+
+A
+
+B
+
+(i) that at the time of arrest, the second appellant was holding the bag;
+(ii) that the second appellant removed the bag tag while still in the elevator;
+(iii) that the second appellant’s name was shown on the bag tag and the
+passenger information document;
+
+C
+
+(iv) that the second appellant checked in the bag herself at the Bahrain
+airport;
+(v) that the second appellant made a complaint at KLIA after failing to
+locate the bag, and provided her hotel details for the bag to be delivered
+to her immediately upon arrival;
+
+D
+
+(vi) that the second appellant received the bag at the hotel lobby and brought
+it to the room; and
+(vii) that the contents of the bag (other than the dangerous drugs) were the
+second appellant’s personal effects, such as clothings.
+[27] The learned trial judge took into account the fact that the bag was
+reported missing and the possibility of having been tampered with since the
+bag was unlocked. However, based on the evidence as a whole, it was found
+that the fact that the bag was not with the second appellant for a day did not
+negate the custody and control on her part. It was highlighted that the drugs
+were not easily found when the bag was opened. On the contrary, the drugs
+were hidden in a secret compartment in the bag, namely, within the black
+frame which was only found when the side of the bag was cut with a knife.
+The learned trial judge considered that it was not possible within a short time
+for any other persons to have prepared such a frame to fit the size of the bag
+and for two packages to fit the size of the frame.
+[28] Since the elements of custody and control were proven, it was ruled
+that sub-s. 37(d) applied and the second appellant was presumed to have
+possession and knowledge of the drugs. Further, since the weight of the
+cocaine exceeded the statutory stipulated weight, it was then ruled that subs. 37(da)(ix) also applied. As such, the second appellant was presumed to be
+trafficking the drugs.
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+803
+
+[29] Having found that a prima facie case had been established by the
+prosecution, the learned trial judge called for the first appellant to enter
+defence. The basis of the second appellant’s defence case was that she had
+no knowledge of the drugs in the bag. The learned trial judge however
+pointed out the inconsistencies in the second appellant’s defence case,
+including:
+(i) that it was the second appellant’s case that she went to Bahrain for
+holiday yet it was inconsistent with her testimony during crossexamination that she went there to find work;
+
+C
+
+D
+
+(ii) that the second appellant could not recall the hotel or the name of the
+beach she purportedly visited in Bahrain;
+(iii) that the second appellant had stopped working as a bartender, where she
+had previously earned a monthly salary of RM700. It was difficult to
+accept that the second appellant, who has a six-year old child, could
+afford the high cost for the alleged holiday; and
+(iv) that the second appellant’s account that the money for her holiday in
+Bahrain was given by a friend, Som, from her previous workplace, was
+doubtful. Som was not called to give evidence.
+
+E
+
+F
+
+[30] The learned trial judge rejected the second appellant’s defence as a
+bare denial and held that the second appellant had failed to adduce evidence
+to rebut the presumptions under sub-ss. 37(d) and (da) of the DDA.
+Accordingly, the learned trial judge found the second appellant guilty as
+charged and sentenced her to death.
+Decision Of The Court Of Appeal
+[31] Aggrieved, both the appellants appealed respectively to the Court of
+Appeal against the decisions handed to them by the respective learned trial
+judges.
+
+G
+
+The First Appeal
+[32] The first appellant appealed on three grounds, namely, on the
+admissibility of witness statements, the constitutionality on the use of double
+presumptions and the defence of innocent carrier.
+
+H
+
+I
+
+[33] In respect of admissibility of witness statements, the Court of Appeal
+held that there was no statutory requirement for written consent to be given
+in order to admit written statements from the prosecution witnesses. More
+so, when counsel for the first appellant did not object to the use of the written
+statements during the trial. No miscarriage of justice or prejudice to the first
+appellant was found to have been caused.
+
+
+
+804
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+[34] On the issue of double presumptions, the Court of Appeal noted that
+it was not in dispute that the amending Act inserting s. 37A into the DDA
+was a valid Act enacted by Parliament. Further, it was considered that
+despite the invocation of the presumptions, the onus of proving the case
+beyond reasonable doubt still rests on the prosecution. At any rate before a
+presumption can be invoked, the prosecution must adduce positive evidence
+of the relevant fact or facts. As such, the rights of the defence are maintained
+since the opportunity to rebut the presumption is not taken away. Hence, the
+Court of Appeal held that the use of double presumptions was not
+unconstitutional and did not violate the presumption of innocence.
+
+A
+
+[35] On the defence of innocent carrier, the Court of Appeal agreed with
+the finding and conclusion of the learned trial judge. It was held that it was
+not enough for the first appellant to merely assert the absence of knowledge.
+If and when the circumstances arouse suspicion, the Court of Appeal opined
+that it was incumbent upon the first appellant to make the necessary
+inquiries. Accordingly, the appeal of the first appellant was dismissed.
+
+C
+
+B
+
+D
+
+The Second Appeal
+[36] The second appellant appealed on the ground that the learned trial
+judge had erred in law and fact in finding custody and control.
+[37] However, the Court of Appeal held that while no drugs might have
+been detected when the bag was checked in at Bahrain airport, it did not
+mean that no drugs were present in the bag at that time. The Court of Appeal
+noted that there were many such instances of such happening. But it is not
+for the court to answer such question as to how the drugs escaped detection
+at the airport of origin.
+[38] On the possibility of tampering, the Court of Appeal agreed with the
+finding of the learned trial judge that considering the manner in which the
+drugs were concealed inside the bag, it would not have been possible for
+others to have placed the drugs in the bag in that manner within the time
+period. There was also no evidence found to indicate others including any
+potential enemy, motivated to harm the second appellant by planting the
+drugs in the bag. Anyway, the Court of Appeal considered that a person with
+such a motive would not have gone to such extent of modifying the bag to
+conceal the drugs. Such person or enemy would have placed the drugs in a
+conspicuous place.
+[39] The Court of Appeal also observed that as the drugs were well
+concealed, leaving the bag unlocked was just an excuse to say that someone
+could have placed the drugs inside the bag in the event of the second
+appellant being caught. Further, since the second appellant had checked the
+bag and confirmed that it was in good condition upon receiving it at the hotel
+lobby, the Court of Appeal ruled out tampering as an issue.
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+805
+
+[40] The Court of Appeal also agreed with the learned trial judge on the
+lack of credibility to the story that the second appellant travelled to Bahrain
+for holiday using funds supplied by Som. Indeed, the Court of Appeal found
+the defence of second appellant was a bare denial. It was incapable of casting
+a reasonable doubt in the prosecution’s case or rebutting the presumption of
+knowledge on the balance of probabilities. The appeal was therefore
+dismissed.
+Decision Of This Court
+
+C
+
+D
+
+[41] We are very conscious that there are several grounds of appeal
+submitted for both these appeals. However, before us, learned counsel for
+both the appellants focused his submissions solely on the constitutionality of
+s. 37A of the DDA. The section appears to allow the use of double
+presumptions to find possession as well as trafficking for a charge under
+s. 39B of the DDA.
+[42] Thus, in this judgment, we will therefore mainly deal with the
+impugned section. In the event we find there is no merit on the constitutionality
+challenge, we will then, if necessary, proceed with the other grounds submitted
+before making our ultimate decisions on the respective appeals.
+History Of s. 37A Of The DDA
+
+E
+
+[43] Section 37 of the DDA lists out a number of presumptions. The two
+presumptions that were invoked in the present appeals are in sub-ss. (d) and
+(da), which are reproduced below for ease of reference:
+Presumptions
+
+F
+
+37. In all proceedings under this Act or any regulation made thereunder:
+…
+
+G
+
+(d) any person who is found to have had in his custody or under his
+control anything whatsoever containing any dangerous drug shall,
+until the contrary is proved, be deemed to have been in possession
+of such drug and shall, until the contrary is proved, be deemed to
+have known the nature of such drug; ...
+…
+(da) any person who is found in possession of:
+
+H
+
+…
+(ix) 40grammes or more in weight of cocaine;
+…
+(xvi) 50 grammes or more in weight of Methamphetamine;
+
+I
+
+otherwise than in accordance with the authority of this Act or any other
+written law, shall be presumed, until the contrary is proved, to be
+trafficking in the said drug; …
+
+
+
+806
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+[44] Prior to the insertion of s. 37A, in the case of Muhammed bin Hassan
+v. PP [1998] 2 CLJ 170; [1998] 2 MLJ 273, the accused was convicted for
+drug trafficking under s. 39B of the DDA. The trial judge found that the
+accused had failed to rebut the statutory presumptions in sub-ss. 37(d) and
+(da) of the DDA on a balance of probabilities.
+
+A
+
+[45] The Federal Court drew attention to the distinction between the words
+“deemed” in sub-s. 37(d) and “found” in sub-s. 37(da). The former arises by
+operation of law without necessity to prove how a particular state of affairs
+is arrived at, whereas the latter connotes a finding made by a court after trial.
+It was held that, in order to invoke the presumption of trafficking under
+s. 37(da), the court must make an express affirmative finding that the accused
+was “in possession” of the drug based on evidence. Based on the clear and
+unequivocal wording of the two subsections, the presumption of possession
+under sub-s. 37(d) cannot be used to invoke the presumption of trafficking
+under sub-s. 37(da). His Lordship Chong Siew Fai (Chief Judge Sabah and
+Sarawak) said this at p. 190 (CLJ); p. 289 (MLJ):
+
+B
+
+In view of the above differences, it would be unduly harsh and oppressive
+to construe the automatic application of presumption upon presumption
+as contended by the learned deputy public prosecutor – a construction
+that ought to be adopted only if, upon the wordings of the two
+subsections, such an intention of the Parliament is clear, which, in our
+opinion, is not.
+
+C
+
+D
+
+E
+
+[46] The Federal Court also went on to express the view that the use of
+presumption upon presumption would be harsh and oppressive. The court
+said this at p. 194 (CLJ); p. 291 (MLJ):
+In our view, on the wording of s. 37(da) as it stands, to read the
+presumption of possession (ie possession as understood in criminal law,
+with knowledge) provided in s. 37(d) into s. 37 (da) so as to invoke against
+an accused a further presumption of trafficking (ie presumption upon
+presumption) would not only be ascribing to the phrase ‘found in
+possession’ in s. 37(da) a meaning wider than it ordinarily bears but would
+also be against the established principles of construction of penal statutes
+and unduly harsh and oppressive against the accused.
+
+[47] Following the decision in Muhammed bin Hassan (supra), Parliament
+tabled the Dangerous Drugs (Amendment) Act 2014, which introduced a
+new s. 37A without any amendment to any of the wordings in the
+presumption provisions. The legislative purpose in enacting s. 37A is to
+permit the presumption in sub-s. 37(d) to be applied together with the
+presumption in sub-s. 37(da) against an accused. It was explained at the
+second reading of the Bill in the Dewan Rakyat (House of Representatives)
+(per the Hansard of 4 December 2013) in this way:
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+807
+
+Sebelum ini pihak pendakwaan dengan jayanya menggunakan kedua-dua
+anggapan ini bagi membuktikan kes pengedaran di bawah seksyen 39B
+Akta 234 yang jika sabit kesalahan membawa hukuman gantung
+mandatori. Walau bagaimanapun sejak keputusan kes Mahkamah
+Persekutuan iaitu Pendakwa Raya v. Mohamad Hassan [1998] 2 CLJ 170,
+pendakwaan tidak lagi boleh menggunakan kedua-dua anggapan ini
+bersekali. Ini telah menyebabkan kegagalan pihak pendakwaan
+membuktikan pengedaran seperti mana yang ditakrifkan di bawah seksyen
+2 Akta 234. Oleh yang demikian bagi mengatasi masalah ini, maka
+Kementerian Kesihatan mencadangkan peruntukan baru ini dimasukkan
+ke dalam Akta 234.
+
+D
+
+Tuan Yang Di-Pertua, cadangan peruntukan menomborkan semula
+seksyen 37A sebagai seksyen 37B dan memasukkan seksyen 37A yang
+baru adalah bertujuan untuk memperjelaskan pemakaian seksyen 37(d)
+dan 37(da) Akta Dadah Berbahaya 1992. Pindaan ini diperlukan ekoran
+daripada beberapa keputusan mahkamah yang diputuskan termasuk
+keputusan Mahkamah Persekutuan di dalam kes Mohamad Hassan v.
+Pendakwa Raya [1998] 2 CLJ 170.
+
+E
+
+[48] The purpose of the amendment was therefore obvious, namely, to
+overcome the impact of the decision in Muhammed bin Hassan (supra). The
+amendment Act was duly passed and the newly inserted s. 37A came into
+force on 15 February 2014, before the dates on which the appellants in these
+appeals were charged. Section 37A reads:
+
+C
+
+Application of presumptions
+
+F
+
+37A. Notwithstanding anything under any written law or rule of law, a
+presumption may be applied under this Part in addition to or in
+conjunction with any other presumption provided under this Part or
+any other written law.
+
+[49] The appellants now seek to challenge the constitutionality of s. 37A
+on two broad grounds:
+(i) that it contravenes the principle of separation of powers in the FC; and
+G
+
+(ii) that it violates arts. 5 and 8 of the FC.
+[50] But before we deal with these two grounds in turn, we propose to first
+consider the preliminary objection raised by the respondent.
+Preliminary Objection
+
+H
+
+The Submissions Of Parties
+
+I
+
+[51] At the commencement of the hearing of these appeals, the learned
+Deputy Public Prosecutor for the respondent raised the issue that the
+appellants had not obtained leave from the Federal Court to challenge the
+constitutional validity of s. 37A of the DDA. It was pointed out that the
+
+
+
+808
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+validity of the section was challenged on the ground that Parliament did not
+have power to enact it under art. 74(1) of the FC. It was submitted that
+pursuant to art. 4(4) of the FC the appellants ought to have sought leave from
+the Federal Court to mount the present challenge.
+[52] In response, learned counsel for the appellants submitted that the
+appellants were not challenging the legislative competence of Parliament to
+enact s. 37A. The crux of the appellants’ argument was that, reading
+art. 121(1) together with art. 74(1), Parliament was empowered to make law
+and not to declare law. It was the appellants’ case that the enactment of
+s. 37A was an impermissible act of declaring law. As such, it was contended
+that the present challenge did not fall within art. 4(4) and that leave was not
+required.
+
+A
+
+B
+
+C
+
+Scope Of art. 4(4) Of The FC
+[53]
+
+Article 4(3) of the FC reads as follows:
+
+The validity of any law made by Parliament or the Legislature of any State
+shall not be questioned on the ground that it makes provision with respect to any
+matter with respect to which Parliament or, as the case may be, the Legislature of
+the State has no power to make laws, except in proceedings for a declaration
+that the law is invalid on that ground or:
+
+D
+
+(a) if the law was made by Parliament, in proceedings between the
+Federation and one or more States;
+
+E
+
+(b) if the law was made by the Legislature of a State, in proceedings
+between the Federation and that State.
+(emphasis added)
+
+[54] Article 4(4) which relates to the ground mentioned in art. 4(3)
+provides that:
+Proceedings for a declaration that a law is invalid on the ground mentioned in Clause
+(3) (not being proceedings falling within paragraph (a) or (b) of the Clause) shall
+not be commenced without the leave of a judge of the Federal Court; and the
+Federation shall be entitled to be a party to any such proceedings, and
+so shall any State that would or might be a party to proceedings brought
+for the same purpose under paragraph (a) or (b) of the Clause.
+(emphasis added)
+
+[55] Thus, art. 4(4) applies only where the validity of a law is challenged
+on the ground that it makes provision with respect to a matter on which
+Parliament or the State Legislature has no power to make laws. The central
+question relates to the subject matter of the impugned law. In Gin Poh
+Holdings Sdn Bhd v. The Government of the State of Penang & Ors [2018] 4 CLJ
+1; [2018] 3 MLJ 417 at para. [32]), this court has clarified that the ground
+of challenge referred to in arts. 4(3) and 4(4) comprises the following
+situations:
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+809
+
+… an impugned law deals with a matter with respect to which the relevant
+legislative body has no power to make law if:
+(a) Parliament made law on a matter not within the Federal List;
+(b) the State Legislature made law on a matter not within the State
+List;
+
+B
+
+(c) Parliament made law on a matter within the State List pursuant to
+art 76, but failed to comply with the requirements in the said Article;
+or
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+(d) the State Legislature made law on a matter within the Federal List
+pursuant to art 76A(1), but failed to comply with the requirements
+in the said Article …
+
+[56] Leave from the Federal Court is only required in proceedings for a
+declaration that a law is invalid on that specific ground. In such proceedings,
+the Federal Court has exclusive original jurisdiction to determine the matter.
+(See: art. 128(1)(a)).
+[57] There are of course other grounds on which the validity of a law may
+be challenged. For instance, a law may be invalid because it is inconsistent
+with certain provisions in the FC (art. 4(1)), or a State law may be invalid
+because it is inconsistent with a Federal law (art. 75). The court’s power to
+declare a law invalid on any of these other grounds “is not subject to any
+restrictions, and may be exercised by any court in the land and in any
+proceeding whether it be started by the Government or by an individual”.
+(See: Ah Thian v. Government of Malaysia [1976] 1 LNS 3; [1976] 2 MLJ 112
+at p. 113).
+[58] A broader reading of art. 4(4), however, was adopted in Titular Roman
+Catholic Archbishop of Kuala Lumpur v. Menteri Dalam Negeri [2014] 6 CLJ
+541; [2014] 4 MLJ 765. In that case, the validity of provisions in various
+State Enactments seeking to control and restrict the propagation of nonIslamic religious doctrines and beliefs among Muslims was challenged in the
+High Court on the ground that they contravened art. 11 of the FC. The
+Federal Court held that such a challenge fell within the scope of art. 4(3) and
+(4) of the FC and ought not to have been entertained by the High Court.
+[59] The decision in Titular Roman Catholic Archbishop of Kuala Lumpur
+(supra) was followed in State Government of Negeri Sembilan & Ors v.
+Muhammad Juzaili Mohd Khamis & Ors [2015] 8 CLJ 975; [2015] 6 MLJ 736,
+where the validity of a State Enactment was challenged on the ground that
+it offended the fundamental liberties in arts. 5, 8, 9 and 10 of the FC.
+Similarly, the Federal Court held that the challenge could only be made via
+the specific procedure provided for under art. 4(3) and (4) of the FC.
+
+
+
+810
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+[60] These two cases suggest that a challenge to the constitutionality or
+validity of a law on any ground comes within the ambit of art. 4(3) and (4).
+With respect, we are of the view that the wide interpretation adopted is
+contrary to the clear wordings of the aforesaid articles and is not supported
+by any consistent line of authorities. (See: Ah Thian (supra), Gerald Fernandez
+v. Attorney-General, Malaysia [1970] 1 LNS 27; [1970] 1 MLJ 262, Yeoh Tat
+Thong v. Government of Malaysia & Anor [1973] 1 LNS 180; [1973] 2 MLJ
+86, Syarikat Banita Sdn Bhd v. Government of State of Sabah [1977] 1 LNS 125;
+[1977] 2 MLJ 217, Rethana v. Government of Malaysia [1984] 1 CLJ 352;
+[1984] 1 CLJ (Rep) 323; [1984] 2 MLJ 52, East Union (Malaya) Sdn Bhd v.
+Government of State of Johore & Government of Malaysia [1980] 1 LNS 18;
+[1980] 2 MLJ 143). We are therefore not inclined to follow these two cases.
+In our view, they were decided per incuriam. Indeed, the anomaly in these
+two cases appears to have been acknowledged in Gin Poh Holdings (supra)
+when this court said this at para. [33]:
+
+A
+
+A different construction of the scope of arts. 4(4) and 128(1)(a) appears
+to have been adopted in a handful of cases. The ground of challenge that
+a law relates to ‘matters with respect to which the legislative body has no
+power to make laws’ was given a wider interpretation, extending to
+challenges that an Act contravenes the fundamental liberties provisions in
+the Federal Constitution and that a State Enactment is inconsistent with
+Federal law. We observe that the cases in favour of the wider
+interpretation do not offer a clear juridical foundation for the alternative
+construction, and are not altogether reconcilable with the dominant
+position settled by the line of authorities discussed earlier.
+
+D
+
+[61] In the present appeals, as readily conceded by learned counsel for the
+appellants, the legislative competence of Parliament in respect of the subject
+matter of s. 37A of the DDA is not in issue. The basis of the appellants’
+challenge is that by enacting s. 37A which reverses the decision of the
+Federal Court in Muhammad bin Hassan (supra), Parliament had usurped the
+judicial power of the Federation and fallen foul of art. 121(1) of the FC. The
+appellants’ reference to art. 74(1) was merely to draw attention to the words
+“Parliament may make law” in support of that basis. Since the validity of
+s. 37A is not challenged on the ground that it relates to a matter on which
+Parliament has no power to make laws, the challenge does not fall within the
+scope of art. 4(4) and leave is not required from this court.
+[62] Hence, we find the preliminary objection by the respondent has no
+merit and we dismiss it accordingly.
+
+B
+
+C
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+811
+
+Challenge Based On Separation Of Powers
+The Submissions Of Parties
+
+B
+
+[63] The appellants’ main ground for challenging the validity of s. 37A is
+based on the principle of separation of powers. The submissions for the
+appellants on this point may be summarised as follows:
+(a) under art. 74(1) of the FC, Parliament is empowered only to make laws;
+(b) under art. 121(1), judicial power is vested exclusively in the courts;
+
+C
+
+D
+
+(c) in Muhammed bin Hassan’s case (supra) the Federal Court declared that
+using the presumption of possession to invoke the presumption of
+trafficking under s. 37 of the DDA was harsh, oppressive and thus
+impermissible;
+(d) that once the Federal Court had exercised judicial power on the matter,
+Parliament could not interfere with the exercise by amending the DDA
+to legalise what had been declared illegal; and
+(e) that by enacting s. 37A to overrule the decision of Muhammed bin Hassan
+(supra), Parliament had exercised the judicial power of declaring law.
+[64]
+
+E
+
+F
+
+G
+
+In response, the respondent submitted:
+
+(a) that s. 37A was validly enacted by Parliament in accordance with its
+legislative powers under art. 74(1) of the FC read with items 3 and 4 in
+the Federal List;
+(b) that in Muhammad bin Hassan (supra), the Federal Court held that subss. 37(d) and (da) of the DDA should only be construed to permit the
+automatic application of a presumption with another presumption if the
+intention of Parliament was clear from the wordings of the statute;
+(c) that the purpose of enacting s. 37A was in fact to bring the DDA in line
+with the decision in Muhammad bin Hassan (supra), so as to allow the
+application of double presumptions;
+(d) that s. 37A is not mandatory in nature but gives the court a discretion
+to apply any presumption in addition to or in conjunction with any other
+presumptions; and
+
+H
+
+(e) that s. 37A does not encroach upon the judicial power of the courts.
+Separation Of Powers In The FC
+[65] The ground of challenge raised calls for a proper understanding of the
+principle of separation of powers in our FC and the respective roles of
+Parliament and the courts.
+
+I
+
+
+
+812
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+[66] It is well-established that “a constitution must be interpreted in light
+of its historical and philosophical context, as well as its fundamental
+underlying principles”. (See: Indira Gandhi Mutho v. Pengarah Jabatan Agama
+Islam Perak & Ors And Other Appeals [2018] 3 CLJ 145; [2018] 1 MLJ 545 at
+para. [29]). It is not to be interpreted in a vacuum without regard to the
+thinking in other countries sharing similar values. (See: The State v. Khoyratty
+[2006] UKPC 13 at para. [29]). The importance of the underlying values of
+a constitution was noted by the Judicial Committee of the Privy Council in
+Matadeen v. Pointu [1998] UKPC 9 with these words:
+… constitutions are not construed like commercial documents. This is
+because every utterance must be construed in its proper context, taking
+into account the historical background and the purpose for which the
+utterance was made. The context and purpose of a commercial contract
+is very different from that of a constitution. The background of a
+constitution is an attempt, at a particular moment in history, to lay down
+an enduring scheme of government in accordance with certain moral and
+political values. Interpretation must take these purposes into account.
+
+[67] It should also be duly considered that constitutions based on the
+Westminster model are founded on the underlying principle of separation of
+powers with which the drafters are undoubtedly familiar. Thus, even on an
+independent reading of the FC, unaided by any such knowledge, the
+provisions therein cannot but suggest the intention to confine the exercise of
+legislative, executive and judicial power with the respective branches of
+Government. (See: Victorian Stevedoring & General Contracting Co Pty Ltd
+v. Dignan [1932] ALR 22). The separation of powers between the three
+branches of Government is a logical inference from the arrangement of the
+FC itself, the words in which the powers are vested and the careful and
+elaborate provisions defining the repositories of the respective powers. As
+such “this cannot all be treated as meaningless and of no legal consequence”.
+(See: R v. Kirby; ex p Boilermakers’ Society of Australia [1956] ALR 163).
+[68] Hence, while the FC does not expressly delineate the separation of
+powers, the principle is taken for granted as a constitutional fundamental.
+The absence of express words in the FC prohibiting the exercise of a
+particular power by a different branch of Government does not by any means
+imply that it is permitted. Lord Diplock in Hinds v. The Queen [1977] AC
+195 articulated it well when he said this at p. 212:
+It is taken for granted that the basic principle of separation of powers will
+apply to the exercise of their respective functions by these three organs
+of government. Thus the constitution does not normally contain any
+express prohibition upon the exercise of legislative powers by the
+executive or of judicial powers by either the executive or the legislature.
+As respects the judicature, particularly if it is intended that the previously
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+813
+
+existing courts shall continue to function, the constitution itself may even
+omit any express provision conferring judicial power upon the judicature.
+Nevertheless it is well established as a rule of construction applicable to constitutional
+instruments under which this governmental structure is adopted that the absence of
+express words to that effect does not prevent the legislative, the executive and the
+judicial powers of the new state being exercisable exclusively by the legislature, by the
+executive and by the judicature respectively.
+(emphasis added)
+
+(See also: Liyanage v. The Queen [1967] 1 AC 259 at p. 287).
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+[69] The separation of powers between the Legislature, the Executive, and
+the Judiciary is a hallmark of a modern democratic State. (See: The State v.
+Khoyratty (supra) at para. [29]; DPP v. Mollison (No 2) [2003] UKPC 6 at para.
+[13]; R (Anderson) v. Secretary of State for the Home Department [2002] UKHL
+46 at para. [50]). Lord Steyn in The State v. Khoyratty (supra) at para. [12]
+succinctly said this:
+The idea of a democracy involves a number of different concepts. The first
+is that the people must decide who should govern them. Secondly, there
+is the principle that fundamental rights should be protected by an impartial
+and independent judiciary. Thirdly, in order to achieve a reconciliation
+between the inevitable tensions between these ideas, a separation of
+powers between the legislature, the executive, and the judiciary is
+necessary.
+
+[70] Thus, the separation of powers is not just a matter of administrative
+efficiency. At its core is the need for a check and balance mechanism to avoid
+the risk of abuse when power is concentrated in the same hands. (See: James
+Madison, “The Structure of the Government Must Furnish the Proper Checks and
+Balances Between the Different Departments”, The Federalist Papers No. 51
+(1788)).
+[71] Between the three branches of Government, “all the parts of it form
+a mutual check upon each other. The three parts, each part regulates and is
+regulated by the rest”. (See: Blackstone, Commentaries (Vol. 1), 1765/1979 at
+p. 154). The separation of powers provides a brake to the exercise of
+Government power; the institutions are designed “not only to co-operate but
+to conflict, as part of the pulley of checks and balances”. (See: L Thio, A
+Treatise on Singapore Constitutional Law (Singapore: Academy Publishing, 2012)
+at p. 160).
+[72] This court has, on several occasions, recognised that the principle of
+separation of powers, and the power of the ordinary courts to review the
+legality of State action, are sacrosanct and form part of the basic structure of
+the FC. (See: Semenyih Jaya Sdn Bhd v. Pentadbir Tanah Daerah Hulu Langat
+& Another Case [2017] 5 CLJ 526; [2017] 3 MLJ 561 at para. [90], Indira
+Gandhi Mutho v. Pengarah Jabatan Agama Islam Perak & Ors And Other Appeals
+[2018] 3 CLJ 145; [2018] 1 MLJ 545 at paras. [48], [90]).
+
+
+
+814
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+[73] In fact, courts can prevent Parliament from destroying the “basic
+structure” of the FC. (See: Sivarasa Rasiah (supra) at para. [20]). And while
+the FC does not specifically explicate the doctrine of basic structure, what
+the doctrine signifies is that a parliamentary enactment is open to scrutiny
+not only for clear-cut violation of the FC but also for violation of the
+doctrines or principles that constitute the constitutional foundation.
+
+A
+
+B
+
+[74] The role of the Judiciary is intrinsic to this constitutional order.
+Whether an enacted law is constitutionally valid is always for the courts to
+adjudicate and not for Parliament to decide. As rightly stated by Professor
+Sir William Wade (quoted by this court in Indira Gandhi at para. [35]):
+… it is always for the courts, in the last resort, to say what is a valid Act
+of Parliament; and that the decision of this question is not determined
+by any rule of law which can be laid down or altered by any authority
+outside the courts.
+
+Legislative Power
+[75] It is against the background of these fundamental principles that the
+appellants’ challenge falls to be considered. The appellants rely on three
+Indian authorities in support of the contention that Parliament may make
+law, but may not declare law so as to overrule a decision of the court. (See:
+S T Sadiq v. State Of Kerala [2015] 4 SCC 400, Indira Nehru Gandhi v. Shri Raj
+Narain [1975] 2 SCC 159, and Medical Council of India v. State of Kerala (Writ
+Petition (C) No. 178 & 231 of 2018)). The facts and decisions in these cases
+will be examined in turn.
+[76] In S T Sadiq v. State of Kerala (supra), the State Government issued
+notices to and acquired ten cashew factories pursuant to the Kerala Cashew
+Factories (Acquisition) Act 1974. The ten factories challenged the
+acquisition in court. The Indian Supreme Court held that the notice issued
+was not in compliance with the statutory requirements and ordered the State
+Government to hand the factories back to the respective owners. The State
+Government then enacted the Kerala Cashew Factories Acquisition
+(Amendment) Act 1995. Section 6 of the Amendment Act which declared
+that the factories specified in the Schedule shall vest in the Government with
+effect from the date stated, notwithstanding any judgment or order of court,
+and notwithstanding any other law. The Schedule contained only the ten
+cashew factories.
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+[77] The Indian Supreme Court held that s. 6 was unconstitutional in
+directly seeking to upset a final judgment of the court. Nariman J said this
+at para. [13]:
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+815
+
+It is settled law by a catena of decisions of this Court that the legislature
+cannot directly annul a judgment of a court. The legislative function
+consists in ‘making’ law [see: Article 245 of the Constitution] and not in
+‘declaring’ what the law shall be [see: Article 141 of the Constitution] ...
+It is for this reason that our Constitution permits a legislature to make laws
+retrospectively which may alter the law as it stood when a decision was arrived at.
+It is in this limited circumstance that a legislature may alter the very basis of a
+decision given by a court, and if an appeal or other proceeding be pending,
+enable the Court to apply the law retrospectively so made which would
+then change the very basis of the earlier decision so that it would no
+longer hold good. However, if such is not the case then legislation which
+trenches upon the judicial power must necessarily be declared to be
+unconstitutional.
+(emphasis added)
+
+[78] In Indira Nehru Gandhi v. Shri Raj Narain (supra), the election of the
+appellant, the then Prime Minister, had been declared void by the High
+Court on grounds of electoral malpractice. The Constitution (Thirty-ninth
+Amendment) Act 1975 was then enacted, purporting to insert art. 329A in
+the Constitution. Clause 4 of the said article provided that, among others: no
+law made by Parliament prior to the Amendment Act in respect of elections
+shall apply to a person who held the office of Prime Minister at the time of
+the election; the election of such a person shall not be void on any ground
+under those laws; notwithstanding any order of court declaring such election
+to be void, the election shall continue to be valid; and any such order and
+any finding on which such order is based shall be void and of no effect.
+[79] The Indian Supreme Court held that cl. 4 of the Amendment Act was
+invalid. Its vice was in conferring an absolute validity upon the election of
+one particular candidate and prescribing that the validity of that election
+could not be questioned before any forum or under any law.
+[80]
+
+Ray CJ explained at para. [190]:
+
+H
+
+A declaration that an order made by a court of law is void is normally
+part of the judicial function and is not a legislative function. Although
+there is in the Constitution of India no rigid separation of powers, by and
+large the spheres of judicial function and legislative function have been
+demarcated and it is not permissible for the Legislature to encroach upon
+the judicial sphere. It has accordingly been held that a Legislature while it
+is entitled to change with retrospective effect the law which formed the basis of the
+judicial decision, it is not permissible to the Legislature to declare the judgment of the
+court to be void or not binding ...
+(emphasis added)
+
+I
+
+[81] In the recent case of Medical Council of India v. State of Kerala (supra),
+the admission of about 150 students to some medical colleges during the
+academic year 2016-17 were found to be illegal by the High Court. The
+decision was upheld by the Indian Supreme Court. Subsequently, the State
+Government promulgated the Kerala Professional Colleges (Regularisation
+
+G
+
+
+
+816
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+of Admission in Medical Colleges) Ordinance 2017 to regularise the
+admissions of those students. The Ordinance provided that, notwithstanding
+any judgment, order, or any proceedings of any court, it would be lawful for
+the Government to regularise the admission of those candidates for the
+academic year 2016-17 whose admission was earlier on cancelled by the
+court.
+[82] The Indian Supreme Court held that the Legislature could not declare
+any decision of a court of law to be void or of no effect. However, it may
+remove the defects in the existing law pointed out by the court. On the facts,
+the case was not one of removing a defect in the law. The State Government
+sought to get rid of the illegalities in the admissions without changing the
+provision of the existing law.
+
+A
+
+B
+
+C
+
+[83] The Ordinance was found to be invalid, being an act of nullifying a
+judgment of the court which tantamount to violating the exclusive vesting of
+judicial powers in the Judiciary. Arun Mishra J explained at para. [33]:
+D
+
+It is crystal clear in the instant case that the State Government has
+exceeded its powers and has entrenched upon the field reserved for the
+judiciary. It could not have nullified the judgment ... The provision of any
+existing law framed by legislation has not been changed by the State
+Government by the impugned Ordinance but illegalities found in the
+admissions were sought to be got rid of. What was laid down in the
+judgment for ensuring the fair procedure which was required to be
+followed was sought to be undone, it was nothing but the wholly
+impermissible act of the State Government of sitting over the judgment
+and it could not have promulgated the Ordinance setting at naught the
+effect of the judgment.
+
+[84] Read in context, the three cases above do not stand for the proposition
+that any amendment to a law which has been interpreted by a court is an
+impermissible encroachment into judicial power. On the contrary, the cases
+clearly recognise the power of the Legislature to amend a law which formed
+the basis of the decision of the court. The effect of such an amendment is not
+to overrule the decision of the court in that case, but to alter the legal
+foundation on which the judgment is founded. The earlier decision of the
+court then becomes unenforceable for the interpretation of the newly
+amended law. But the decision itself which led to the amendment is not
+affected.
+[85] In fact, there are plethora of decisions by the Indian Supreme Court
+postulating a principle to the effect that while a Legislature does not have the
+power to render ineffective a judgment of a court, it may amend the law to
+alter the legal basis upon which the judgment was founded. (See for instance
+Janapada Sabha Chhindwara v. The Central Provinces Syndicate Ltd [1970] 1
+SCC 509 at para. [10]; State of Haryana v. Karnal Coop Farmers’ Society Ltd
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+817
+
+[1993] 2 SCC 363 at para. [37], S R Bhagwat v. State of Mysore [1995] 6 SCC
+16 at para. [18]). The same principle was succinctly elucidated by the Indian
+Supreme Court in the case of In the Matter of Cauvery Water Disputes Tribunal
+[1993] Supp 1 SCC 96 (II) at para. [76]):
+The principle which emerges from these authorities is that the legislature
+can change the basis on which a decision is given by the Court and thus
+change the law in general, which will affect a class of persons and events
+at large. It cannot, however, set aside an individual decision inter parties
+and affect their rights and liabilities alone. Such an act on the part of the
+legislature amounts to exercising the judicial power of the State and to
+functioning as an appellate court or tribunal.
+
+[86] The distinction between amending a law to remove its defects and
+overruling a decision of the court was explained in Cheviti Venkanna Yadav
+v. State of Telangana [2017] 1 SCC 283:
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+This plenary power to bring the statute in conformity with the legislative
+intent and correct the flaw pointed out by the court can have a curative
+and neutralising effect. When such a correction is made, the purpose behind the
+same is not to overrule the decision of the court or encroach upon the judicial turf,
+but simply enact a fresh law with retrospective effect to alter the foundation and
+meaning of the legislation and to remove the base on which the judgment is founded.
+This does not amount to statutory overruling by the legislature. In this manner,
+the earlier decision of the court becomes non-existent and unenforceable
+for interpretation of the new legislation.
+(emphasis added)
+
+[87] On a careful reading of the three Indian authorities relied upon by
+learned counsel for the appellants, we are of the view that those cases do not
+render any assistance to the appellants’ broad proposition. The common
+striking feature of those cases cited is that the impugned laws had the direct
+effect of overruling the outcome of the respective particular decisions by the
+courts. Hence, these Indian cases are readily distinguishable from the facts
+of the present appeals.
+[88] In fact, as indicated earlier on s. 37A does not purport to overrule the
+decision of the Federal Court in Muhammed bin Hassan (supra). The finality
+of the decision in that case in respect of the rights and liabilities of the parties
+is unaffected. The effect of inserting s. 37A is to alter generally the law upon
+which that decision was based. As such premised on the principles of law
+distilled from the other cases which differed for the three cases cited by
+learned counsel for the appellants, such an amendment is a permissible exercise
+of legislative power and does not encroach into the realm of judicial power.
+
+
+
+818
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+[89] Thus, we agree with the learned Deputy Public Prosecutor’s
+submission for the respondent, that in inserting s. 37A, Parliament was not
+overruling the decision in Muhammed bin Hassan (supra) but only complying
+with the opinion of the Federal Court therein which stated that presumption
+upon presumption could only be permitted if, ‘upon the wordings of the two
+subsections, such an intention of the Parliament is clear’.
+[90] With respect, the broad proposition contended by learned counsel for
+the appellants would have the effect of insulating a law from any change by
+Parliament once it has been interpreted by the court. Taken to its logical end,
+in effect, the appellants’ argument would mean Parliament is prohibited not
+only from correcting defects in the law pointed out by the court, but from
+amending the law for the future once it has been applied by the court. Such
+a far-reaching impact would undoubtedly constitute a significant fetter on the
+legislative power of Parliament not intended by the framers of the FC. It
+would upset the delicate check and balance mechanism integral to a
+constitutional system based on the separation of powers.
+[91] As the bulwark of the FC and the rule of law, it is the duty of the
+courts to protect the FC from being undermined by the whittling away of the
+principles upon which it is based. The courts should jealously ensure that the
+powers of the Legislature and Executive are kept within their intended
+limits. (See: Indira Gandhi Mutho v. Pengarah Jabatan Agama Islam Perak & Ors
+And Other Appeals [2018] 3 CLJ 145; [2018] 1 MLJ 545 at paras. [33]-[34];
+Semenyih Jaya Sdn Bhd v. Pentadbir Tanah Daerah Hulu Langat & Another Case
+[2017] 5 CLJ 526; [2017] 3 MLJ 561 at para. [91]; Pengarah Tanah dan
+Galian, Wilayah Persekutuan v. Sri Lempah Enterprise Sdn Bhd [1978] 1 LNS
+143; [1979] 1 MLJ 135 at p. 148).
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+[92] Indeed, barring questions on constitutionality, the role of the courts is
+generally to apply and interpret the law as laid down by Parliament. It is not
+for the courts to refuse to apply a new law solely on the ground that a court
+had previously expressed a particular view on the unamended version of the law.
+[93] For the reasons above, we dismiss the first ground of challenge raised
+by the appellants.
+
+G
+
+Challenge Based On Articles 5 And 8
+The Submissions Of Parties
+[94] The second ground of challenge raised by the appellants is based on
+arts. 5 and 8 of the FC. Learned counsel for the appellants submitted that:
+
+H
+
+(a) article 5(1) includes the right to a fair trial, which encompasses both
+procedural and substantive fairness;
+(b) for all intents and purposes, s. 37A of the DDA has the effect of
+reversing the burden onto an accused to prove his or her innocence;
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+819
+
+(c) where double presumptions are applied, it has been held in Muhammed
+bin Hassan (supra) that the burden on the appellants to rebut both
+presumptions on the balance of probabilities is oppressive, unduly
+harsh, and unfair;
+(d) section 37A offends the requirement of fairness housed under arts. 5 and
+8 of the FC;
+(e) the right in art. 5(1) is absolute and cannot be derogated;
+
+C
+
+(f) the doctrine of proportionality does not form part of the common law
+of England. It arose from the jurisprudence of the European Court of
+Human Rights; and
+(g) the Federal Court in PP v. Gan Boon Aun [2017] 4 CLJ 41; [2017] 3 MLJ
+12 had erred in holding that the right to a fair trial and the presumption
+of innocence under art. 5 may be qualified by reference to the principle
+of proportionality.
+
+D
+
+[95] In response, the learned Deputy Public Prosecutor for the respondent
+submitted that:
+(a) the right to a fair trial is implied in art. 5(1) of the FC;
+
+E
+
+F
+
+G
+
+(b) there are exceptions to the general rule that the accused bears no onus
+of proof, for there are limits to what the prosecution can reasonably be
+expected to prove in certain situations;
+(c) there is no prohibition on presumptions in principle, provided such
+presumptions satisfy the test of proportionality. (See: Gan Boon Aun
+(supra) and Ong Ah Chuan v. Public Prosecutor [1980] 1 LNS 181; [1981]
+1 MLJ 64);
+(d) even where double presumptions are invoked under s. 37A of the DDA,
+pursuant to s. 182A(1) of the Criminal Procedure Code the duty remains
+on the prosecution to prove its case beyond a reasonable doubt based on
+all adduced and admissible evidence;
+(e) the imposition of presumptions rebuttable by an accused on a balance
+of probabilities strikes a balance between the public interest in curbing
+crime and the protection of fundamental rights; and
+
+H
+
+I
+
+(f) section 37A of the DDA, being of general application to all persons
+under like circumstances, does not offend the right to equality under
+art. 8 of the FC.
+
+
+
+820
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+Article 5: ‘… In Accordance With Law’
+
+A
+
+[96] We begin by acknowledging that in interpreting any constitutional
+provision such as arts. 5 and 8 of the FC, certain principles must be borne
+in mind.
+(a) Firstly, it is trite that a constitution is sui generis, governed by
+interpretive principles of its own.
+(b) Secondly, in the forefront of these interpretive principles is the principle
+that its constitutional provisions should be interpreted generously and
+liberally, not rigidly or pedantically. (See: Dato’ Menteri Othman Baginda
+& Anor v. Dato’ Ombi Syed Alwi Syed Idrus [1984] 1 CLJ 28; [1984] 1 CLJ
+(Rep) 98; [1981] 1 MLJ 29).
+(c) Thirdly, it is the duty of the courts to adopt a prismatic approach when
+interpreting the fundamental rights guaranteed under Part II of the FC,
+in order to reveal the spectrum of constituent rights submerged in each
+article. (See: Lee Kwan Woh v. PP [2009] 5 CLJ 631; [2009] 5 MLJ 301
+at para. [8]).
+[97]
+
+B
+
+C
+
+D
+
+Article 5(1) of the FC reads:
+
+No person shall be deprived of his life or personal liberty save in
+accordance with law.
+
+[98] In our view, art. 5(1) is the foundational fundamental right upon
+which other fundamental rights enshrined in the FC draw their support.
+Depriving a person of his right under art. 5(1), the consequence is obvious
+in that his other rights under the FC would be illusory or unnecessarily
+restrained. In fact, deprivation of personal liberty impacts on every other
+aspect of human freedom and dignity. (See: Maneka Gandhi v. Union of India
+AIR 1978 SC 59). But at the same time art. 5(1) is not all-encompassing and
+each right protected in Part II has its own perimeters. Hence, the provisions
+of the FC should be read harmoniously. Indeed the fundamental liberties
+provisions enshrined in Part II of the FC are parts of a majestic,
+interconnected whole and not each as lonely outposts.
+
+E
+
+F
+
+G
+
+[99] The importance of the right to life under art. 5 cannot be overemphasised. In relation to the rights to life and dignity, the South African
+Constitutional Court in State v. Makwanyane [1995] 1 LRC 269 at para. [84]
+states:
+
+H
+
+Together they are the source of all other rights. Other rights may be
+limited, and may even be withdrawn and then granted again, but their
+ultimate limit is to be found in the preservation of the twin rights of life
+and dignity. These twin rights are the essential content of all rights under
+the Constitution. Take them away, and all other rights cease.
+
+I
+
+
+
+[2019] 5 CLJ
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+821
+
+A
+
+[100] Since the right to life is “the most fundamental of human rights”, the
+basis of any State action which may put this right at risk “must surely call
+for the most anxious scrutiny” (per Lord Bridge in Bugdaycay v. Secretary of
+State for the Home Department [1987] AC 514 at p. 531). The courts’ role is
+given added weight where the right to life is at stake.
+
+B
+
+[101] “Law”, as defined in art. 160(2) of the Federal Constitution read with
+s. 66 of the Interpretation Acts 1948 and 1967, includes the common law of
+England. The concept of rule of law forms part of the common law of
+England. The “law” in art. 5(1) and in other fundamental liberties provisions
+in the FC must therefore be in tandem with the concept of rule of law and
+NOT rule by law. (See: Lee Kwan Woh (supra) at para. [16]; Sivarasa Rasiah
+v. Badan Peguam Malaysia & Anor [2010] 3 CLJ 507; [2010] 2 MLJ 333 at
+para. [17]). (emphasis added).
+
+C
+
+E
+
+[102] It has been remarked that the phrase ‘rule of law’ has become
+meaningless thanks to ideological abuse and general over-use.
+(See: H Barnett, Constitutional and Administrative Law, 2nd edn. (London:
+Cavendish Publishing, 1998) at p. 90). Different models of the rule of law
+have been adopted in different jurisdictions. (See: V V Ramraj, “Four Models
+of Due Process” in OUP and New York University School of Law 2004,
+I.CON Vol. 2, No. 3 at 492-524). It is perhaps opportune and necessary for
+us to outline what is generally meant by the rule of law.
+
+F
+
+[103] A central tenet of the rule of law is the equal subjection of all persons
+to the ordinary law. (See: A V Dicey, An Introduction to the Study of the Law
+of the Constitution, 10th edn. (London: Macmillan, 1959) at p. 202). People
+should be ruled by the law and be able to be guided by it. Thus, the law must
+be capable of being obeyed.
+
+D
+
+[104] “Law” must therefore satisfy certain basic requirements, namely:
+(a) it should be clear;
+G
+
+(b) sufficiently stable;
+(c) generally prospective;
+(d) of general application;
+(e) administered by an independent Judiciary; and
+
+H
+
+(f) the principles of natural justice and the right to a fair trial are observed.
+[105] These requirements of “law” in a system based on the rule of law are
+by no means exhaustive. While the precise procedural and substantive
+content of the rule of law remains the subject of much academic debate, there
+is a broad acceptance of the principles above as the minimum requirements
+
+I
+
+
+
+822
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+of the rule of law. (See: J Raz, The Rule of Law and its Virtue (1977) 93 LQR
+195; L Fuller, The Morality of Law (New Haven: Yale University Press,
+1964); T Bingham, The Rule of Law (London: Penguin Books, 2011)).
+[106] It is therefore clear that the “law” in the proviso “save in accordance
+with law” does not mean just any law validly enacted by Parliament. It does
+not authorise Parliament to enact any legislation under art. 5(1) contrary to
+the rule of law. While the phrase “in accordance with law” requires specific
+and explicit law that provides for the deprivation of life or personal liberty
+(see: In Re Mohamad Ezam Mohd Nor [2002] 5 CLJ 156; [2001] 3 MLJ 372
+at p. 378), nevertheless such law must also be one that is fair and just and
+not merely any enacted law however arbitrary, unfair, or unjust it may be.
+Otherwise that would be rule by law.
+[107] The “law” thereof also refers to a system of law that incorporates the
+fundamental rules of natural justice that formed part and parcel of the
+common law of England. And to be relevant in this country, such common
+law must be in operation at the commencement of the FC. Further, any
+system of law worthy of being called just must be founded on fundamental
+values. “The law must be related to the … fundamental assessments of
+human values and the purposes of society” (per Viscount Simonds, Shaw
+v. DPP [1962] AC 220 at p. 268). As persuasively argued by Lord Bingham,
+the rule of law requires that fundamental rights be protected, (see: Bingham,
+The Rule of Law (London: Penguin Books, 2011 at pp. 66-68). It is also taken
+for granted that the “law” alluded to would not flout those fundamental rules.
+As Lord Diplock stated in no weak terms, to hold otherwise would render
+the purported entrenchment of fundamental liberties provisions in the FC
+“little better than a mockery”. (See: Ong Ah Chuan (supra) at p. 670).
+[108] We pause at this juncture to note that s. 37A of the DDA begins with
+the phrase “notwithstanding any written law or rule of law”. For the
+avoidance of doubt, the words “rule of law” in s. 37A refer to implied
+ancillary rules, such as the rules of procedure or evidence. (See: FAR
+Bennion, Statutory Interpretation: A Code, 3rd ed. (London: Butterworths,
+1997) at p. 805). It does not purport to exclude the rule of law as a legal
+concept. If it were to be interpreted otherwise then that would be a rule by
+law and could not be within the ambit of the term ‘law’ in art. 5(1) of the
+FC and hence unconstitutional. It must also be emphasised here that the
+principle of the rule of law, being a constitutional fundamental, cannot be
+abrogated by mere statutory words.
+[109] Accordingly, art. 5(1) which guarantees that a person shall not be
+deprived of his life or personal liberty (read in the widest sense) save in
+accordance with law envisages a State action that is fair both in point of
+procedure and substance. In the context of a criminal case, the article
+enshrines an accused’s constitutional right to receive a fair trial by an
+impartial tribunal and to have a just decision on the facts. (See: Lee Kwan
+Woh (supra) at para. [18]).
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+823
+
+[110] It has been declared as well by this court that the fundamental
+principle of presumption of innocence, long recognised at common law, is
+included in the phrase “in accordance with law”. (See: Gan Boon Aun (supra)
+at paras. [14]-[15]). Indeed, the presumption of innocence is a “hallowed
+principle lying at the very heart of criminal law”, referable and integral to
+the right to life, liberty, and security. (See: R v. Oakes [1986] 1 SCR 103 at
+para. [29]). The famous statement of Viscount Sankey LC in Woolmington
+v. Director of Public Prosecutions [1935] AC 462 at p. 481 is regularly quoted
+as a starting point in affirming the principle:
+Throughout the web of the English Criminal Law one golden thread is
+always to be seen, that it is the duty of the prosecution to prove the
+prisoner’s guilt subject to what I have already said as to the defence of
+insanity and subject also to any statutory exception ... No matter what
+the charge or where the trial, the principle that the prosecution must prove
+the guilt of the prisoner is part of the common law of England and no
+attempt to whittle it down can be entertained. (emphasis added)
+
+[111] It is pertinent to note that Viscount Sankey’s proviso of “any statutory
+exception” was pronounced in the context of a legal system based on
+Parliamentary sovereignty. Whereas in our jurisdiction, a provision of law,
+although it may be in the form of a proviso, is not rendered constitutionally
+valid if it “would subvert the very purpose of the entrenchment of the
+presumption of innocence” in the FC. (See: R v. Oakes (supra) at para. [39]).
+As such, in determining its constitutionality the substantive effect of a
+statutory exception must be considered.
+[112] Yet at the same time, it must also be taken into account that despite
+the fundamental importance of the presumption of innocence, there are
+situations where it is clearly sensible and reasonable to allow certain
+exceptions. For instance, a shift on onus of proof to the defence for certain
+elements of an offence where such elements may only known to the accused.
+But it is not to say that in such instance the prosecution is relieved of its
+burden to establish the guilt of an accused beyond reasonable doubt. In other
+words, it is widely recognised that the presumption of innocence is subject
+to implied limitations. (See: Attorney-General of Hong Kong v. Lee Kwong-Kut
+[1993] AC 951 at p. 968). A degree of flexibility is therefore required to
+strike a balance between the public interest and the right of an accused
+person.
+[113] In State v. Coetzee [1997] 2 LRC 593 the South African Constitutional
+Court speaking through Sachs J provided clear justification on the need to do
+the balancing enquiry between safeguarding the constitutional rights of an
+individual from being ‘convicted and subjected to ignominy’ and heavy
+sentence and ‘the maintenance of public confidence in the enduring integrity
+and security of the legal system’. Reference to the prevalence and severity
+
+
+
+824
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+of a certain crime therefore does not add anything new or special to the
+balancing exercise. The perniciousness of the offence is one of the givens,
+against which the presumption of innocence is pitted from the beginning, not
+a new element to be put into scales as part of the justificatory balancing
+exercise. If this were not so, the ubiquity and ugliness argument could be
+used in relation to murder, rape, car-jerking, housebreaking, drug-smuggling,
+corruption … the list is unfortunately almost endless, and nothing would be
+left of the presumption of innocence, save, perhaps, for its relics status as a
+doughty defender of rights in the most trivial of cases’.
+[114] Hence, this is where the doctrine of proportionality under art. 8(1)
+becomes engaged.
+[115] But before we deal with art. 8(1) in relation to the proportionality test,
+it is perhaps apposite to note here that in Muhammed bin Hassan (supra) this
+court held that to read the presumption of possession in sub-s. 37(d) “into
+ss. 37(da) so as to invoke against an accused a further presumption of
+trafficking (ie presumption upon presumption) would not only be ascribing
+to the phrase ‘found in possession’ in s. 37(da) a meaning wider than it
+ordinarily bears but would also be against the established principles of
+construction of penal statutes and unduly harsh and oppressive against the
+accused. (emphasis added).
+[116] Meanwhile, when enacting s. 37A, Parliament did not find it
+necessary to amend the wordings of sub-s. 37(da) in particular the word
+‘found’ therein. As such, the view given by this court on the word ‘found’
+in Muhammed bin Hassan (supra) is still valid.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+Article 8 And The Doctrine Of Proportionality
+
+F
+
+[117] When interpreting other provisions in the FC, the courts must do so
+in light of the humanising and all-pervading provision of art. 8(1). (See:
+Dr Mohd Nasir Hashim v. Menteri Dalam Negeri Malaysia [2007] 1 CLJ 19;
+[2006] 6 MLJ 213 at para. [8], approved in Badan Peguam Malaysia
+v. Kerajaan Malaysia [2008] 1 CLJ 521; [2008] 2 MLJ 285 at para. [86]; Lee
+Kwan Woh (supra) at para. [12]). Article 8(1) guarantees fairness in all forms
+of State action. (See: Tan Tek Seng v. Suruhanjaya Perkhidmatan Pendidikan &
+Anor [1996] 2 CLJ 771; [1996] 1 MLJ 261). The essence of the article was
+aptly summarised in Lee Kwan Woh (supra) at para. [12]:
+
+G
+
+The effect of art 8(1) is to ensure that legislative, administrative and
+judicial action is objectively fair. It also houses within it the doctrine of
+proportionality which is the test to be used when determining whether
+any form of state action (executive, legislative or judicial) is arbitrary or
+excessive when it is asserted that a fundamental right is alleged to have
+been infringed.
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+[118] In other words, art. 8(1) imports the principle of substantive
+proportionality. “Not only must the legislative or executive response to a
+state of affairs be objectively fair, it must also be proportionate to the object
+sought to be achieved”. (See: Dr Mohd Nasir bin Hashim v. Menteri Dalam
+Negeri Malaysia (supra) at para. [8]. The doctrine of proportionality housed in
+art. 8(1) was lucidly articulated in Sivarasa Rasiah (supra) at para. [30]:
+… all forms of state action – whether legislative or executive – that
+infringe a fundamental right must (a) have an objective that is sufficiently
+important to justify limiting the right in question; (b) the measures
+designed by the relevant state action to meet its objective must have a
+rational nexus with that objective; and (c) the means used by the relevant
+state action to infringe the right asserted must be proportionate to the
+object it seeks to achieve.
+
+[119] Accordingly, when any State action is challenged as violating a
+fundamental right, such as the right to life or personal liberty under art. 5(1),
+art. 8(1) will at once be engaged such that the action must meet the test of
+proportionality. This is the point at which arts. 5(1) and 8(1) interact.
+(See: Sivarasa Rasiah (supra) at paras. [17]-[19]).
+[120] This approach is consistent with that adopted in other Commonwealth
+jurisdictions. Proportionality is an essential requirement of any legitimate
+limitation of an entrenched right. Proportionality calls for the balancing of
+different interests. In the balancing process, the relevant considerations
+include the nature of the right, the purpose for which the right is limited, the
+extent and efficacy of the limitation, and whether the desired end could
+reasonably be achieved through other means less damaging to the right in
+question. (See: State v. Makwanyane [1995] 1 LRC 269 at p. 316).
+[121] The United Kingdom position based on the leading cases of
+R v. Lambert [2001] UKHL 37, R v. Johnstone [2003] UKHL 28, and Sheldrake
+v. Director of Public Prosecutions; Attorney General’s Reference (No 4 of 2002)
+[2005] 1 All ER 237 was helpfully distilled in Gan Boon Aun (supra) at
+para. [46] as thus:
+(a) presumptions of fact or of law operate in every legal system;
+(b) it is open to states to define the constituent elements of an offence,
+even to exclude the requirement of mens rea;
+
+H
+
+(c) when a section is silent as to mens rea, there is a presumption that
+mens rea is an essential ingredient: The more serious the crime, the
+less readily will that presumption be displaced;
+(d) the overriding concern is that a trial should be fair: The presumption
+of innocence is a fundamental right directed to that end;
+
+I
+
+825
+
+
+
+826
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+(e) there is no prohibition against presumptions in principle, but the principle of
+proportionality must be observed. A balance must be struck between the general
+interest of the community and the protection of fundamental rights. The
+substance and effect of presumptions adverse to an accused must not be greater
+than is necessary and must be reasonable;
+
+A
+
+(f) the test to be applied is whether the modification or limitation
+pursues a legitimate aim and whether it satisfies the principle of
+proportionality;
+
+B
+
+(g) reasonable limits take into account the importance of what is at
+stake and maintain the rights of the defence;
+(h) the mischief at which the Act is aimed and the ease or difficulty that
+the respective parties would encounter in discharging the burden are
+important factors;
+
+C
+
+(i) it is justified to make it for an accused to prove matters which the
+prosecution would be highly unlikely to be able to know and which
+it might be difficult, if not impossible for them to rebut;
+
+D
+
+(j) relevant to reasonableness or proportionality will be the opportunity
+given to a defendant to rebut the presumption, maintenance of the
+rights of the defence, flexibility in application of the presumption,
+retention by the court of a power to assess the evidence, the
+importance of what is at stake and the difficulty which a prosecutor
+may face in the absence of a presumption;
+
+E
+
+(k) the test depends upon the circumstances of the individual case. The
+justifiability of any infringement of the presumption of innocence
+cannot be resolved by any rule of thumb, but on examination of all
+the facts and circumstances of the particular provision as applied in
+the particular case;
+
+F
+
+(l) the task of the court is never to decide whether a reverse burden
+should be imposed on a defendant, but always to assess whether
+a burden enacted by Parliament unjustifiably infringes the
+presumption of innocence; and
+(m) security concerns do not absolve member states from their duty to
+observe basic standards of fairness. (emphasis added)
+
+[122] The doctrine of proportionality was likewise implicit in the Hong
+Kong approach to statutory presumptions in criminal law. Referring to
+statutory exceptions to the presumption of innocence, the Privy Council
+explained in Lee Kwong-Kut (supra) at pp. 969-970:
+Some exceptions will be justifiable, others will not. Whether they are
+justifiable will in the end depend upon whether it remains primarily the
+responsibility of the prosecution to prove the guilt of an accused to the
+required standard and whether the exception is reasonably imposed,
+notwithstanding the importance of maintaining the principle which article
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+827
+
+11(1) enshrines. The less significant the departure from the normal principle, the
+simpler it will be to justify an exception. If the prosecution retains responsibility for
+proving the essential ingredients of the offence, the less likely it is that an exception
+will be regarded as unacceptable. In deciding what are the essential ingredients, the
+language of the relevant statutory provision will be important. However what will
+be decisive will be the substance and reality of the language creating the
+offence rather than its form. If the exception requires certain matters to
+be presumed until the contrary is shown, then it will be difficult to justify
+that presumption unless, as was pointed out by the United States
+Supreme Court in Leary v. United States [1969] 23 L. Ed. 2d 57, 82, ‘it can
+at least be said with substantial assurance that the presumed fact is more
+likely than not to flow from the proved fact on which it is made to
+depend.’ (emphasis added)
+
+[123] Useful guidance can also be gleaned from the case of R v. Oakes (supra).
+The Canadian Supreme Court held that, in general, “a provision which
+requires an accused to disprove on a balance of probabilities the existence
+of a presumed fact, which is an important element of the offence in question,
+violates the presumption of innocence”, at para. [57]. The fact that the
+standard required to disprove the presumed fact is only on the balance of
+probabilities does not render the reverse onus clause constitutional, at
+para. [58].
+[124] Be that as it may, a provision which violates the presumption of
+innocence may still be upheld if it is a reasonable limit, prescribed by law
+and demonstrably justified in a free and democratic society. In this exercise,
+the Canadian Supreme Court in R v. Oakes (supra) elaborated on the two
+central criteria that must be satisfied, at paras. [69]-[70]:
+(i) The objective must be of sufficient importance to warrant overriding a
+constitutionally protected right. The objective must relate to pressing
+and substantial concerns;
+(ii) The means chosen to achieve the objective must be reasonable and
+demonstrably justified, in that:
+
+G
+
+(a) the measure must be rationally connected to the objective;
+(b) the right in question must be impaired as little as possible; and
+(c) the effect of the measure must be proportionate to the objective.
+
+H
+
+I
+
+[125] It is clear therefore from the local and foreign authorities above that
+the presumption of innocence is by no means absolute. However, as
+discussed above, derogations or limits to the prosecution’s duty to prove an
+accused’s guilt beyond a reasonable doubt are carefully circumscribed by
+reference to some form of proportionality test. We consider that the
+
+
+
+828
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+application of the proportionality test in this context strikes the appropriate
+balance between the competing interests of an accused and the State. (See:
+Gan Boon Aun (supra)).
+[126] It is notable that the doctrine of proportionality and the all-pervading
+nature of art. 8 form part of the common law of Malaysia, developed by our
+courts based on a prismatic interpretation of the FC without recourse to case
+law relating to the European Convention of Human Rights. As such, we are
+therefore of the view that the appellants’ assertion that art. 5 confers an
+absolute right upon an accused to be presumed innocent until proven guilty
+and not subject to the doctrine of proportionality while disregarding art. 8,
+is unsupported by authority and without basis.
+
+A
+
+B
+
+C
+
+[127] To summarise, the following principles may be discerned from the
+above authorities:
+(i) Article 5(1) embodies the presumption of innocence, which places upon
+the prosecution a duty to prove the guilt of the accused beyond a
+reasonable doubt.
+
+D
+
+(ii) The presumption of innocence is not absolute. A balance must be struck
+between the public interest and the right of an accused – art. 8(1).
+(iii) A statutory presumption in a criminal law, which places upon an
+accused the burden of disproving a presumed fact, must satisfy the test
+of proportionality under art. 8(1). The substance and effect of the
+presumption must be reasonable and not greater than necessary.
+
+E
+
+(iv) The test of proportionality comprises three stages:
+(a) there must be a sufficiently important objective to justify in limiting
+the right in question;
+
+F
+
+(b) the measure designed must have a rational nexus with the objective;
+and
+(c) the measure used which infringes the right asserted must be
+proportionate to the objective.
+
+G
+
+(v) Factors relevant to the proportionality assessment include, but are not
+limited to, the following:
+(a) whether the presumption relates to an essential or important
+ingredient of the offence;
+
+H
+
+(b) opportunity for rebuttal and the standard required to disprove the
+presumption; and
+(c) the difficulty for the prosecution to prove the presumed fact.
+(vi) A significant departure from the presumption of innocence would call
+for a more onerous justification.
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+829
+
+The Constitutionality Of s. 37A
+[128] Section 37A was legislated to permit the invocation of the two
+presumptions yet there was no amendment to the wording in sub-s. 37(da).
+As we have earlier noted, the Federal Court had held in Muhammed Hassan
+(supra) that based on the clear and unequivocal meaning of the statutory
+wording, “deemed possession” under sub-s. 37(d) cannot be equated to
+“found possession” so as to invoke the presumption of trafficking under
+sub-s. 37(da). To do so would be contrary to the ordinary meaning of the
+statutory language. As such, despite the insertion of s. 37A, a plain reading
+of the wording in sub-ss. (d) and (da) does not permit the concurrent
+application of both the said presumptions in the prosecution of a drug
+trafficking offence.
+[129] Anyway, even if Parliament had amended the wording in sub-s. (da)
+in accordance with the judgment in Muhammed Hassan (supra), the
+fundamental question of constitutionality remains. It is for the court to
+determine whether the substance and effect of the legislation in permitting the
+use of double presumptions is in line with the fundamental liberties
+provisions of the FC. It is to this central issue that we now turn.
+[130] We now consider the presumption of innocence and the impact of the
+said section in relation to the relevant principles on proportionality test. But
+before doing so we keep in the forefront of our minds that where the
+constitutionality of a provision is challenged, there is a presumption in
+favour of constitutionality and the burden rests on the party seeking to
+establish that the provision is unconstitutional. (See: Public Prosecutor v. Datuk
+Harun Haji Idris & Ors [1976] 1 LNS 180; [1976] 2 MLJ 116, Public Prosecutor
+v. Su Liang Yu [1976] 1 LNS 113; [1976] 2 MLJ 128, Public Prosecutor v. Pung
+Chen Choon [1994] 1 LNS 208; [1994] 1 MLJ 566, Ooi Kean Thong & Anor
+v. PP [2006] 2 CLJ 701; [2006] 3 MLJ 389, Gan Boon Aun (supra)).
+[131] Meanwhile for clarity, the appellants’ challenge to the
+constitutionality of s. 37A is only in relation to the application of a
+presumption in addition to or in conjunction with another presumption. The
+constitutionality of a single presumption under sub-ss. 37(d) or (da) is not
+challenged in the present appeals. Hence, we are not addressing it as an issue
+before us.
+
+H
+
+Nature Of Presumptions
+
+I
+
+[132] To determine the effect of s. 37A, it is helpful first to consider
+generally the nature of presumptions. A true presumption takes effect when,
+upon the proof of one fact (the basic fact), the existence of another fact
+(presumed fact) is assumed in the absence of further evidence.
+(See: C Tapper, Cross & Wilkins Outline of the Law of Evidence, 6th edn.
+
+
+
+830
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+(London: Butterworths, 1986) at p. 39). “The usual purpose of a presumption
+is to ease the task of a party who can adduce some evidence which is relevant
+to, but not necessarily decisive of, an issue” (ibid).
+[133] Presumptions can be categorised into presumptions of law or
+presumptions of fact. The former involves actual legal rules, whereas the
+latter are no more than frequently recurring examples of circumstantial
+evidence. (See: R v. Oakes (supra) at para. [20]). It is often true that
+“presumptions of law are nothing else than natural inferences or
+presumptions of fact which the law invests with an artificial or preternatural
+weight”. (See: C Tapper, Cross & Tapper on Evidence, 12th edn. (Oxford:
+OUP, 2013) at p. 135).
+[134] Such is the case with the two presumptions in question in these
+appeals. For the presumption under sub-s. 37(d), a person’s custody or control
+of a thing containing a dangerous drug, proved as a fact, (the basic fact) is relevant
+to, but not decisive of, his possession and knowledge of the dangerous drug
+which need not be proved but merely deemed (the presumed fact).
+[135] As for the presumption under sub-s. 37(da), a person “found” (which
+denotes the need first for an affirmative finding based on the evidence
+adduced) to be in possession of drugs exceeding a stipulated weight has a
+logical bearing on the inference of trafficking.
+[136] The presumptions are largely a matter of logical inference. Indeed,
+even without the statutory presumption under sub-s. 37(da), a person caught
+in the act of conveying a quantity of drugs much larger than is likely to be
+needed for his own consumption would give rise to an irresistible inference
+that he was transporting them for the purpose of trafficking, in the absence
+of any plausible alternative explanation. (See: Ong Ah Chuan (supra) at
+p. 667; s. 2 of the DDA).
+[137] The presumptions in s. 37 are rebuttable. The phrase “until the
+contrary is proved imposes a legal burden on an accused to prove on a
+balance of probabilities that he was not in possession and had no knowledge
+of the drug (sub-s. 37(d)), or that he was not in possession up to the statutory
+limit in weight of the drug for the purpose of trafficking (sub-s. 37(da)) (See:
+R v. Oakes (supra) at para. [24]). The weight of evidence required to rebut the
+presumption would depend on the circumstances of each case. For instance,
+as a matter of common sense, the larger the quantity of the drugs involved
+the stronger the inference that it was intended for the purpose of trafficking
+and thus the more convincing the evidence needed to rebut it. (See: Ong Ah
+Chuan (supra) at 668).
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+831
+
+A
+
+[138] The word “shall” in both subsections indicates that each of the
+presumptions is mandatory in nature. However, the word “may” in s. 37A
+suggests that the cumulative use of double or multiple presumptions is
+discretionary. But, just because it is discretionary, it does not ipso facto escape
+a constitutionality scrutiny.
+
+B
+
+[139] The effect of s. 37A on the operation of the two presumptions is
+therefore as follows:
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+(a) once the prosecution proves that an accused had the custody and control
+of a thing containing a dangerous drug, the accused is presumed to have
+possession and knowledge of the drug under sub-s. 37(d). The ‘deemed
+possession’, presumed by virtue of sub-s. 37(d), is then used to invoke
+a further presumption of trafficking under sub-s. 37(da), if the quantity
+of the drug involved exceeds the statutory weight limit.
+(b) section 37A thus permits a “presumption upon a presumption” (as aptly
+described in Muhammad bin Hassan (supra) at p. 291).
+(c) as such, for a charge of drug trafficking, all that is required of the
+prosecution to establish a prima facie case is to prove custody and control
+on the part of the accused and the weight of the drug. The legal burden
+then shifts to the accused to disprove the presumptions of possession and
+knowledge (sub-s. 37(d)) and trafficking (sub-s. 37(da)) on a balance of
+probabilities.
+[140] As to the legal burden upon an accused to rebut a presumption and the
+risk attached to it, the case of R v. Whyte [1988] 51 DLR (4th) 481 at p. 493
+(in a passage adopted by Lord Steyn in R v. Lambert (supra) at para. [37]) is
+instructive. Dickson CJ said this:
+The real concern is not whether the accused must disprove an element
+or prove an excuse, but that an accused may be convicted while a
+reasonable doubt exists. When that possibility exists, there is a breach of
+the presumption of innocence. The exact characterisation of a factor as
+an essential element, a collateral factor, an excuse, or a defence should
+not affect the analysis of the presumption of innocence. It is the final
+effect of a provision on the verdict that is decisive. If an accused is
+required to prove some fact on the balance of probabilities to avoid
+conviction, the provision violates the presumption of innocence because
+it permits a conviction in spite of a reasonable doubt in the mind of the
+trier of fact as to the guilt of the accused.
+
+[141] Hence, for the above reasons, we are of the view that s. 37A prima facie
+violates the presumption of innocence since it permits an accused to be
+convicted while a reasonable doubt may exist.
+I
+
+
+
+832
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+[142] Next to consider is whether the incursion into the presumption of
+innocence under art. 5(1) satisfies the requirement of proportionality housed
+under art. 8(1).
+
+A
+
+Proportionality And Section 37A
+[143] The first stage in the proportionality assessment is to establish whether
+there is a sufficiently important objective to justify the infringement of the
+right, in this case the right to presumption of innocence. The legislative
+objective in inserting s. 37A is to overcome the problem of the prosecution
+failing to prove the element of trafficking as defined in the DDA. Drug
+trafficking has been a major problem in the country. It needs to be curbed.
+One way is to secure convictions of drug traffickers which can be considered
+a sufficiently important objective and one which is substantial and pressing.
+[144] The second stage of the inquiry is to consider whether the means
+designed by Parliament has a rational nexus with the objective it is intended
+to meet. The effect of s. 37A, as elaborated above, is to shift the burden of
+proof to an accused on the main elements of possession, knowledge, and
+trafficking, provided that the prosecution establishes first the relevant basic
+facts. It is at least arguable that the resulting ease of securing convictions is
+rationally connected to the aim of curbing the vice of drug trafficking.
+Bearing in mind that the validity of individual presumptions is not in issue
+in the present appeals, it is not necessary for us to analyse the rational
+connection between custody and control on one hand and possession and
+knowledge on another, or the connection between possession and trafficking.
+(See: R v. Oakes (supra) at para. [78]).
+[145] The third stage of the inquiry requires an assessment of
+proportionality. It must be emphasised any restriction of fundamental rights
+does not only require a legitimate objective, but must be proportionate to the
+importance of the right at stake.
+[146] The presumptions under sub-ss. 37(d) and (da) relate to the three
+central and essential elements of the offence of drug trafficking, namely,
+possession of a drug, knowledge of the drug, and trafficking. We have already
+discussed this point earlier in this judgment. The actual effect of the
+presumptions is that an accused does not merely bear an evidential burden
+to adduce evidence in rebuttal of the presumptions. Once the essential
+ingredients of the offence are presumed, the accused is placed under a legal
+burden to rebut the presumptions on a balance of probabilities. In our view,
+it is a grave erosion to the presumption of innocence housed in art. 5(1) of
+the FC.
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Alma Nudo Atenza v. PP & Another Appeal
+
+833
+
+[147] But the most severe effect, tantamount to being harsh and oppressive,
+arising from the application of a “presumption upon a presumption” is that
+the presumed element of possession under sub-s. 37(d) is used to invoke the
+presumption of trafficking under sub-s. 37(da) without any consideration that
+the element of possession in sub-s. 37(da) requires a ‘found’ possession and
+not a ‘deemed’ possession. The phrase ‘any person who is found in
+possession of’ entails an affirmative finding of possession based on adduced
+evidence. (See: Mohammed bin Hassan (supra)).
+[148] Section 37A was legislated to facilitate the invocation of the two
+presumptions yet there was no amendment to sub-s. 37(da). As such and as
+discussed earlier on in this judgment, to invoke a presumption of trafficking
+founded not on proof of possession (which currently the subsection demands)
+but on presumed possession based on proof of mere custody and control,
+would constitute a grave departure from the general rule that the prosecution
+is required to prove the guilt of an accused beyond a reasonable doubt.
+[149] Further, the application of what may be termed the “double
+presumptions” under the two subsections gives rise to a real risk that an
+accused may be convicted of drug trafficking in circumstances where a
+significant reasonable doubt remains as to the main elements of the offence.
+In such circumstance, it cannot be said that the responsibility remains
+primarily on the prosecution to prove the guilt of the accused beyond a
+reasonable doubt.
+[150] Based on the factors above – the essential ingredients of the offence,
+the imposition of a legal burden, the standard of proof required in rebuttal,
+and the cumulative effect of the two presumptions – we consider that s. 37A
+constitutes a most substantial departure from the general rule, which cannot
+be justified and disproportionate to the legislative objective it serves. It is far
+from clear that the objective cannot be achieved through other means less
+damaging to the accused’s fundamental right under art. 5. In light of the
+seriousness of the offence and the punishment it entails, we find that the
+unacceptably severe incursion into the right of the accused under art. 5(1) is
+disproportionate to the aim of curbing crime, hence fails to satisfy the
+requirement of proportionality housed under art. 8(1).
+[151] Accordingly, we hold that s. 37A is unconstitutional for violating
+art. 5(1) read with art. 8(1) of the FC. The impugned section is hereby struck
+down.
+[152] Having struck down s. 37A of the DDA, the question now is to
+determine the position of the appellants. The learned trial judges in these two
+appeals invoked both the presumptions in finding the guilt of the appellants.
+Since there was no challenge to the use of a single presumption in these
+appeals, we are of the view that the invocation of sub-s. 37(d) by the learned
+trial judges did not cause any miscarriage of justice to the detriment of the
+appellants.
+
+
+
+834
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+[153] Hence, we hereby quash the convictions and sentences of both the
+appellants under s. 39B of the DDA. As we have no reasonable doubt on the
+guilt of the appellants for possession of the drugs based on the evidence
+adduced, we hereby substitute their respective convictions to one of
+possession under s. 12(1) and punishable under s. 39A(2) of the DDA.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+

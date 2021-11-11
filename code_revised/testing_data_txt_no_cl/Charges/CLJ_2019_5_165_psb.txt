@@ -1,0 +1,973 @@
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Dato’ Sri Mohd Najib Hj Abdul Razak v. PP
+
+165
+
+DATO’ SRI MOHD NAJIB HJ ABDUL RAZAK v. PP
+COURT OF APPEAL, PUTRAJAYA
+ZABARIAH MOHD YUSOF JCA
+RHODZARIAH BUJANG JCA
+LAU BEE LAN JCA
+[CRIMINAL APPEAL NO: W-05-2-01-2019]
+25 MARCH 2019
+CRIMINAL LAW: Charges – Criminal charges – Applicant, former Prime Minister
+of Malaysia, charged with seven criminal charges relating to offences under Penal
+Code, Malaysian Anti-Corruption Commission Act 2009 and Anti-Money
+Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act
+2001 – Appeal against decision of High Court in dismissing application for
+production of instrument for appointment of advocate and solicitor to conduct
+criminal prosecution against applicant – Whether appeal ought to be allowed
+CRIMINAL PROCEDURE: Prosecution – Conduct of criminal prosecution –
+Appeal against decision of High Court – High Court dismissed application for
+production of instrument for appointment of advocate and solicitor – Applicant,
+former Prime Minister of Malaysia, charged with seven criminal charges – Attorney
+General appointed advocate and solicitor to conduct criminal prosecution against
+applicant – Whether written consent or sanction of Public Prosecutor required –
+Whether applicant prejudiced by appointment of advocate and solicitor – Criminal
+Procedure Code, ss. 51, 129, 333, & 379 – Interpretation Acts 1948 and 1967, s. 55
+CRIMINAL PROCEDURE: Appeal – Appeal against decision of High Court –
+High Court dismissed application for production of instrument for appointment of
+advocate and solicitor – Applicant, former Prime Minister of Malaysia, charged with
+seven criminal charges – Attorney General appointed advocate and solicitor to
+conduct criminal prosecution against applicant – Whether written consent or
+sanction of Public Prosecutor required – Whether application disclosed valid reasons
+or basis – Whether announcement of appointment of advocate and solicitor in media
+release satisfied Attorney General’s duty to applicant – Whether appeal ought to be
+allowed – Criminal Procedure Code, ss. 51, 129, 333, & 379 – Interpretation Acts
+1948 and 1967, s. 55
+EVIDENCE: Privilege – Solicitor-client privilege – Applicant, former Prime
+Minister of Malaysia, charged with seven criminal charges – Attorney General
+appointed advocate and solicitor to conduct criminal prosecution against applicant
+– High Court dismissed applicant’s application for production of instrument for
+appointment of advocate and solicitor – Whether sight of letter of appointment
+warranted – Whether there was solicitor-client privilege between Attorney General
+and advocate – Evidence Act 1950, s. 126
+
+
+
+166
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+The appellant, former Prime Minister of Malaysia, was charged with seven
+charges relating to offences committed under the Penal Code, the Malaysian
+Anti-Corruption Commission Act 2009 and the Anti-Money Laundering,
+Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001.
+Datuk Haji Sulaiman Abdullah (‘DHSA’), an advocate and solicitor, was
+appointed by the Public Prosecutor (‘PP’) to lead the prosecution against the
+appellant. At the High Court, the appellant sought for the respondent (‘the
+prosecution’) to produce a copy of the letter appointment of DHSA.
+Dismissing the application, the High Court Judge (‘HCJ’) held (i) the letter
+of appointment was not a pre-trial document covered by s. 51 of the Criminal
+Procedure Code (‘CPC’) which is only for documents mentioned in the
+charge; (ii) there is no legal requirement to produce the letter of appointment
+under the CPC and the appellant’s reliance on s. 55 of the Interpretation Acts
+1948 and 1967 (‘IA’) and s. 129 of the CPC were misplaced because these
+provisions are on the institution of legal proceedings and not on authorisation
+or permission to appoint a qualified person to conduct prosecution in the
+CPC, such as ss. 377 and 379; (iii) the appellant failed to specifically state
+the reasons for the alleged challenge to the appointment of DHSA and the
+court could not compel its production solely on the ground that the Attorney
+General (‘AG’) refused to produce it; (iv) the AG media release had specified
+not just the law under which the appointment was made but also the reasons
+for the same. Given that it came from the PP himself, in the person of the
+AG, there would not be a need to produce the same in court. The application
+also failed to show how the basis of appointment, as stated in the AG media
+release, was flawed; and (v) the letter of appointment has been classified as
+official secret by the issuance of a certificate under s. 16A of the Official
+Secrets Act 1972 (‘OSA’). Hence, the present appeal. The prosecution
+abandoned their objection on the production of the letter of appointment
+based on the last ground stated above and their objection on the said
+production was premised on s. 126 of the Evidence Act 1950 (‘EA’).
+Held (allowing appeal; setting aside order of High Court)
+Per Rhodzariah Bujang JCA delivering the judgment of the court:
+(1) Section 126 of the EA provides three instances when solicitor-client
+privilege arises, except where the provisos apply, and they are
+(i) communications made by the client to his advocate; (ii) contents of
+documents which the advocate has sighted; and (iii) advice given by the
+advocate to his client. The qualification is that the three instances must
+have occurred in the course of, or for the purpose of, the advocate’s
+appointment. (para 10)
+(2) Section 126 of the EA applied to the AG and DHSA because, in
+appointing the latter to conduct the prosecution against the appellant, the
+AG, in his capacity as the PP, was in no different or worst position that
+a litigant, be it in a criminal or civil case, who appoints an advocate or
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+Dato’ Sri Mohd Najib Hj Abdul Razak v. PP
+
+167
+
+solicitor to advice or represent him in court in the legal dispute
+involving him. However, in order to seek refuge under s. 126 of the EA,
+the prosecution must show that the letter of appointment comes under
+privileged communication which the AG failed to do. Based on the
+illustrations to s. 126 of the EA, it is clear that what is protected is
+information given by the client to his advocate or solicitor. (para 10)
+(3) Since a legal practitioner has been appointed to conduct the prosecution
+against the appellant, not a Deputy Public Prosecutor in the
+employment of the AG Chambers who is a public servant, the appellant
+had a legitimate interest or expectation to have sight of the letter
+appointing him to conduct the prosecution, for the criminal justice
+system in Malaysia is an adversarial one, and the duty of a prosecutor
+to act fairly is paramount. Therefore, it was the bounden duty of the AG
+to produce the letter of appointment when such a request has been made
+and not only when a specific challenge to that appointment has been
+mounted by the appellant, or an accused who is similarly circumstanced,
+for he has the right to know, from the start of the proceedings, that his
+prosecutor is the one who has been validly appointed under s. 379 of the
+CPC. (para 15)
+(4) By the clear provision of s. 55 of the IA, the letter of appointment came
+within the said section as it was prima facie evidence which is required,
+in the words of the section ‘… for any other purpose in connection with
+any legal proceedings …’. The scope of s. 55 of the IA is wider than,
+and is not merely confined to, the institution of a criminal proceeding.
+In other words, there is no difference between the need to produce a
+sanction to prosecute before the commencement of a trial and the
+production of a letter of appointment made under s. 379 of the CPC for
+the conduct of a criminal proceeding in court. This consideration is a
+sufficient answer to the point raised by the HCJ that a letter of
+appointment is not a pre-trial document required to be produced under
+s. 51A of the CPC. (para 15)
+(5) The announcement of the appointment of DHSA, during the AG media
+release, could not take away the legitimate interest of the appellant to
+have sight of the letter of appointment. The AG media release did not
+satisfy the AG’s duty as such a document addressed to the world at-large
+could not be equated with a formal letter of appointment. (para 18)
+Bahasa Malaysia Headnotes
+
+I
+
+Perayu, bekas Perdana Menteri Malaysia, dituduh dengan tujuh pertuduhan
+pelakuan kesalahan-kesalahan berkaitan Kanun Keseksaan, Akta
+Suruhanjaya Pencegahan Rasuah Malaysia 2009 dan Akta Pengubahan Wang
+Haram, Pencegahan Pembiayaan Keganasan dan Hasil Daripada Aktiviti
+
+
+
+168
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+Haram 2001. Datuk Haji Sulaiman Abdullah (‘DHSA’), seorang peguam bela
+dan peguam cara, dilantik oleh Pendakwa Raya (‘PR’) untuk mengetuai
+pendakwaan terhadap perayu. Di Mahkamah Tinggi, perayu memohon agar
+responden (‘pihak pendakwaan’) mengemukakan sesalinan surat pelantikan
+DHSA. Menolak permohonan tersebut, Hakim Mahkamah Tinggi (‘HMT’)
+memutuskan (i) surat pelantikan bukan dokumen pra-perbicaraan yang
+termasuk dalam rangkuman s. 51 Kanun Tatacara Jenayah (‘KTJ’) yang
+hanya untuk dokumen-dokumen yang dinyatakan dalam pertuduhan;
+(ii) tiada kehendak undang-undang agar mengemukakan surat pelantikan
+bawah KTJ dan sandaran perayu pada s. 55 Akta Tafsiran 1948 dan 1967
+(‘AT’) dan s. 128 KTJ tidak tepat kerana peruntukan-peruntukan ini adalah
+tentang pemulaan prosiding undang-undang dan bukan tentang kuasa atau
+kebenaran melantik orang yang berkelayakan untuk mengendalikan
+pendakwaan dalam KTJ, seperti ss. 377 dan 379; (iii) perayu gagal
+menyatakan, dengan khusus, alasan-alasan cabaran terhadap pelantikan
+DHSA dan mahkamah tidak boleh mendesak pengemukaannya hanya kerana
+Peguam Negara (‘AG’) enggan mengemukakannya; (iv) hebahan berita AG,
+dengan khusus, menyatakan bukan sahaja undang-undang yang bawahnya
+pelantikan dibuat tetapi juga alasan-alasannya. Oleh kerana ini dibuat oleh
+PP sendiri, iaitu AG, alasan-alasan tersebut tidak perlu dikemukakan di
+mahkamah. Permohonan gagal menunjukkan asas pelantikan, seperti yang
+dinyatakan dalam hebahan berita AG, cacat; dan (v) surat pelantikan
+diklasifikasikan sebagai rahsia rasmi melalui pengeluaran perakuan bawah
+s. 16A Akta Rahsia Rasmi 1972. Maka timbul rayuan ini. Pihak pendakwaan
+mengabaikan bantahan mereka terhadap pengeluaran surat pelantikan
+berdasarkan alasan terakhir yang dinyatakan di atas dan bantahan mereka
+terhadap pengeluaran tersebut kini berasaskan s. 126 Akta Keterangan 1950
+(‘AK’).
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+Diputuskan (membenarkan rayuan; mengetepikan perintah Mahkamah
+Tinggi)
+Oleh Rhodzariah Bujang HMR menyampaikan penghakiman mahkamah:
+(1) Seksyen 126 AK memperuntukkan tiga keadaan apabila keistimewaan
+peguam cara - anak guam timbul, kecuali yang mana-mana proviso
+terpakai, dan keadaan-keadaan ini adalah (i) komunikasi yang dibuat
+oleh anak guam kepada peguam belanya; (ii) kandungan dokumendokumen yang peguam bela telah lihat; dan (iii) nasihat yang diberi oleh
+peguam bela kepada anak guamnya. Kelayakan ini ialah ketiga-tiga keadaan
+ini mesti berlaku semasa, atau untuk tujuan, pelantikan peguam bela.
+(2) Seksyen 126 AK terpakai pada AG dan DHSA kerana, dalam melantik
+DHSA untuk mengendalikan pendakwaan terhadap perayu, AG, dalam
+kapasiti beliau sebagai PR, tidak berbeza kedudukannya berbanding
+seorang pelitigasi, sama ada dalam kes jenayah atau sivil, yang melantik
+peguam bela atau peguam cara untuk menasihati atau mewakilinya di
+mahkamah dalam pertikaian undang-undang melibatkan dirinya. Walau
+bagaimanapun, untuk berlindung bawah s. 126 AK, pihak pendakwaan
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Dato’ Sri Mohd Najib Hj Abdul Razak v. PP
+
+169
+
+mesti menunjukkan bahawa surat pelantikan adalah komunikasi
+istimewa dan ini gagal dilakukan oleh AG. Berdasarkan ilustrasiilustrasi s. 126 AK, jelas bahawa yang dilindungi ialah maklumat yang
+diberi oleh anak guam kepada peguam bela atau peguam caranya.
+(3) Oleh kerana seorang pengamal undang-undang dilantik untuk
+mengendalikan pendakwaan terhadap perayu, bukan Timbalan
+Pendakwa Raya yang berkhidmat di Jabatan Peguam Negara, iaitu
+seorang penjawat awam, perayu mempunyai kepentingan atau jangkaan
+sah untuk melihat surat pelantikan yang melantik pengamal undangundang tersebut untuk mengendalikan pendakwaan kerana sistem
+keadilan jenayah di Malaysia bersifat adversarial dan kewajipan paling
+utama pendakwa ialah untuk bertindak adil. Oleh itu, AG berkewajipan
+mengemukakan surat pelantikan apabila permohonan sedemikian dibuat
+dan bukan hanya apabila cabaran khusus terhadap pelantikan tersebut
+dibuat oleh perayu, atau tertuduh dalam keadaan sama, kerana beliau
+mempunyai hak untuk tahu, dari permulaan prosiding, bahawa
+pendakwanya ialah orang yang sah dilantik bawah s. 379 KTJ.
+(4) Berdasarkan peruntukan jelas s. 55 AT, surat pelantikan terangkum
+dalam seksyen tersebut kerana ini keterangan prima facie yang
+diperlukan, dalam perkataan-perkataan seksyen tersebut ‘… untuk apaapa tujuan lain berkaitan mana-mana prosiding undang-undang …’. Skop
+s. 55 AT lebih luas daripada, dan tidak terbatas pada, permulaan
+prosiding jenayah. Dalam erti kata lain, tiada beza antara keperluan
+mengemukakan kebenaran mendakwa sebelum pemulaan perbicaraan
+dan pengemukaan surat pelantikan yang dibuat bawah s. 379 KTJ untuk
+pengendalian prosiding jenayah di mahkamah. Pertimbangan ini cukup
+dalam menjawab hujahan yang dibangkitkan oleh HMT bahawa surat
+pelantikan bukan dokumen pra-perbicaraan yang perlu dikemukakan
+bawah s. 51A KTJ.
+(5) Pengumuman pelantikan DHSA, semasa hebahan berita AG, tidak
+boleh melucutkan kepentingan sah perayu untuk melihat surat
+pelantikan tersebut. Hebahan berita AG tidak memenuhi kewajipan
+kerana dokumen ini ditujukan pada dunia umumnya dan tidak boleh
+disamakan dengan surat pelantikan rasmi.
+Case(s) referred to:
+AK Koh Enterprise Sdn Bhd v. PP [2000] 1 LNS 200 HC (refd)
+Dato’ Seri Anwar Ibrahim v. PP [2014] 3 CLJ 441 CA (refd)
+Dato’ Seri Anwar Ibrahim v. PP & Another Appeal [2015] 2 CLJ 145 FC (refd)
+Food Corporation of India v. Kamdhenu Cattle Feed Industries AIR 1993 SC 1601 (refd)
+PP v. Dato’ Seri Anwar Ibrahim (No 3) [1999] 2 CLJ 215 HC (refd)
+PP v. Dato’ Seri Anwar Ibrahim [2014] 4 CLJ 162 CA (refd)
+PP v. Dato' Seri Anwar Ibrahim [2014] 1 CLJ 354 CA (refd)
+PP v. Lew Koy [2002] 1 CLJ 86 HC (refd)
+Rex v. Chhoa Mui Sai [1937] 1 LNS 68 HC (refd)
+
+
+
+170
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+Legislation referred to:
+Criminal Procedure Code, ss. 51, 51A, 129, 333, 377(b), 379
+Evidence Act 1950, s. 126
+Interpretation Acts 1948 and 1967, s. 55
+Official Secrets Act 1972, s. 16A
+
+A
+
+Other source(s) referred to:
+Augustine Paul, Evidence Practice and Procedure, 4th edn, p 1055
+
+B
+
+For the appellant - Muhammad Shafee Abdullah, Harvinderjit Singh, Sarah Maalini
+Abishegam, Al-Firduas Shahrul Naing, Wan Aizuddin Wan Mohammed, Rahmat
+Hazlan, Muhammad Farhan Muhammad Shafee, Nur Syahirah Hanapiah & Zahria
+Eleena; M/s Shafee & Co
+For the respondent - Tommy Thomas, Manoj Kurup, Sulaiman Abdullah, Donald Joseph
+Franklin & Muhd Izzat Fauzan; DPPs
+
+C
+
+[Editor’s note: For the High Court judgment, please see Dato’ Sri Mohd Najib Hj Abdul
+Razak v. PP [2019] 5 CLJ 217 (overruled).]
+
+Reported by Najib Tamby
+
+D
+
+JUDGMENT
+Rhodzariah Bujang JCA:
+[1]
+Datuk Hj Sulaiman Abdullah (“Datuk Hj Sulaiman”), an advocate and
+solicitor of the High Court of Malaya was appointed by the Public Prosecutor
+to lead the prosecution of the appellant in respect of seven charges preferred
+against him under three different legislations, to wit, the Penal Code, the
+Malaysian Anti-Corruption Commission Act 2009 and the Anti-Money
+Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities
+Act 2001. A joint trial of all seven charges have been ordered by the High
+Court and dates for the hearing had been fixed from 12 February 2019 to 29
+March 2019. However, the trial has been stayed by this court on application
+by the appellant pending the disposal of the appeals in respect of four
+interlocutory decisions made by the learned High Court Judge, one of which
+is His Lordship’s dismissal of the appellant’s notice of motion that the Public
+Prosecutor produced to him a copy of Datuk Hj Sulaiman’s letter of
+appointment or fiat. This judgment is in respect of the appeal against the
+decision on the dismissal of the aforesaid notice of motion.
+
+E
+
+F
+
+G
+
+The Application
+[2]
+Prayer 1 of the notice of motion is worded wider than what we have
+just mentioned above and which the learned High Court Judge had helpfully
+translated in English in His Lordship’s judgment although His Lordship had
+omitted to include the time frame stated in the said prayer, which is three
+days from the date of the order. The said prayer (1) but with the time frame
+is reproduced below, together with prayers (2) and (3):
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+
+Dato’ Sri Mohd Najib Hj Abdul Razak v. PP
+
+A
+
+(a) Prayer 1
+
+B
+
+The Applicant seeks an order from this Honourable Court to compel the
+Respondent to produce Datuk Haji Sulaiman bin Abdullah’s letter of
+appointment and copies of any other authorisation in writing executed by
+the Respondent in relation to his appointment as a Deputy Public
+Prosecutor within 3 days from the date of the order;
+
+171
+
+(b) Prayer 2
+The Applicant be provided with copies of the letter of appointment and
+documents produced by the Respondent pursuant to Prayer 1; and
+C
+
+(c) Prayer 3
+The Applicant seek any further and/or other order, relief or direction
+which this Honourable Court may deem fit and proper in the
+circumstances.
+
+D
+
+E
+
+F
+
+G
+
+H
+
+[3]
+However, at the hearing of the appeal before us, the argument was
+centered on the production of only that letter of appointment and no other
+related documents pertaining to the same were identified for our
+consideration. Therefore, we would in this judgment concentrate on the
+production of that letter of appointment only.
+[4]
+It is not disputed that Datuk Hj Sulaiman’s appointment was made
+pursuant to s. 379 of the Criminal Procedure Code and that despite a number
+of out of court requests to have sight of his letter of appointment made by
+the appellant’s counsel, the requests were turned down which then led to the
+filing of this formal application in court. The said section provides as
+follows:
+379. Employment of advocate
+With the permission in writing of the Public Prosecutor an advocate may
+be employed on behalf of the Government to conduct any criminal
+prosecution or inquiry, or to appear on any criminal appeal or point of law
+reserved on behalf of the Public Prosecutor. The advocate shall be paid
+out of the public funds such remuneration as may be sanctioned by the
+Minister of Finance and while conducting such prosecution or inquiry, or
+appearing on such criminal appeal or point of law reserved, shall be
+deemed to be a “public servant”.
+
+[5]
+Before proceeding with the points canvassed in the appeal, it would be
+best if we first summarised the grounds for the rejection of the said
+application by the learned High Court Judge.
+The High Court Judgment
+
+I
+
+[6]
+His Lordship first need to grapple with the issue of whether the
+application was to challenge the validity of the appointment of Datuk Hj
+Sulaiman or if it was just for production of the said letter of appointment and
+His Lordship opined, based on the wordings in the notice of motion and from
+the affidavits filed in support of the same, that it was only for production of
+
+
+
+172
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+the said letter. We would have to agree with His Lordship on this score from
+the clear and express words used in the notice of motion itself as reproduced
+above and we would further fortify our stand by the statement made by Mr
+Harvenderjit Singh, one of the appellant’s counsel, at the hearing before us
+that the defence would be happy if the said letter be produced for their
+inspection in our court. The said offer was of course not taken up by the
+learned Attorney-General (“AG”).
+
+A
+
+B
+
+[7]
+Coming back to His Lordship’s reasonings, we would summarise them
+as follows:
+(i) The letter of appointment is not a pre-trial document covered by s. 51
+of the Criminal Procedure Code which is only for documents mentioned
+in the charge against the appellant.
+(ii) There is no legal requirement to produce the letter of appointment under
+the Criminal Procedure Code and reliance on s. 55 of the Interpretation
+Acts 1948 and 1967 and s. 129 of the Criminal Procedure Code by the
+appellant are misplaced because these provisions are on the institution
+of legal proceedings and not on authorisation or permission to appoint
+a qualified person to conduct prosecution in the Criminal Procedure
+Code such as ss. 333 and 379 thereof. The earlier mentioned provisions
+read:
+
+C
+
+D
+
+E
+
+55. Evidence of signature on fiat, etc.
+Any written law providing that the fiat, consent or authority of any
+person is necessary before any prosecution or other legal
+proceedings are begun, or for any other purpose in connection
+with any legal proceedings, shall be deemed also to provide that
+any document purporting to be or to bear the signed fiat, consent
+or authority of that person shall be received as prima facie evidence
+in any proceedings without proof being given that the signature is
+what it purports to be. (emphasis added)
+129. Sanction required for prosecution for certain offences
+
+F
+
+G
+
+(1) Except in the case of complaints laid by the Public Prosecutor
+no Court shall take cognisance:
+(a) of any offence punishable under sections 172 to 188 of the
+Penal Code except with the previous sanction of the Public
+Prosecutor or on the complaint of the public servant concerned
+or of some public servant to whom he is subordinate;
+(b) of any offence punishable under section 193, 194, 195, 196, 199,
+200, 205, 206, 207, 208, 209, 210, 211 or 228 of the Penal Code
+except with the previous sanction of the Public Prosecutor or
+when the offence is committed in or in relation to any
+proceeding in any Court on the complaint of such Court.
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+Dato’ Sri Mohd Najib Hj Abdul Razak v. PP
+
+173
+
+(2) The provisions of subsection (1) with reference to the offences
+named in it apply also to the abetment of those offences and
+attempts to commit them.
+(3) The sanction referred to in this section shall be in writing and
+may be expressed in general terms and need not name the accused
+person, but it shall so far as practicable specify the Court or other
+place in which and the occasion on which the offence was
+committed.
+
+Drawing analogy from the authority of PP v. Lew Koy [2002] 1 CLJ 86; [2001]
+4 MLJ 655 on a written authority to prosecute from the Public Prosecutor
+under s. 377(b) of the Criminal Procedure Code, His Lordship held that the
+Public Prosecutor is only required to produce the letter of appointment if
+there had been a challenge to the appointment of Datuk Hj Sulaiman. His
+Lordship declined to follow the High Court decision in AK Koh Enterprise v.
+PP Sdn Bhd [2000] 1 LNS 200; [2000] 6 MLJ 184 which held that such an
+authorisation or sanction to prosecute must be tendered in court before trial
+begins in order to confer jurisdiction on the court.
+(iii) The appellant has failed to state specifically the reasons for the alleged
+challenge to the appointment of Datuk Hj Sulaiman and the court cannot
+compel its production solely on the ground that the Attorney-General
+had refused to produce it.
+(iv) The media release by the Public Prosecutor which was exhibited to the
+affidavit in support of the application affirmed on 23 November 2018
+had specified not just the law (s. 379 of Criminal Procedure Code) under
+which the appointment was made but also the reasons for it, which was
+the credentials of Datuk Hj Sulaiman as our nation’s leading barrister.
+Given that it came from the Public Prosecutor himself, in the person of
+the learned Attorney-General, there would not be a need to produce the
+same in court. The application had also failed to show how the basis of
+that appointment as stated in the media release was flawed.
+(v) The letter of appointment has been classified as official secret by the
+issuance of a certificate under s. 16A of the Official Secrets Act 1972.
+The Appeal
+
+H
+
+I
+
+[8]
+We need to state at the outset that the learned Attorney-General at the
+hearing of the appeal has informed us that the respondent is abandoning their
+objection on the production of the letter of appointment based on the last
+ground stated above and that their objection on the said production is
+premised on s. 126 of the Evidence Act 1950. The said section reads:
+
+
+
+174
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+Professional communications
+126(1) No advocate shall at any time be permitted, unless with his client’s
+express consent, to disclose any communication made to him in the
+course and for the purpose of his employment as such advocate by or on
+behalf of his client, or to state the contents or condition of any document
+with which he has become acquainted in the course and for the purpose
+of his professional employment, or to disclose any advice given by him
+to his client in the course and for the purpose of such employment:
+
+A
+
+B
+
+Provided that nothing in this section shall protect from disclosure:
+(a) Any such communication made in furtherance of any illegal
+purpose;
+
+C
+
+(b) Any fact observed by any advocate in the course of his employment
+as such showing that any crime or fraud has been committed since
+the commencement of his employment.
+(2) It is immaterial whether the attention of the advocate was or was
+not directed to the fact by or on behalf of his client.
+
+D
+
+Explanation - The obligation stated in this section continues after the
+employment has ceased.
+ILLUSTRATIONS
+(a) A, a client, says to B, an advocate: “I have committed forgery and
+I wish you to defend me.”
+
+E
+
+As the defence of a man known to be guilty is not a criminal purpose this
+communication is protected from disclosure.
+(b) A, a client says to B, an advocate: “I wish to obtain possession of
+property by the use of a forged deed on which I request you to sue.”
+
+F
+
+This communication being made in furtherance of a criminal purpose is
+not protected from disclosure.
+(c) A, being charged with embezzlement, retains B, an advocate, to
+defend him. In the course of the proceedings B observes that an
+entry has been made in A’s account book, charging A with the sum
+said to have been embezzled, which entry was not in the book at
+the commencement of his employment.
+This being a fact observed by B in the course of his employment, showing
+that a fraud has been committed since the commencement of the
+proceedings, it is not protected from disclosure.
+
+G
+
+H
+
+[9]
+In view of that stand adopted by the respondent, we would focus our
+attention on that ground of objection now.
+Legal Professional Privilege
+[10] That is the essence of this s. 126 which is also known as solicitor-client
+privilege. The section provides three instances when the privilege arises
+(except where the provisos apply) and, that is:
+
+I
+
+
+
+[2019] 5 CLJ
+A
+
+Dato’ Sri Mohd Najib Hj Abdul Razak v. PP
+
+175
+
+(i) Communication made by the client to his advocate;
+(ii) Contents of documents which the advocate has sighted; and
+(iii) Advice given by the advocate to his client.
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+[11] The qualification, of course is that the three instances must have
+occurred in the course of or for the purpose of the advocate’s appointment.
+On the facts in this appeal, we would be confining ourselves to the first
+instance only.
+[12] We accept, firstly that the said section applies to the learned AttorneyGeneral and Datuk Hj Sulaiman because in appointing the latter to conduct
+the prosecution against the appellant, the learned Attorney-General in his
+capacity as the Public Prosecutor is in no different or worst position than a
+litigant, be it in a criminal or civil case, who appoints an advocate or solicitor
+to advise him or represents him in court in the legal dispute involving him.
+However, in order to seek refuge under that section, the respondent must
+show that the letter of appointment comes under privilege communication
+which, with respect, the learned Attorney-General has failed to convince us
+that it is so. This is because, if one were to look at the Illustrations to the
+said section, which had been produced earlier, it is clear that what is
+protected (or not as expressly stated in the section) is information given by
+the client to his advocate or solicitor and this is exemplified in the judgment
+of Augustine Paul J in PP v. Dato’ Seri Anwar Ibrahim (No 3) [1999] 2 CLJ
+215; [1999] 2 MLJ 1 where His Lordship said as follows in respect of the
+said section:
+This rule is established for the protection of the client, not of the
+advocate, and is founded on the impossibility of conducting legal business
+without professional assistance, and on the necessities, in order to render
+that assistance effectual, of securing full and unreserved intercourse
+between the two (see Jones v. Great Central Railway Company [1910] AC 4;
+Lyell Kennedy (No 2) [1883] 9 App Cas 81; Wheeler v. Le Merchant [1881] 17
+Ch D 675). As Jessel MR said in Anderson v. Bank of British Columbia [1876]
+2 Ch D 644 at p. 649L
+… It is absolutely necessary that a man, in order to prosecute his
+rights or to defend himself from an improper claim, should have
+recourse to the assistance of professional lawyers, and it being so
+absolutely necessary, it is equally necessary, to use a vulgar phrase,
+that he should be able to make a clean breast of it to the gentleman
+and whom he consults with a view to the prosecution of his claim,
+or substantiating his defence against the claim of others; that he
+should be able to place unrestricted and unbounded confidence in
+the professional agent, and that the communications he so makes
+to him should be kept secret, unless with his consent (for it is his
+privilege, and not the privilege of the confidential agent), that he
+should be enabled properly to conduct his litigation. That is the
+meaning of the rule.
+…
+
+
+
+176
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+It is not every communication made by a client to an advocate that is privileged from
+disclosure. However, whatever a man says to his legal adviser about his private
+affairs with a view to obtaining professional advice is presumed to have been said
+in confidence and the object is to protect all such confidential communications (see
+Sarkar on Evidence (15th Ed), Vol II page 2034). The privilege also extends to acts
+of the client observed by the advocate (see Robson v. Kemp 5 Esp 52). As the privilege
+is that of the client, he may expressly waive it under section 126 or impliedly under
+section 128 of the Evidence Act 1950 by calling the advocate as his witness.
+(emphasis added)
+
+[13] Applying what is stated above to the facts of this case, we do not think
+that the scope of that section should be stretched to include the formal letter
+of appointment for it is not in the nature of such information as we said
+earlier given by the learned Attorney-General to Datuk Hj Sulaiman.
+Clearly, its production is not the mischief which the said section seeks to
+overcome. We would, in this regard, draw an analogy which was rightly
+made by the appellant’s counsel, between a letter of appointment or fiat and
+a warrant to act which the court can demand production of and that of a
+sanction to prosecute under s. 129 of the Criminal Procedure Code which
+must be produced at the commencement of the trial where such a sanction
+is required.
+[14] In Augustine Paul’s book, Evidence Practice and Procedure (4th edn) at
+p. 1055 under the heading “Limit of Communication“ an old case of Rex v.
+Chhoa Mui Sai [1937] 1 LNS 68; [1937] MLJ 236 was cited and which is
+relevant to this appeal where it was held that evidence of payment of $80 by
+the client to the solicitor is not ‘communication’ within the meaning of s. 126
+of the Evidence Ordinance. So there is in fact limits to what constitute
+‘communication’ in the said section as highlighted above and this further
+fortifies our view on its scope.
+[15] Further, it is our view that since a private legal practitioner has been
+appointed to conduct the prosecution against the appellant, not a Deputy
+Public Prosecutor in the employment of the Attorney-General’s Chambers
+who is a public servant, the appellant has a legitimate interest or expectation
+to have sight of the letter appointing him to conduct the prosecution for it
+must be remembered that our criminal justice system is an adversarial one
+and the duty of a prosecutor to act fairly is paramount. As stated by the
+Supreme Court of India in Food Corporation of India v. Kamdhenu Cattle Feed
+Industries AIR 1993 SC 1601:
+A public authority possesses powers only to use them for public good.
+This imposes the duty to act fairly and to adopt a procedure which is
+‘fairplay in action’. Due observance of this obligation as a part of good
+administration raises a reasonable or legitimate expectation in every
+citizen to be treated fairly in his interaction with the State and its
+instrumentalities, with this element forming a necessary component of the
+decision-making process in all State actions. To satisfy this requirement of non-
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2019] 5 CLJ
+
+Dato’ Sri Mohd Najib Hj Abdul Razak v. PP
+
+177
+
+A
+
+arbitrariness in a State action, it is necessary to consider and give due weight to the
+reasonable or legitimate expectations of the persons likely to be affected by the decision
+or else that unfairness in the exercise of the power may amount to an abuse or excess
+of power apart from affecting the bona fides of the decision in a given case. (emphasis
+added)
+
+B
+
+[16] Therefore, in our view it is the bounden duty of the learned AttorneyGeneral to produce the letter of appointment when such a request has been
+made and not only when a specific challenge to that appointment has been
+mounted by the appellant, or an accused who is similarly circumstanced, for
+he has the right to know from the start of the proceedings that his prosecutor
+is one who has been validly appointed under the said s. 379.
+
+C
+
+D
+
+E
+
+F
+
+G
+
+[17] Further, by the clear provision of s. 55 of the Evidence Act 1950
+which we had reproduced earlier, the letter of appointment comes within the
+said section as it is prima facie evidence which is required, in the words of
+the section, “… for any other purpose in connection with any legal
+proceedings …”. The scope of s. 55 is wider and is not merely confined to
+the institution of a criminal proceeding as submitted by the learned AttorneyGeneral, which submission was made in order to justify the production of
+a sanction before the trial commences under the said s. 129 of the Criminal
+Procedure Code. In other words, there is no difference between the need to
+produce a sanction to prosecute before the commencement of a trial and the
+production of a letter of appointment made under s. 379 of the Criminal
+Procedure Code for the conduct of a criminal proceeding in court. This
+consideration in our view is a sufficient answer to the point raised by the
+learned High Court Judge that letter of appointment is not a pre-trial
+document required to be produced under s. 51A of the Criminal Procedure
+Code.
+[18] As for the justification raised by the learned High Court Judge not to
+order the said production on account of the media release, granted that it was
+exhibited to the appellant’s own affidavit in support, but what it serves to
+prove is there was an announcement by the learned Attorney-General on
+Datuk Hj Sulaiman’s appointment but such an announcement cannot take
+away that legitimate interest of the appellant to have sight of the letter of
+appointment. That media release is also in our view, not a satisfaction of the
+Attorney-General’s duty as stated above for such a document addressed to
+the world at large cannot be equated with a formal letter of appointment.
+
+H
+
+I
+
+[19] Learned counsel for the appellant also submitted before us that the
+production of the letter of appointment should be allowed as there was case
+precedent in which the same was produced. That was the case involving
+Dato’ Seri Anwar bin Ibrahim with regards to the sodomy charge preferred
+against him where Tan Sri Muhammad Shafee bin Md Abdullah (“Tan Sri
+Shafee”) who is now the appellant’s lead counsel was similarly appointed by
+
+
+
+178
+
+Current Law Journal
+
+[2019] 5 CLJ
+
+the then Attorney-General as a Deputy Public Prosecutor to conduct the
+appeal in the Court of Appeal and subsequently in the further appeal to the
+Federal Court (see PP v. Dato’ Seri Anwar Ibrahim [2014] 4 CLJ 162 and Dato’
+Seri Anwar Ibrahim v. PP and Another Appeal [2015] 2 CLJ 145, respectively).
+We noted that there were two attempts made to disqualify Tan Sri Shafee’s
+appointment by way of a notice of motion filed in this court pending the
+hearing of the appeal against the acquittal of Dato’ Seri Anwar bin Ibrahim
+of the sodomy charge. The judgment of this court in respect of the first
+application is reported in PP v. Dato’ Seri Anwar Ibrahim [2014] 1 CLJ 354;
+[2014] 1 MLJ 633 and the second one is reported in Dato’ Seri Anwar Ibrahim
+v. PP [2014] 3 CLJ 441; [2014] 3 MLJ 882. We also noted that in the second
+application but not the first, the learned Attorney-General was acting for
+Dato’ Seri Anwar Ibrahim. In other words, their present roles now are in the
+reverse. Tan Sri Shafee submitted to us that his letter of appointment was
+produced and exhibited before this court. We have no doubt that it was so
+but without concrete evidence to say otherwise, we cannot rule out the
+probability that the production of the said letter of appointment was on
+account of the applications to disqualify him, and not out of a request made
+before the commencement of a trial as in this case. Therefore, in actual fact,
+there is no precedent for us to follow.
+[20] However, for the reasons given earlier, the appeal is allowed and the
+order of the learned High Court Judge set aside. In its place, we make an
+order in terms of prayer (1) of the notice of motion but only in respect of
+the letter of appointment, not the other documents sought for in it and in
+prayer (2).
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+

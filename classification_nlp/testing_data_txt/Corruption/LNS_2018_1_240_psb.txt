@@ -1,0 +1,1265 @@
+[2018] 1 LNS 240
+
+Legal Network Series
+
+IN THE HIGH COURT OF MALAYA AT IPOH
+PERAK DARUL RIDZUAN, MALAYSIA
+[CRIMINAL APPEAL NO: 42S-6-04/2016]
+BETWEEN
+PUBLIC PROSECUTOR
+AND
+ESWADI ABDUL RAHIM
+
+CRIMINAL PROCEDURE: Appeal - Appeal against conviction and
+sentence - Corruption charges - Delay in charging accused - Whether
+prejudice caused to accused - Whether delay affected testimony of
+witnesses
+EVIDENCE: Documentary evidence - Secondary evidence - Original copy
+of fax transmissions not produced - Reliance on thermal copies - Whether
+thermal copies were produced contemporaneously when actual documents
+were faxed at other end of line - Whether accuracy of thermal copies
+reached a high degree of reliability and accuracy - Whether contents of
+document were admissible - Evidence Act 1950, s. 65(1)
+CRIMINAL LAW: Corruption - Corruptly receiving gratification Demand made by accused that his father be made a director of company in
+return for his assistance in obtaining permits for company - Whether
+request of accused that his father be made as a director of company
+amounts to a form of gratification - Whether directorship in company falls
+within meaning of obtaining any ‘office’ or ‘dignity’ in paragraph (b) of
+definition of “gratification” in s. 2 of Anti-Corruption Act 1997 - Whether
+presumption of gratification applicable
+[Appeal on conviction and sentence dismissed.]
+1
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+Case(s) referred to:
+Davendar Singh Sher Singh v. PP [2012] 1 LNS 261 CA (refd)
+Gurbachan Singh v. Public Prosecutor [1966] 1 LNS 57 HC (refd)
+Ming Holdings (M) Sdn Bhd v. Syed Azahari Noh Shahabudin & Anor
+[2010] 6 CLJ 857 FC (refd)
+PP v. Chua Beng Seong & Another Case [2016] 5 CLJ 456 HC (refd)
+PP v. Kamaruzaman Sudin [2009] 1 LNS 396 HC (refd)
+PP v. Ku Yahya Ku Bahari & Anor [2000] 3 CLJ 162 HC (refd)
+PP v. Rahiman Selamat & Kes Yang Lain [2015] 3 CLJ 92 HC (refd)
+PP v. Yuvaraj [1968] 1 LNS 115 HC (refd)
+Sinarlim Sdn Bhd v. Medallion Builders Sdn Bhd [2012] 1 LNS 609 HC
+(refd)
+Thavanathan Balasubramaniam v. Public Prosecutor [1997] 3 CLJ 150 FC
+(refd)
+Legislation referred to:
+Anti-Corruption Act 1997, ss. 2, 10(a)(aa), 42(1), 44(1)(a)(ii)(iii)
+Evidence Act 1950, ss. 65(1)(c), 67(1)(c)
+
+JUDGMENT
+Introduction
+1.
+
+This appeal arises out of corruption charges against the appellant
+above named at the Ipoh Sessions Court. After a full trial, the learned
+Sessions Court judge (SCJ) held that the appellant had failed to raise
+2
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+a reasonable doubt in the prosecution case and convicted and
+sentenced him accordingly.
+2.
+
+At the Session’s court the appellant was charged as follows:
+Pertuduhan Pindaan Pertama:
+“Bahawa kamu pada 1.10.2002, bertempat di Syarikat Azamat Hati
+Sdn Bhd, di alamat No. 276, Jalan Bercham, Taman Medan Bercham,
+Ipoh, dalam Daerah Kinta, dalam Negeri Perak, secara rasuah
+meminta daripada Chin Ah Lek melalui Md Ali untuk diri kamu suatu
+suapan, iaitu memasukkan nama bapa kamu, Abdul Rahim bin Ismail
+(No KP : 460718-01-5525) sebagai Pengarah Syarikat Azamat Hati
+Sdn. Bhd, sebagai dorongan kepada kamu untuk melakukan satu
+perkara, iaitu membantu Chin Ah Lek mendapatkan permit bas bagi
+Syarikat Azamat Hati Sdn. Bhd. yang memohon permit bas dari
+Lembaga Perlesenan Kenderaan Perdagangan (LPKP), dan dengan
+itu, kamu telah melakukan satu kesalahan di bawah seksyen 10(a)(aa)
+Akta Pencegahan Rasuhan 1997 yang boleh dihukum di bawah
+seksyen 16 Akta yang sama”.
+Pertuduhan Kedua:
+“Bahawa kamu pada 17 Januari 2003, bertempat di Bank Bumiputra
+Commerce, Cawangan Sultan Idris Shah, Ipoh, di dalam Daerah
+Kinta, dalam Negeri Perak, telah secara rasuah menerima untuk diri
+kamu satu suapan, iaitu wang tunai RM6,000.00 yang telah
+dimasukkan ke dalam akaun Bank Bumiputra Commerce kamu,
+nombor akaun : 12150032037528, daripada Chin Ah Lek Pengarah
+Syarikat Azamat Hati Sdn Bhd, sebagai dorongan kepada kamu untuk
+melakukan satu perkara, iaitu membantu Chin Ah Lek mendapatkan
+permit bas dari Lembaga Perlesenan Kenderaan Perdagangan
+(LPKP), dan dengan itu kamu telah melakukan satu kesalahan di
+
+3
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+bawah seksyen 10(a)(aa) Akta Pencegahan Rasuah 1997 yang boleh
+dihukum di bawah seksyen 16 Akta yang sama”.
+3.
+
+The accused was sentenced with 2 years imprisonment for each
+charge. He was also ordered to pay a fine of RM10,000.00 in default
+6 months imprisonment for the first charge and RM30,000.00 which
+is 5 times the value of the gratification with regards to the second
+charge.
+
+4.
+
+The appellant, being aggrieved, have now appealed to this court
+against both conviction and sentence.
+
+5.
+
+The relevant sections of the Anti-Corruption Act 1997 (the Act)
+referred to in the course of this appeal are as follows:
+(A)
+
+Offence of accepting gratification, Section 10
+Any person who by himself, or by or in conjunction with any
+other person:
+(a)
+
+corruptly solicits or receives or agrees to receive for
+himself or for any other person; or
+
+(b)
+
+corruptly gives, promises or offers to any person whether
+for the benefit of that person or of another person,
+any gratification as an inducement to or a reward for, or
+otherwise on account of(aa) any person doing or forbearing to do anything in
+respect of any matter or transaction, actual or
+proposed or likely to take place; or
+(bb) any officer of a public body doing or forbearing to
+do anything in respect of any matter or
+transaction, actual or proposed or likely to take
+4
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+place, in which the public body is concerned, shall
+be guilty of an offence.
+(B)
+
+The word “gratification” is defined under section 2 of the Act
+to mean:
+(a)
+
+money, donation, gift, loan, fee, reward, valuable
+security, property or interest in property being property
+of any description whether movable or immovable, or
+any other similar advantage;
+
+(b)
+
+any office, dignity, employment, contract of employment
+or services, and any agreement to give employment or
+render services in any capacity;
+
+(c)
+
+any payment, release, discharge or liquidation of any
+loan, obligation or other liability, whether in whole or in
+part;
+
+(d)
+
+any valuable consideration of any kind, any discount,
+commission, rebate, bonus, deduction or percentage;
+
+(e)
+
+any forbearance to demand any money or money’s worth
+or valuable thing;
+
+(f)
+
+any other service or favour of any description, such as
+protection from any penalty or disability incurred or
+apprehended or from any action or proceedings of a
+disciplinary, civil or criminal nature, whether or not
+already instituted, and including the exercise or the
+forbearance from the exercise of any right or any official
+power or duty; and
+
+5
+
+
+
+[2018] 1 LNS 240
+
+(g)
+
+(C)
+
+Legal Network Series
+
+any offer, undertaking or promise, whether conditional
+or unconditional, of any gratification within the meaning
+of any of the preceding paragraphs (a) to (f);
+
+The following presumptions in the Act are applicable. The
+relevant ones are as follows:
+
+Section 42(1) of the Act.
+Where in any proceedings against any person for an offence
+under section 10, 11, 13, 14 or 15 it is proved that any
+gratification has been accepted or agreed to be accepted,
+obtained or attempted to be obtained, solicited, given or
+agreed to be given, promised, or offered, by or to the accused,
+the gratification shall be presumed to have been corruptly
+accepted or agreed to be accepted, obtained or attempted to be
+obtained, solicited, given or agreed to be given, promised or
+offered as an inducement or a reward for or on account of the
+matters set out in the particulars of the offence, unless the
+contrary is proved.
+Section 44 of the Act which states as follows:
+(1) Notwithstanding any written law or rule of law to the contrary,
+in any proceedings against any person for an offence under this Act:
+(a)
+
+no witness shall be regarded as an accomplice by reason only
+of such witness having(i)
+
+accepted, received, obtained, solicited, agreed to accept
+or receive, or attempted to obtain any gratification from
+any person;
+
+(ii)
+
+given, promised, offered or agreed to give any
+gratification; or
+6
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+(iii) been in any manner concerned in the commission of such
+offence or having knowledge of the commission of the
+offence;
+
+6.
+
+(b)
+
+no agent provocateur, whether he is an officer of the Agency
+or not, shall be presumed to be unworthy of credit by reason
+only of his having attempted to commit, or to abet, having
+abetted or having been engaged in a criminal conspiracy to
+commit, such offence if the main purpose of such attempt,
+abetment or engagement was to secure evidence against such
+person; and
+
+(c)
+
+any statement, whether oral or written, made to an agent
+provocateur by such person shall be admissible as evidence at
+his trial.
+
+(2)
+
+Notwithstanding any written law or rule of law to the contrary,
+a conviction for any offence under this Act solely on the
+uncorroborated evidence of any accomplice or agent
+provocateur shall not be illegal and no such conviction shall
+be set aside merely because the court which tried the case has
+failed to refer in the grounds of its judgement to the need to
+warn itself against the danger of convicting on such evidence.
+
+Before proceeding further this court is mindful that the trial court
+had the benefit of observing the demeanour of the witnesses of the
+case. Unless the trial court is plainly wrong in her finding, the
+Appellate Court should not reverse a finding of fact by the trial judge
+(See Ming Holdings (M) Sdn Bhd v. Tuan Syed Azahari Noh
+Shahabudin & Anor [2010] 6 CLJ 857; [2010] 4 MLJ 577). Perhaps
+the role of an Appellate Court is best summed up in Davendar Singh
+a/l Sher Singh v. PP [2012] 1 LNS 261; [2012] 3 AMR 489 where
+the Court of Appeal states as follows:
+
+7
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+“in respect of an appeal, which really turns upon a question of
+fact, an appellate court is generally very reluctant to disturb a
+finding of fact by any trial judge for the reason that as trier of
+fact the trial judge has visual-audio advantage, which we do
+not have. Nonetheless, it would be upon us to upset the findings
+made by the trial judge if such a finding is not supported by
+evidence or the decision is against the weight of the evidence
+or there is no proper judicial evaluation of the evidence or
+there is misdirection of law or the trial court has
+fundamentally misdirected itself.”
+Summary of prosecution’s case
+7.
+
+The central figure in this case is SP4 (Chin Ah Lek), a share holder
+in a company called Azamat Hati Sdn. Bhd. (the company). The
+company was an express bus company. SP4 managed the company
+with the help of his wife Voon Li Peng (SP9) who is a clerk in the
+company. SP14 (Md. Ali Shah Ayoob Hussain Shah) ran a lorry
+transport company one floor above SP4’s company. Sometime in
+early 2002, SP4 requested the assistance of SP14 to obtain permits
+for express buses (the permits) from the relevant authorities namely
+the Lembaga Pelesenan Kenderaan Perdagangan (LPKP) for the
+company. SP14 then suggested to SP4 be made a director of the
+company. This was to facilitate the obtaining of the permits. Pursuant
+to this, SP14 was made a director of the company on the 28.2.2002.
+
+8.
+
+SP14 then contacted one Salleh bin Ibrahim (Salleh) to help in the
+obtaining of the permits. Salleh however went missing and could not
+be traced despite receiving some money from SP14. In the course of
+seeking Salleh’s assistance the appellant’s name was mentioned by
+Salleh as a person who could assist in obtaining the permits. SP14
+went to the “Pejabat Menteri Pembangunan Usahawan” in Kuala
+Lumpur to meet the appellant. The appellant was the special officer
+8
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+to the Menteri Pembangunan Usahawan then. In other words he
+worked for the minister.
+9.
+
+At the meeting with the appellant, SP14 narrated the background as
+stated above and to seek the appellant’s help in obtaining the permits.
+The appellant intimated that he was willing to assist in obtaining the
+permits for the company. Before returning to Ipoh SP14 noted down
+the appellant’s phone number.
+
+10.
+
+On returning, SP14 discussed with SP4 regarding SP14’s meeting
+with the appellant. They decided to meet the appellant at a restaurant
+“kepala ikan” in Sentul to discuss further with the appellant on the
+obtaining of the permits. A meeting was held at the stated place. The
+appellant told SP4 that a new application for permits needed to be
+made through the appellant.
+
+11.
+
+Following the above meeting, SP4 received a fax from the appellant
+on 1.10.2002. The faxed document contained a sample letter to the
+Menteri Pembangunan Usahawan. It was marked P12. The fax
+originated from the fax machine of the Kementerian Pembangunan
+Usahawan (KPU) and had the fax number 03-2919017. It was sent to
+the office of the company.
+
+12.
+
+On the same day 1.10.2002, the appellant telephoned SP4 and SP14.
+The appellant informed them that one of the conditions for the
+obtaining of the permits was that the appellant’s father, namely
+Abdul Rahim bin Ismail be made a director of the company. The
+appellant stated that he would fax the identity card of his father to
+the company pursuant to this requirement.
+
+13.
+
+On the 1.10.2002, the appellant faxed the identity card of his father.
+The faxed document showed that it also originated from the fax
+machine of the Kementerian Pembangunan Usahawan. The fax
+number was also that of the previous faxed document. This document
+9
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+was marked P17. Subsequently SP4 met up with SP14. SP14
+explained to SP4 the reason why P17 was sent. Thereafter SP4 agreed
+to the appellant’s request that Abdul Rahim bin Ismail be made a
+director of the company.
+14.
+
+Sometime after that SP14 and the appellant himself together with
+others went to meet the company secretary Mirawati bt. Sulaiman
+(SP2) at her office and handed over the photostat copy of the identity
+card of Abdul Rahim bin Ismail to her. Abdul Rahim bin Ismail was
+appointed as the director of the company on 20.12.2002. This is
+reflected in the Borang 49 which was exhibited as P8.
+
+15.
+
+Subsequently on 15.1.2003, SP14 had prepared 2 “Borang
+Permohonan Bas Express” which were marked P13 and P81
+respectively and submitted them to LPKP on behalf of the company.
+The company requested for 60 permits in total for various bus routes
+along different parts of the country. One common factor in P13 and
+P81 was that they named the father of the appellant, Abdul Rahim
+bin Ismail, as the director of the company together with SP4 and
+SP14.
+
+16.
+
+On 15.1.2003 the Ketua Penolong Setiausaha LPKP, Zainal Kasim
+bin Darus (SP10) received the 2 forms (P13 and P81) together with
+a “memo” (P18) from the minister with the message “Saudara Zainal
+(LPKP), “Sila process untuk kelulusan” and bore the cop of “Azamat
+Hati Sdn. Bhd.”. Thereafter SP10 gave P13 and P81 to the clerk to
+be processed following what was stated in the memo P18.
+
+17.
+
+The appellant had faxed the minister’s memo (P18) to SP4 at Pejabat
+Syarikat Azamat Hati Sdn. Bhd on 15.1.2003.
+
+18.
+
+SP9 is the wife of SP4. She read the faxes received, that is. P12, P17
+and P18 to SP4 as SP4 could not read Malay. SP9 also wrote in pen
+the date 01-OCT-2002 on P12 and P17. Her explanation was that the
+10
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+date in the thermal copies were incorrect as the date in the fax
+machine was not correctly set at te time the faxes were received.
+19.
+
+On 17.1.2003, the appellant telephoned SP4 and asked for the sum
+of RM6,000.00 to be banked to the appellant’s account in Bank
+Bumiputra Commerce Bhd. as inducement to obtain the permits for
+Syarikat Azamat Hati Sdn. Bhd. The appellant had also given his
+bank account number No: 12150032037528 to SP4. On the same day,
+SP4 banked in the sum of RM6,000.00 to the appellant’s account at
+the Ipoh Branch through the cash deposit slip dated 17.1.2003 (P1).
+
+20.
+
+On the same day 17.1.2003 at about 4.30 pm, while SP4 was in his
+office, he received a phone call from the appellant. During the
+conversation, the appellant asked SP4 to provide a house, a car and
+a monthly salary RM20,000.00 for his father and father in law after
+receiving the approval from the LPKP. The appellant asserted that if
+the request was not complied with the permits would not be issued
+to Azamat Hati Sdn. Bhd. SP4 agreed with the appellant’s request.
+The appellant told SP4 that he would fax two letters that would
+contain a list of his request to SP4 and asked SP4 to sign and stamp
+the company’s stamp on the letters and fax them back to him. Next
+at about 4.50 pm, SP4 received 2 faxed letters from the appellant.
+SP4 then signed, stamped and faxed the letters back to the appellant
+after having discussed with SP14. The originals of the re-faxed
+letters duly signed and stamped were tendered as Exhibits P92 &
+P93.
+
+21.
+
+A few days later, SP14 was called to attend an interview at the LPKP
+office as a formality and thereafter on 28.1.2003 LPKP issued a
+notification to collect the offer letters approving 60 “Lesen
+Kenderaan Perdagangan” (P19) to Azamat Hati Sdn Bhd. The
+appellant himself had handed over the said notification latter to SP4
+and SP14 at the “restoran kepala ikan”, Kuala Lumpur. The appellant
+11
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+instructed them to go to the LPKP office to collect the award letters
+approving the “Lesen Kenderaan Perdagangan”.
+22.
+
+Meanwhile on the 30.1.2003 Zainal Kassim (SP10) had taken and
+kept the 60 award letters (P20-79) which were received from the
+Penolong Pegawai Tadbir LPKP, Azizah bt. Sahar (SP8) as was
+stated in the minute sheet of the file pertaining to Syarikat Azamat
+Hati Sdn Bhd. (P85).
+
+23.
+
+Following this SP14 went to the LPKP office and showed P19 to
+Zainal Kassim (SP10). To SP14’s surprise only 2 of the award letters
+were given to him namely P20 and P21. He was told by SP10 to
+obtain the rest of the letters (P22-P79) from the accused.
+
+24.
+
+Shortly thereafter the accused brought his father Abdul Rahim bin
+Ismail to meet SP10 in his office. The accused introduced his father
+as one of the director of the company. On that every day SP10 handed
+over the remaining 58 award letters (P22-79) to Abdul Rahim. This
+was stated in the minute sheet (P85) in the of Azamat Hati Sdn Bhd
+file.
+
+25.
+
+Subsequently SP14 met the accused in Putra Café in Kuala Lumpur
+for the remaining 58 award letters to be handed over to him. It was
+then that the accused introduced the new conditions as stated in P92
+and P93 that needed to be fulfilled before the remaining award letters
+could be given to SP14. The accused then requested an additional
+bungalow and car for other LPKP officers who he said helped in the
+obtaining the permits for the company.
+
+26.
+
+SP14 reiterated the new conditions to SP4 who refused them outright.
+On being informed of SP4’s decision the accused informed SP14 that
+the permits would be withdrawn.
+
+12
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+27.
+
+Following was followed with the remaining 58 letters of award (20P79) being sent to the company by Abdul Rahim by way of courier.
+
+28.
+
+Things did go according to plan as the LPKP refused to register the
+remaining 58 permits when SP14 went to the LPKP office. He was
+informed that the Minister had withdrawn the permits. SP14 then
+went to see the minister to inquire about the withdrawal of the
+permits. According to SP14 no explanation was given. The Minister
+however promised that 10 of the permits would be utilised but
+nothing came out of this. SP1’s further attempts to see the Minister
+also did not materialise.
+
+29.
+
+Siti Fatimah Nur bt Hussain (SP11) the Penolong Pengarah at the
+Jabatan Pendaftaran Negara Putrajaya evinced that Abdul Rahim bin
+Ismail is the father of the accused. Her evidence was not challenged.
+
+30.
+
+Haslina bt Abdul Malik (SP12) the Penolong Pengurus at Khidmat
+Pelanggan in CIMB Bank Kajang Branch confirmed that the account
+number 12150032037528 belonged to the accused. She also
+confirmed that the sum of RM6,000.00 was deposited into the
+account on 17.1.2003.
+
+31.
+
+Iskandar bin Yahya (SP15) who was the Pengurus Perkhidmatan
+Pembangunan at Bank Islam Batu Pahat branch confirmed that the
+account number 1032010024919 belonged to Abdul Rahim bin
+Ismail who is the father of the accused.
+
+32.
+
+Based on the evidence adduced in the prosecution case, the learned
+SCJ was correct in invoking the statutory presumption under s. 42 of
+the Act where it is presumed that the money was given and received
+corruptly and it was then for the appellant to rebut the said
+presumption on a balance of probabilities. See PP v. Ku Yahya Ku
+Bahari & Anor [2000] 3 CLJ 162, Thavanathan Balasubramaniam v.
+
+13
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+Public Prosecutor [1997] 3 CLJ 150 and PP v. Yuvaraj [1968] 1 LNS
+115; [1968] 1 MLJ 238.
+33.
+
+This court is also of the view that the SCJ was correct in finding that
+the prosecution had proven a prima facie case at the end of the
+prosecution’s case and called upon the appellant to enter his defence
+for both charges.
+
+The Defence
+34.
+
+The appellant gave evidence on oath and called two other witnesses.
+The appellant in his defence explained that the only reason he
+initially met up with SP4 and SP14 was to hear SP4 complaint against
+Ibrahim Salleh.
+
+35.
+
+The appellant denied having any knowledge in the procurement of
+bus permits as he was only the special officer to the minister. He
+states that he was offered a job by SP14 to be the director of the
+company. He declined the offer as he was working with the minister
+at that time. The appellant however suggested that his father take up
+the position as a director of the company. The appellant asserted that
+he never promised SP14 or SP4 anything.
+
+36.
+
+The appellant does not deny that RM6,000.00 was deposited into his
+own account. His explanation on this was that he was to fly to
+London on a work assignment. He owed the credit card company
+RM6,000.00. He did not have the money for expenses for the trip and
+therefore borrowed the money from the SP4. He promised to repay
+the money upon getting his claims. He gave them his father’s account
+number as well for their convenience. He stated that he tried to
+contact SP4 to repay the purported debt but could not get in touch
+with him. The repayment was only made in 2005 when he found out
+that he was being investigated by the authorities for corruption.
+
+14
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+37.
+
+The appellant went on to say that he was surprised that upon his
+return from London he was informed by SP10 that the application for
+the permits had been approved. His father was also taken aback on
+being made a director of the company when he did not sign any
+document to that effect. He denies meeting SP10 with his father to
+collect the letters of award for the permits.
+
+38.
+
+Finally, regarding the memo signed by the minister (P18, P82 and
+P83). The minister in his evidence stated that it was not unusual that
+documents with his signature appear on documents and
+correspondences. He cannot however remember the matter pertaining
+to the memo. He nevertheless does not deny the memo bears his
+signature. He stated that the fax machine in his office was only for
+his own use. The other fax machines could be used by anyone else.
+he denied any knowledge of the company Azamat Hati Sdn Bhd. The
+minister’s evidence must be read in the light of SP13’s evidence. He
+stated that the fax machine outside the minister’s office could be used
+by any of the three special officers (which would include the
+appellant) the “setiausaha sulit” and other workers there.
+
+39.
+
+From her grounds it is clear that the SCJ did take into account the
+defence put forward by the appellant during the trial. She also
+considered the various issues raised by the appellant.
+
+Issues in this Appeal
+40.
+
+Learned counsel for the appellant brought up several issues during
+submission which will be discussed here. These issues were:
+
+a)
+
+Delay in Charging the Appellant
+
+41.
+
+The offences were committed in the year 2002. The appellant was
+however only charged in 2008, six years later. The appellant
+contends that there was an inordinate delay in charging him. The
+15
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+delay had put him in a disadvantage as memory fades and important
+documents become unreadable or are destroyed. The appellant also
+submitted that no explanation by prosecution as to the reasons for
+the delay.
+42.
+
+This court is of the view that although there was the delay in charging
+the appellant, there was upon a consideration of all the
+circumstances, no prejudice caused to the appellant. While there is
+no limitation period in the preferring of criminal charges it behooves
+this court to scrutinize the notes of proceedings to see whether the
+delay had caused any injustice to the accused. In going through the
+notes of proceeding I cannot find any indication that the delay had in
+any way affected the testimony of the witnesses. The documentary
+evidence supported the oral testimonies of the prosecution witnesses
+in material particulars. There is no indication of any tempering of
+witnesses either. I therefore find no merit in the contention of the
+appellant on this issue.
+
+b) The element of “Membantu” or “assisting”in the charges.
+43.
+
+Counsel contended that the words “membantu Chin Ah Lek
+mendapatkan permit bas dari Lembaga Perlesenan Kenderaan
+Perdagangan (LPKP) ...” signified that the prosecution must prove
+that the appellant had in actual fact assisted Chin Ah Lek (SP4). It
+was counsel’s contention that the appellant had neither the authority
+nor power to “membantu” or assist SP4 to obtain the express permits.
+Counsel had quoted the case of PP v. Chua Beng Seong and Another
+Case [2016] 5 CLJ 456 to support his contention. Learned counsel
+contrasted this case with those where the word “kononnya” preceded
+the word “membantu”. In those cases, learned counsel argued that
+the prosecution need not proof the actual fact of “membantu”.
+
+44.
+
+It is this court’s view that merely because the charge reads that the
+appellant “membantu” or assisted does not mean the prosecution
+16
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+would have to prove that the appellant had actually assisted in getting
+the permits. Furthermore, it is this courts view that there is no
+requirement under Section 10(a)(aa) of the Act that the appellant
+himself must have the capability or capacity to assist SP4 to obtain
+the bus permits. It is enough that the appellant had held himself out
+or represented that he will assist Chin Ah Lek to obtain the permits.
+On the facts, this was adequately proven.
+45.
+
+I find support in this proposition in Gurbachan Singh v. Public
+Prosecutor [1966] 2 MLJ 125 where Yong J stated as follows:
+In the case of Charles Victor Carr (1956) 40 Cr App Rep 188;
+[1957] 1 WLR 165; [1956] 3 All ER 979, the Court of Criminal
+Appeal laid down the principle that on a charge of receiving
+bribe under the Prevention of Corruption Act, 1906, it was not
+necessary to prove that favour had been shown. “Prosecution
+have merely to prove that the accused person did receive a
+bribe as an inducement to show favour: they are not required
+to prove that he did actually show favour in consequence of
+having received the bribe.” This legal point had been correctly
+dealt with by the learned president in his ground of judgment
+and no valid reason had been shown for disturbing his
+conclusions. (Emphasis added)
+Similarly in the See also Md Zaki Fadzil bin Maon v. Pendakwa
+Raya [2010] MLJU2060 and PP v. You Kong Lai [1985] 1 MLJ
+298.
+
+46.
+
+In any event there is evidence that at the Mesyuarat Lembaga LPKP
+did approve the company’s application for the permits although this
+was later on withdrawn. This can be seen from the evidence of SP10.
+
+c)
+
+The admissibility of Exhibits P12, P13 and P14
+
+17
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+47.
+
+Counsel also contended that exhibits P12, P13 and P18 were
+inadmissible as they were secondary evidence and that there was no
+explanation why the original copies of the fax transmissions were not
+produced. The appellant out rightly denies sending these documents.
+Learned counsel during oral submission on 28.8.2017 stated that
+what was produced in court as exhibit was “a photostat copy of a fax
+copy” and not the original thermal copy.
+
+48.
+
+On perusal of the appeal record the first time P12 was mentioned was
+page 26 of the Rekod Rayuan (RR).
+“Ada terima apa-apa fax dari Eswadi?
+Pernah.
+Boleh cam surat itu?
+Boleh.
+Satu surat dirujuk - Ini suratnya?
+Ya.”
+
+49.
+
+The record states “TPR kemukakan surat fax bertarikh 12.9.2000
+untuk ditandakan ID12”.
+
+50.
+
+As for P17 the first time it was mentioned was at page 39 of RR. The
+record states “Salinan Kad Pengenalan Abdul Rahim bin Ismail
+ditandakan ID17”. 3 lines down the record shows to the question
+“Rujuk ID17 ada terima fax ini? PW4 answered “Bulan Oktober
+2002.”
+
+51.
+
+Further regarding P18, the firs time it was mentioned was at page 40
+RR where it was introduced there in the following manner:
+Selepas masukkan nama bapa OKT, apa berlaku?
+18
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+Lepas itu dia faxkan memo menteri-menteri.
+Siapa fax?
+Eswadi.
+Boleh cam memo Menteri itu?
+Boleh.
+Satu salinan memo dirujuk - adakah ini memonya?
+Ya.
+Memo Dato’ Seri Mohamed Nazri 15.1.2003 ditandakan ID18.
+Siapa bacakan memo ini pada kamu?
+Isteri saya dan Mat Ali.
+Bila kamu terima fax ini?
+Januari 2003.”
+52.
+
+From the RR the exhibits ID12, ID17 and ID18 were made P12, P17
+and P18 through SP9 (Voon Li Peng) who is the wife of SP4. The
+relevant page of RR is at pages 79 and 80 of the RR.
+“Ketiga-tiga fax ini kamu telah bacakan pada suami?
+Ya.
+TPR pohon ID12, 17 dan 18 dijadikan P.
+P/B : Ini adalah fax, ID18 maker perlu dipanggil mengenai ID17
+authenticity?
+Mah : Dokumen-dokumen ini diterima oleh saksi. Oleh sebab itu
+boleh dijadikan exibit but not prove to the content.
+19
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+ID12 - P12
+ID17 - P17
+ID18 - P18”
+53.
+
+It is observed that nothing in the notes of proceedings is it mentioned
+the P12, P13 and P14 were photocopies of the fax transmissions as
+contended by the learned counsel for the defence. To satisfy myself
+as to the nature of those exhibits when they were tendered in court
+during the trial I had to physically examine these exhibits.
+
+54.
+
+On examination of the documents this court found that:
+(a)
+
+Exhibit P12 it is a photocopy of a fax. At the top left corner is
+hand written the date 01-OCT-2002 and 9.10am. It also bore
+the abbreviation of KPU (Kementerian Pembangunan
+Usahawan) It is a letter To “Mr Ah Lek” from Eswardi
+Abd.Rahim.
+
+(b)
+
+Exhibit P17 is the original thermal copy of the fax. It contains
+the image, back and front, of the identity card of Abdul Rahim
+bin Ismail bearing number 460718-01-6525. It also contains
+the “Kad Pesara” of the said Abdul Rahim Bin Ismail. It also
+had the hand-written date 01-OCT-2002 at the top left corner.
+Exhibit P17 was attached to a photocopy of the original thermal
+copy.
+
+(c)
+
+Exhibit P18 is the original thermal copy of the fax. It contains
+an official signed memo from “Dato Seri Mohamed Nazri B
+Abdul Aziz, Menteri Pembangunan Usahawan” the
+handwritten note reads” Saudara Zainal LPKP Sila process
+untuk kelulusan” and has the name of the company “Azamat
+Hati Sdn Bhd” printed on it. It was also attached to a photocopy
+
+20
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+of the original thermal copy just as in Exhibit P17. The original
+of this document was tendered as Exhibit P82.
+55.
+
+The original thermal copies had faded to such an extent that the
+letterings on them are hardly discernible thus rendering such a
+document as good as destroyed. That is why the photocopies were
+together with the thermal copies in the first place.
+
+56.
+
+After having examined the exhibits themselves I am of the view that
+exhibits P12 is a photocopy of the original thermal copy whereas P17
+and P18 are that of the original thermal copies and are therefore
+secondary evidence. It is common knowledge that the thermal copies
+were produced contemporaneously when the actual documents were
+faxed at the other end of the line. The accuracy of thermal copies has
+reached a high degree of reliability and accuracy. In the case of
+Sinarlim Sdn Bhd v. Medallion Builders Sdn Bhd [2012] 1 LNS 609
+her ladyship Mary Lim Thiam Suan J succinctly stated:
+I also have no hesitation in concluding that the faxed copies
+are properly admitted in evidence. The originals of these
+documents marked as “IDs” are clearly with or in the
+possession or control of the Defendant. These faxed copies are
+actually secondary evidence under section 63 of the Evidence
+Act 1950 [Act 56]. Section 63 defines secondary evidence as
+including “copies made from the original by mechanical
+process which in themselves insure the accuracy of the copy”.
+It is without doubt that the faxed copies of the audit
+confirmations were made from the originals by the mechanical
+process of the facsimile machine. I have no reason to doubt
+that such process in itself insures the accuracy of the copy as
+seen in the documents received by the Court on a daily and
+routine basis, sent generally by lawyers. These copies sent or
+received through the facsimile machines have always been
+21
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+accurate copies of the originals - see Supreme Court decision
+in Lee Weng Kin v. Menteri Hal Ehwal Dalam Negeri
+Malaysia & Ors [1991] 1 CLJ 259 (Rep); [1991] 2 CLJ 1301;
+[1991] 2 MLJ 472. (Emphasis added)
+57.
+
+I am of the opinion that the circumstances of this case calls for the
+application of section 65(1)(c) of the Evidence Act 1950 which
+reads:
+65. Cases in which secondary evidence relating to documents
+may be given.
+(1)
+
+(2)
+
+58.
+
+Secondary evidence may be given of the existence,
+condition or contents of a document admissible in
+evidence in the following cases:
+(c)
+
+when the original has been destroyed or lost, or
+when the party offering evidence of its contents
+cannot for any other reason not arising from his
+own default or neglect produce it in reasonable
+time;.........................
+
+(a)
+
+In the cases referred to in paragraphs (1)(a), (c)
+and (d) any secondary evidence of the contents of
+the document is admissible.” (Emphasis added)
+
+I am supported on this point by the Singapore case Kalki Jewellery
+(Suing as a Firm) v. Mani Samikkannu [2000] 2 SLR 179 where
+Rajendran J. observed as follows which respect to their section
+67(1)(c) which is in pari materia with our section 65(1)(c):
+“32 I will now deal with the objections raised by counsel for
+the plaintiffs to the admissibility of the copies of the packing
+lists (DB.14, 15 and 17) on which KR allegedly acknowledged
+receipt of the three consignments.
+22
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+Mr Rengarajoo submitted that these three exhibits were not
+admissible because the original thermal copies of the faxes
+said to be received were not produced. This submission,
+however, did not take into account s. 67(1)(c)of the Evidence
+Act. It is common knowledge that thermal copies of faxes
+disintegrate and it is almost standard commercial practice to
+make photo-copies of such faxes for filing. In such a situation,
+s. 67(1)(c) could apply. The affidavit evidence-in-chief of
+Mani, however, did not contain any explanation as to why Mani
+had not produced the original fax that he received. Counsel for
+Mani, Mr Ramalingam Kasi, sought leave to adduce that
+evidence. I granted leave. Mani then testified that his fax
+machine used thermal paper which would fade in time and
+that it was his practice to photo-copy incoming faxes and keep
+only the photo-copies. In the light of that evidence I was
+satisfied that this was a proper case to allow secondary
+evidence of the contents of the fax to be introduced, I ruled
+that DB.14, 15 and 17 were admissible in evidence.”
+(Emphasis added)
+59.
+
+Based on the above authorities and section 65 of the Evidence Act
+1950 it is this court’s view that P12, P17 and P18 consists of
+secondary evidence in which the “contents of the document are
+admissible”.
+
+d)
+
+Whether the prosecution had proved “gratification”
+
+60.
+
+Learned counsel for the appellant also contended that the
+appointment of the appellant’s father did not amount to
+“gratification” as defined in the Act. I am of the view that the
+definition of “gratification” is wide enough to cover the demand
+made by the appellant that his father be made a director of the
+company in return for his assistance in obtaining the permits for the
+23
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+company. It is therefore this courts view that the request of the
+appellant that his father be made as a director of the company
+amounts to a form of gratification. In the circumstances of this case
+a directorship in the company would fall within the meaning of
+obtaining any “office” or “dignity” in paragraph (b) of the definition
+of “gratification” in section 2 of the Act.
+e)
+
+Was SP4 an accomplice?
+
+61.
+
+There is no doubt that the main witnesses for the prosecution were
+SP4 and SP14. Counsel contends that they were accomplices. This
+contention is based on the fact that SP4 had on occasion previous to
+this bribed a certain individual by the name of Salleh to obtain
+permits. Counsel had also attacked the credibility of SP4 in that he
+was willing to do anything to obtain the permits including changing
+the composition of the company to give an impression that it was a
+bumiputra thus obtaining certain benefits company when in actual
+fact he held the reins of the company. In this light counsel contends
+that SP4 in particular is unworthy of credit and also an accomplice.
+
+62.
+
+It is this court’s finding that SP4 was not an accomplice. SP4
+depended on SP14 and his wife SP9 in communicating with the
+accused. His role was only to agree in appointing the appellant’s
+father as a director. This too was after consulting SP14. It was the
+appellant who was sending SP4 the faxes on the details of his father
+and other requests.
+
+63.
+
+Further to this section 44(1)(a)(ii) and (iii) of the Act expressly states
+that “no witness shall be regarded as an accomplice by reason only
+of such witness having agreed to give any gratification or had been
+in any manner concerned in the commission of such offence or having
+knowledge of the commission of the offence”. The intent of the
+section was thus to place such accomplice evidence on the same
+footing as that of ordinary witnesses and therefore there is no
+24
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+necessity imposed upon the trial court to warn itself of the dangers
+of convicting on such uncorroborated evidence. See PP v. Rahiman
+Selamat & Kes Yang Lain [2015] 3 CLJ 92.
+64.
+
+Be that as it may, quite apart from the corroboration afforded by the
+faxed thermal copies P12, P17 and P18 from fax number 03-2919017
+which according to SP13 originated from the place of work of the
+appellant, there are also other corroborative evidence in support of
+SP4’s evidence in the form of (i) the testimonies of SP9,SP10 and
+SP14 (ii) the fact the appellant himself had gone to meet the company
+secretary (SP2) at her office to hand over the identity card of his
+father to be used to formalise the process of appointing his father as
+a director of the company (Exhibit P82) (iii) the approval of the
+application for the permits by the minister for whom the appellant
+work for as a special officer (iv) the appellant and his father had gone
+to LPKP to meet the assistant secretary to the Kementerian
+Pembangunan Usahawan dan Koperasi (SP10) to collect the letters
+of offer (v) the fact that P4 had received and resent by fax P92 and
+P93 with his signature and company stamp at the insistence of the
+accused.
+
+65.
+
+Viewing the evidence as a whole in its totality the learned trial judge
+was correct in ruling that PW4 and PW14 were truthful witnesses and
+that their sworn testimony in respect of the two counts was credible.
+SP4’s testimony was consistent throughout on the material facts. His
+testimony was also consistent with the testimonies of the other
+prosecution’s witnesses.
+
+f)
+
+The Section 42 Presumption
+
+66.
+
+The presumption of gratification being corruptly solicited as
+inducement under s. 42(1) derives from the basic fact which is the
+solicitation of the gratification. As for the first charge there is ample
+evidence the father of the accused had in fact been made the director
+25
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+of the company. This was pursuant to the condition imposed by the
+appellant for obtaining his assistance in in obtaining the permits.
+There was also evidence that among other things a house and cars
+the appellant had also asked for the sum of RM6,000 to be deposited
+into the appellant’s account (Exhibit P1A and B). This was done as
+can be seen the evidence of SP1 the CIMB bank officer. The
+gratification is therefore presumed to have been corruptly received.
+See PP v. Ku Yahya Ku Bahari & Anorsupra supra, Thavanathan
+Balasubramaniam v. Public Prosecutor supra and PP v. Yuvaraj
+[1968] 1 LNS 115; [1968] 1 MLJ 238 supra. The effect of such
+presumption has been clearly stated in the case of PP v.
+Kamaruzaman Bin Sudin [2009] 1 LNS 396 as follows:
+Sebaik sahaja anggapan di bawah s. 42(1) APR terpakai
+adalah menjadi beban seorang tertuduh bagi mematahkan
+anggapan bahawa suapan itu telah diterima secara rasuah.
+Bagi berbuat demikian, tanggung jawab pembelaan hendaklah
+memanggil saksi-saksi material.
+g)
+
+The resignation of the appellant’s father
+
+67.
+
+It was also argued by learned counsel that the appellant’s father,
+Abdul Rahim bin Ismail, ceased to be a director as on 10.01.2003.
+He was appointed on the 20.12.2002. The application for the permits
+was made on the 21.1.2003. Learned counsel contends that the father
+of the accused had already resigned by then. He contends that the
+gratification would have ceased to have effect by then.
+
+68.
+
+On this issue I would agree with the learned Deputy that for whatever
+reason the resignation took place the father of the appellant had been
+made a director based on the fact that the application for the permits
+would only be approved when his father was made director of the
+company. At the time of the submission for the application for the
+permits the appellant’s father was included as one of the directors of
+26
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+the company. As stated earlier SP10 stated that the appellant had
+represented to him that the father was a director at the time they
+collected the letter of offer from SP10. As such the resignation of the
+father as a director did not affect the fact that his appointment was
+still a form of gratification.
+69.
+
+After weighing all the evidence, I find that the appellant’s version of
+events goes against the weight of all the evidence presented. It cannot
+be a coincidence or an accident that the fax number from which P12,
+P17 and P18 were sent to SP4 from the very work place of the
+appellant. The same fax number was used for P92 and P93 as well.
+There was no reason for any other person to fax to SP4 the identity
+card and other information concerning the appellant’s father. It is
+also unbelievable also that the appellant was not able to trace SP4
+after 3 years to return the RM6000.00 but could bank in the money
+with ease into SP4’s account as soon as he realised that the
+authorities were investigating him.
+
+70.
+
+This court would therefore not disturb the findings of the SCJ
+especially when she had the advantage of seeing and hearing the
+witnesses during the trial and was in a better position to access their
+credibility.
+
+Conclusion
+71.
+
+In the upshot I agree with the learned SCJ that the appellant had
+failed to rebut the presumption under section 42 of the Act. The
+prosecution had therefore proven their case beyond reasonable doubt.
+I am also of the opinion that the sentence imposed by the learned SCJ
+is not manifestly excessive considering the nature of the offence
+where public interest is at the forefront. I therefore dismiss both the
+appeal against conviction and sentence.
+
+Dated: 21 FEBRUARY 2018
+27
+
+
+
+[2018] 1 LNS 240
+
+Legal Network Series
+
+(ANSELM CHARLES FERNANDIS)
+Judicial Commissioner
+High Court of Malaya
+Ipoh
+Date of Decision: 21 December 2017
+Counsel:
+For the appellant - Muhammad Shafee Abdullah & Wan Aizuddin Wan
+Mohammed; M/s Shafee & Co
+For the prosecution - Nurul Wahida Jalaluddin, Timbalan Pendakwa
+Raya; SPRM Negeri Perak
+
+28
+
+

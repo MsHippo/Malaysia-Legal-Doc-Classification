@@ -1,0 +1,1115 @@
+[2018] 8 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Lim Hui Jin v. CIMB Bank Bhd & Ors
+
+327
+
+LIM HUI JIN v. CIMB BANK BHD & ORS
+COURT OF APPEAL, PUTRAJAYA
+UMI KALTHUM ABDUL MAJID JCA
+ABDUL RAHMAN SEBLI JCA
+ZALEHA YUSOF JCA
+[CIVIL APPEAL NO: A-01(IM)(NCVC)-179-05-2017]
+31 JULY 2018
+CRIMINAL LAW: Money laundering – Offences – Allegation of – Freezing of
+property – Freezing and seizure order – Appellant’s bank account held/frozen and
+seized by respondents – Whether monies in appellant’s account subject matter of
+offence under s. 4(1) of Anti-Money Laundering, Anti-Terrorism Financing and
+Proceeds of Unlawful Activities Act 2001 (‘AMLATEPUA’) – Application for release
+of all monies held/frozen and seized by respondents – Whether s. 52A
+AMLATEPUA applied retrospectively – Whether seizure order subjected to
+12 month limitation period prescribed – Appellant not charged with offence under
+AMLATEPUA on expiration of orders – Respondents continued to freeze appellant’s
+account although freezing and seizure orders had long ceased to have effect –
+Whether appellant’s account should be released on expiration of freezing and seizure
+orders – Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of
+Unlawful Activities Act 2001, ss. 44(5), 50(1), 55(1) & 56
+The appellant, by originating summons, prayed for, inter alia, the release of
+all monies together with all accrued interest in his CIMB bank account
+(‘the appellant’s account’) held/frozen and seized by the respondents.
+Pursuant to a freezing order issued by the police under s. 44(1) of the
+Anti-Money Laundering and Anti-Terrorism Financing Act 2001
+(‘the AMLATFA’), the appellant’s account was frozen with effect from
+24 June 2014. Paragraph 3 of the freezing order expressly states that the
+order was valid for 90 days, which means it would cease to have effect on
+21 September 2014 if the appellant was not charged with an offence under
+the AMLATFA or a terrorism financing offence, as the case may be. The
+90- day period is prescribed by s. 44(5) of the AMLATFA. The AMLATFA
+is now known as the Anti-Money Laundering, Anti-Terrorism Financing and
+Proceeds of Unlawful Activities Act 2001 (‘the AMLATEPUA’) vide s. 3 of
+the Anti-Money Laundering and Anti-Terrorism Financing (Amendment)
+Act 2014 with effect from 1 September 2014. On 11 September 2014, ten
+days before the freezing order issued under s. 44(1) of the AMLATFA
+expired on 21 September 2014, a seizure order was issued by the Public
+Prosecutor on the appellant’s account pursuant to s. 50(1) of the
+AMLATEPUA on the basis that the monies in the appellant’s account was
+the subject matter of an offence under s. 4(1) of the AMLATEPUA allegedly
+committed by his mother. Thus, by virtue of s. 52A of the AMLATEPUA,
+the seizure order issued on the appellant’s account on 11 September 2014
+expired on the following dates: on 23 June 2015 ie, 12 months after the
+
+
+
+328
+
+Current Law Journal
+
+[2018] 8 CLJ
+
+issuance of the freezing order on 24 June 2014 and on 10 September 2015
+ie, 12 months after the issuance of the seizure order on 11 September 2014.
+When the present originating summons was filed on 5 May 2016, the
+respondents continued to freeze the appellant’s account although the freezing
+and seizure orders had long ceased to have effect by reason of the fact that
+the appellant had not been charged with an offence under the AMLATEPUA
+on expiration of these two orders. The respondents contended that s. 52A of
+the AMLATEPUA does not apply retrospectively, and that therefore the
+seizure order, which was issued pursuant to the freezing order dated 24 June
+2014 (issued under s. 44(1) of the AMLATFA) was not subject to the 12
+month limitation period prescribed by s. 52A.
+
+A
+
+B
+
+C
+
+Held (allowing appeal with costs)
+Per Abdul Rahman Sebli JCA delivering the judgment of the court:
+(1) The seizure order was effected on the appellant’s account on
+11 September 2014, well after the coming into force of s. 52A of the
+AMLATEPUA on 1 September 2014. The limitation period therefore
+expired on 23 June 2015 ie, 12 months after the issuance of the freezing
+order on 24 June 2014, or latest by 10 September 2015 ie, 12 months
+after the issuance of the seizure order on 11 September 2014. Whichever
+date was to be taken into consideration, the seizure order had ceased to
+have effect by the time the present originating summons was filed by the
+appellant. (para 15)
+(2) Section 50(1) of the AMLATEPUA must not be read in isolation. It
+must be read together with s. 52A. The Public Prosecutor’s power to
+vary or revoke the seizure order could only be exercised before the
+expiration of the order, and not after. Clearly, once the seizure order had
+expired by effluxion of time, there is nothing for the Public Prosecutor
+to revoke. To hold otherwise would be to violate art. 13(1) of the
+Federal Constitution, which provides that no person shall be deprived
+of property save in accordance with law. (paras 23 & 24)
+(3) Section 56 of the AMLATEPUA speaks of forfeiture of ‘any property
+seized under this Act’ where there is no prosecution or conviction for
+an offence under s. 4(1) or a terrorism financing offence. The appellant’s
+account fell under this class of properties. However, before the
+provision is activated, there must first be an application by the Public
+Prosecutor for forfeiture of the seized property and the application must
+be made within 12 months from the date of seizure, failing which
+sub-s. (3) mandates that the property must be returned to the person
+from whom it was seized. There was no such application by the Public
+Prosecutor in the present case. (para 33)
+(4) In a situation where the seized property is required to be released to the
+person from whom it was seized after the expiration of the freezing or
+seizure order as envisaged by s. 52A and upon expiration of the period
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2018] 8 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+Lim Hui Jin v. CIMB Bank Bhd & Ors
+
+329
+
+prescribed by s. 56(3), it stands to reason that the property could not be
+forfeited by way of a proceeding under s. 55(1), that is, by way of
+criminal prosecution against some other person for an offence under
+s. 4(1) or a terrorism financing offence. To allow the Public Prosecutor
+to do so would be to allow him to ignore and circumvent the limitation
+period prescribed by both ss. 52A and 56(3) of the AMLATEPUA. That
+would defeat the object behind the two provisions rather than to put
+their object into effect, which is for the release or return of the property
+to the person from whom the property is seized if there is no prosecution
+against that person for an offence under the AMLATEPUA after the
+expiration of the seizure order. (paras 37 & 38)
+(5) The appellant was not charged with an offence under s. 4(1) or a
+terrorism financing offence after the expiration of the freezing and
+seizure orders. It was his mother who was charged with that offence.
+Nor did the Public Prosecutor apply for forfeiture of the monies in the
+appellant’s account under s. 56(1). Thus, by virtue of s. 52A of the
+AMLATEPUA, the freezing and seizure orders ceased to have effect.
+The fact that the appellant’s account was the subject matter of a criminal
+proceeding against the appellant’s mother under s. 4(1)(a) of the
+AMLATEPUA was of no consequence as the freezing and seizure orders
+relate to the appellant’s account and not his mother’s account, and both
+orders had ceased to have effect. (paras 40 & 41)
+(6) Since there was no dispute that the freezing and seizure orders had
+ceased to have effect, the only issue before the court was whether the
+appellant’s account should be released on expiration of the freezing and
+seizure orders. Having regards to the provisions of ss. 44(5) and 52A of
+the AMLATEPUA, the answer to the question had to be in the
+affirmative. (para 42)
+Bahasa Malaysia Headnotes
+
+G
+
+H
+
+I
+
+Perayu, melalui saman pemula, menuntut untuk, antara lain, pelepasan
+segala wang bersama dengan semua faedah terakru dalam akaun bank CIMB
+(‘akaun perayu’) yang dipegang/dibeku dan dirampas responden-responden.
+Menurut perintah pembekuan yang dikeluarkan oleh pihak polis bawah
+s. 44(1) Akta Pencegahan Pengubahan Wang Haram dan Pencegahan
+Pembiayaan Keganasan 2001 (‘AMLATFA’), akaun perayu dibeku berkuat
+kuasa 24 Jun 2014. Perenggan 3 perintah pembekuan dengan jelas
+menyatakan perintah sah untuk 90 hari, bermakna ia akan menjadi tidak
+berkesan pada 21 September 2014 jika perayu tidak dituduh dengan
+kesalahan bawah AMLATFA atau kesalahan pembiayaan keganasan,
+mengikut keadaan. Tempoh 90 hari ditetapkan oleh s. 44(5) AMLATFA.
+AMLATFA sekarang dikenali sebagai Akta Pencegahan Pengubahan Wang
+Haram, Pencegahan Pembiayaan Keganasan dan Hasil daripada Aktiviti
+Haram 2001 (‘AMLATEPUA’) melalui s. 3 Akta Pencegahan Pengubahan
+Wang Haram dan Pencegahan Pembiayaan Keganasan (Pindaan) Akta 2014
+
+
+
+330
+
+Current Law Journal
+
+[2018] 8 CLJ
+
+berkuat kuasa 1 September 2014. Pada 11 September 2014, sepuluh hari
+sebelum perintah pembekuan dikeluarkan bawah s. 44(1) AMLATFA tamat
+tempoh pada 21 September 2014, satu perintah rampasan dikeluarkan oleh
+Pendakwa Raya terhadap akaun perayu menurut s. 50(1) AMLATEPUA atas
+dasar bahawa wang dalam akaun perayu adalah hal perkara satu kesalahan
+bawah s. 4(1) AMLATEPUA yang didakwa dilakukan oleh ibunya. Maka,
+menurut kuasa s. 52A AMLATEPUA, perintah rampasan yang dikeluarkan
+ke atas akaun perayu pada 11 September 2014 tamat tempohnya pada tarikhtarikh berikut: pada 23 Jun 2015 iaitu 12 bulan selepas pengeluaran perintah
+pembekuan pada 24 Jun 2014 dan pada 10 September 2015 iaitu 12 bulan
+selepas pengeluaran perintah rampasan pada 11 September 2014. Bila saman
+pemula difailkan pada 5 Mei 2016, responden masih membeku akaun perayu
+walaupun perintah pembekuan dan rampasan telah lama tidak mempunyai
+kesan kerana perayu tidak dikenakan tuduhan dengan kesalahan bawah
+AMLATEPUA pada tarikh penamatan kedua-dua perintah tersebut.
+Responden-responden menghujahkan bahawa s. 52A AMLATEPUA tidak
+diguna pakai secara retrospektif dan dengan itu perintah rampasan, yang
+dikeluarkan menurut perintah pembekuan bertarikh 24 Jun 2014
+(yang dikeluarkan bawah s. 44(1) AMLATFA) tidak tertakluk kepada
+tempoh had masa 12 bulan yang ditetapkan oleh s. 52A.
+Diputuskan (membenarkan rayuan dengan kos)
+Oleh Abdul Rahman Sebli HMR menyampaikan penghakiman
+mahkamah:
+(1) Perintah rampasan berkuat kuasa ke atas akaun perayu pada
+11 September 2014, selepas penguatkuasaan s. 52A AMLATEPUA
+pada 1 September 2014. Tempoh had masa dengan itu tamat tempohnya
+pada 23 Jun 2015, iaitu 12 bulan selepas pengeluaran perintah
+pembekuan pada 24 Jun 2014, atau paling lewat 10 September 2015
+iaitu 12 bulan selepas pengeluaran perintah rampasan pada
+11 September 2014. Mana-mana tarikh yang diambil kira, perintah
+rampasan tidak berkuat kuasa lagi apabila saman pemula ini difailkan
+oleh perayu.
+(2) Seksyen 50(1) AMLATEPUA tidak patut dibaca secara berasingan. Ia
+harus dibaca bersama-sama dengan s. 52A. Kuasa Pendakwa Raya untuk
+mengubahkan atau membatalkan perintah rampasan hanya boleh
+dilaksanakan sebelum tamat tempoh perintah, dan bukan selepas.
+Dengan jelasnya, sebaik sahaja perintah rampasan tamat tempoh melalui
+peluputan masa, tiada apa-apa untuk Pendakwa Raya membatalkan.
+Untuk memutuskan sebaliknya akan melanggar per. 13(1) Perlembagaan
+Persekutuan yang memperuntukkan bahawa tiada orang akan dilucutkan
+harta kecuali mengikut undang-undang.
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2018] 8 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Lim Hui Jin v. CIMB Bank Bhd & Ors
+
+331
+
+(3) Seksyen 56 AMLATEPUA menyatakan berkenaan pelucuthakan ‘any
+property seized under this Act’ di mana tiada pendakwaan atau sabitan
+untuk kesalahan bawah s. 4(1) atau kesalahan pembiayaan keganasan.
+Akaun perayu terangkum dalam golongan hartanah ini. Walau
+bagaimanapun, sebelum peruntukan diaktifkan, harus terdapat
+permohonan oleh Pendakwa Raya terlebih dahulu untuk pelucuthakan
+hartanah yang dirampas dan permohonan harus dibuat dalam tempoh 12
+bulan daripada tarikh rampasan, dan jika gagal berbuat demikian,
+sub-s. (3) memberi mandat hartanah harus dikembalikan kepada pihak
+dari mana ia dirampas. Tiada permohonan sebegitu oleh Pendakwa Raya
+dalam kes ini.
+(4) Dalam situasi di mana hartanah yang dirampas harus dilepaskan kepada
+pihak dari mana ia dirampas selepas tamat tempoh perintah pembekuan
+atau rampasan seperti yang dijangkakan oleh s. 52A dan apabila tamat
+tempoh had yang ditentukan s. 56(3), adalah jelas hartanah tidak boleh
+dilucuthakkan melalui prosiding bawah s. 55(1), iaitu, melalui
+pendakwaan jenayah terhadap pihak yang lain untuk kesalahan bawah
+s. 4(1) atau kesalahan pembiayaan keganasan. Untuk membenarkan
+Pendakwa Raya berbuat demikian adalah untuk membenarkannya
+mengabaikan dan memintas tempoh pengehadan yang ditentukan oleh
+kedua-dua ss. 52A dan 56(3) AMLATEPUA. Ini akan mematahkan
+objek kedua-dua peruntukan dan bukan menguatkuasakan objek, iaitu
+untuk pelepasan atau pengembalian hartanah kepada pihak dari mana ia
+dirampas jika tiada pendakwaan terhadap pihak itu untuk kesalahan
+bawah AMLATEPUA selepas tamat tempoh perintah rampasan.
+(5) Perayu tidak dituduh dengan kesalahan bawah s. 4(1) atau kesalahan
+pembiayaan keganasan selepas tamat tempoh perintah pembekuan dan
+rampasan. Yang dituduh dengan kesalahan itu adalah ibu perayu.
+Pendakwa Raya juga tidak memohon untuk pelucuthakan wang dalam
+akaun perayu bawah s. 56(1). Oleh itu, menurut kuasa s. 52A
+AMLATEPUA, perintah pembekuan dan rampasan tidak lagi berkuat
+kuasa. Fakta bahawa akaun perayu adalah hal perkara prosiding jenayah
+terhadap ibu perayu bawah s. 4(1)(a) AMLATEPUA tidak mempunyai
+apa-apa kesan kerana perintah pembekuan dan rampasan adalah
+berhubungan akaun perayu dan bukan akaun ibu perayu dan kedua-dua
+perintah tidak lagi berkuat kuasa.
+(6) Oleh kerana tiada pertikaian perintah pembekuan dan rampasan tidak
+lagi berkuat kuasa, hanya satu isu sahaja yang berbangkit di hadapan
+mahkamah iaitu sama ada akaun perayu harus dilepaskan apabila
+perintah pembekuan dan rampasan tamat tempoh. Dengan mengambil
+kira peruntukan ss. 44(5) dan 52A AMLATEPUA, jawapan kepada
+soalan itu adalah dijawab secara afirmatif.
+
+
+
+332
+
+Current Law Journal
+
+[2018] 8 CLJ
+
+Case(s) referred to:
+City Growth Sdn Bhd & Anor v. The Government of Malaysia [2005] 7 CLJ 422 HC
+(refd)
+Government of Malaysia v. Mohamed Amin Hassan [1985] 1 LNS 79 FC (refd)
+R v. Sloan [1990] 1 NZLR 474 (refd)
+Simplex Sdn Bhd lwn. Mohd Samsol Md Muzer & Satu Lagi [2014] 1 LNS 1278 HC
+(refd)
+Legislation referred to:
+Anti-Money Laundering and Anti-Terrorism Financing Act 2001 (since repealed),
+s. 44(1), (5)
+Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful
+Activities Act 2001, ss. 4(1)(a), 44(1), (5), 50(1), (3), 52A, 54(3), 55(1)(a), (b),
+(c), (d), (aa), (bb), 56(1), (3)
+Federal Constitution, art. 13(1)
+For the appellant - Rabinder Singh, Amir Faliq, Syahidah Ismail & Ng Jun Wei;
+M/s AmirFaliq & Syahidah
+For the 1st respondent - Jeyanthi Kannaperan & Marina Nasution; M/s Shearn Delamore
+& Co
+For the 2nd, 3rd & 4th respondents - Muzila Mohamed Arsad; SFC
+
+A
+
+B
+
+C
+
+D
+
+[Editor’s note: Appeal from High Court, Ipoh; Civil Suit No: AA-24NCVC-226-05-2016
+(overruled).]
+
+Reported by Suhainah Wahiduddin
+
+E
+
+JUDGMENT
+Abdul Rahman Sebli JCA:
+[1]
+In the court below, the appellant by originating summons prayed for
+the following orders against the respondents:
+(a) the release of all monies together with all accrued interest in his CIMB
+Bank Account No. 25164 (“the appellant’s account”) held/frozen and
+seized by the respondents;
+
+F
+
+G
+
+(b) costs and other reliefs.
+[2]
+At the conclusion of the hearing, the learned High Court Judge
+dismissed the appellant’s application on the ground that he failed to prove
+his case on the balance of probabilities, hence the present appeal before us.
+Having heard arguments by both sides, we reserved judgment to a date to be
+fixed. We have now reached a unanimous decision and this is our judgment.
+[3]
+First, the salient facts. Pursuant to a freezing order issued by the police
+under s. 44(1) of the Anti-Money Laundering and Anti-Terrorism Financing
+Act 2001 (“the AMLATFA”), the appellant’s account was frozen with effect
+from 24 June 2014. Paragraph 3 of the freezing order expressly states that
+
+H
+
+I
+
+
+
+[2018] 8 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+Lim Hui Jin v. CIMB Bank Bhd & Ors
+
+333
+
+the order was valid for 90 days, which means it would cease to have effect
+on 21 September 2014 if the appellant was not charged with an offence under
+the AMLATFA or a terrorism financing offence, as the case may be. The
+90-day period is prescribed by s. 44(5) of the AMLATFA.
+[4]
+The AMLATFA is now known as the Anti-Money Laundering,
+Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001
+(“the AMLATEPUA”) vide s. 3 of the Anti-Money Laundering and
+Anti-Terrorism Financing (Amendment) Act 2014 (Act A1467) with effect
+from 1 September 2014 (see P.U.(B)400/2014). Section 52A of the
+AMLATEPUA reads as follows:
+Expiry of seizure order
+52A. A seizure order made under this Act shall cease to have effect after
+the expiration of twelve months from the date of the seizure order, or
+where there is a prior freezing order, twelve months from the date of the
+freezing order, if the person against whom the order was made has not
+been charged with an offence under this Act.
+
+[5]
+This new provision is not found in the AMLATFA. On 11 September
+2014, that is ten days after the coming into force of the AMLATEPUA, and
+before the freezing order issued under s. 44(1) of the AMLATFA expired on
+21 September 2014, a seizure order was issued by the Public Prosecutor on
+the appellant’s account pursuant to s. 50(1) of the AMLATEPUA.
+[6]
+The basis for the seizure order was that the monies in the appellant’s
+account are the subject matter of an offence under s. 4(1) of the
+AMLATEPUA allegedly committed by his mother, one Tan Hoo Eng,
+following Sg Bernam Police Report No. 2950/14.
+[7]
+Tan Hoo Eng has since been charged with 21 counts of money
+laundering under s. 4(1)(a) of the AMLATEPUA. We were told that the
+criminal proceeding against Tan Hoo Eng is pending before the Sessions
+Court at Ipoh, Perak.
+
+G
+
+H
+
+I
+
+[8]
+There is no ambiguity in s. 52A of the AMLATEPUA. What it means
+is that a seizure order issued under s. 50(1) ceases to have effect in the
+following two situations:
+(a) if the person from whom the property was seized has not been charged
+with an offence under the AMLATEPUA on expiration of the seizure
+order, which is 12 months from the date of the seizure order; or
+(b) if the person from whom the property was seized has not been charged
+with an offence under the AMLATEPUA after the expiration of a prior
+freezing order, if any, which is 12 months after the issuance of the
+freezing order.
+
+
+
+334
+
+Current Law Journal
+
+[2018] 8 CLJ
+
+[9]
+In the present case, there was a prior freezing order issued on the
+appellant’s account before it was seized on 11 September 2014. Therefore,
+the seizure order ceased to have effect on 23 June 2015. The legislative intent
+behind s. 52A is clear, and that is for the release of the property to the person
+from whom it was seized if the person has not been charged with an offence
+under the AMLATEPUA on expiration of the freezing or seizure order,
+whichever is earlier.
+
+A
+
+B
+
+[10] Thus, by virtue of s. 52A of the AMLATEPUA, the seizure order
+issued on the appellant’s account on 11 September 2014 expired on the
+following dates:
+(i) on 23 June 2015, ie, 12 months after the issuance of the freezing order
+on 24 June 2014.
+
+C
+
+(ii) on 10 September 2015, ie, 12 months after the issuance of the seizure
+order on 11 September 2014.
+[11] When the present originating summons was filed on 5 May 2016, the
+respondents continued to freeze the appellant’s account although the freezing
+and seizure orders had long ceased to have effect by reason of the fact that
+the appellant had not been charged with an offence under the AMLATEPUA
+on expiration of these two orders.
+[12] We note that both s. 44(5) of the AMLATFA and s. 44(5) of the
+AMLATEPUA limit the lifespan of a freezing order issued under s. 44(1) to
+90 days only, unless the person against whom the freezing order was made
+has been charged with an offence under the AMLATFA or the
+AMLATEPUA or a terrorism financing offence before the order ceases to
+have effect. We reproduce below s. 44(5) for ease of reference:
+
+D
+
+E
+
+F
+
+(5) An order made under subsection (1) shall cease to have effect after
+ninety days from the date of the order, if the person against whom the
+order was made has not been charged with an offence under this Act or
+a terrorism financing offence, as the case may be.
+
+[13] On the face of it, there is a contradiction in terms between s. 44(5) and
+s. 52A of the AMLATEPUA. Whilst the former prescribes a lifespan of only
+90 days for a freezing order, the latter prescribes a longer lifespan of 12
+months from the date of a “prior freezing order” for the purposes of
+computing the lifespan of a seizure order.
+
+G
+
+H
+
+[14] Learned counsel for the respondents contended that s. 52A of the
+AMLATEPUA does not apply retrospectively and that therefore the seizure
+order, which was issued pursuant to the freezing order dated 24 June 2014
+(issued under s. 44(1) of the AMLATFA) is not subject to the 12-month
+limitation period prescribed by s. 52A.
+[15] With due respect, we find no substance to the argument. The seizure
+order was effected on the appellant’s account on 11 September 2014, well
+after the coming into force of s. 52A on 1 September 2014. The limitation
+
+I
+
+
+
+[2018] 8 CLJ
+A
+
+B
+
+Lim Hui Jin v. CIMB Bank Bhd & Ors
+
+335
+
+period therefore expired on 23 June 2015, ie, 12 months after the issuance
+of the freezing order on 24 June 2014, or latest by 10 September 2015, ie,
+12 months after the issuance of the seizure order on 11 September 2014.
+Whichever date is to be taken into consideration, the seizure order had
+ceased to have effect by the time the present originating summons was filed
+by the appellant.
+[16] Since the seizure order had expired by operation of s. 52A of the
+AMLATEPUA and the appellant has not been charged with an offence under
+the Act or a terrorism financing offence, the appellant’s account should have
+been released on expiration of the seizure order.
+
+C
+
+D
+
+[17] In fact, going by s. 44(5) of both the AMLATEPUA and the
+AMLATFA, the appellant’s account should have been released earlier, ie,
+on 21 September 2014 (90 days after the issuance of the freezing order on
+24 June 2014) and not on 10 September 2015 (12 months after the issuance
+of the seizure order on 11 September 2014 as prescribed by s. 52A).
+[18] The second, third and fourth respondents do not in fact dispute that
+the freezing and seizure orders had expired, but argued that the orders should
+remain in force, for the following reasons:
+
+E
+
+(a) the seizure order is valid until otherwise revoked or varied under
+s. 50(1) of the AMLATEPUA;
+(b) the appellant’s account is the subject matter of an offence committed by
+the appellant’s mother Tan Hoo Eng under s. 4(1)(a) of the
+AMLATEPUA;
+
+F
+
+G
+
+H
+
+(c) the freezing and seizure orders relate to a criminal investigation and as
+such could not be reviewed by the court in a civil proceeding:
+City Growth Sdn Bhd & Anor v. The Government of Malaysia [2005] 7 CLJ
+422; Simplex Sdn Bhd lwn. Mohd Samsol Md Muzer & Satu Lagi [2014]
+1 LNS 1278; [2015] 9 MLJ 78; R v. Sloan [1990] 1 NZLR 47.
+[19] As for the first respondent (CIMB Bank), its answer to the appellant’s
+claim was that it had been advised by the second and third respondents to
+hold on to the freezing and seizure orders as there is a criminal proceeding
+pending against the appellant’s mother under the AMLATEPUA and as such
+the two orders should continue to operate against the appellant’s account
+until after the disposal of the criminal proceeding.
+[20] Section 50(1) of the AMLATEPUA, which all four respondents relied
+on to justify the continued freezing of the appellant’s account, reads:
+50. Seizure of moveable property in financial institution
+
+I
+
+(1) Where the Public Prosecutor is satisfied on information given to him
+by an investigating officer that any movable property or any accretion to
+it which is:
+(a) the subject-matter or evidence relating to the commission of an
+offence under subsection 4(1) or a terrorism financing offence;
+
+
+
+Current Law Journal
+
+336
+
+[2018] 8 CLJ
+
+(b) terrorist property;
+
+A
+
+(c) the proceeds of an unlawful activity; or
+(d) the instrumentalities of an offence,
+is in the possession, custody or control of a financial institution, he may,
+notwithstanding any other written law, by order direct that such moveable
+property or any accretion to it in the financial institution be seized by the
+investigating officer or by order direct the financial institution not to part
+with, deal in or otherwise dispose of such movable property or any
+accretion to it, in whole or in part, until the order is varied or revoked.
+
+[21] CIMB Bank’s argument was that unless and until the seizure order is
+varied or revoked by the Public Prosecutor, it is in no position to release the
+appellant’s account or to allow him to operate it until further notice by the
+second and third respondents. The bank’s predicament is understandable
+given the threat of severe penal sanction by s. 50(3), which reads:
+(3) Any person who fails to comply with an order of the Public Prosecutor
+under subsection (1) commits an offence and shall on conviction, be liable
+to a fine not exceeding five times the amount which was parted with,
+dealt in or otherwise disposed of in contravention of the Public
+Prosecutor’s order or five million ringgit, whichever is the higher or to
+imprisonment for a term not exceeding seven years, or to both, and in the
+case of a continuing offence, shall in addition be liable to a fine not
+exceeding five thousand ringgit for each day or part thereof during which
+the offence continues to be committed.
+
+[22] In acceding to the respondents’ argument that it is lawful for the
+respondents to continue freezing the appellant’s account despite the
+expiration of the freezing and seizure orders, the learned judge reasoned as
+follows:
+[21] I hold further that although the period of twelve (12) months has
+lapsed and there is no prosecution preferred as yet against the plaintiff,
+his right to access the funds in the said frozen and seized account
+immediate and/or absolute, it is subject always to the order being varied
+and/or revoked as the case may be (see Section 50(1) of the AMLATFA,
+supra). However, such is not the case here. The court must be slow to
+interfere with the enforcement matter so as not to interfere in the relevant
+authorities’ investigation and subsequent prosecution of the wrongdoer.
+The power of investigation is the responsibility of the enforcement agency
+while the Attorney General, has the power to prosecute. The court must
+not be used as an instrument to derail and/or hamper these two
+institutions from carrying out their responsibilities in rooting out criminal
+wrongdoings.
+
+[23] With due respect to the learned judge, the reasoning is seriously
+flawed. Section 50(1) of the AMLATEPUA must not be read in isolation.
+It must be read together with s. 52A. Had the learned judge done so, she
+would have realised that the Public Prosecutor’s power to vary or revoke the
+seizure order could only be exercised before the expiration of the order, and
+not after.
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
+
+[2018] 8 CLJ
+A
+
+B
+
+C
+
+D
+
+Lim Hui Jin v. CIMB Bank Bhd & Ors
+
+337
+
+[24] Clearly, once the seizure order had expired by effluxion of time, there
+is nothing for the Public Prosecutor to vary or revoke. To hold otherwise
+would be to violate art. 13(1) of the Federal Constitution, which provides
+that no person shall be deprived of property save in accordance with law.
+[25] Courts are not allowed to usurp the function of the Legislature by
+reading words into the statute. This is familiar law. Suffice it if we cite the
+case of Government of Malaysia v. Mohamed Amin Hassan [1985] 1 LNS 79;
+[1986] 1 MLJ 224 where the Supreme Court made the following
+observations:
+In the matter of construction it is well to remember that in Magor & St
+Mellons Rural District Council v. Newport Corporation [1952] AC 189 191 the
+House of Lords has laid down clearly that in construing a statute the duty
+of the court is limited to interpreting the words used by the legislature and
+it has no power to fill in any gaps disclosed. To do so would be to usurp
+the function of the legislature. In that case Lord Simonds made this
+important observation:
+‘The duty of the court is to interpret the words that the legislature
+has used; those words may be ambiguous, but, even if they are,
+the power and duty of the court to travel outside them on a
+voyage of discovery are strictly limited.’
+
+E
+
+F
+
+G
+
+H
+
+I
+
+[26] We were referred to s. 54(3) of the AMLATEPUA by the respondents
+for the proposition that since the freezing and seizure orders relate to a
+criminal investigation, they cannot be reviewed by the court in a civil
+proceeding. Section 54(3) provides as follows:
+(3) For so long as a seizure of any property under this Act remains in
+force, no action, suit or other proceedings of a civil nature shall be
+instituted, or if it is pending immediately before such seizure, be
+maintained or continued in any court or before any other authority in
+respect of the property which has been so seized, and no attachment,
+execution or other similar process shall be commenced, or if any such
+process is pending immediately before such seizure, be maintained or
+continued, in respect of such property on account of any claim, judgment
+or decree, regardless whether such claim was made, or such judgment or
+decree was given, before or after such seizure was effected, except at the
+instance of the Federal Government or the Government of a State, or at
+the instance of the local authority or other statutory authority, or except
+with the prior consent in writing of the Public Prosecutor.
+
+[27] The provision clearly does not apply. The operative words are “for so
+long as a seizure of any property under this Act remains in force”. In the
+present case, the seizure order on the appellant’s account is no longer in force
+as it had expired, the first time on 23 June 2015 (12 months after the issuance
+of the freezing order on 24 June 2014) and the second time on 10 September
+2015 (12 months after the issuance of the seizure order itself on 11 September
+2014).
+
+
+
+Current Law Journal
+
+338
+
+[2018] 8 CLJ
+
+[28] As we indicated earlier, by virtue of s. 44(5) of both the AMLATFA
+and the AMLATEPUA, the freezing order (pursuant to which the seizure
+order was made on 11 September 2014) had in fact ceased to have effect on
+21 September 2014 (90 days after it was issued on 24 June 2014).
+[29] It is important to bear in mind that the proceeding in the High Court
+was not a proceeding to forfeit the monies in the appellant’s account. The
+sole purpose of the proceeding was to determine whether the appellant’s
+account should be released, given the fact that he has not been charged with
+an offence under the AMLATEPUA after the expiration of the freezing and
+seizure orders.
+[30] Under the AMLATEPUA, there are two situations where seized
+property ‘shall’ be forfeited. The first situation is where there is a prosecution
+for an offence under s. 4(1) or a terrorism financing offence. The second
+situation is where there is no such prosecution. The first situation is regulated
+by s. 55, which reads:
+
+A
+
+B
+
+C
+
+D
+
+55. Forfeiture of property upon prosecution for an offence
+(1) Subject to section 61, in any prosecution for an offence under
+subsection 4(1) or a terrorism financing offence, the court shall make an
+order for the forfeiture of any property which is proved to be –
+(a) the subject-matter or evidence relating to the commission of such
+offence;
+
+E
+
+(b) terrorist property;
+(c) the proceeds of an unlawful activity; or
+(d) the instrumentalities of an offence,
+
+F
+
+where –
+(aa) the offence is proved against the accused; or
+(bb) the offence is not proved against the accused but the court is
+satisfied that:
+
+G
+
+(i) the accused is not the true and lawful owner of such property;
+and
+(ii) no other person is entitled to the property as a purchaser in
+good faith for valuable consideration.
+(2) Where the offence is proved against the accused but the property
+referred to in subsection (1) has been disposed of, diminished in value or
+cannot be traced, the court shall order the accused to pay as a penalty a
+sum which is equivalent to, in the opinion of the court, the value of the
+property, and any such penalty shall be recoverable as a civil debt due to
+the Government of Malaysia and shall not be subject to any period of
+limitation prescribed by any written law.
+
+H
+
+I
+
+
+
+[2018] 8 CLJ
+A
+
+Lim Hui Jin v. CIMB Bank Bhd & Ors
+
+339
+
+(3) In determining whether the property is:
+(a) the subject-matter or evidence relating to the commission of an
+offence under subsection 4(1) or a terrorism financing offence;
+(b) terrorist property;
+(c) the proceeds of an unlawful activity; or
+
+B
+
+(d) the instrumentalities of an offence,
+the court shall apply the standard of proof required in civil proceedings.”
+
+C
+
+D
+
+[31] There is no mention of seized or frozen property in this section but
+it provides for mandatory forfeiture of ‘any property’ if it is proved to be
+property falling under paras. (a) to (d) of sub-s. (1). The prerequisite is that
+there must be a prosecution under s. 4(1) or a terrorism financing offence
+before the court could make a forfeiture order. Section 55(1) expressly
+provides that a forfeiture order can only be made if the court is satisfied that
+the requirements of paras. (aa) or (bb) are fulfilled.
+[32]
+
+The second situation is regulated by s. 56, which provides as follows:
+
+56. Forfeiture of property where there is no prosecution.
+
+E
+
+F
+
+(1) Subject to section 61, where in respect of any property seized under
+this Act there is no prosecution or conviction for an offence under
+subsection 4(1) or a terrorism financing offence, the Public Prosecutor
+may, before the expiration of twelve months from the date of the seizure,
+or where there is a freezing order, twelve months from the date of the
+freezing, apply to a judge of the High Court for an order of forfeiture of
+that property if he is satisfied that such property is:
+(a) the subject-matter or evidence relating to the commission of such
+offence;
+(b) terrorist property;
+(c) the proceeds of an unlawful activity; or
+
+G
+
+(d) the instrumentalities of an offence.
+(2) The judge to whom an application is made under subsection (1) shall
+make an order for the forfeiture of the property if he is satisfied –
+(a) that the property is:
+
+H
+
+(i) the subject-matter or evidence relating to the commission of an
+offence under subsection 4(1) or a terrorism financing offence;
+(ii) terrorist property;
+(iii) the proceeds of an unlawful activity; or
+
+I
+
+(iv) the instrumentalities of an offence; and
+(b) that there is no purchaser in good faith for valuable consideration
+in respect of the property.
+
+
+
+Current Law Journal
+
+340
+
+[2018] 8 CLJ
+
+(3) Any property that has been seized and in respect of which no
+application is made under subsection (1) shall, at the expiration of twelve
+months from the date of its seizure, be released to the person from whom
+it was seized.
+
+A
+
+(4) In determining whether the property is:
+(e) the subject-matter or evidence relating to the commission of an
+offence under subsection 4(1) or a terrorism financing offence;
+
+B
+
+(f) terrorist property;
+(g) the proceeds of an unlawful activity; or
+(h) the instrumentalities of an offence,
+
+C
+
+the court shall apply the standard of proof required in civil proceedings.”
+(emphasis added)
+
+[33] Section 56 speaks of forfeiture of “any property seized under this Act”
+where there is no prosecution or conviction for an offence under s. 4(1) or
+a terrorism financing offence. The appellant’s account falls under this class
+of properties. However, before the provision is activated, there must first be
+an application by the Public Prosecutor for forfeiture of the seized property
+and the application must be made within 12 months from the date of seizure
+order, failing which sub-s. (3) mandates that the property must be returned
+to the person from whom it was seized. There was no such application by
+the Public Prosecutor in the present case.
+[34] At first blush, there appears to be a conflict between s. 55(1) and
+ss. 52A and 56(3) of the AMLATEPUA. Whilst both s. 52A and s. 56(3)
+envisage the release of the seized property if no criminal prosecution is
+instituted within 12 months from the date of the freezing or seizure order,
+s. 55(1) on the other hand stipulates that where there is a prosecution for an
+offence under s. 4(1) or a terrorism financing offence, the seized property
+must be forfeited if the requirements are met, that is, if the property is proved
+to be:
+
+D
+
+E
+
+F
+
+G
+
+(a) the subject-matter or evidence relating to the commission of such
+offence;
+(b) terrorist property;
+(c) the proceeds of an unlawful activity;
+
+H
+
+(d) the instrumentalities of an offence,
+where:
+(aa) the offence is proved against the accused; or
+(bb) the offence is not proved against the accused but the court is
+satisfied that:
+(i) the accused is not the true and lawful owner of such property;
+and
+
+I
+
+
+
+[2018] 8 CLJ
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Lim Hui Jin v. CIMB Bank Bhd & Ors
+
+341
+
+(ii) no other person is entitled to the property as a purchaser in
+good faith for valuable consideration.
+
+[35] Having given the matter careful consideration, we do not think that the
+effect of s. 55(1) is to override ss. 52A and 56(3) of the AMLATEPUA. The
+three provisions cater to two different situations. Section 52A and s. 56(3)
+provide for the release or return of the seized property where there is no
+prosecution against the person from whom the property was seized, whereas
+s. 55(1) provides for forfeiture where there is a prosecution under s. 4(1) or
+a terrorism financing offence.
+[36] The prosecuted person under s. 55(1) must necessarily refer to the
+person from whom the property was seized pursuant to s. 50(1) of the
+AMLATEPUA, who in the present case is the appellant. But the fact is, the
+appellant has not been prosecuted for an offence under s. 4(1) or a terrorism
+financing offence.
+[37] In a situation where the seized property is required to be released to
+the person from whom it was seized after the expiration of the freezing or
+seizure order as envisaged by s. 52A and upon expiration of the period
+prescribed by s. 56(3), it stands to reason that the property cannot be forfeited
+by way of a proceeding under s. 55(1), that is, by way of a criminal
+prosecution against some other person for an offence under s. 4(1) or a
+terrorism financing offence.
+[38] To allow the Public Prosecutor to do so will be to allow him to ignore
+and circumvent the limitation period prescribed by both s. 52A and s. 56(3)
+of the AMLATEPUA. That will defeat the object behind the two provisions
+rather than to put their object into effect, which is for the release or return
+of the property to the person from whom the property is seized if there is
+no prosecution against that person for an offence under the AMLATEPUA
+after the expiration of the seizure order.
+[39] Such construction will also render s. 52A and s. 56(3) otiose, which
+could not have been the intention of the Legislature when enacting the two
+provisions. It is axiomatic that Parliament does not legislate in vain. In any
+event, it is trite principle that where there is a conflict between two or more
+provisions in a statute of this nature, the court must give a construction that
+is most favourable to the subject.
+[40] It bears repeating that in the present case, the appellant was not
+charged with an offence under s. 4(1) or a terrorism financing offence after
+the expiration of the freezing and seizure orders. It was his mother who was
+charged with that offence. Nor did the Public Prosecutor apply for forfeiture
+of the monies in the appellant’s account under s. 56(1). Thus, by virtue of
+s. 52A of the AMLATEPUA, the freezing and seizure orders have ceased to
+have effect. It must follow that the appellant’s account must be released on
+expiration of the orders.
+
+
+
+342
+
+Current Law Journal
+
+[2018] 8 CLJ
+
+[41] The fact that the appellant’s account is the subject matter of a criminal
+proceeding against the appellant’s mother under s. 4(1)(a) of the
+AMLATEPUA is of no consequence as the freezing and seizure orders relate
+to the appellant’s account and not his mother’s account, and both orders have
+ceased to have effect.
+
+A
+
+[42] Since there is no dispute that the freezing and seizure orders have
+ceased to have effect, the only issue before the court was whether the
+appellant’s account should be released on expiration of the freezing and
+seizure orders. Having regard to the provisions of s. 44(5) and s. 52A of the
+AMLATEPUA, the answer to the question has to be in the affirmative.
+
+B
+
+[43] For all the reasons aforesaid, we allow the appellant’s appeal with
+costs, to be borne by the second, third and fourth respondents and payable
+to the appellant. We set aside the order of the High Court dated 23 May 2017
+and we allow prayer (1) of the appellant’s originating summons. The deposit
+is to be refunded to the appellant.
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+
